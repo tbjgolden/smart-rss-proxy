@@ -1,0 +1,13 @@
+{
+  "name": "smart-rss-proxy",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "dumpster-dive": "^5.4.0",
+    "redis": "^3.0.2",
+    "wordlist-english": "^1.2.1",
+    "wtf_wikipedia": "^8.5.1",
+    "xml-stream": "^0.4.5"
+  }
+}
