@@ -42,5 +42,33 @@ A generated list of keywords and weights can then be used as part of a RSS proxy
 
 For this process to be reliable, it needs to use regularly updated data.
 
-- The calculations based on word count frequency should be determined from new Wikipedia backups every 90 days (latest: 2020-12-20).
+- The calculations based on word count frequency should be determined from new Wikipedia backups at least every 90 days (latest: 2020-12-20).
 - The articles used to calculate should be recalculated from all articles from within the last 180 days, every day.
+
+---
+
+## Status
+
+So far, a way has been developed to systematically attain an expected word frequency from Wikipedia.
+
+| Step |      Name       |    Time |
+| :--: | :-------------: | ------: |
+|  1   | mirror download | 10 mins |
+|  2   |     pbzip2      | <2 mins |
+|  3   |  dumpster-dive  |  1 hour |
+|  4   |   mongoexport   | 20 mins |
+|  5   | word frequency  | 16 mins |
+
+---
+
+The results from the latest analysis are included in this repo:
+
+- Top 1000 English language words by frequency in Wikipedia\*
+
+> \* accented characters use their non-accented counterparts,
+> a-z and hyphen considered valid, everything else (including apostrophes) considered word separators
+>
+> Only words that are found in [this dictionary](https://github.com/dwyl/english-words/blob/master/words_dictionary.json) are counted
+> (the dictionary includes proper nouns)
+
+[A description of this word frequency process is here.](https://tom.bio/blog/reading-every-word-on-wikipedia-using-node-js)

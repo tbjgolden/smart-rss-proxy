@@ -6,6 +6,7 @@
   "dependencies": {
     "dumpster-dive": "^5.4.0",
     "redis": "^3.0.2",
+    "rss-parser": "^3.10.0",
     "wordlist-english": "^1.2.1",
     "wtf_wikipedia": "^8.5.1",
     "xml-stream": "^0.4.5"
