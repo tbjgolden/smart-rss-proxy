@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" media="screen" href="/~d/styles/rss2full.xsl"?><?xml-stylesheet type="text/css" media="screen" href="http://feeds.foxnews.com/~d/styles/itemcontent.css"?><rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+                    <title>FOX News</title>
+    <link>http://www.foxnews.com/</link>
+    <description><![CDATA[FOXNews.com - Breaking news and video. Latest Current News: U.S., World, Entertainment, Health, Business, Technology, Politics, Sports.]]></description>
+        <image>
+    	<url>http://tools.foxnews.com/sites/tools.foxnews.com/files/images/fox-news-logo.png</url>
+    	<title>FOX News</title>
+    	<link>http://www.foxnews.com/</link>
+    </image>
+            <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feeds.foxnews.com/foxnews/latest" /><feedburner:info xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" uri="foxnews/latest" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /><item>
+                  <guid isPermaLink="true">https://www.foxnews.com/us/brawl-between-two-florida-men-over-political-sign-waving-caught-on-camera</guid>
+      <link>https://www.foxnews.com/us/brawl-between-two-florida-men-over-political-sign-waving-caught-on-camera</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/10/Dog-Man-Gas-Station.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/Dog-Man-Gas-Station.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/Dog-Man-Gas-Station.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">f43a8483-fffe-5f34-8e48-78570baaf9ff</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/newsedge/politics</category>
+            <category domain="foxnews.com/taxonomy">fox-news/politics/2020-presidential-election</category>
+            <category domain="foxnews.com/taxonomy">fox-news/person/donald-trump</category>
+            <category domain="foxnews.com/taxonomy">fox-news/person/joe-biden</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us/us-regions/southeast/florida</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/us</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Brawl between two Florida men over political sign waving caught on camera</title>
+      <description>The presidential election in Florida is literally heating up after a fight broke out between two men over a flag in support of Democratic nominee and former vice president Joe Biden. </description>
+                  <dc:creator>Lucas Manfredi</dc:creator>
+                         <pubDate>Tue, 06 Oct 2020 23:55:08 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Lucas Manfredi</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/politics/biden-downplays-ties-bernie-sanders-policies</guid>
+      <link>https://www.foxnews.com/politics/biden-downplays-ties-bernie-sanders-policies</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/10/AP20280655277053.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/AP20280655277053.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/AP20280655277053.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">e7e68c46-4e85-57e8-ba1b-ae7f9f3284a4</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/person/joe-biden</category>
+            <category domain="foxnews.com/taxonomy">fox-news/person/bernie-sanders</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/politics</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Biden downplays ties to Bernie Sanders policies in general election despite unity platform</title>
+      <description>With November's presidential election only weeks away, Democratic presidential nominee Joe Biden has begun to pivot toward the more moderate wing of his party while steadily downplaying his ties to Sen. Bernie Sanders and the Vermont independent's policies despite the “unity platform” the Democratic duo released in July. </description>
+                  <dc:creator>Morgan Phillips</dc:creator>
+                         <pubDate>Tue, 06 Oct 2020 23:50:51 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Morgan Phillips</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/politics/biden-says-there-shouldnt-be-trump-still-has-covid-19-coronavirus</guid>
+      <link>https://www.foxnews.com/politics/biden-says-there-shouldnt-be-trump-still-has-covid-19-coronavirus</link>
+                  <category domain="foxnews.com/metadata/dc.identifier">3a759483-b2b4-5192-a5c2-cc948d457588</category>
+                  <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/politics</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Biden says there shouldn't be second debate if Trump still has COVID-19</title>
+      <description />
+                   <pubDate>Tue, 06 Oct 2020 23:50:13 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                              <category domain="foxnews.com/dateline" />
+                                  </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/us/san-francisco-police-berkeley-student</guid>
+      <link>https://www.foxnews.com/us/san-francisco-police-berkeley-student</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/10/SYDNEY-WEST-POLICE-e1601918300524.png" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/SYDNEY-WEST-POLICE-e1601918300524.png" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/SYDNEY-WEST-POLICE-e1601918300524.png" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">02c7201a-d825-5b2f-9915-eff662c760f3</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/topic/missing-persons</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us/us-regions/west/california</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us/education/college</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us/us-regions/southeast/north-carolina</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/us</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Family, friends worry as San Francisco, NC police search for missing Berkeley student</title>
+      <description>The loved ones of a 19-year-old girl who went missing last week after moving to the San Francisco area from North Carolina to attend college are increasingly worried about her whereabouts. </description>
+                  <dc:creator>Louis Casiano</dc:creator>
+                         <pubDate>Tue, 06 Oct 2020 23:39:36 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Louis Casiano</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/politics/the-hitchhikers-guide-to-what-the-suspension-of-coronavirus-talks-means</guid>
+      <link>https://www.foxnews.com/politics/the-hitchhikers-guide-to-what-the-suspension-of-coronavirus-talks-means</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/06/dc2.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/dc2.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/dc2.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">3b006e84-dfa7-5fb1-992e-f684a4335565</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/columns/capitol-attitude</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/politics</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>What Trump's suspension of coronavirus aid talks means for future of relief bill</title>
+      <description>Here’s the first thing which was asked on Capitol Hill when President Trump put the kibosh on the coronavirus aid talks: Why did the President make such an announcement when the market was open?</description>
+                  <dc:creator>Chad Pergram</dc:creator>
+                         <pubDate>Tue, 06 Oct 2020 23:31:09 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Chad Pergram</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/entertainment/selena-the-series-netflix-december</guid>
+      <link>https://www.foxnews.com/entertainment/selena-the-series-netflix-december</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/10/f1b7456f-GettyImages-114742095.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/f1b7456f-GettyImages-114742095.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/f1b7456f-GettyImages-114742095.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">24edd642-ade8-5f89-9ae6-e42779fceabf</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/organization/netflix</category>
+            <category domain="foxnews.com/taxonomy">fox-news/entertainment/tv</category>
+            <category domain="foxnews.com/taxonomy">fox-news/entertainment/music</category>
+            <category domain="foxnews.com/taxonomy">fox-news/entertainment/events/departed</category>
+            <category domain="foxnews.com/taxonomy">fox-news/entertainment</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/entertainment</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>‘Selena: The Series’ to release on Netflix in December</title>
+      <description>Selena Quintanilla-Perez is receiving a posthumous biographical drama centered on her life. </description>
+                  <dc:creator>Julius Young</dc:creator>
+                         <pubDate>Tue, 06 Oct 2020 23:29:27 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Julius Young</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/food-drink/southern-comfort-restaurant-opens-tennessee-resort</guid>
+      <link>https://www.foxnews.com/food-drink/southern-comfort-restaurant-opens-tennessee-resort</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/10/southern_comfort_black_and_pour.png" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/southern_comfort_black_and_pour.png" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/southern_comfort_black_and_pour.png" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">c89c6638-dba5-5c0a-a53a-51e12a06ccef</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/lifestyle/restaurants</category>
+            <category domain="foxnews.com/taxonomy">fox-news/travel</category>
+            <category domain="foxnews.com/taxonomy">fox-news/lifestyle</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/food-drink</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Southern Comfort liqueur opens restaurant at Tennessee resort</title>
+      <description>A Tennessee resort has opened a new restaurant serving comfort food – Southern Comfort food, that is.</description>
+                  <dc:creator>James Leggate</dc:creator>
+                         <pubDate>Tue, 06 Oct 2020 23:21:06 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">James Leggate</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/politics/biden-not-white-supremacists-overturn-america-lincoln</guid>
+      <link>https://www.foxnews.com/politics/biden-not-white-supremacists-overturn-america-lincoln</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/10/AP20280747284994.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/AP20280747284994.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/AP20280747284994.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">8c05468f-1e5e-5166-852e-9594f2535e86</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/politics/elections</category>
+            <category domain="foxnews.com/taxonomy">fox-news/politics/2020-presidential-election</category>
+            <category domain="foxnews.com/taxonomy">fox-news/person/joe-biden</category>
+            <category domain="foxnews.com/taxonomy">fox-news/person/donald-trump</category>
+            <category domain="foxnews.com/taxonomy">fox-news/politics/elections/campaigning/trump-2020-campaign</category>
+            <category domain="foxnews.com/taxonomy">fox-news/politics</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us/us-protests</category>
+            <category domain="foxnews.com/taxonomy">fox-news/health/infectious-disease/coronavirus</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/politics</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Biden vows not to allow ‘White supremacists to overturn the America of Lincoln’</title>
+      <description>Democratic presidential nominee Joe Biden made a forceful plea for national unity on Tuesday as he took aim at “extremist white supremacist groups menacing our communities.”</description>
+                  <dc:creator>Paul Steinhauser</dc:creator>
+            <dc:creator>Allie Raffa</dc:creator>
+                         <pubDate>Tue, 06 Oct 2020 23:12:24 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Paul Steinhauser</category>
+            <category domain="foxnews.com/metadata/dc.creator">Allie Raffa</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/opinion/eddie-van-halen-death-michael-levin</guid>
+      <link>https://www.foxnews.com/opinion/eddie-van-halen-death-michael-levin</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/10/GettyImages-490791136.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/GettyImages-490791136.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/GettyImages-490791136.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">09c12dc1-dd7c-5d90-8da1-46bb10477d35</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/opinion</category>
+            <category domain="foxnews.com/taxonomy">fox-news/entertainment/music</category>
+            <category domain="foxnews.com/taxonomy">fox-news/entertainment</category>
+            <category domain="foxnews.com/taxonomy">fox-news/entertainment/events/obituary</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/opinion</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Michael Levin: Eddie Van Halen played soundtrack for my generation — his death shows even rock gods are mortal</title>
+      <description>The soundtrack to the lives of many of my fellow American baby boomers features song after song from the matchless guitar (the Frankenstrat) of Eddie Van Halen, who died of cancer Tuesday at age 65.</description>
+                  <dc:creator>Michael Levin</dc:creator>
+                         <pubDate>Tue, 06 Oct 2020 23:11:48 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Michael Levin</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/real-estate/bernal-family-child-star-murderer-haunted-house</guid>
+      <link>https://www.foxnews.com/real-estate/bernal-family-child-star-murderer-haunted-house</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2018/10/HauntedHouseiStock-2.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/HauntedHouseiStock-2.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/HauntedHouseiStock-2.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">bedf9130-a58e-5a58-9faa-e232f8ca4fc2</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/lifestyle/real-estate</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us/us-regions/west/california</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us/crime</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/real-estate</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>California family claims child star murderer haunted their home 30 years later</title>
+      <description>In 2001, the Bernal family moved into the house where child star Judith Barsi was murdered by her father in 1988.</description>
+                  <dc:creator>Ann Schmidt</dc:creator>
+                         <pubDate>Tue, 06 Oct 2020 23:02:57 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Ann Schmidt</category>
+                            </item>
+      </channel>
+</rss>

@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet title="XSL_formatting" type="text/xsl" href="/shared/bsp/xsl/rss/nolsol.xsl"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News - World]]></title>
+        <description><![CDATA[BBC News - World]]></description>
+        <link>https://www.bbc.co.uk/news/</link>
+        <image>
+            <url>https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News - World</title>
+            <link>https://www.bbc.co.uk/news/</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Sat, 14 Nov 2020 00:07:28 GMT</lastBuildDate>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA[US election 2020: Biden takes Georgia to solidify victory]]></title>
+            <description><![CDATA[The president-elect is the first Democrat projected to win in Georgia since 1992.]]></description>
+            <link>https://www.bbc.co.uk/news/election-us-2020-54939212</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/election-us-2020-54939212</guid>
+            <pubDate>Fri, 13 Nov 2020 23:51:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus: Italy extends 'red zones' as infections soar]]></title>
+            <description><![CDATA[Among the new high-risk regions is Campania where officials say the situation is out of control.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-54937699</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-54937699</guid>
+            <pubDate>Fri, 13 Nov 2020 19:47:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus: California hits one million cases as outbreaks grow across US]]></title>
+            <description><![CDATA[California is the second state to reach a million cases as outbreaks put a pause on reopenings.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-54935700</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-54935700</guid>
+            <pubDate>Fri, 13 Nov 2020 22:16:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Nagorno-Karabakh: The families burning down their own homes]]></title>
+            <description><![CDATA[Fleeing ethnic Armenians are destroying their own homes so no Azerbaijanis can move in.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-54935196</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-54935196</guid>
+            <pubDate>Fri, 13 Nov 2020 16:19:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ethiopia Tigray crisis: UN warns 'war crimes' may have happened]]></title>
+            <description><![CDATA[UN human rights chief Michelle Bachelet calls for an inquiry over the killings in the Tigray region.]]></description>
+            <link>https://www.bbc.co.uk/news/world-africa-54929100</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-54929100</guid>
+            <pubDate>Fri, 13 Nov 2020 20:28:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bangladeshi teen wins award for anti-cyberbullying app]]></title>
+            <description><![CDATA[Sadat Rahman, 17, created an app to help young people learn about and report cyberbullying.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-54934377</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-54934377</guid>
+            <pubDate>Fri, 13 Nov 2020 18:28:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Paris attacks: France remembers night of terror amid jihadist threat]]></title>
+            <description><![CDATA[On high alert, France is mourning the 130 people murdered in co-ordinated attacks five years ago.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-54924051</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-54924051</guid>
+            <pubDate>Fri, 13 Nov 2020 09:52:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Dutch police give 'stop paedophile hunts' warning after Arnhem death]]></title>
+            <description><![CDATA[A police chief warns against vigilantism after a retired teacher is beaten to death by teenagers.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-54930488</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-54930488</guid>
+            <pubDate>Fri, 13 Nov 2020 11:41:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Nasa's new 'megarocket' set for critical tests]]></title>
+            <description><![CDATA[The agency's Moon rocket is entering the final stages of testing ahead of its maiden flight in 2021.]]></description>
+            <link>https://www.bbc.co.uk/news/science-environment-54927173</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-54927173</guid>
+            <pubDate>Fri, 13 Nov 2020 10:27:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[British Museum to help dig for Nigerian treasures]]></title>
+            <description><![CDATA[The plan for a new museum and archaeology mission follows calls for it to return its Benin Bronzes.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-54933273</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-54933273</guid>
+            <pubDate>Fri, 13 Nov 2020 18:21:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Six-year-olds sketch rogue driver for German police]]></title>
+            <description><![CDATA[Children saw a driver smash through a barrier - and drew it for police in west Germany.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-54933193</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-54933193</guid>
+            <pubDate>Fri, 13 Nov 2020 13:42:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Footballer Salah tests positive for coronavirus]]></title>
+            <description><![CDATA[Liverpool forward Mohamed Salah tests positive for coronavirus while on international duty with Egypt.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/54935734</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/54935734</guid>
+            <pubDate>Fri, 13 Nov 2020 23:15:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Doug Emhoff: The first 'second dude' in the White House]]></title>
+            <description><![CDATA[By way of Kamala Harris's historic candidacy her husband will also be breaking barriers.]]></description>
+            <link>https://www.bbc.co.uk/news/election-us-2020-54899230</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/election-us-2020-54899230</guid>
+            <pubDate>Fri, 13 Nov 2020 23:13:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ethiopia's Tigray crisis: How the conflict could destabilise its neighbours]]></title>
+            <description><![CDATA[With accusations of Eritrean involvement and thousands fleeing, the Tigray conflict could have serious repercussions.]]></description>
+            <link>https://www.bbc.co.uk/news/world-africa-54904496</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-54904496</guid>
+            <pubDate>Sat, 14 Nov 2020 00:05:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Do these Republican voters accept election result?]]></title>
+            <description><![CDATA[Some 70% of Trump supporters say the election "free and fair" and are struggling to come to terms with the result.]]></description>
+            <link>https://www.bbc.co.uk/news/election-us-2020-54922924</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/election-us-2020-54922924</guid>
+            <pubDate>Fri, 13 Nov 2020 00:37:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Jerry Rawlings: Remembering Ghana's 'man of the people']]></title>
+            <description><![CDATA[Ghana's longest-serving leader led by example but later fell foul of his own standards, says Akwasi Sarpong.]]></description>
+            <link>https://www.bbc.co.uk/news/world-africa-54929779</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-54929779</guid>
+            <pubDate>Fri, 13 Nov 2020 11:50:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Fears grow for British man detained in Pakistan-administered Kashmir]]></title>
+            <description><![CDATA[Tanveer Ahmed Rafique returned to Pakistan-administered Kashmir where he has campaigned for independence.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-54921606</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-54921606</guid>
+            <pubDate>Fri, 13 Nov 2020 00:08:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Fact-checking the US and China on climate and environment]]></title>
+            <description><![CDATA[We fact-check US and Chinese claims about CO2 emissions, plastic waste and illegal timber.]]></description>
+            <link>https://www.bbc.co.uk/news/election-us-2020-54719577</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/election-us-2020-54719577</guid>
+            <pubDate>Fri, 13 Nov 2020 00:20:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ethiopia's Tigray crisis: 'My little brother needs medicine']]></title>
+            <description><![CDATA[A BBC journalist on the fears for her family in Ethiopia's Tigray region following an outbreak of fighting.]]></description>
+            <link>https://www.bbc.co.uk/news/world-africa-54890675</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-54890675</guid>
+            <pubDate>Fri, 13 Nov 2020 00:18:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[China Muslims: Volkswagen says 'no forced labour' at Xinjiang plant]]></title>
+            <description><![CDATA[The car maker defends continued production in a Chinese region mired in allegations of rights abuses.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-china-54918309</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-china-54918309</guid>
+            <pubDate>Thu, 12 Nov 2020 18:01:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[President Trump: 'Who knows which administration it will be']]></title>
+            <description><![CDATA[The US president speaks publicly for the first time since the election was called for Joe Biden.]]></description>
+            <link>https://www.bbc.co.uk/news/election-us-2020-54937350</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/election-us-2020-54937350</guid>
+            <pubDate>Fri, 13 Nov 2020 22:05:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Is this giant alligator on a Florida golf course real?]]></title>
+            <description><![CDATA[Many people have been questioning this viral reptile video. So we asked a gator expert to weigh in.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-54937355</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-54937355</guid>
+            <pubDate>Sat, 14 Nov 2020 00:01:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Obama: Election fraud claims 'delegitimising' democracy]]></title>
+            <description><![CDATA[Former US President Barack Obama addresses Donald Trump's unsubstantiated election fraud claims.]]></description>
+            <link>https://www.bbc.co.uk/news/election-us-2020-54923862</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/election-us-2020-54923862</guid>
+            <pubDate>Fri, 13 Nov 2020 01:09:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Cindy McCain: 'It's time we get behind Joe Biden as our next president']]></title>
+            <description><![CDATA[The wife of late Senator John McCain reacts as the traditionally Republican state of Arizona is called for Mr Biden.]]></description>
+            <link>https://www.bbc.co.uk/news/election-us-2020-54937348</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/election-us-2020-54937348</guid>
+            <pubDate>Fri, 13 Nov 2020 18:13:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Nagorno-Karabakh: Armenian protests urge 'traitor' PM to quit]]></title>
+            <description><![CDATA[Demonstrators are calling for Nikol Pashinyan to quit after he signed a peace deal with Azerbaijan.]]></description>
+            <link>https://www.bbc.co.uk/news/world-54923839</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-54923839</guid>
+            <pubDate>Thu, 12 Nov 2020 22:12:14 GMT</pubDate>
+        </item>
+    </channel>
+</rss>

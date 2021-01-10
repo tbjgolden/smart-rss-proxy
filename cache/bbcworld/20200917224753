@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet title="XSL_formatting" type="text/xsl" href="/shared/bsp/xsl/rss/nolsol.xsl"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News - World]]></title>
+        <description><![CDATA[BBC News - World]]></description>
+        <link>https://www.bbc.co.uk/news/</link>
+        <image>
+            <url>https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News - World</title>
+            <link>https://www.bbc.co.uk/news/</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Wed, 16 Sep 2020 02:03:05 GMT</lastBuildDate>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Trump hails 'dawn of new Middle East' with UAE-Bahrain-Israel deals]]></title>
+            <description><![CDATA[The president hosts a ceremony marking deals between Israel and Gulf states Bahrain and the UAE.]]></description>
+            <link>https://www.bbc.co.uk/news/world-middle-east-54168120</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-middle-east-54168120</guid>
+            <pubDate>Tue, 15 Sep 2020 20:04:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Breonna Taylor: Louisville to pay family $12m over police shooting]]></title>
+            <description><![CDATA[The health worker was fatally shot by police, leading to widespread protests against police violence.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-54165646</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-54165646</guid>
+            <pubDate>Tue, 15 Sep 2020 18:55:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[John Bolton: Criminal inquiry opened into explosive memoir]]></title>
+            <description><![CDATA[President Trump's ex-adviser is being investigated for possibly disclosing classified information.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-54171941</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-54171941</guid>
+            <pubDate>Tue, 15 Sep 2020 23:30:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Recovering from Covid-19: 'I can't get the images out of my head']]></title>
+            <description><![CDATA[Many patients are at the risk of suffering from PTSD, but India lacks infrastructure to treat them.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-india-54163109</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-india-54163109</guid>
+            <pubDate>Tue, 15 Sep 2020 23:04:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Kim Kardashian West joins Facebook and Instagram boycott]]></title>
+            <description><![CDATA[Dozens of celebrities announce they will freeze their accounts to protest against hate speech.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-54171526</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-54171526</guid>
+            <pubDate>Tue, 15 Sep 2020 21:31:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[US wildfires: What are the health risks of smoke pollution?]]></title>
+            <description><![CDATA[A look at the impact of wildfire smoke, as it increasingly becomes a source of air pollution.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-54171351</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-54171351</guid>
+            <pubDate>Tue, 15 Sep 2020 22:06:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Italian killer who fled jail for seventh time found in sheep pen]]></title>
+            <description><![CDATA[Convicted murderer "Johnny the Gypsy" is caught in Sardinia after escaping for the seventh time.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-54167191</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-54167191</guid>
+            <pubDate>Tue, 15 Sep 2020 15:26:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ICE whistleblower: Nurse alleges 'hysterectomies on immigrant women in US']]></title>
+            <description><![CDATA[A complaint alleges unsafe treatment and conditions at a migrant detention centre in Georgia, US.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-54160638</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-54160638</guid>
+            <pubDate>Tue, 15 Sep 2020 18:29:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bear from Ice Age found 'completely preserved' in Russian Arctic]]></title>
+            <description><![CDATA[The ancient bear, unearthed by reindeer herders, has been hailed as a find of "great importance".]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-54160645</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-54160645</guid>
+            <pubDate>Tue, 15 Sep 2020 15:04:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Alexei Navalny: Poisoned Putin critic 'will return to Russia']]></title>
+            <description><![CDATA[The opposition figure posted on Instagram, announcing that he was breathing free of ventilation.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-54163389</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-54163389</guid>
+            <pubDate>Tue, 15 Sep 2020 14:27:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Panama governor stopped in car with 79 drug parcels]]></title>
+            <description><![CDATA[Erick Martelo, one of two people held by police after a tip-off, has since been removed from office.]]></description>
+            <link>https://www.bbc.co.uk/news/world-latin-america-54160290</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-latin-america-54160290</guid>
+            <pubDate>Tue, 15 Sep 2020 23:15:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Jewish New Year: Virus restrictions thwart pilgrims on Ukraine-Belarus border]]></title>
+            <description><![CDATA[Ukraine's coronavirus restrictions thwart a pilgrimage of Hasidic Jews, with hundreds stuck.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-54167719</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-54167719</guid>
+            <pubDate>Tue, 15 Sep 2020 16:52:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Greece arrests five over Lesbos migrant camp blaze]]></title>
+            <description><![CDATA[Most of the 12,000 who fled the fire on the Greek island last week are still sleeping rough.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-54162812</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-54162812</guid>
+            <pubDate>Tue, 15 Sep 2020 17:10:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[West Coast fires: How we outran a California wildfire]]></title>
+            <description><![CDATA[Trapped by a fast-moving wildfire, four friends were forced to hike their way to safety.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-54169561</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-54169561</guid>
+            <pubDate>Tue, 15 Sep 2020 21:49:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What is Trump's record on environment?]]></title>
+            <description><![CDATA[The president has dismissed the science on climate change. But what is his record on the environment?]]></description>
+            <link>https://www.bbc.co.uk/news/election-us-2020-54103861</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/election-us-2020-54103861</guid>
+            <pubDate>Tue, 15 Sep 2020 23:02:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus in Kenya: From salon to sewer worker]]></title>
+            <description><![CDATA[Some of those who lost their jobs amid the pandemic are being paid to clean up their neighbourhoods.]]></description>
+            <link>https://www.bbc.co.uk/news/world-africa-54162923</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-54162923</guid>
+            <pubDate>Tue, 15 Sep 2020 23:03:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Israel's borders explained in maps]]></title>
+            <description><![CDATA[As Israel's acceptance by Arab states grows, here's how the shape of the Jewish state has changed.]]></description>
+            <link>https://www.bbc.co.uk/news/world-middle-east-54116567</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-middle-east-54116567</guid>
+            <pubDate>Tue, 15 Sep 2020 23:03:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[US election 2020: Could Biden's Latino problem lose him the White House?]]></title>
+            <description><![CDATA[The push by Democrats to reach Florida's Hispanic voters may have come too late.]]></description>
+            <link>https://www.bbc.co.uk/news/election-us-2020-54162722</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/election-us-2020-54162722</guid>
+            <pubDate>Tue, 15 Sep 2020 20:14:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Violence and hostility: Inside the French police]]></title>
+            <description><![CDATA[French journalist Valentin Gendrot describes the two years he spent undercover as a French police officer.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-54165867</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-54165867</guid>
+            <pubDate>Tue, 15 Sep 2020 23:01:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Trump on Israel-UAE-Bahrain deals: 'We mark the dawn of a new Middle East']]></title>
+            <description><![CDATA[The UAE and Bahrain sign agreements fully normalising their relations with Israel at the White House.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-54171693</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-54171693</guid>
+            <pubDate>Tue, 15 Sep 2020 21:30:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Breonna Taylor: Mother reacts to $12m settlement over police shooting]]></title>
+            <description><![CDATA[Breonna Taylor's mother gives her reaction to Louisville officials agreeing to pay $12m over her death.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-54171349</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-54171349</guid>
+            <pubDate>Tue, 15 Sep 2020 19:58:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Egypt’s organ traffickers: 'I woke up screaming']]></title>
+            <description><![CDATA[BBC Panorama talks to a crime gang that organises 20-30 illegal operations a week.]]></description>
+            <link>https://www.bbc.co.uk/news/world-middle-east-54150076</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-middle-east-54150076</guid>
+            <pubDate>Mon, 14 Sep 2020 16:25:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['Warped landscape' after Oregon fires]]></title>
+            <description><![CDATA[Four million acres have gone up in flames across the West Coast. Hundreds of thousands of people have been displaced so far.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-54154438</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-54154438</guid>
+            <pubDate>Tue, 15 Sep 2020 11:53:49 GMT</pubDate>
+        </item>
+    </channel>
+</rss>

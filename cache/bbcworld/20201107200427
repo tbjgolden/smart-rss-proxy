@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet title="XSL_formatting" type="text/xsl" href="/shared/bsp/xsl/rss/nolsol.xsl"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News - World]]></title>
+        <description><![CDATA[BBC News - World]]></description>
+        <link>https://www.bbc.co.uk/news/</link>
+        <image>
+            <url>https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News - World</title>
+            <link>https://www.bbc.co.uk/news/</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Sat, 07 Nov 2020 19:58:22 GMT</lastBuildDate>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA[US Election 2020: Time for US to unite, President-elect Biden says]]></title>
+            <description><![CDATA[The BBC projects he has beaten Donald Trump to the White House after winning Pennsylvania.]]></description>
+            <link>https://www.bbc.co.uk/news/election-us-2020-54836636</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/election-us-2020-54836636</guid>
+            <pubDate>Sat, 07 Nov 2020 19:35:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Afghanistan violence: Former TV presenter Yama Siawash killed]]></title>
+            <description><![CDATA[Yama Siawash, who was a prominent presenter on Tolo TV, is one of three killed in the Kabul attack.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-54855178</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-54855178</guid>
+            <pubDate>Sat, 07 Nov 2020 15:06:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Lyon shooting: Suspect admits attacking priest 'over affair']]></title>
+            <description><![CDATA[It was initially feared that the wounding of an Orthodox cleric in Lyon was a terror attack.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-54854982</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-54854982</guid>
+            <pubDate>Sat, 07 Nov 2020 19:33:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[UAE legal reform sees tougher penalties for family killings of women]]></title>
+            <description><![CDATA[The Gulf state says the change will protect women's rights, as it seeks to liberalise its laws.]]></description>
+            <link>https://www.bbc.co.uk/news/world-middle-east-54854978</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-middle-east-54854978</guid>
+            <pubDate>Sat, 07 Nov 2020 17:07:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[China sends 'world's first 6G' test satellite into orbit]]></title>
+            <description><![CDATA[The satellite is meant to trial new technology expected to be many times faster than 5G.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-china-54852131</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-china-54852131</guid>
+            <pubDate>Sat, 07 Nov 2020 11:50:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ethiopian conflict deepens as Tigray leaders sacked]]></title>
+            <description><![CDATA[Parliament votes to dissolve the leadership of a region whose forces are fighting the national army.]]></description>
+            <link>https://www.bbc.co.uk/news/world-africa-54853362</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-54853362</guid>
+            <pubDate>Sat, 07 Nov 2020 12:04:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Milind Soman: Actor and model charged over nude photo]]></title>
+            <description><![CDATA[Soman was reprimanded for sharing an image of him running naked down a beach in the city of Goa.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-india-54834236</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-india-54834236</guid>
+            <pubDate>Sat, 07 Nov 2020 14:59:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Storm Eta: Around 150 feared dead in Guatemala]]></title>
+            <description><![CDATA[The army reaches a village where houses were buried by mudslides triggered by Storm Eta's rains.]]></description>
+            <link>https://www.bbc.co.uk/news/world-latin-america-54849765</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-latin-america-54849765</guid>
+            <pubDate>Fri, 06 Nov 2020 23:43:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ivory Coast election: Pascal Affi Nguessan arrested for sedition]]></title>
+            <description><![CDATA[The former prime minister had declared a parallel government after boycotting last month's election.]]></description>
+            <link>https://www.bbc.co.uk/news/world-africa-54834233</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-54834233</guid>
+            <pubDate>Sat, 07 Nov 2020 13:03:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid-19: US hits record daily case rise three days running]]></title>
+            <description><![CDATA[The record rise in infections include Trump's chief of staff Mark Meadows, officials said Friday.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-54851759</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-54851759</guid>
+            <pubDate>Sat, 07 Nov 2020 08:36:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[US Election 2020: Battle for US Senate to be decided in January]]></title>
+            <description><![CDATA[In Georgia, both Senate races will go to run-offs, leaving the balance of political power uncertain.]]></description>
+            <link>https://www.bbc.co.uk/news/election-us-2020-54835724</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/election-us-2020-54835724</guid>
+            <pubDate>Sat, 07 Nov 2020 05:07:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Vienna shooting: The night my safe city lost its innocence]]></title>
+            <description><![CDATA[The Austrian capital had four decades of relative peace before a gunman's rampage.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-54838016</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-54838016</guid>
+            <pubDate>Sat, 07 Nov 2020 00:01:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Letter from Africa: Why Nigerians fear social media sanctions]]></title>
+            <description><![CDATA[Politicians are debating a bill that some worry is an attempt to stifle activism after the #EndSars protests.]]></description>
+            <link>https://www.bbc.co.uk/news/world-africa-54840436</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-54840436</guid>
+            <pubDate>Sat, 07 Nov 2020 00:02:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Typhoon Goni: Philippines survivor tells of children swept away]]></title>
+            <description><![CDATA[A farmer's child was found dead miles from home after the family was separated by volcanic mudflow.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-54836809</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-54836809</guid>
+            <pubDate>Sat, 07 Nov 2020 00:04:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[PS5 v Xbox Series X: Who will win the next-gen console race?]]></title>
+            <description><![CDATA[Newsbeat's gaming reporter Steffan Powell previews the upcoming new gaming consoles.]]></description>
+            <link>https://www.bbc.co.uk/news/newsbeat-54837191</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/newsbeat-54837191</guid>
+            <pubDate>Sat, 07 Nov 2020 09:42:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[North Korea: Going back in time with Pyongyang's austere hotels]]></title>
+            <description><![CDATA[A new book documenting their 1970s design gives a rare glimpse into North Korea's hospitality industry.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-54820494</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-54820494</guid>
+            <pubDate>Fri, 06 Nov 2020 00:17:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[US election 2020: How US networks reported the Biden win]]></title>
+            <description><![CDATA[After days of waiting, US networks reacted to Joe Biden being victor in Pennsylvania and therefore winning the election.]]></description>
+            <link>https://www.bbc.co.uk/news/election-us-2020-54858668</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/election-us-2020-54858668</guid>
+            <pubDate>Sat, 07 Nov 2020 19:34:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[US Election 2020: Who is Joe Biden?]]></title>
+            <description><![CDATA[It is third time lucky for Democrat Joe Biden, who has won the race to become the US president.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-48041524</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-48041524</guid>
+            <pubDate>Sat, 07 Nov 2020 17:29:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[US election 2020: Celebrations in Philadelphia at Biden win]]></title>
+            <description><![CDATA[Supporters of Joe Biden burst into song in Philadelphia, as he wins the race for the White House.]]></description>
+            <link>https://www.bbc.co.uk/news/54856197</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/54856197</guid>
+            <pubDate>Sat, 07 Nov 2020 17:50:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[US Election 2020: Moment BBC projects Biden victory on TV]]></title>
+            <description><![CDATA[The BBC projects that Joe Biden has topped the 270 electoral votes needed to defeat Donald Trump.]]></description>
+            <link>https://www.bbc.co.uk/news/election-us-2020-54845496</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/election-us-2020-54845496</guid>
+            <pubDate>Sat, 07 Nov 2020 16:49:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[US election results: 'We're going to win this race' - Biden]]></title>
+            <description><![CDATA[Joe Biden says the numbers point to a win for the Democrats but stops short of declaring victory.]]></description>
+            <link>https://www.bbc.co.uk/news/election-us-2020-54851299</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/election-us-2020-54851299</guid>
+            <pubDate>Sat, 07 Nov 2020 05:00:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Joe Biden profile: Third White House run lucky for 'Middle Class Joe']]></title>
+            <description><![CDATA[The president-elect has 40 years of political experience to call on, and to defend.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-51682000</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-51682000</guid>
+            <pubDate>Sat, 07 Nov 2020 16:28:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Kamala Harris - the first woman vice-president]]></title>
+            <description><![CDATA[The California senator will make history as the first female, black and Asian American vice-president.]]></description>
+            <link>https://www.bbc.co.uk/news/election-us-2020-53728050</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/election-us-2020-53728050</guid>
+            <pubDate>Sat, 07 Nov 2020 16:29:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[US Election 2020: Results and exit poll in maps and charts]]></title>
+            <description><![CDATA[Analysis and graphics from the US election exit poll and results as they come in.]]></description>
+            <link>https://www.bbc.co.uk/news/election-us-2020-54783016</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/election-us-2020-54783016</guid>
+            <pubDate>Sat, 07 Nov 2020 19:56:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[US election results: Biden has won election. What happens now?]]></title>
+            <description><![CDATA[The former vice-president is projected to win the White House - but does not get to move in straight away.]]></description>
+            <link>https://www.bbc.co.uk/news/election-us-2020-54845063</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/election-us-2020-54845063</guid>
+            <pubDate>Sat, 07 Nov 2020 16:30:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[US Election 2020: Meet five new faces making political history in the US]]></title>
+            <description><![CDATA[From transgender State Senator Sarah McBride to 25-year-old Madison Cawthorn - here are some of the new faces making history in US politics.]]></description>
+            <link>https://www.bbc.co.uk/news/election-us-2020-54854039</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/election-us-2020-54854039</guid>
+            <pubDate>Sat, 07 Nov 2020 12:24:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[US election 2020: Could it be decided in courts?]]></title>
+            <description><![CDATA[We still don't know who the next US president will be, and legal challenges are looming.]]></description>
+            <link>https://www.bbc.co.uk/news/election-us-2020-54724960</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/election-us-2020-54724960</guid>
+            <pubDate>Thu, 05 Nov 2020 19:17:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[US results: 'Look at us, we matter’]]></title>
+            <description><![CDATA[A party has started in Philadelphia as Biden leads the count in Pennsylvania.]]></description>
+            <link>https://www.bbc.co.uk/news/election-us-2020-54849954</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/election-us-2020-54849954</guid>
+            <pubDate>Sat, 07 Nov 2020 00:13:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[US election 2020: How a misleading post went from the fringes to Trump’s Twitter]]></title>
+            <description><![CDATA[An erroneous election map posted on far-right forums made it to the president's Twitter feed.]]></description>
+            <link>https://www.bbc.co.uk/news/election-us-2020-54838684</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/election-us-2020-54838684</guid>
+            <pubDate>Fri, 06 Nov 2020 16:49:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Kanye West election: How many votes did he get?]]></title>
+            <description><![CDATA[Kanye West took his first stab at the presidency this year. Will we be seeing him in Washington?]]></description>
+            <link>https://www.bbc.co.uk/news/election-us-2020-54849605</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/election-us-2020-54849605</guid>
+            <pubDate>Sat, 07 Nov 2020 01:09:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[US election 2020: Donald Trump's speech fact-checked]]></title>
+            <description><![CDATA[The president made a string of claims but provided little evidence.]]></description>
+            <link>https://www.bbc.co.uk/news/election-us-2020-54837926</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/election-us-2020-54837926</guid>
+            <pubDate>Fri, 06 Nov 2020 13:10:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why don't we know the result yet?]]></title>
+            <description><![CDATA[The fight for the presidency is down to a few crucial states, so what are we still waiting for?]]></description>
+            <link>https://www.bbc.co.uk/news/election-us-2020-54800337</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/election-us-2020-54800337</guid>
+            <pubDate>Fri, 06 Nov 2020 18:51:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Election results: The story of an extraordinary night...]]></title>
+            <description><![CDATA[We still don't know who's won the presidential race - but we've had lots of results and some surprises.]]></description>
+            <link>https://www.bbc.co.uk/news/election-us-2020-54806796</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/election-us-2020-54806796</guid>
+            <pubDate>Wed, 04 Nov 2020 10:47:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[US election 2020: When will we know the result?]]></title>
+            <description><![CDATA[The polls closed hours ago in the US but as we thought might happen, there's no winner yet.]]></description>
+            <link>https://www.bbc.co.uk/news/election-us-2020-54096399</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/election-us-2020-54096399</guid>
+            <pubDate>Wed, 04 Nov 2020 07:35:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[US election 2020: Sarah McBride to be first trans state senator]]></title>
+            <description><![CDATA[Transgender candidates are among those who made history across the country on election night.]]></description>
+            <link>https://www.bbc.co.uk/news/election-us-2020-54806677</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/election-us-2020-54806677</guid>
+            <pubDate>Wed, 04 Nov 2020 14:41:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[In pictures: Election day - and night]]></title>
+            <description><![CDATA[The US is on course for its highest voter turnout in more than a century.]]></description>
+            <link>https://www.bbc.co.uk/news/in-pictures-54803440</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/in-pictures-54803440</guid>
+            <pubDate>Wed, 04 Nov 2020 13:47:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How to follow the election on the BBC]]></title>
+            <description><![CDATA[Find out how to stay in touch with live election results on TV, radio, online, and on social media.]]></description>
+            <link>https://www.bbc.co.uk/news/election-us-2020-54731823</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/election-us-2020-54731823</guid>
+            <pubDate>Wed, 04 Nov 2020 02:51:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Seven decades of Trump and Biden in pictures]]></title>
+            <description><![CDATA[The political and personal lives of the candidates over seven decades.]]></description>
+            <link>https://www.bbc.co.uk/news/election-us-2020-54267454</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/election-us-2020-54267454</guid>
+            <pubDate>Tue, 03 Nov 2020 00:14:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[US election 2020: What to look out for on election night]]></title>
+            <description><![CDATA[Americans will pick their next president on 3 November. Here's what to look for as results roll in.]]></description>
+            <link>https://www.bbc.co.uk/news/election-us-2020-54723228</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/election-us-2020-54723228</guid>
+            <pubDate>Mon, 02 Nov 2020 20:32:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[US election 2020: A really simple guide]]></title>
+            <description><![CDATA[If you’re looking for a refresher or trying to understand it for the first time, this guide will help.]]></description>
+            <link>https://www.bbc.co.uk/news/election-us-2020-53785985</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/election-us-2020-53785985</guid>
+            <pubDate>Wed, 28 Oct 2020 23:48:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[US Election: 'People are adamant about early voting in New Orleans']]></title>
+            <description><![CDATA[Hundreds of people in New Orleans rely on live music for their income. But it's all but disappeared.]]></description>
+            <link>https://www.bbc.co.uk/news/newsbeat-54786119</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/newsbeat-54786119</guid>
+            <pubDate>Mon, 02 Nov 2020 16:47:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[US election 2020: Does climate change impact the vote?]]></title>
+            <description><![CDATA[Two Republicans, one Democrat and one independent voter talk about climate change.]]></description>
+            <link>https://www.bbc.co.uk/news/election-us-2020-54727388</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/election-us-2020-54727388</guid>
+            <pubDate>Sun, 01 Nov 2020 18:43:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[US election 2020: Why does the vote matter to people in UK?]]></title>
+            <description><![CDATA[How could a Trump or a Biden win have an impact on the lives of people in the UK?]]></description>
+            <link>https://www.bbc.co.uk/news/election-us-2020-54707562</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/election-us-2020-54707562</guid>
+            <pubDate>Tue, 03 Nov 2020 15:29:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Predict the president 2020: Will Trump or Biden win the US election? You decide]]></title>
+            <description><![CDATA[Play our game to predict whether Donald Trump or Joe Biden will win the key states in the election.]]></description>
+            <link>https://www.bbc.co.uk/news/election-us-2020-54286528</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/election-us-2020-54286528</guid>
+            <pubDate>Fri, 25 Sep 2020 16:35:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[US election 2020: What are Trump's and Biden's policies?]]></title>
+            <description><![CDATA[Some of President Trump's and Joe Biden's key policies explained and compared.]]></description>
+            <link>https://www.bbc.co.uk/news/election-us-2020-54507550</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/election-us-2020-54507550</guid>
+            <pubDate>Sun, 18 Oct 2020 15:14:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[US election 2020 polls: Who is ahead - Trump or Biden?]]></title>
+            <description><![CDATA[An in-depth look at the polls and what they can and can’t tell us about who will win the White House.]]></description>
+            <link>https://www.bbc.co.uk/news/election-us-2020-53657174</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/election-us-2020-53657174</guid>
+            <pubDate>Tue, 03 Nov 2020 18:54:48 GMT</pubDate>
+        </item>
+    </channel>
+</rss>

@@ -1,0 +1,896 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:nyt="http://www.nytimes.com/namespaces/rss/2.0" version="2.0">
+  <channel>
+    <title>NYT &gt; Top Stories</title>
+    <link>https://www.nytimes.com</link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml" rel="self" type="application/rss+xml"></atom:link>
+    <description></description>
+    <language>en-us</language>
+    <copyright>Copyright 2020 The New York Times Company</copyright>
+    <lastBuildDate>Sun, 27 Dec 2020 18:46:53 +0000</lastBuildDate>
+    <pubDate>Sun, 27 Dec 2020 18:46:53 +0000</pubDate>
+    <image>
+      <title>NYT &gt; Top Stories</title>
+      <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
+      <link>https://www.nytimes.com</link>
+    </image>
+    <item>
+      <title>Trump’s Inaction on Spending Package Jeopardizes Stimulus Relief</title>
+      <link>https://www.nytimes.com/live/2020/12/27/us/joe-biden-trump/</link>
+      <guid isPermaLink="true">https://www.nytimes.com/live/2020/12/27/us/joe-biden-trump/</guid>
+      <atom:link href="https://www.nytimes.com/live/2020/12/27/us/joe-biden-trump/" rel="standout"></atom:link>
+      <description>Democrats’ House losses in California signal the steep obstacles they will face in 2022. President-elect Joseph R. Biden Jr. expressed optimism that his brand of centrist deal making would help him move beyond the bitter partisanship of the past four years.</description>
+      <dc:creator>The New York Times</dc:creator>
+      <pubDate>Sun, 27 Dec 2020 17:43:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>450 Million People, 27 Nations: Europe’s Vaccination Campaign Takes Off</title>
+      <link>https://www.nytimes.com/live/2020/12/27/world/covid-19-coronavirus-updates/</link>
+      <guid isPermaLink="true">https://www.nytimes.com/live/2020/12/27/world/covid-19-coronavirus-updates/</guid>
+      <atom:link href="https://www.nytimes.com/live/2020/12/27/world/covid-19-coronavirus-updates/" rel="standout"></atom:link>
+      <description>The European Union’s campaign against the coronavirus started with older people and the workers who care for them. Here’s the latest on Covid-19.</description>
+      <dc:creator>The New York Times</dc:creator>
+      <pubDate>Sun, 27 Dec 2020 17:43:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Scenes From Gallup, N.M., Where the Coronavirus Has Hit Hard</title>
+      <link>https://www.nytimes.com/2020/12/27/business/economy/the-place-hit-hardest-by-the-virus.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/12/27/business/economy/the-place-hit-hardest-by-the-virus.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/12/27/business/economy/the-place-hit-hardest-by-the-virus.html" rel="standout"></atom:link>
+      <description>The coronavirus has disfigured Gallup, a small New Mexico town near Native American reservations, that is now one of the hardest hit places in the country.</description>
+      <dc:creator>Adam Ferguson</dc:creator>
+      <pubDate>Sun, 27 Dec 2020 12:43:44 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gallup (NM)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Layoffs and Job Reductions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Marathon Petroleum Corporation</category>
+    </item>
+    <item>
+      <title>The Treasured Diners and Hidden Haunts That Covid-19 Closed for Good</title>
+      <link>https://www.nytimes.com/2020/12/27/us/covid-restaurants-diners-closed.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/12/27/us/covid-restaurants-diners-closed.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/12/27/us/covid-restaurants-diners-closed.html" rel="standout"></atom:link>
+      <description>A Pittsburgh hot dog joint, a famous Cambridge dive bar and a vibrant Filipino restaurant in Los Angeles were among the casualties of 2020.</description>
+      <dc:creator>Jack Healy</dc:creator>
+      <pubDate>Sun, 27 Dec 2020 08:00:11 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Shutdowns (Institutional)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Restaurants</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Bars and Nightclubs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Small Business</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Cambridge (Mass)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New Orleans (La)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Spokane (Wash)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Pittsburgh (Pa)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Los Angeles (Calif)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Austin (Tex)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">PIKEVILLE (KY)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Coral Gables (Fla)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Abilene (Tex)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kansas City (Kan)</category>
+    </item>
+    <item>
+      <title>Federal Agents Scour Home as They Hunt for Clues in Nashville Blast</title>
+      <link>https://www.nytimes.com/2020/12/26/us/explosion-nashville-rv.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/12/26/us/explosion-nashville-rv.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/12/26/us/explosion-nashville-rv.html" rel="standout"></atom:link>
+      <description>Investigators said they were working to determine whether more than one person was involved in the Christmas Day explosion that rattled the city.</description>
+      <dc:creator>Rick Rojas, Nicholas Bogel-Burroughs, Giulia McDonnell Nieto del Rio and Steve Cavendish</dc:creator>
+      <pubDate>Sun, 27 Dec 2020 04:02:19 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nashville, Tenn, Explosion (2020)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Bombs and Explosives</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Nashville (Tenn)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Antioch (Tenn)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer Network Outages</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/12/26/multimedia/26nat-nashville-outages-2/26nat-nashville-outages-2-moth.jpg" width="151"></media:content>
+      <media:credit>Mark Humphrey/Associated Press</media:credit>
+      <media:description>Law enforcement officials in Antioch, a community in the Nashville area, on Saturday.</media:description>
+    </item>
+    <item>
+      <title>What We Know About the Nashville Explosion on Christmas Day</title>
+      <link>https://www.nytimes.com/2020/12/26/us/nashville-bomb-explosion.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/12/26/us/nashville-bomb-explosion.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/12/26/us/nashville-bomb-explosion.html" rel="standout"></atom:link>
+      <description>Federal agents were seen at a brick building on Saturday where an R.V. similar to the one that exploded had been parked in 2019.</description>
+      <dc:creator>Nicholas Bogel-Burroughs and Giulia McDonnell Nieto del Rio</dc:creator>
+      <pubDate>Sun, 27 Dec 2020 16:11:25 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nashville, Tenn, Explosion (2020)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Bombs and Explosives</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Nashville (Tenn)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/12/26/us/26nashville1/26nashville1-moth.jpg" width="151"></media:content>
+      <media:credit>Mark Humphrey/Associated Press</media:credit>
+      <media:description>Investigators were trying to piece together what happened before an R.V. detonated on the side of a street in downtown Nashville, devastating the neighborhood.</media:description>
+    </item>
+    <item>
+      <title>A Beloved World War II Photo Comes to Life in a Virtual Reunion</title>
+      <link>https://www.nytimes.com/2020/12/26/world/europe/Italy-World-War-II-American-soldier-reunion.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/12/26/world/europe/Italy-World-War-II-American-soldier-reunion.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/12/26/world/europe/Italy-World-War-II-American-soldier-reunion.html" rel="standout"></atom:link>
+      <description>Martin Adler, now 96, was looking for German troops in 1944 when he almost shot three Italian children. His daughter’s internet appeal brought them all together again this month.</description>
+      <dc:creator>Elisabetta Povoledo</dc:creator>
+      <pubDate>Sun, 27 Dec 2020 08:59:06 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">World War II (1939-45)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bologna (Italy)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/12/27/world/27italy-reunion-print1/17italy-reunion-1-moth.jpg" width="151"></media:content>
+      <media:credit>Matteo Incerti, via Agence France-Presse &amp;mdash; Getty Images</media:credit>
+      <media:description>Martin Adler in 1944 with the Naldi children, Bruno, Mafalda and Giuliana, in the northern Italian village of Monterenzio.</media:description>
+    </item>
+    <item>
+      <title>A Racial Slur, a Viral Video, and a Reckoning</title>
+      <link>https://www.nytimes.com/2020/12/26/us/mimi-groves-jimmy-galligan-racial-slurs.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/12/26/us/mimi-groves-jimmy-galligan-racial-slurs.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/12/26/us/mimi-groves-jimmy-galligan-racial-slurs.html" rel="standout"></atom:link>
+      <description>A white high school student withdrew from her chosen college after a three-second video caused an uproar online. The classmate who shared it publicly has no regrets.</description>
+      <dc:creator>Dan Levin</dc:creator>
+      <pubDate>Sat, 26 Dec 2020 22:53:39 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Black People</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Discrimination</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Video Recordings, Downloads and Streaming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Galligan, Jimmy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Groves, Mimi</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Colleges and Universities</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">University of Tennessee</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Loudoun County (Va)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Leesburg (Va)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Black Lives Matter Movement</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Race and Ethnicity</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/12/17/us/00student6/00student6-moth-v2.jpg" width="151"></media:content>
+      <media:credit>Alyssa Schukar for The New York Times</media:credit>
+    </item>
+    <item>
+      <title>My Restaurant Was My Life for 20 Years. Does the World Need It Anymore?</title>
+      <link>https://www.nytimes.com/2020/04/23/magazine/closing-prune-restaurant-covid.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/04/23/magazine/closing-prune-restaurant-covid.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/04/23/magazine/closing-prune-restaurant-covid.html" rel="standout"></atom:link>
+      <description>Forced to shutter Prune, I’ve been revisiting my original dreams for it — and wondering if there will still be a place for it in the New York of the future.</description>
+      <dc:creator>Gabrielle Hamilton</dc:creator>
+      <pubDate>Sun, 26 Apr 2020 13:20:18 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Restaurants</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Prune (Manhattan, NY, Restaurant)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Shutdowns (Institutional)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Layoffs and Job Reductions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Delivery Services</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cooking and Cookbooks</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="">Narrated</category>
+      <category domain="">The Sunday Read</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/04/26/magazine/26mag-prune-05/26mag-prune-05-moth-v2.jpg" width="151"></media:content>
+      <media:credit>Philip Montgomery for The New York Times</media:credit>
+    </item>
+    <item>
+      <title>Sacha Baron Cohen on the &#39;Borat&#39; Sequel and Playing Abbie Hoffman</title>
+      <link>https://www.nytimes.com/2020/10/17/style/sacha-baron-cohen-maureen-dowd-interview.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/10/17/style/sacha-baron-cohen-maureen-dowd-interview.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/10/17/style/sacha-baron-cohen-maureen-dowd-interview.html" rel="standout"></atom:link>
+      <description>Reviving his Borat character and playing the political activist Abbie Hoffman, the actor feels he “had to ring the alarm bell and say that democracy is in peril this year.”</description>
+      <dc:creator>Maureen Dowd</dc:creator>
+      <pubDate>Wed, 11 Nov 2020 15:09:06 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Cohen, Sacha Baron</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Actors and Actresses</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Comedy and Humor</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Movies</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Borat (Movie)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Borat Subsequent Moviefilm (Movie)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">The Trial of the Chicago 7 (Movie)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/10/18/fashion/17WITH-SACHABARONCOHEN1/17WITH-SACHABARONCOHEN1-moth-v2.jpg" width="151"></media:content>
+      <media:credit>Buck Ellison for The New York Times</media:credit>
+      <media:description>Leading man: Sacha Baron Cohen’s riotous characters have perhaps masked his dramatic abilities.</media:description>
+    </item>
+    <item>
+      <title>Pandemic Relief, Nashville, Brexit: Your Weekend Briefing</title>
+      <link>https://www.nytimes.com/2020/12/27/briefing/pandemic-relief-nashville-brexit.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/12/27/briefing/pandemic-relief-nashville-brexit.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/12/27/briefing/pandemic-relief-nashville-brexit.html" rel="standout"></atom:link>
+      <description>Here’s what you need to know about the week’s top stories.</description>
+      <dc:creator>Carole Landry and Jeremiah M. Bogert, Jr.</dc:creator>
+      <pubDate>Sun, 27 Dec 2020 11:17:20 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/12/27/lens/27weekend-briefing-promo2/27weekend-briefing-stimulus-moth.jpg" width="151"></media:content>
+      <media:credit>John Sommers II/Getty Images</media:credit>
+    </item>
+    <item>
+      <title>The Sunday Read: ‘Cher Everlasting’</title>
+      <link>https://www.nytimes.com/2020/12/27/podcasts/the-daily/cher-moonstruck-oscars-pandemic.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/12/27/podcasts/the-daily/cher-moonstruck-oscars-pandemic.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/12/27/podcasts/the-daily/cher-moonstruck-oscars-pandemic.html" rel="standout"></atom:link>
+      <description>“Moonstruck” sustained many people through the pandemic. Caity Weaver spoke with Cher about why the film endures.</description>
+      <pubDate>Sun, 27 Dec 2020 14:00:07 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Quarantine (Life and Culture)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Movies</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Cher (1946- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Moonstruck (Movie)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/12/13/magazine/27daily-audm-1/13mag-cher-moth.jpg" width="151"></media:content>
+      <media:credit>Christopher Anderson/Magnum, for The New York Times</media:credit>
+      <media:description>Cher, transformed in “Moonstruck.”</media:description>
+    </item>
+    <item>
+      <title>Special Delivery: Thousands of Books</title>
+      <link>https://www.nytimes.com/2020/12/26/neediest-cases/special-delivery-thousands-of-books.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/12/26/neediest-cases/special-delivery-thousands-of-books.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/12/26/neediest-cases/special-delivery-thousands-of-books.html" rel="standout"></atom:link>
+      <description>Special Delivery: Thousands of Books</description>
+      <dc:creator>Charley Locke</dc:creator>
+      <pubDate>Sat, 26 Dec 2020 16:22:48 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">New York Times Neediest Cases Fund</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Krispy Kreme Doughnuts Inc</category>
+    </item>
+    <item>
+      <title>‘The 46th’: Will Georgia’s Races Change the Senate?</title>
+      <link>https://www.nytimes.com/2020/12/18/opinion/georgia-election-warnock-ossoff.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/12/18/opinion/georgia-election-warnock-ossoff.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/12/18/opinion/georgia-election-warnock-ossoff.html" rel="standout"></atom:link>
+      <description>Jamelle Bouie joins Michelle and Ross to predict the results of the runoff elections.</description>
+      <pubDate>Tue, 22 Dec 2020 01:11:48 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Georgia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Warnock, Raphael G</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ossoff, Jon</category>
+    </item>
+    <item>
+      <title>What’s Your Resolution for the Next Four Years?</title>
+      <link>https://www.nytimes.com/2020/12/27/opinion/resolution-trump-fitspo.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/12/27/opinion/resolution-trump-fitspo.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/12/27/opinion/resolution-trump-fitspo.html" rel="standout"></atom:link>
+      <description>President Trump’s election in 2016 got some of us moving — into campaigns, into gyms and into board rooms. Once he’s gone, will our habits stick?</description>
+      <dc:creator>Nayeema Raza</dc:creator>
+      <pubDate>Sun, 27 Dec 2020 16:59:31 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2020</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2016</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+    </item>
+    <item>
+      <title>The Haunting of Tulsa, Okla.</title>
+      <link>https://www.nytimes.com/2020/12/26/opinion/tulsa-race-massacre-mass-grave.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/12/26/opinion/tulsa-race-massacre-mass-grave.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/12/26/opinion/tulsa-race-massacre-mass-grave.html" rel="standout"></atom:link>
+      <description>A recently unearthed mass grave may soon provide answers about what happened to victims of the 1921 Tulsa Race Massacre.</description>
+      <dc:creator>Brent Staples</dc:creator>
+      <pubDate>Sun, 27 Dec 2020 00:11:11 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Tulsa Race Riot (1921)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Black People</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cemeteries</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Archaeology and Anthropology</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Tulsa (Okla)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War Crimes, Genocide and Crimes Against Humanity</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/12/28/opinion/26staples4/merlin_181605765_3eb37a83-2413-4edb-9764-e33fb1c2d290-moth.jpg" width="151"></media:content>
+      <media:credit>Joseph Rushmore for The New York Times</media:credit>
+      <media:description>A section of a Tulsa, Okla., cemetery is roped off where a mass grave has been discovered.</media:description>
+    </item>
+    <item>
+      <title>Can Joe Biden Make American Politics Decent Again?</title>
+      <link>https://www.nytimes.com/2020/12/23/opinion/biden-mcconnell-republicans.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/12/23/opinion/biden-mcconnell-republicans.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/12/23/opinion/biden-mcconnell-republicans.html" rel="standout"></atom:link>
+      <description>The new year will prove whether we have any decency left in us.</description>
+      <dc:creator>Frank Bruni</dc:creator>
+      <pubDate>Wed, 23 Dec 2020 21:20:59 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rumors and Misinformation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">McConnell, Mitch</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Romney, Mitt</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">House of Representatives</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Senate</category>
+    </item>
+    <item>
+      <title>Travel After the Coronavirus Pandemic Might Be Different</title>
+      <link>https://www.nytimes.com/2020/12/24/admin/coronavirus-travel.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/12/24/admin/coronavirus-travel.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/12/24/admin/coronavirus-travel.html" rel="standout"></atom:link>
+      <description>The future of travel will involve fewer selfies from Icelandic spas.</description>
+      <dc:creator>Tariro Mzezewa</dc:creator>
+      <pubDate>Thu, 24 Dec 2020 10:00:12 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Travel and Vacations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Travel Warnings</category>
+    </item>
+    <item>
+      <title>Are You Sure You Want to Go Back to the Office?</title>
+      <link>https://www.nytimes.com/2020/12/23/opinion/covid-offices-remote-work.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/12/23/opinion/covid-offices-remote-work.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/12/23/opinion/covid-offices-remote-work.html" rel="standout"></atom:link>
+      <description>The future of work is flexibility.</description>
+      <dc:creator>Anne Helen Petersen</dc:creator>
+      <pubDate>Wed, 23 Dec 2020 21:41:31 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Work-Life Balance</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Labor and Jobs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Quarantine (Life and Culture)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Telecommuting</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Workplace Environment</category>
+    </item>
+    <item>
+      <title>The Runner Sara Hall&#39;s 2020 Breakthrough</title>
+      <link>https://www.nytimes.com/2020/12/26/opinion/Sara-Hall-marathon-runner-united-states.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/12/26/opinion/Sara-Hall-marathon-runner-united-states.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/12/26/opinion/Sara-Hall-marathon-runner-united-states.html" rel="standout"></atom:link>
+      <description>Sara Hall is a 37-year-old elite marathoner and mother of four. She showed me how years of setbacks can lead to unexpected rewards.</description>
+      <dc:creator>Lindsay Crouse</dc:creator>
+      <pubDate>Sat, 26 Dec 2020 16:00:05 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">London Marathon</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Marathon Running</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Records and Achievements</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hall, Ryan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hall, Sara</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/12/26/opinion/26crouse-01/26crouse-01-moth.jpg" width="151"></media:content>
+      <media:credit>Pool photo by Richard Heathcote</media:credit>
+      <media:description>Sara Hall finishing second in the 2020 London Marathon.</media:description>
+    </item>
+    <item>
+      <title>Covid-19 Taught Me to Value My Friends</title>
+      <link>https://www.nytimes.com/2020/12/24/opinion/coronavirus-friendship.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/12/24/opinion/coronavirus-friendship.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/12/24/opinion/coronavirus-friendship.html" rel="standout"></atom:link>
+      <description>It’s been a year of loneliness and isolation. In 2021, we’ll celebrate.</description>
+      <dc:creator>Maeve Higgins</dc:creator>
+      <pubDate>Thu, 24 Dec 2020 10:00:12 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Loneliness</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Friendship</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Quarantine (Life and Culture)</category>
+    </item>
+    <item>
+      <title>Cities Will Survive Covid-19</title>
+      <link>https://www.nytimes.com/2020/12/22/opinion/cities-coronavirus.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/12/22/opinion/cities-coronavirus.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/12/22/opinion/cities-coronavirus.html" rel="standout"></atom:link>
+      <description>Because neither the United States nor the world can do without cities.</description>
+      <dc:creator>Farhad Manjoo</dc:creator>
+      <pubDate>Wed, 23 Dec 2020 21:26:47 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Urban Areas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Area Planning and Renewal</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sustainable Living</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Income Inequality</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Infrastructure (Public Works)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Real Estate (Commercial)</category>
+    </item>
+    <item>
+      <title>Ancient DNA Is Changing How We Think About the Caribbean</title>
+      <link>https://www.nytimes.com/2020/12/23/opinion/dna-caribbean-genocide.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/12/23/opinion/dna-caribbean-genocide.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/12/23/opinion/dna-caribbean-genocide.html" rel="standout"></atom:link>
+      <description>New research delivers surprising findings about Indigenous people in the region before contact with Europeans.</description>
+      <dc:creator>David Reich and Orlando Patterson</dc:creator>
+      <pubDate>Wed, 23 Dec 2020 16:00:10 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Caribbean Area</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Genetics and Heredity</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Genealogy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Population</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Indigenous People</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Dominican Republic</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Hispaniola</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Haiti</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/12/23/opinion/23ReichPatterson-01/23ReichPatterson-01-moth.jpg" width="151"></media:content>
+      <media:credit>Kayana Szymczak for The New York Times</media:credit>
+      <media:description>Scientists now have data concerning the entire genomes of more than 260 people of the ancient Caribbean.</media:description>
+    </item>
+    <item>
+      <title>Covid-19 Changed Our Restaurant&#39;s Business Overnight</title>
+      <link>https://www.nytimes.com/2020/12/23/opinion/covid-restaurant-business.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/12/23/opinion/covid-restaurant-business.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/12/23/opinion/covid-restaurant-business.html" rel="standout"></atom:link>
+      <description>In a world where everything was changing, the menu at a small New Orleans restaurant also had to adapt. Not everyone seemed to get that.</description>
+      <dc:creator>Richard Horner</dc:creator>
+      <pubDate>Wed, 23 Dec 2020 22:44:37 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Restaurants</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Quarantine (Life and Culture)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cooking and Cookbooks</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Chinese Food (Cuisine)</category>
+    </item>
+    <item>
+      <title>Uncovering a Cemetery&#39;s Lost Black History, Stone by Stone</title>
+      <link>https://www.nytimes.com/2020/12/22/arts/black-cemetery-new-jersey-history.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/12/22/arts/black-cemetery-new-jersey-history.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/12/22/arts/black-cemetery-new-jersey-history.html" rel="standout"></atom:link>
+      <description>Sourland Mountain, a once-isolated region in New Jersey, has long inspired tall tales. Two local women turned “history detectives” have been trying to recover its true story.</description>
+      <dc:creator>Jennifer Schuessler</dc:creator>
+      <pubDate>Wed, 23 Dec 2020 13:10:57 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Black People</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Museums</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cemeteries</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Slavery (Historical)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Genealogy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Buck, Elaine (1953- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mills, Beverly (1950- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Stoutsburg Cemetery (Hopewell, NJ)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Stoutsburg Sourland African American Museum (Hopewell, NJ)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Museum of the American Revolution</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Hopewell (NJ)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">If These Stones Could Talk: African American Presence in the Hopewell Valley, Sourland Mountain and Surrounding Regions of New Jersey (Book)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/12/23/arts/22NJ-CEMETERY1/22NJ-CEMETERY1-moth-v2.jpg" width="151"></media:content>
+      <media:credit>Amr Alfiky/The New York Times</media:credit>
+      <media:description>Elaine Buck, left, and Beverly Mills, in the Stoutsburg Cemetery in Hopewell, N.J., the subject of their book, “If These Stones Could Talk.”</media:description>
+    </item>
+    <item>
+      <title>The Modern Love Podcast: 10 Episodes to Binge Through the Holidays</title>
+      <link>https://www.nytimes.com/2020/12/23/podcasts/modern-love-10-episodes-binge-holidays.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/12/23/podcasts/modern-love-10-episodes-binge-holidays.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/12/23/podcasts/modern-love-10-episodes-binge-holidays.html" rel="standout"></atom:link>
+      <description>2020 has been a year of isolation and grief, but there’s always room for love.</description>
+      <pubDate>Fri, 25 Dec 2020 14:08:21 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Dating and Relationships</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Love (Emotion)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Divorce, Separations and Annulments</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Podcasts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Holidays and Special Occasions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Jones, Daniel (1962- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lee, Miya</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Marriages</category>
+    </item>
+    <item>
+      <title>Central and Southern California Have 0 Percent I.C.U. Capacity</title>
+      <link>https://www.nytimes.com/2020/12/26/world/central-and-southern-california-icu-capacity.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/12/26/world/central-and-southern-california-icu-capacity.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/12/26/world/central-and-southern-california-icu-capacity.html" rel="standout"></atom:link>
+      <description></description>
+      <dc:creator>Bryan Pietsch</dc:creator>
+      <pubDate>Sat, 26 Dec 2020 23:29:34 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-essential</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/12/26/world/26virus-briefing-california-beds/26virus-briefing-california-beds-moth.jpg" width="151"></media:content>
+      <media:credit>Ariana Drehsler for The New York Times</media:credit>
+      <media:description>Gabriella Ortega, a respiratory therapist, speaks to a health care worker who is helping to treat a Covid-19 patient at Providence St. Mary Medical Center in Apple Valley, Calif., on Dec. 17.</media:description>
+    </item>
+    <item>
+      <title>U.S. Serviceman Charged in Deadly Shooting at Illinois Bowling Alley, Police Say</title>
+      <link>https://www.nytimes.com/2020/12/27/us/Rockford-shooting-bowling-alley.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/12/27/us/Rockford-shooting-bowling-alley.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/12/27/us/Rockford-shooting-bowling-alley.html" rel="standout"></atom:link>
+      <description>Three people were killed and three others injured in what the police described as a “completely random” act.</description>
+      <dc:creator>Christina Morales</dc:creator>
+      <pubDate>Sun, 27 Dec 2020 17:10:30 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Murders, Attempted Murders and Homicides</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Rockford (Ill)</category>
+      <category domain="">Bowling alley</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Don Carter Lanes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Duke Webb</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/12/27/multimedia/27xp-bowlingalley3/27xp-bowlingalley3-moth.jpg" width="151"></media:content>
+      <media:credit>Scott P. Yates/Rockford Register Star, via Associated Press</media:credit>
+      <media:description>Law enforcement officers at the scene of the shooting at Don Carter Lanes on Saturday in Rockford, Ill.</media:description>
+    </item>
+    <item>
+      <title>The Auto I.R.A. Is Gaining Traction as a Retirement Savings Option</title>
+      <link>https://www.nytimes.com/2020/12/22/business/retirement-savings-auto-ira.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/12/22/business/retirement-savings-auto-ira.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/12/22/business/retirement-savings-auto-ira.html" rel="standout"></atom:link>
+      <description>The automatic I.R.A., administered by state governments, will be more widely available.</description>
+      <dc:creator>Tammy La Gorce</dc:creator>
+      <pubDate>Tue, 22 Dec 2020 10:00:18 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Individual Retirement Accounts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pensions and Retirement Plans</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Asset Allocation (Personal Finances)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Retirement</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Small Business</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">States (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Security (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Illinois</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">California</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/12/27/business/04retiring-01/04retiring-01-moth.jpg" width="151"></media:content>
+      <media:credit>Rich Saal for The New York Times</media:credit>
+      <media:description>“I didn’t have to invest a lot of time figuring it out, and it’s free,” Denise Geske, right, who owns a salon with her sister Casey Pirtle, left, said of the automatic I.R.A. program run by Illinois.</media:description>
+    </item>
+    <item>
+      <title>Man Sues Police After Being Pepper-Sprayed While Filming Son’s Arrest</title>
+      <link>https://www.nytimes.com/2020/12/27/us/marco-puente-texas-police-arrest.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/12/27/us/marco-puente-texas-police-arrest.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/12/27/us/marco-puente-texas-police-arrest.html" rel="standout"></atom:link>
+      <description>An officer involved in the episode, which happened in Keller, Texas, was demoted for misconduct, officials said.</description>
+      <dc:creator>Allyson Waller</dc:creator>
+      <pubDate>Sun, 27 Dec 2020 11:00:06 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Police Brutality, Misconduct and Shootings</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Search and Seizure</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Racial Profiling</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Keller (Tex)</category>
+      <category domain=""></category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Puente, Marco</category>
+      <category domain=""></category>
+      <category domain=""></category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/12/24/lens/00xp-pepperspray-video/00xp-pepperspray-video-moth.jpg" width="151"></media:content>
+      <media:credit>Keller Police Department</media:credit>
+      <media:description>A still image from a body camera video shows an officer in Keller, Texas, using pepper spray on Marco Puente.</media:description>
+    </item>
+    <item>
+      <title>China Orders Ant Group to Revamp Its Business</title>
+      <link>https://www.nytimes.com/2020/12/27/technology/ant-group-china-regulation.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/12/27/technology/ant-group-china-regulation.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/12/27/technology/ant-group-china-regulation.html" rel="standout"></atom:link>
+      <description>The country’s central bank made clear its displeasure with the financial technology company, adding to the growing scrutiny of Chinese internet giants.</description>
+      <dc:creator>Raymond Zhong</dc:creator>
+      <pubDate>Sun, 27 Dec 2020 11:11:49 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">E-Commerce</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Banking and Financial Institutions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Alipay</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ma, Jack</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Ant Financial Services Group</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Alibaba Group Holding Ltd</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/12/27/world/27china-ant01/27china-ant01-moth.jpg" width="151"></media:content>
+      <media:credit>Hector Retamal/Agence France-Presse — Getty Images</media:credit>
+      <media:description>The Shanghai office building of Ant Group. Alipay’s growth had put Ant on course to hold the world’s largest initial public offering.</media:description>
+    </item>
+    <item>
+      <title>In a Village of Widows, the Opium Trade Has Taken a Deadly Toll</title>
+      <link>https://www.nytimes.com/2020/12/27/world/asia/afghanistan-iran-opium.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/12/27/world/asia/afghanistan-iran-opium.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/12/27/world/asia/afghanistan-iran-opium.html" rel="standout"></atom:link>
+      <description>Afghan men in an impoverished border settlement die trying to smuggle opium into Iran, leaving behind loved ones forced to survive on their own.</description>
+      <dc:creator>David Zucchino and Najim Rahim</dc:creator>
+      <pubDate>Sun, 27 Dec 2020 13:56:33 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Smuggling</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drug Abuse and Traffic</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Afghanistan War (2001- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Taliban</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Afghanistan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Herat (Afghanistan)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/12/24/world/00Afghan-widows01/00Afghan-widows01-moth.jpg" width="151"></media:content>
+      <media:credit>Jim Huylebroek for The New York Times</media:credit>
+      <media:description>Women in Qala-e-Biwaha, or the “village of widows.” They survive on earnings from the wool-processing trade, or donations from relatives and aid groups.</media:description>
+    </item>
+    <item>
+      <title>Trump’s Fraud Claims Died in Court, but the Myth of Stolen Elections Lives On</title>
+      <link>https://www.nytimes.com/2020/12/26/us/politics/republicans-voter-fraud.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/12/26/us/politics/republicans-voter-fraud.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/12/26/us/politics/republicans-voter-fraud.html" rel="standout"></atom:link>
+      <description>For years, Republicans have used the specter of cheating as a reason to impose barriers to ballot access. A definitive debunking of claims of wrongdoing in 2020 has not changed that message.</description>
+      <dc:creator>Jim Rutenberg, Nick Corasaniti and Alan Feuer</dc:creator>
+      <pubDate>Sat, 26 Dec 2020 20:20:21 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Voter Fraud (Election Fraud)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2020</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Voter Registration and Requirements</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Voting Machines</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Dominion Voting Systems Corp</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">States (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rumors and Misinformation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Absentee Voting</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Conspiracy Theories</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/12/23/us/politics/00trump-courts/00trump-courts-moth.jpg" width="151"></media:content>
+      <media:credit>Oliver Contreras for The New York Times</media:credit>
+      <media:description>President Donald Trump and the first lady, Melania Trump, walking on the South Lawn of the White House on Wednesday.</media:description>
+    </item>
+    <item>
+      <title>What to Know of Covid-19 Antibody Drugs: Cost, Availability and More</title>
+      <link>https://www.nytimes.com/2020/12/23/health/coronavirus-antibody-drugs.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/12/23/health/coronavirus-antibody-drugs.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/12/23/health/coronavirus-antibody-drugs.html" rel="standout"></atom:link>
+      <description>Here’s information about who these therapies can help, how much they cost and how to find out if you can get them where you live.</description>
+      <dc:creator>Katie Thomas and Rebecca Robbins</dc:creator>
+      <pubDate>Wed, 23 Dec 2020 15:47:32 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drugs (Pharmaceuticals)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Eli Lilly and Company</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Regeneron Pharmaceuticals Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Food and Drug Administration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Antibodies</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-healthcare</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/12/23/science/23VIRUS-ANTIBODIES-EXPLAINER/23VIRUS-ANTIBODIES-EXPLAINER-moth.jpg" width="151"></media:content>
+      <media:credit>Floyd Medical Center</media:credit>
+      <media:description>Early data have shown that monoclonal antibody treatments may prevent hospitalization in people at high risk for complications from Covid-19.</media:description>
+    </item>
+    <item>
+      <title>Ex-Military Officers Criticize Spain’s Government and Praise Franco</title>
+      <link>https://www.nytimes.com/2020/12/27/world/europe/spain-military-franco-fascist.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/12/27/world/europe/spain-military-franco-fascist.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/12/27/world/europe/spain-military-franco-fascist.html" rel="standout"></atom:link>
+      <description>The comments by former officers, and some current ones, struck a raw nerve in a country that had been ruled by a military dictatorship.</description>
+      <dc:creator>Raphael Minder</dc:creator>
+      <pubDate>Sun, 27 Dec 2020 15:31:39 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Right-Wing Extremism and Alt-Right</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">North Atlantic Treaty Organization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Spanish Socialist Workers&#39; Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Franco, Francisco</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Spain</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/12/27/world/27spain1/27spain1-moth.jpg" width="151"></media:content>
+      <media:credit>Carlos Alvarez/Getty Images</media:credit>
+      <media:description>The National Day military parade in Madrid in October.</media:description>
+    </item>
+    <item>
+      <title>Fried Chicken Is Joy</title>
+      <link>https://www.nytimes.com/2020/12/25/dining/fried-chicken-is-joy.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/12/25/dining/fried-chicken-is-joy.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/12/25/dining/fried-chicken-is-joy.html" rel="standout"></atom:link>
+      <description>Try Nicole Taylor’s recipe, marinated in berry jam, or make a Gruyère puff, a classic pasta dish or a glorious pan of nachos this week.</description>
+      <dc:creator>Emily Weinstein</dc:creator>
+      <pubDate>Fri, 25 Dec 2020 17:30:03 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cooking and Cookbooks</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/12/27/dining/12brunchrex2/12brunchrex2-moth.jpg" width="151"></media:content>
+      <media:credit>Ryan Liebe for The New York Times. Food Stylist: Barrett Washburne.</media:credit>
+    </item>
+    <item>
+      <title>How Pixar’s ‘Soul’ Animates Jazz</title>
+      <link>https://www.nytimes.com/2020/12/25/movies/soul-jazz-animation.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/12/25/movies/soul-jazz-animation.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/12/25/movies/soul-jazz-animation.html" rel="standout"></atom:link>
+      <description>A look at the ways filmmakers and musicians collaborated to present an accurate view of players’ artistry.</description>
+      <dc:creator>Mekado Murphy</dc:creator>
+      <pubDate>Fri, 25 Dec 2020 15:10:17 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Movies</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Jazz</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Pixar Animation Studios</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Batiste, Jon (1986- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Docter, Pete</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Soul (Movie)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/12/18/arts/soul-jazz1/soul-jazz1-moth.jpg" width="151"></media:content>
+      <media:credit>Pixar/Disney</media:credit>
+      <media:description>Concept art from the movie. The filmmakers consulted several players and worked with the pianist Jon Batiste to convey jazz musicianship.</media:description>
+    </item>
+    <item>
+      <title>8 New Books We Recommend This Week</title>
+      <link>https://www.nytimes.com/2020/12/24/books/review/8-new-books-we-recommend-this-week.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/12/24/books/review/8-new-books-we-recommend-this-week.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/12/24/books/review/8-new-books-we-recommend-this-week.html" rel="standout"></atom:link>
+      <description>Suggested reading from critics and editors at The New York Times.</description>
+      <pubDate>Thu, 24 Dec 2020 16:31:08 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Books and Literature</category>
+    </item>
+    <item>
+      <title>Miss the N.Y.C. Subway? These Radio Plays Bring It Back to Life</title>
+      <link>https://www.nytimes.com/2020/12/24/theater/mta-plays-subway-rattlestick.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/12/24/theater/mta-plays-subway-rattlestick.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/12/24/theater/mta-plays-subway-rattlestick.html" rel="standout"></atom:link>
+      <description>A new audio series from Rattlestick Playwrights Theater imagines the bustle of the trains before the pandemic — one story and one station at a time.</description>
+      <dc:creator>Christina Goldbaum</dc:creator>
+      <pubDate>Thu, 24 Dec 2020 20:31:58 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Subways</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Theater</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Rattlestick Playwrights Theater</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">The MTA Radio Plays (Play)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Santiago, Ren Dara</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bean, Natyna</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Contreras, Julissa</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lambie, Alexander</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Quarantine (Life and Culture)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/12/26/arts/22mtaplay-1/22mtaplay-1-moth.jpg" width="151"></media:content>
+      <media:credit>Simbarashe Cha for The New York Times</media:credit>
+      <media:description>From left: Alexander Lambie, Ren Dara Santiago and Julissa Contreras, contributors to an audioplay series with episodes set inside the No. 2 train, at the Wakefield 241 Street station in the Bronx.</media:description>
+    </item>
+    <item>
+      <title>The Start of a New Chapter in Their Favorite Bookstore</title>
+      <link>https://www.nytimes.com/2020/12/24/fashion/weddings/the-start-of-a-new-chapter-in-their-favorite-bookstore.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/12/24/fashion/weddings/the-start-of-a-new-chapter-in-their-favorite-bookstore.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/12/24/fashion/weddings/the-start-of-a-new-chapter-in-their-favorite-bookstore.html" rel="standout"></atom:link>
+      <description>LaMarr Coles proposed to Stephanie Williams at Greedy Reads in Baltimore, where a few months earlier they had made their relationship official.</description>
+      <dc:creator>Tammy La Gorce</dc:creator>
+      <pubDate>Thu, 24 Dec 2020 18:23:24 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Weddings and Engagements</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Boys &amp; Girls Clubs of America</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/12/27/fashion/24Vows-WashDC1/24Vows-WashDC1-moth-v2.jpg" width="151"></media:content>
+      <media:credit>Justin T. Gellerson for The New York Times</media:credit>
+      <media:description>LaMarr Coles III and Stephanie Williams were married Dec. 6 in an outdoor ceremony on the patio of the Viceroy, a hotel in Washington.</media:description>
+    </item>
+    <item>
+      <title>How a Young Chess Phenom Spends His Sundays</title>
+      <link>https://www.nytimes.com/2020/12/25/nyregion/Oliver-Boydell-chess-nyc.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/12/25/nyregion/Oliver-Boydell-chess-nyc.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/12/25/nyregion/Oliver-Boydell-chess-nyc.html" rel="standout"></atom:link>
+      <description>Between studying moves with tutors in India and New York, Oliver Boydell has homework (with video game breaks, of course).</description>
+      <dc:creator>John Leland</dc:creator>
+      <pubDate>Fri, 25 Dec 2020 10:00:14 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Chess</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Marshall Chess Club</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">TriBeCa (Manhattan, NY)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Boydell, Oliver</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/12/27/us/27routine-olvier-boydell-2/27routine-olvier-boydell-2-moth.jpg" width="151"></media:content>
+      <media:credit>Christian Rodriguez for The New York Times</media:credit>
+      <media:description>Oliver Boydell sets up a practice game in Battery Park before an online chess lesson.</media:description>
+    </item>
+    <item>
+      <title>Opting Out of the N.F.L. Brings No Regret for This Jets Lineman</title>
+      <link>https://www.nytimes.com/2020/12/27/sports/football/Leo-Koloamatangi-jets-opt-out-nfl.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/12/27/sports/football/Leo-Koloamatangi-jets-opt-out-nfl.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/12/27/sports/football/Leo-Koloamatangi-jets-opt-out-nfl.html" rel="standout"></atom:link>
+      <description>Leo Koloamatangi says he misses his team, even in a dreadful season, and that he has wondered what he might have accomplished this year. But he finds comfort in knowing his family is at a lower risk.</description>
+      <dc:creator>Ben Shpigel</dc:creator>
+      <pubDate>Sun, 27 Dec 2020 06:00:06 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Football</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Football League</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">New York Jets</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Koloamatangi, Leo</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/12/27/sports/00lookback-optout1/00lookback-optout1-moth.jpg" width="151"></media:content>
+      <media:credit>Christian Monterrosa for The New York Times</media:credit>
+      <media:description>Leo Koloamatangi at his dining room table in Fontana, Calif., this summer.</media:description>
+    </item>
+    <item>
+      <title>10 Sparkling Wines for Leaving 2020 Behind</title>
+      <link>https://www.nytimes.com/2020/12/17/dining/drinks/best-sparkling-wines.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/12/17/dining/drinks/best-sparkling-wines.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/12/17/dining/drinks/best-sparkling-wines.html" rel="standout"></atom:link>
+      <description>The end-of-the-year parties will look different in 2020, but the featured bottles will still be bubbly, whether they come from Champagne or elsewhere.</description>
+      <dc:creator>Eric Asimov</dc:creator>
+      <pubDate>Thu, 17 Dec 2020 18:22:10 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Champagne (Wine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wines</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Grapes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">New Year</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Service</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/12/23/dining/23pour1/17pour1-moth.jpg" width="151"></media:content>
+      <media:credit>Tony Cenicola/The New York Times</media:credit>
+    </item>
+    <item>
+      <title>Early Vaccine Doubters Now Show a Willingness to Roll Up Their Sleeves</title>
+      <link>https://www.nytimes.com/2020/12/26/health/covid-vaccine-hesitancy.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/12/26/health/covid-vaccine-hesitancy.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/12/26/health/covid-vaccine-hesitancy.html" rel="standout"></atom:link>
+      <description>Polls show that pervasive skepticism is melting, partly because of the high efficacy rates in trials and the images of real people getting the shot.</description>
+      <dc:creator>Jan Hoffman</dc:creator>
+      <pubDate>Sat, 26 Dec 2020 22:27:13 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vaccination and Immunization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Polls and Public Opinion</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Disease Rates</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Black People</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Moderna Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Pfizer Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-science</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/12/23/science/23VIRUS-VAX-HESITATE1/23VIRUS-VAX-HESITATE1-moth.jpg" width="151"></media:content>
+      <media:credit>Sarah Blesener for The New York Times</media:credit>
+      <media:description>For months, Tina Kleinfeldt, a surgical recovery nurse at Long Island Jewish Medical Center, did not want the coronavirus vaccine. But she changed her mind and became the first on her unit to get it.</media:description>
+    </item>
+    <item>
+      <title>A New Population of Blue Whales Was Discovered Hiding in the Indian Ocean</title>
+      <link>https://www.nytimes.com/2020/12/23/science/blue-whales-indian-ocean.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/12/23/science/blue-whales-indian-ocean.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/12/23/science/blue-whales-indian-ocean.html" rel="standout"></atom:link>
+      <description>The whales in the group seem to sing a unique song.</description>
+      <dc:creator>Katherine J. Wu</dc:creator>
+      <pubDate>Wed, 23 Dec 2020 17:06:20 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Whales and Whaling</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Animal Behavior</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Indian Ocean</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Endangered Species Research (Journal)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-science</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-animals</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/12/23/science/23TB-BLUEWHALES1/23TB-BLUEWHALES1-moth.jpg" width="151"></media:content>
+      <media:credit>Robert Baldwin/Environment Society of Oman</media:credit>
+      <media:description>Researchers said that the blue whale song that crackled through the team’s underwater recordings was unlike any they had heard.</media:description>
+    </item>
+    <item>
+      <title>More Mammals Are Hiding Their Secret Glow</title>
+      <link>https://www.nytimes.com/2020/12/18/science/glowing-mammals-australia.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/12/18/science/glowing-mammals-australia.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/12/18/science/glowing-mammals-australia.html" rel="standout"></atom:link>
+      <description>First it was platypuses. Now we may be dealing with glowing Tasmanian devils, echidnas and wombats.</description>
+      <dc:creator>Cara Giaimo</dc:creator>
+      <pubDate>Fri, 18 Dec 2020 16:30:49 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ultraviolet Light</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mammals</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Tasmanian Devils</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Animal Behavior</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Biology and Biochemistry</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Australia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-science</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-animals</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/12/18/science/18TB-GLOW1/18TB-GLOW1-moth.jpg" width="151"></media:content>
+      <media:credit>Western Australia Museum</media:credit>
+      <media:description>Stuffed bare-nosed wombats fluoresce under a black light at the Western Australia Museum. </media:description>
+    </item>
+    <item>
+      <title>Fruit Flies Are Essential to Science. So Are the Workers Who Keep Them Alive.</title>
+      <link>https://www.nytimes.com/2020/12/14/science/fruit-flies-covid.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/12/14/science/fruit-flies-covid.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/12/14/science/fruit-flies-covid.html" rel="standout"></atom:link>
+      <description>Sustaining the world’s biggest Drosophila collection during the pandemic has been a challenge, but the people in Indiana who supply the insects to labs around the world stay dedicated to the task.</description>
+      <dc:creator>Cara Giaimo</dc:creator>
+      <pubDate>Mon, 14 Dec 2020 21:48:50 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Bloomington Drosophila Stock Center</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Indiana University</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fruit Flies</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Genetics and Heredity</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Laboratories and Scientific Equipment</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Quarantine (Life and Culture)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Workplace Hazards and Violations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-science</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-animals</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bloomington (Ind)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/12/15/science/15SCI-FRUITFLIES1/merlin_176445213_61f8659d-50fa-46d5-bff8-22dccc656831-moth.jpg" width="151"></media:content>
+      <media:credit>Kaiti Sullivan for The New York Times</media:credit>
+      <media:description>&amp;ldquo;Flipped&amp;rdquo; vials that had contained fruit flies in the Bloomington Drosophila Stock Center at Indiana University.</media:description>
+    </item>
+    <item>
+      <title>Turn Your Sex Life Around</title>
+      <link>https://www.nytimes.com/2020/12/26/well/take-back-your-sex-life.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/12/26/well/take-back-your-sex-life.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/12/26/well/take-back-your-sex-life.html" rel="standout"></atom:link>
+      <description>With all its stress and uncertainty, this year hasn’t exactly been a banner year for intimacy. But that can change.</description>
+      <dc:creator>Meaghan O’Connell</dc:creator>
+      <pubDate>Sun, 27 Dec 2020 03:57:05 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Quarantine (Life and Culture)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Service</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Dating and Relationships</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sex</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Anxiety and Stress</category>
+    </item>
+    <item>
+      <title>Homes That Sold for Around $450,000</title>
+      <link>https://www.nytimes.com/2020/12/27/realestate/homes-that-sold-for-around-450000.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/12/27/realestate/homes-that-sold-for-around-450000.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/12/27/realestate/homes-that-sold-for-around-450000.html" rel="standout"></atom:link>
+      <description>Recent residential sales in New York City and the region.</description>
+      <dc:creator>C. J. Hughes</dc:creator>
+      <pubDate>Sun, 27 Dec 2020 14:00:07 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Real Estate and Housing (Residential)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Commack (NY)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Eastchester (NY)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Yorkville (Manhattan, NY)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Norwalk (Conn)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Staten Island (NYC)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Union County (NJ)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Roselle Park (NJ)</category>
+      <category domain=""></category>
+    </item>
+    <item>
+      <title>Review: ‘Bridgerton’ Is a Sparkly Period Piece With a Difference</title>
+      <link>https://www.nytimes.com/2020/12/23/arts/television/bridgerton-review.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/12/23/arts/television/bridgerton-review.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/12/23/arts/television/bridgerton-review.html" rel="standout"></atom:link>
+      <description>The first Netflix series from Shonda Rhimes’s company updates the genre with modern race and gender attitudes (and lots of skin).</description>
+      <dc:creator>James Poniewozik</dc:creator>
+      <pubDate>Wed, 23 Dec 2020 19:14:01 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Television</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Bridgerton (TV Program)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rhimes, Shonda</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Netflix Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Shondaland (Production Co)</category>
+    </item>
+    <item>
+      <title>Spelling Bee</title>
+      <link>https://www.nytimes.com/puzzles/spelling-bee</link>
+      <guid isPermaLink="true">https://www.nytimes.com/puzzles/spelling-bee</guid>
+      <atom:link href="https://www.nytimes.com/puzzles/spelling-bee" rel="standout"></atom:link>
+      <description>Use 7 letters to make as many words as you can.</description>
+      <dc:creator>The New York Times</dc:creator>
+      <pubDate>Mon, 07 Dec 2020 23:19:30 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/03/23/crosswords/spelling-bee-logo-nytgames-hi-res/spelling-bee-logo-nytgames-hi-res-moth-v2.png" width="151"></media:content>
+      <media:credit>The New York Times</media:credit>
+    </item>
+    <item>
+      <title>The Crossword, Tiles and More</title>
+      <link>https://www.nytimes.com/crosswords</link>
+      <guid isPermaLink="true">https://www.nytimes.com/crosswords</guid>
+      <atom:link href="https://www.nytimes.com/crosswords" rel="standout"></atom:link>
+      <description>Solve the daily puzzle edited by Will Shortz, or try out other games like the Mini and Vertex.</description>
+      <dc:creator>The New York Times</dc:creator>
+      <pubDate>Mon, 07 Dec 2020 23:19:30 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/03/23/crosswords/crossword-logo-nytgames-hires/crossword-logo-nytgames-hires-moth-v2.png" width="151"></media:content>
+      <media:credit>The New York Times</media:credit>
+    </item>
+    <item>
+      <title>Vertex</title>
+      <link>https://www.nytimes.com/puzzles/vertex</link>
+      <guid isPermaLink="true">https://www.nytimes.com/puzzles/vertex</guid>
+      <atom:link href="https://www.nytimes.com/puzzles/vertex" rel="standout"></atom:link>
+      <description>Connect the dots to reveal the hidden picture.</description>
+      <dc:creator>The New York Times</dc:creator>
+      <pubDate>Mon, 07 Dec 2020 23:19:30 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/03/24/crosswords/vertex-nytgames-hi-res/vertex-nytgames-hi-res-moth-v3.png" width="151"></media:content>
+      <media:credit>The New York Times</media:credit>
+    </item>
+  </channel>
+</rss>

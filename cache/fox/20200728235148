@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" media="screen" href="/~d/styles/rss2full.xsl"?><?xml-stylesheet type="text/css" media="screen" href="http://feeds.foxnews.com/~d/styles/itemcontent.css"?><rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+                    <title>FOX News</title>
+    <link>http://www.foxnews.com/</link>
+    <description><![CDATA[FOXNews.com - Breaking news and video. Latest Current News: U.S., World, Entertainment, Health, Business, Technology, Politics, Sports.]]></description>
+        <image>
+    	<url>http://tools.foxnews.com/sites/tools.foxnews.com/files/images/fox-news-logo.png</url>
+    	<title>FOX News</title>
+    	<link>http://www.foxnews.com/</link>
+    </image>
+            <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feeds.foxnews.com/foxnews/latest" /><feedburner:info xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" uri="foxnews/latest" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /><item>
+                  <guid isPermaLink="true">https://www.foxnews.com/sports/packers-aaron-rodgers-believes-it-will-be-his-final-season-playing-for-green-bay</guid>
+      <link>https://www.foxnews.com/sports/packers-aaron-rodgers-believes-it-will-be-his-final-season-playing-for-green-bay</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2019/12/Aaron-Rodgers2.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/Aaron-Rodgers2.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/Aaron-Rodgers2.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">4b3c68ed-1161-5cc0-9848-7fa81935847b</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/person/aaron-rodgers</category>
+            <category domain="foxnews.com/taxonomy">fox-news/sports/nfl</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/sports</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Packers' Aaron Rodgers believes this could be his final season playing for Green Bay</title>
+      <description>Future Hall of Fame quarterback Aaron Rodgers believes this upcoming season could be his last one in Green Bay.</description>
+                  <dc:creator>Daniel Canova</dc:creator>
+                         <pubDate>Tue, 28 Jul 2020 23:44:33 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Daniel Canova</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/sports/nfl-players-opted-out-playing-2020-coronavirus</guid>
+      <link>https://www.foxnews.com/sports/nfl-players-opted-out-playing-2020-coronavirus</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/04/nfl-draft-Getty-Images.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/nfl-draft-Getty-Images.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/nfl-draft-Getty-Images.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">0336a6dd-fd93-5ccc-8403-320fbec70666</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/sports/nfl</category>
+            <category domain="foxnews.com/taxonomy">fox-news/sports/nfl/baltimore-ravens</category>
+            <category domain="foxnews.com/taxonomy">fox-news/sports/nfl/buffalo-bills</category>
+            <category domain="foxnews.com/taxonomy">fox-news/sports/nfl/carolina-panthers</category>
+            <category domain="foxnews.com/taxonomy">fox-news/sports/nfl/dallas-cowboys</category>
+            <category domain="foxnews.com/taxonomy">fox-news/sports/nfl/denver-broncos</category>
+            <category domain="foxnews.com/taxonomy">fox-news/sports/nfl/green-bay-packers</category>
+            <category domain="foxnews.com/taxonomy">fox-news/sports/nfl/houston-texans</category>
+            <category domain="foxnews.com/taxonomy">fox-news/sports/nfl/kansas-city-chiefs</category>
+            <category domain="foxnews.com/taxonomy">fox-news/sports/nfl/minnesota-vikings</category>
+            <category domain="foxnews.com/taxonomy">fox-news/sports/nfl/new-england-patriots</category>
+            <category domain="foxnews.com/taxonomy">fox-news/sports/nfl/new-orleans-saints</category>
+            <category domain="foxnews.com/taxonomy">fox-news/sports/nfl/new-york-jets</category>
+            <category domain="foxnews.com/taxonomy">fox-news/sports/nfl/philadelphia-eagles</category>
+            <category domain="foxnews.com/taxonomy">fox-news/sports/nfl/tennessee-titans</category>
+            <category domain="foxnews.com/taxonomy">fox-news/health/infectious-disease/coronavirus</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/sports</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>NFL players who have opted out of playing the 2020 season over coronavirus concerns</title>
+      <description>Who is not going to play in 2020?</description>
+                  <dc:creator>Ryan Gaydos</dc:creator>
+            <dc:creator>Paulina Dedaj</dc:creator>
+            <dc:creator>Daniel Canova</dc:creator>
+                         <pubDate>Tue, 28 Jul 2020 23:34:54 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Ryan Gaydos</category>
+            <category domain="foxnews.com/metadata/dc.creator">Paulina Dedaj</category>
+            <category domain="foxnews.com/metadata/dc.creator">Daniel Canova</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/us/woman-killed-shark-attack-maine-julie-dimperio-holowach</guid>
+      <link>https://www.foxnews.com/us/woman-killed-shark-attack-maine-julie-dimperio-holowach</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/07/GettyImages-140902000.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/GettyImages-140902000.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/GettyImages-140902000.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">aa9f5625-5c58-5ec5-a300-68efe7b0b03b</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/science/wild-nature/sharks</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us/us-regions/northeast/maine</category>
+            <category domain="foxnews.com/taxonomy">fox-news/lifestyle</category>
+            <category domain="foxnews.com/taxonomy">fox-news/science/wild-nature</category>
+            <category domain="foxnews.com/taxonomy">fox-news/science/planet-earth/oceans</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us/us-regions/northeast</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/us</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Woman killed in apparent shark attack off Maine ID'd as former fashion exec swimming with her daughter</title>
+      <description>Maine authorities have identified the 63-year-old woman killed in a shark attack Monday while swimming with her daughter as a former New York City fashion executive.</description>
+                  <dc:creator>Michael Ruiz</dc:creator>
+                         <pubDate>Tue, 28 Jul 2020 23:33:29 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Michael Ruiz</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/us/ex-college-football-star-shot-critically-wounded-bumping-man-deli</guid>
+      <link>https://www.foxnews.com/us/ex-college-football-star-shot-critically-wounded-bumping-man-deli</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/07/Malachi-Capers-shot.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/Malachi-Capers-shot.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/Malachi-Capers-shot.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">f97e01d7-eaca-5f10-8947-dd272d270bc3</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/us/crime</category>
+            <category domain="foxnews.com/taxonomy">fox-news/sports/ncaa-fb</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us/crime/police-and-law-enforcement</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us/us-regions/northeast/new-york</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us/new-york-city</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/us</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Ex-college football star shot, critically wounded in NYC after bumping into man at deli, video shows</title>
+      <description>Authorities said former college football star Malachi Capers, 20, was shot and critically wounded on Monday after he accidentally bumped into a man inside of a deli in Queens. </description>
+                  <dc:creator>Nick Givas</dc:creator>
+                         <pubDate>Tue, 28 Jul 2020 23:27:46 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Nick Givas</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/politics/trump-low-coronavirus-approval-personality</guid>
+      <link>https://www.foxnews.com/politics/trump-low-coronavirus-approval-personality</link>
+                  <media:group>
+        <media:content url="https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d3cb089b-9192-4777-8885-b310b1e71011/08cc5ff0-944d-4e50-a274-a96b9472e872/1280x720/match/image.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/image.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/image.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">19c73177-2f67-53cd-a754-7eb068ea78ab</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/person/donald-trump</category>
+            <category domain="foxnews.com/taxonomy">fox-news/health/infectious-disease/coronavirus</category>
+            <category domain="foxnews.com/taxonomy">fox-news/politics/executive/white-house</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/politics</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Trump says his 'personality' is giving him a low coronavirus approval rating</title>
+      <description>President Trump asked why Dr. Anthony Fauci, who works for his administration, has a high approval rating with respect to coronavirus but Trump himself does not. “It can only be my personality,” the president said. </description>
+                  <dc:creator>Morgan Phillips</dc:creator>
+                         <pubDate>Tue, 28 Jul 2020 23:25:47 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Morgan Phillips</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/politics/federal-forces-seattle-demobilized-left-mayor</guid>
+      <link>https://www.foxnews.com/politics/federal-forces-seattle-demobilized-left-mayor</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/07/AP20208092515682.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/AP20208092515682.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/AP20208092515682.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">92a4a5dc-a9e3-5424-8485-4ef7d26e472b</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/us/seattle</category>
+            <category domain="foxnews.com/taxonomy">fox-news/politics/executive/homeland-security</category>
+            <category domain="foxnews.com/taxonomy">fox-news/person/donald-trump</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us/crime</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/politics</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Federal forces sent to Seattle have 'demobilized' and 'left,' mayor announces</title>
+      <description>A tactical team of border agents deployed to Seattle last week to help protect federal property has departed the city, officials said Tuesday. </description>
+                  <dc:creator>Louis Casiano</dc:creator>
+                         <pubDate>Tue, 28 Jul 2020 23:14:02 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Louis Casiano</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/politics/portland-maximum-fines-federal-government-fence-courthouse</guid>
+      <link>https://www.foxnews.com/politics/portland-maximum-fines-federal-government-fence-courthouse</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/07/AP20210366917832.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/AP20210366917832.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/AP20210366917832.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">628d29ed-089c-509d-a084-1b0281f09aa1</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/us/portland</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us/us-protests</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us/us-regions/west/oregon</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/politics</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Portland hits feds with $500 fine every 15 minutes fence stands outside besieged courthouse</title>
+      <description>The city of Portland, Ore. is fining the federal government $500 for every 15 minutes it maintains fencing outside of the federal courthouse that has faced nightly attacks amid ongoing protests and rioting.</description>
+                  <dc:creator>Sam Dorman</dc:creator>
+                         <pubDate>Tue, 28 Jul 2020 22:55:13 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Sam Dorman</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/world/head-of-chinese-cdc-says-hes-taking-experimental-coronavirus-drug</guid>
+      <link>https://www.foxnews.com/world/head-of-chinese-cdc-says-hes-taking-experimental-coronavirus-drug</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/07/AP20182021708026.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/AP20182021708026.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/AP20182021708026.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">f6e5f133-665b-5216-b639-13ebbaeff393</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/world/world-regions/china</category>
+            <category domain="foxnews.com/taxonomy">fox-news/health/infectious-disease/coronavirus</category>
+            <category domain="foxnews.com/taxonomy">fox-news/health/infectious-disease/vaccines</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/world</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Head of Chinese CDC says he's taking experimental coronavirus drug</title>
+      <description>The director of the Chinese Center for Disease Control and Prevention said that he has been injected with an experimental coronavirus vaccine, in order to encourage members of the public to follow suit once a vaccine has been approved.</description>
+                  <dc:creator>Caitlin McFall</dc:creator>
+                         <pubDate>Tue, 28 Jul 2020 22:43:07 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Caitlin McFall</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/media/politico-biden-vp-kamala-harris-running-mate-mistake</guid>
+      <link>https://www.foxnews.com/media/politico-biden-vp-kamala-harris-running-mate-mistake</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/07/RTS2QCUD.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/RTS2QCUD.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/RTS2QCUD.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">1db506a1-7bd7-50c6-a409-1383915a5667</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/politics/2020-presidential-election</category>
+            <category domain="foxnews.com/taxonomy">fox-news/media</category>
+            <category domain="foxnews.com/taxonomy">fox-news/person/joe-biden</category>
+            <category domain="foxnews.com/taxonomy">fox-news/person/kamala-harris</category>
+            <category domain="foxnews.com/taxonomy">fox-news/tech/companies/twitter</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/media</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Politico accidentally reports Biden picked Kamala Harris as his running mate</title>
+      <description>Politico appears to have jumped the gun on reporting that Kamala Harris was chosen to be Joe Biden's running mate.</description>
+                  <dc:creator>Joseph Wulfsohn</dc:creator>
+                         <pubDate>Tue, 28 Jul 2020 22:39:52 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Joseph Wulfsohn</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/opinion/fbi-comey-strzok-mccabe-gregg-jarrett</guid>
+      <link>https://www.foxnews.com/opinion/fbi-comey-strzok-mccabe-gregg-jarrett</link>
+                  <media:group>
+        <media:content url="https://media2.foxnews.com/BrightCove/694940094001/2019/08/06/694940094001_6068743068001_6068740143001-vs.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/694940094001_6068743068001_6068740143001-vs.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/694940094001_6068743068001_6068740143001-vs.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">4dfa5471-0e65-566a-a3ff-3f27fb559a62</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/opinion</category>
+            <category domain="foxnews.com/taxonomy">fox-news/news-events/russia-investigation</category>
+            <category domain="foxnews.com/taxonomy">fox-news/person/james-comey</category>
+            <category domain="foxnews.com/taxonomy">fox-news/tech/topics/fbi</category>
+            <category domain="foxnews.com/taxonomy">fox-news/politics/justice-department</category>
+            <category domain="foxnews.com/taxonomy">fox-news/person/donald-trump</category>
+            <category domain="foxnews.com/taxonomy">fox-news/person/robert-mueller</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/opinion</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Gregg Jarrett: Disgraced fired FBI officials Comey, McCabe and Strzok profit from a pathology of lies</title>
+      <description>Three top FBI officials fired for their abuse of power, corrupt acts, and suspected lies are now earning big bucks by writing self-serving books, profiting handsomely from their misdeeds.</description>
+                  <dc:creator>Gregg Jarrett</dc:creator>
+                         <pubDate>Tue, 28 Jul 2020 22:37:51 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Gregg Jarrett</category>
+                            </item>
+      </channel>
+</rss>

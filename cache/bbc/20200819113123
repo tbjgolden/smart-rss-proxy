@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet title="XSL_formatting" type="text/xsl" href="/shared/bsp/xsl/rss/nolsol.xsl"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News - Home]]></title>
+        <description><![CDATA[BBC News - Home]]></description>
+        <link>https://www.bbc.co.uk/news/</link>
+        <image>
+            <url>https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News - Home</title>
+            <link>https://www.bbc.co.uk/news/</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Wed, 19 Aug 2020 11:28:33 GMT</lastBuildDate>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Coronavirus: UK to ramp up coronavirus monitoring programme]]></title>
+            <description><![CDATA[More swabbing will reveal how many people in the general population are infected at any given time.]]></description>
+            <link>https://www.bbc.co.uk/news/health-53806117</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-53806117</guid>
+            <pubDate>Wed, 19 Aug 2020 09:33:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus: UK 'not considering' compulsory face masks in workplaces]]></title>
+            <description><![CDATA[The government is not looking at following France in enforcing office coverings, Matt Hancock says.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-53833204</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-53833204</guid>
+            <pubDate>Wed, 19 Aug 2020 10:11:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Berlin motorway crashes probed as terror attack]]></title>
+            <description><![CDATA[A man rams several vehicles in what prosecutors say was an "Islamist-motivated" attack.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-53832113</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-53832113</guid>
+            <pubDate>Wed, 19 Aug 2020 10:34:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Manchester attack: Hashem Abedi refuses to leave cell]]></title>
+            <description><![CDATA[Hashem Abedi is being sentenced after being convicted of murdering 22 people in the 2017 attack.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-manchester-53835546</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-manchester-53835546</guid>
+            <pubDate>Wed, 19 Aug 2020 11:27:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Britney Spears asks court to remove dad's control over personal life]]></title>
+            <description><![CDATA[The singer's father Jamie has acted as her legal conservator for 12 years.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-53831916</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-53831916</guid>
+            <pubDate>Wed, 19 Aug 2020 11:06:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mauritius oil spill: Satellite images show removal operation]]></title>
+            <description><![CDATA[Satellite images capture tug boats trying to remove the broken vessel, which spilled tonnes of oil.]]></description>
+            <link>https://www.bbc.co.uk/news/world-africa-53831687</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-53831687</guid>
+            <pubDate>Wed, 19 Aug 2020 10:00:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Channel crossings: Body of teenage migrant found on French beach]]></title>
+            <description><![CDATA[The 16-year-old from Sudan, whose body was found at Sangatte, Calais, reportedly went missing at sea.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-kent-53835374</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-kent-53835374</guid>
+            <pubDate>Wed, 19 Aug 2020 11:05:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Rail fares to rise 1.6% in January despite passenger slump]]></title>
+            <description><![CDATA[Passenger groups call for an overhaul of fares, after commuter numbers collapsed during lockdown.]]></description>
+            <link>https://www.bbc.co.uk/news/business-53831815</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-53831815</guid>
+            <pubDate>Wed, 19 Aug 2020 11:08:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Chris Froome & Geraint Thomas left out of Tour de France squad by Team Ineos]]></title>
+            <description><![CDATA[Chris Froome and Geraint Thomas are left out of Team Ineos' Tour de France squad.]]></description>
+            <link>https://www.bbc.co.uk/sport/cycling/53830140</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/cycling/53830140</guid>
+            <pubDate>Wed, 19 Aug 2020 10:29:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Whitley Bay mask-exempt woman urges 'more understanding']]></title>
+            <description><![CDATA[Louise Sharp says she is now afraid to leave the house after being abused while shopping.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-tyne-53827911</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-tyne-53827911</guid>
+            <pubDate>Wed, 19 Aug 2020 07:00:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Beirut blast: Born without a father]]></title>
+            <description><![CDATA[Two weeks after the explosion that shattered Beirut, we meet families whose lives changed forever.]]></description>
+            <link>https://www.bbc.co.uk/news/world-middle-east-53823275</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-middle-east-53823275</guid>
+            <pubDate>Tue, 18 Aug 2020 23:37:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tiger King zoo permanently closes]]></title>
+            <description><![CDATA[Current owner Jeff Lowe announced the decision after "false accusations" were made against him.]]></description>
+            <link>https://www.bbc.co.uk/news/newsbeat-53832166</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/newsbeat-53832166</guid>
+            <pubDate>Wed, 19 Aug 2020 10:13:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A-levels U-turn: Universities facing 'crazy demand' from students]]></title>
+            <description><![CDATA[Thousands of students now have the A-level grades to get their first-choice course, but can universities still help them?]]></description>
+            <link>https://www.bbc.co.uk/news/uk-53819655</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-53819655</guid>
+            <pubDate>Wed, 19 Aug 2020 11:22:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[US election 2020: What young Democrats think of Joe Biden]]></title>
+            <description><![CDATA[He's half a century older than them, but it's his moderate politics that worries these young voters.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-53774680</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-53774680</guid>
+            <pubDate>Tue, 18 Aug 2020 18:31:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[China record floods wet feet of Leshan Giant Buddha]]></title>
+            <description><![CDATA[More than 100,000 people are also evacuated as the worst flooding in decades hits the region.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-china-53831271</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-china-53831271</guid>
+            <pubDate>Wed, 19 Aug 2020 05:38:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Northamptonshire Police officer gets stuck in handcuffs in training]]></title>
+            <description><![CDATA[Firefighters used pedal cutters to release the officer who walked to the fire station for help.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-northamptonshire-53833373</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-northamptonshire-53833373</guid>
+            <pubDate>Wed, 19 Aug 2020 09:14:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Sports Team: The band that locked down together and took on Lady Gaga]]></title>
+            <description><![CDATA[Since lockdown, Sports Team have had a Mercury Prize nomination and narrowly lost a chart battle.]]></description>
+            <link>https://www.bbc.co.uk/news/newsbeat-53770635</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/newsbeat-53770635</guid>
+            <pubDate>Wed, 19 Aug 2020 03:13:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How a hologram can show a patient’s heart during surgery]]></title>
+            <description><![CDATA[A hologram that shows a patient’s heart in real-time during surgery could help improve accuracy when treating arrhythmias.]]></description>
+            <link>https://www.bbc.co.uk/news/health-53826045</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-53826045</guid>
+            <pubDate>Tue, 18 Aug 2020 23:02:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ocean-sieving expedition reveals huge amounts of microplastic in the Atlantic]]></title>
+            <description><![CDATA[The expedition found that as much as 21 million tonnes of plastic fragments are suspended in the ocean.]]></description>
+            <link>https://www.bbc.co.uk/news/science-environment-53827997</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-53827997</guid>
+            <pubDate>Tue, 18 Aug 2020 23:02:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Wuhan coronavirus: From silent streets to packed pools]]></title>
+            <description><![CDATA[Images of crowds at a waterpark festival show how far the city has moved on from its January lockdown.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-china-53816511</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-china-53816511</guid>
+            <pubDate>Tue, 18 Aug 2020 09:13:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Motorbike handlebar wheelie world speed record broken by 1mph]]></title>
+            <description><![CDATA[Stunt driver Jonny Davies got his bike up to 109.2mph - beating the world record by 1mph.]]></description>
+            <link>https://www.bbc.co.uk/news/newsbeat-53828187</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/newsbeat-53828187</guid>
+            <pubDate>Tue, 18 Aug 2020 16:46:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Dido Harding's meteoric rise from telecoms to test and trace, and beyond]]></title>
+            <description><![CDATA[Who is the former businesswoman and jockey chosen to head the UK's new public health agency?]]></description>
+            <link>https://www.bbc.co.uk/news/uk-politics-53824374</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-53824374</guid>
+            <pubDate>Wed, 19 Aug 2020 07:12:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus: Romance scams, the Yahoo boys and my friend Beth]]></title>
+            <description><![CDATA[Security experts warn there's been an increase in online fraud during the coronavirus pandemic]]></description>
+            <link>https://www.bbc.co.uk/news/technology-53445690</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-53445690</guid>
+            <pubDate>Tue, 18 Aug 2020 23:35:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Jill Biden: From teacher to possible US first lady]]></title>
+            <description><![CDATA[Here's a look at what we know about the wife of Democratic presidential candidate Joe Biden.]]></description>
+            <link>https://www.bbc.co.uk/news/election-us-2020-53833061</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/election-us-2020-53833061</guid>
+            <pubDate>Wed, 19 Aug 2020 11:18:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Black Lives Matter: Cardiff Uni racism row student seeks legal advice]]></title>
+            <description><![CDATA[The former Cardiff University student seeks legal advice over how it dealt with a racism complaint.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-wales-53824404</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-53824404</guid>
+            <pubDate>Wed, 19 Aug 2020 05:50:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Kamala Harris speech: Women who paved way for first black female VP hopeful]]></title>
+            <description><![CDATA[The women who paved the way for Kamala Harris' historic run reflect on their own pioneering candidacies.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-53809195</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-53809195</guid>
+            <pubDate>Tue, 18 Aug 2020 21:30:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus: What's happening with university admissions?]]></title>
+            <description><![CDATA[The grading fiasco is a new headache for universities already reeling from coronavirus disruption.]]></description>
+            <link>https://www.bbc.co.uk/news/explainers-52753913</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-52753913</guid>
+            <pubDate>Wed, 19 Aug 2020 10:02:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Death Valley: What life is like in the 'hottest place on Earth']]></title>
+            <description><![CDATA[The Death Valley just saw one of the highest temperatures ever recorded on Earth - 130F (54.4C)]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-53825593</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-53825593</guid>
+            <pubDate>Tue, 18 Aug 2020 23:12:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Belarus on the brink: What now?]]></title>
+            <description><![CDATA[After 26 years under President Lukashenko people in Belarus are demanding change.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-53822060</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-53822060</guid>
+            <pubDate>Wed, 19 Aug 2020 01:39:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A-levels: How did Gavin Williamson survive exams U-turn?]]></title>
+            <description><![CDATA[The education secretary has kept his job but still faces questions about his handling of exam grades, writes Iain Watson.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-politics-53818542</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-53818542</guid>
+            <pubDate>Tue, 18 Aug 2020 15:19:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Exam results: How will universities cope with extra students? And other questions]]></title>
+            <description><![CDATA[Are you concerned about your results? Experts answer some of your questions.]]></description>
+            <link>https://www.bbc.co.uk/news/education-53735304</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/education-53735304</guid>
+            <pubDate>Tue, 18 Aug 2020 10:43:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[19th amendment: A 100-year milestone for women... and what comes next]]></title>
+            <description><![CDATA[A hundred years after US women won the right to vote, female candidates reflect on what’s left to do.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-53811539</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-53811539</guid>
+            <pubDate>Mon, 17 Aug 2020 23:23:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Sajid Javid: Why has the ex-chancellor been allowed to work for JP Morgan?]]></title>
+            <description><![CDATA[The ex-chancellor has taken a job with the US bank, six months after resigning from government.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-politics-53821907</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-53821907</guid>
+            <pubDate>Wed, 19 Aug 2020 11:05:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Auctioneers see surge in Covid-19 bankruptcy sales]]></title>
+            <description><![CDATA[Auction firm reports "busiest month in 52 years" as stock is sold from businesses going bankrupt.]]></description>
+            <link>https://www.bbc.co.uk/news/business-53741321</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-53741321</guid>
+            <pubDate>Tue, 18 Aug 2020 15:40:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ronald Koeman: Barcelona name former player as new head coach]]></title>
+            <description><![CDATA[Former player Ronald Koeman is named Barcelona's new head coach two days after the club sacked Quique Setien.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/53827543</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/53827543</guid>
+            <pubDate>Wed, 19 Aug 2020 10:02:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Champions League: Pick your all-time XI from players in the tournament]]></title>
+            <description><![CDATA[Who do you think are the greatest XI players ever to play in the Champions League?]]></description>
+            <link>https://www.bbc.co.uk/sport/football/53786655</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/53786655</guid>
+            <pubDate>Wed, 19 Aug 2020 06:58:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Fight Talk: Could Joshua-Whyte II happen next year?]]></title>
+            <description><![CDATA[Eddie Hearn says Dillian Whyte could fight Anthony Joshua if Tyson Fury vacates his WBC belt and Rachel Ball returns to the day job after beating Shannon Courtenay.]]></description>
+            <link>https://www.bbc.co.uk/sport/boxing/53811551</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/boxing/53811551</guid>
+            <pubDate>Wed, 19 Aug 2020 06:28:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Naomi Osaka and Serena Williams top as tennis dominates rich list]]></title>
+            <description><![CDATA[The world's nine highest-earning sportswomen over the past year are all tennis players, according to US business magazine Forbes.]]></description>
+            <link>https://www.bbc.co.uk/sport/tennis/53831998</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/tennis/53831998</guid>
+            <pubDate>Wed, 19 Aug 2020 08:32:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Formula 1: All teams sign up to sport's new Concorde Agreement]]></title>
+            <description><![CDATA[All 10 teams have signed up to the new Concorde Agreement which will govern Formula 1 from 2021 to 2025.]]></description>
+            <link>https://www.bbc.co.uk/sport/formula1/53827538</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/formula1/53827538</guid>
+            <pubDate>Wed, 19 Aug 2020 09:18:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Highlights: Ten-man Linfield fall to late Legia goal in Poland]]></title>
+            <description><![CDATA[Linfield are out of the Champions League after Jose Kante gives Legia Warsaw a 1-0 win in Tuesday night's first round qualifier.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/football/53829407</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/football/53829407</guid>
+            <pubDate>Tue, 18 Aug 2020 20:31:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[David Beckham, LeBron James & Justin Bieber - Meet 'the GOAT' of hat making]]></title>
+            <description><![CDATA[Alberto Hernandez has designed hats for LeBron James, David Beckham and Miley Cyrus. Now the LA artist has an "extreme" hat for his wildest client - New England Patriots quarterback Cam Newton.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/50866497</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/50866497</guid>
+            <pubDate>Wed, 19 Aug 2020 08:28:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus: What tests are available?]]></title>
+            <description><![CDATA[What are the tests for coronavirus, who are they for and how do they work?]]></description>
+            <link>https://www.bbc.co.uk/news/health-51943612</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-51943612</guid>
+            <pubDate>Wed, 19 Aug 2020 10:34:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus: How does Covid-19 test-and-trace work?]]></title>
+            <description><![CDATA[People who have been in close contact with someone found to have Covid-19 are now being traced.]]></description>
+            <link>https://www.bbc.co.uk/news/explainers-52442754</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-52442754</guid>
+            <pubDate>Thu, 13 Aug 2020 16:10:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A-levels and GCSEs: How did the exam algorithm work?]]></title>
+            <description><![CDATA[The government has made a U-turn on A-level results in England, but what sparked such controversy?]]></description>
+            <link>https://www.bbc.co.uk/news/explainers-53807730</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-53807730</guid>
+            <pubDate>Mon, 17 Aug 2020 18:02:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus: What are the UK travel quarantine rules?]]></title>
+            <description><![CDATA[France and the Netherlands are the latest places from where people must quarantine on arriving in the UK.]]></description>
+            <link>https://www.bbc.co.uk/news/explainers-52544307</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-52544307</guid>
+            <pubDate>Fri, 14 Aug 2020 11:29:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus in the UK: How many confirmed cases are there in your area?]]></title>
+            <description><![CDATA[Key graphics explaining how coronavirus has spread in the UK and the government's response.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-51768274</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-51768274</guid>
+            <pubDate>Tue, 18 Aug 2020 16:29:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus: What are the new lockdown rules for Preston and other areas?]]></title>
+            <description><![CDATA[Preston has become the latest place to impose restrictions. But how does a local lockdown work?]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-52934822</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-52934822</guid>
+            <pubDate>Tue, 18 Aug 2020 15:33:09 GMT</pubDate>
+        </item>
+    </channel>
+</rss>

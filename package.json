@@ -4,6 +4,7 @@
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
+    "distributions-poisson-cdf": "^0.0.2",
     "dumpster-dive": "^5.4.0",
     "node-fetch": "^2.6.1",
     "redis": "^3.0.2",

@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" media="screen" href="/~d/styles/rss2full.xsl"?><?xml-stylesheet type="text/css" media="screen" href="http://feeds.foxnews.com/~d/styles/itemcontent.css"?><rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+                    <title>FOX News</title>
+    <link>http://www.foxnews.com/</link>
+    <description><![CDATA[FOXNews.com - Breaking news and video. Latest Current News: U.S., World, Entertainment, Health, Business, Technology, Politics, Sports.]]></description>
+        <image>
+    	<url>http://tools.foxnews.com/sites/tools.foxnews.com/files/images/fox-news-logo.png</url>
+    	<title>FOX News</title>
+    	<link>http://www.foxnews.com/</link>
+    </image>
+            <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feeds.foxnews.com/foxnews/latest" /><feedburner:info xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" uri="foxnews/latest" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /><item>
+                  <guid isPermaLink="true">https://www.foxnews.com/politics/democrats-biden-harris-trump-election-violence-chaos-tom-homan</guid>
+      <link>https://www.foxnews.com/politics/democrats-biden-harris-trump-election-violence-chaos-tom-homan</link>
+                  <media:group>
+        <media:content url="https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/04df8489-3cd8-4798-92d4-2b307dc1b506/da423cd8-6eaa-45a1-856d-c015b18d5946/1280x720/match/image.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/image.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/image.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">9cd5a73e-ed2d-5050-adf0-83e2e7cd8713</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/us/crime/police-and-law-enforcement</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us/portland</category>
+            <category domain="foxnews.com/taxonomy">fox-news/politics/elections/democrats</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us/immigration</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us/immigration/illegal-immigrants</category>
+            <category domain="foxnews.com/taxonomy">fox-news/person/joe-biden</category>
+            <category domain="foxnews.com/taxonomy">fox-news/person/kamala-harris</category>
+            <category domain="foxnews.com/taxonomy">fox-news/person/donald-trump</category>
+            <category domain="foxnews.com/taxonomy">fox-news/shows/fox-friends</category>
+            <category domain="foxnews.com/taxonomy">fox-news/media/fox-news-flash</category>
+            <category domain="foxnews.com/taxonomy">fox-news/politics/2020-presidential-election</category>
+            <category domain="foxnews.com/taxonomy">fox-news/politics/elections/democratic-convention</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/politics</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Tom Homan says Dems 'want chaos' because they think it helps them beat Trump</title>
+      <description>Fox News contributor Tom Homan slammed the Democratic ticket for president, Joe Biden and Kamala Harris, telling "Fox &amp; Friends" Democrats "want chaos in this country because they think it helps their election chances" against President Trump.</description>
+                  <dc:creator>Caleb Parke</dc:creator>
+                         <pubDate>Wed, 19 Aug 2020 11:39:37 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Caleb Parke</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/science/jurassic-park-was-wrong-raptors-didnt-hunt-in-packs</guid>
+      <link>https://www.foxnews.com/science/jurassic-park-was-wrong-raptors-didnt-hunt-in-packs</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/08/1024px-Deinonychus_Restoration-1.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/1024px-Deinonychus_Restoration-1.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/1024px-Deinonychus_Restoration-1.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">7e8731e0-093c-55ea-b9fa-f173d5987f74</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/science/archaeology/dinosaurs</category>
+            <category domain="foxnews.com/taxonomy">fox-news/science/archaeology/fossils</category>
+            <category domain="foxnews.com/taxonomy">fox-news/science</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/science</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>'Jurassic Park' was wrong: Raptors didn't hunt in packs</title>
+      <description>"Jurassic Park" showed raptors as hyper-intelligent dinosaurs that hunted in packs, but a new analysis of their teeth shows this likely wasn't the case.</description>
+                  <dc:creator>Chris Ciaccia</dc:creator>
+                         <pubDate>Wed, 19 Aug 2020 11:38:18 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Chris Ciaccia</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/us/missing-kansas-mother-marilane-carter-body-vehicle-found</guid>
+      <link>https://www.foxnews.com/us/missing-kansas-mother-marilane-carter-body-vehicle-found</link>
+                  <media:group>
+        <media:content url="https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/12de4cb8-5f3d-47df-87a2-71767a9ce6dc/fc41993a-a6c4-4a53-ad8d-aae7b731bb61/1280x720/match/image.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/image.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/image.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">0433d95d-b30c-5da8-902d-bd4d6ad7f724</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/us/us-regions/midwest/kansas</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us/us-regions/midwest/arkansas</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us/us-regions/midwest/missouri</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us/us-regions/southeast/tennessee</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us/us-regions/southeast/alabama</category>
+            <category domain="foxnews.com/taxonomy">fox-news/topic/missing-persons</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/us</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Missing Kansas mom Marilane Carter's body likely found, as officials work to positively ID remains</title>
+      <description>Authorities are working to identify a body found Tuesday inside a hidden car during the search of missing Kansas mom Marilane Carter.</description>
+                  <dc:creator>Danielle Wallace</dc:creator>
+                         <pubDate>Wed, 19 Aug 2020 11:37:37 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Danielle Wallace</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/world/germany-highway-crashes-investigated-terror-attacks</guid>
+      <link>https://www.foxnews.com/world/germany-highway-crashes-investigated-terror-attacks</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/08/Germany-Highway-Crash-1-AP.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/Germany-Highway-Crash-1-AP.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/Germany-Highway-Crash-1-AP.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">54efcc04-e662-5917-8e61-5aa58f6247c4</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/world/world-regions/germany</category>
+            <category domain="foxnews.com/taxonomy">fox-news/world/terrorism</category>
+            <category domain="foxnews.com/taxonomy">fox-news/world/world-regions/europe</category>
+            <category domain="foxnews.com/taxonomy">fox-news/world/disasters/transportation</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/world</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Iraqi man detained after targeting motorcyclists on Berlin highway in possible terror attack, police say</title>
+      <description>A 30-year-old Iraqi man detained after a series of crashes on a Berlin highway Tuesday evening is being investigated for what prosecutors have called an Islamist extremist attack.</description>
+                  <dc:creator>Stephen Sorace</dc:creator>
+                         <pubDate>Wed, 19 Aug 2020 11:35:10 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Stephen Sorace</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/politics/trump-campaign-calls-democratic-convention-boring-glitchy-in-recap-of-2nd-night</guid>
+      <link>https://www.foxnews.com/politics/trump-campaign-calls-democratic-convention-boring-glitchy-in-recap-of-2nd-night</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/08/trump-team.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/trump-team.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/trump-team.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">a970af19-637f-5d4b-9c76-121ea50588fa</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/politics/elections/democratic-convention</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/politics</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Trump campaign calls Democratic convention 'boring, glitchy' in recap of 2nd night</title>
+      <description>Boris Epshteyn, Trump 2020 strategic adviser, called the first two nights of the Democratic National Convention “boring, glitchy” and filled with “no names.”</description>
+                  <dc:creator>Brie Stimson</dc:creator>
+                         <pubDate>Wed, 19 Aug 2020 11:28:36 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Brie Stimson</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/opinion/kamala-harris-night-3-dnc-jason-riley</guid>
+      <link>https://www.foxnews.com/opinion/kamala-harris-night-3-dnc-jason-riley</link>
+                  <media:group>
+        <media:content url="https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d8e69aa9-ddb3-452d-ad56-f28de03884ec/fe4560b3-d340-44c5-b1b3-9c23cea044c5/1280x720/match/image.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/image.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/image.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">2d4a4cc6-6dd2-5746-9428-583fc406573a</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/opinion</category>
+            <category domain="foxnews.com/taxonomy">fox-news/person/kamala-harris</category>
+            <category domain="foxnews.com/taxonomy">fox-news/politics/elections/democratic-convention</category>
+            <category domain="foxnews.com/taxonomy">fox-news/politics/2020-presidential-election</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/opinion</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Jason Riley: Which version of Kamala Harris will we see speak on Night 3 of DNC?</title>
+      <description>Once a tough-on-crime prosecutor, she now can’t answer a simple question about defunding the police.</description>
+                  <dc:creator>Jason Riley</dc:creator>
+                         <pubDate>Wed, 19 Aug 2020 11:26:52 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">The Wall Street Journal</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Jason Riley</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/health/bill-gates-us-masks-freedom</guid>
+      <link>https://www.foxnews.com/health/bill-gates-us-masks-freedom</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/07/GettyImages-bill-gtes.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/GettyImages-bill-gtes.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/GettyImages-bill-gtes.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">06ffd584-e243-5d1d-825e-bd1398023a40</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/entertainment/celebrity-news</category>
+            <category domain="foxnews.com/taxonomy">fox-news/tech/companies/microsoft</category>
+            <category domain="foxnews.com/taxonomy">fox-news/health/infectious-disease/coronavirus</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/health</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Bill Gates: US fumbled coronavirus response because 'we believe in freedom'</title>
+      <description>Bill Gates on Tuesday said the U.S. fumbled its coronavirus response in part because "we believe in freedom."</description>
+                  <dc:creator>Audrey Conklin</dc:creator>
+                         <pubDate>Wed, 19 Aug 2020 11:16:50 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Audrey Conklin</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/us/portland-attack-suspect-security-company</guid>
+      <link>https://www.foxnews.com/us/portland-attack-suspect-security-company</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/08/portland-attack-credit1.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/portland-attack-credit1.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/portland-attack-credit1.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">a4a7ae5b-03fb-5f31-837c-9bd00160f5e0</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/us/portland</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us/crime</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us/crime/police-and-law-enforcement</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/us</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Manhunt for Portland attack suspect enters day 2 as security company denounces any association</title>
+      <description>Portland Police Bureau continues its search for the suspect who allegedly attacked a truck driver during a riot in the city.</description>
+                  <dc:creator>Stephanie Pagones</dc:creator>
+            <dc:creator>Louis Casiano</dc:creator>
+                         <pubDate>Wed, 19 Aug 2020 11:05:29 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Stephanie Pagones</category>
+            <category domain="foxnews.com/metadata/dc.creator">Louis Casiano</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/opinion/breakthrough-middle-decades-ben-shapiro</guid>
+      <link>https://www.foxnews.com/opinion/breakthrough-middle-decades-ben-shapiro</link>
+                  <media:group>
+        <media:content url="https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9401ab7f-612d-43be-a60b-021869fa5bd9/7529708e-194b-430e-bd9b-c6a4e3a77645/1280x720/match/image.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/image.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/image.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">a605ba38-cce2-515e-9fbd-f2f03b0d3baa</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/opinion</category>
+            <category domain="foxnews.com/taxonomy">fox-news/politics/foreign-policy/middle-east</category>
+            <category domain="foxnews.com/taxonomy">fox-news/politics/executive/white-house</category>
+            <category domain="foxnews.com/taxonomy">fox-news/person/donald-trump</category>
+            <category domain="foxnews.com/taxonomy">fox-news/person/joe-biden</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/opinion</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Ben Shapiro: The first important breakthrough in the Middle East in three decades just took place</title>
+      <description>This week, while all eyes have been on the DNC, truly historic events have occurred in the Middle East.</description>
+                  <dc:creator>Ben Shapiro</dc:creator>
+                         <pubDate>Wed, 19 Aug 2020 11:00:31 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Ben Shapiro</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/us/lottery-lawyer-long-island-new-york-mob-scheme-scam-alleged</guid>
+      <link>https://www.foxnews.com/us/lottery-lawyer-long-island-new-york-mob-scheme-scam-alleged</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/08/Jason-Kurland2-Rivkin-Radler-LLP.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/Jason-Kurland2-Rivkin-Radler-LLP.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/Jason-Kurland2-Rivkin-Radler-LLP.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">81de589c-4213-55b4-a5b8-dc3f70934aa6</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/us/lottery</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us/us-regions/northeast/new-york</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us/crime/corruption</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us/new-york-city</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/us</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>'Lottery lawyer' scammed millions from winners in mob-connected scheme, feds allege</title>
+      <description>A Long Island attorney who bills himself as the “lottery lawyer” ran a mobbed-up scheme to bilk jackpot winners out of more than $100 million in prize money, Brooklyn federal prosecutors alleged Tuesday.</description>
+                  <dc:creator>Ben Feuerherd</dc:creator>
+            <dc:creator> Jorge Fitz-Gibbon</dc:creator>
+                         <pubDate>Wed, 19 Aug 2020 10:28:20 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">New York Post</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Ben Feuerherd</category>
+            <category domain="foxnews.com/metadata/dc.creator"> Jorge Fitz-Gibbon</category>
+                            </item>
+      </channel>
+</rss>

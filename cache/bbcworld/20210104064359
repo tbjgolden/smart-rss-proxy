@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet title="XSL_formatting" type="text/xsl" href="/shared/bsp/xsl/rss/nolsol.xsl"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News - World]]></title>
+        <description><![CDATA[BBC News - World]]></description>
+        <link>https://www.bbc.co.uk/news/</link>
+        <image>
+            <url>https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News - World</title>
+            <link>https://www.bbc.co.uk/news/</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Mon, 04 Jan 2021 06:29:56 GMT</lastBuildDate>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA[US election: Trump tells Georgia election official to 'find' votes to overturn Biden win]]></title>
+            <description><![CDATA[The US president pressures Brad Raffensperger in an audio recording released by the Washington Post.]]></description>
+            <link>https://www.bbc.co.uk/news/election-us-2020-55524838</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/election-us-2020-55524838</guid>
+            <pubDate>Mon, 04 Jan 2021 03:38:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Nancy Pelosi: How she rose to the top - and stayed there]]></title>
+            <description><![CDATA[The Speaker of the House enters her ninth decade playing a key role in advancing Biden's agenda.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-55518870</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-55518870</guid>
+            <pubDate>Sun, 03 Jan 2021 23:53:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covaxin: Concern over 'rushed' approval for India Covid jab]]></title>
+            <description><![CDATA[The locally-produced Covaxin jab was approved on Sunday before completion of third stage trials.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-india-55526123</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-india-55526123</guid>
+            <pubDate>Mon, 04 Jan 2021 06:29:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Alarm as South Korea sees more deaths than births]]></title>
+            <description><![CDATA[This has raised fresh alarm in a country which already has the world's lowest birth rate.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-55526450</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-55526450</guid>
+            <pubDate>Mon, 04 Jan 2021 04:31:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[India coronavirus: The mums who became pandemic chefs]]></title>
+            <description><![CDATA[India's grinding coronavirus lockdown saw many home cooks turn into chefs.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-india-55345002</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-india-55345002</guid>
+            <pubDate>Mon, 04 Jan 2021 00:03:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Death toll rises to 100 after attacks on Niger villages]]></title>
+            <description><![CDATA[The government said suspected jihadists ambushed the two villages near Niger's border with Mali.]]></description>
+            <link>https://www.bbc.co.uk/news/world-africa-55525677</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-55525677</guid>
+            <pubDate>Mon, 04 Jan 2021 01:38:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Fiat Chrysler and PSA merger faces final hurdle]]></title>
+            <description><![CDATA[The deal will create the world's fourth biggest car maker and lead to major savings for the new group.]]></description>
+            <link>https://www.bbc.co.uk/news/business-55526360</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-55526360</guid>
+            <pubDate>Mon, 04 Jan 2021 05:56:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Pakistan coal miners kidnapped and killed in IS attack]]></title>
+            <description><![CDATA[The miners, who were members of a minority Shia community, were kidnapped by militants and killed.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-55522830</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-55522830</guid>
+            <pubDate>Sun, 03 Jan 2021 20:58:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid-19: Are pandemics the new normal?]]></title>
+            <description><![CDATA[After Covid-19 should we expect more pandemics in the future?]]></description>
+            <link>https://www.bbc.co.uk/news/world-55415763</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-55415763</guid>
+            <pubDate>Mon, 04 Jan 2021 00:02:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Norway landslide: Seventh body found as rescuers continue search]]></title>
+            <description><![CDATA[Seven bodies have been recovered after a landslide that destroyed homes in Ask village, near Oslo.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-55516599</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-55516599</guid>
+            <pubDate>Mon, 04 Jan 2021 00:46:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid: Sweden official defends Christmas trip to Canary Islands]]></title>
+            <description><![CDATA[Dan Eliasson, head of the civil contingencies agency, flew to the Canary Islands to see his daughter.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-55523587</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-55523587</guid>
+            <pubDate>Sun, 03 Jan 2021 17:40:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Man rescued from submerged vehicle in Peru]]></title>
+            <description><![CDATA[Flash floods caused extensive damage across the city of Arequipa.]]></description>
+            <link>https://www.bbc.co.uk/news/world-latin-america-55521975</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-latin-america-55521975</guid>
+            <pubDate>Sun, 03 Jan 2021 18:29:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Central African Republic rebels seize Bangassou, says UN]]></title>
+            <description><![CDATA[Bangassou is the latest city to be taken by rebels, the UN says, over allegations of election fraud.]]></description>
+            <link>https://www.bbc.co.uk/news/world-africa-55522242</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-55522242</guid>
+            <pubDate>Sun, 03 Jan 2021 17:08:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why I'm feeling hopeful about the environment in 2021]]></title>
+            <description><![CDATA[The BBC's Tom Heap explores exciting emissions-saving ideas that could help save the planet.]]></description>
+            <link>https://www.bbc.co.uk/news/science-environment-55429607</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-55429607</guid>
+            <pubDate>Mon, 04 Jan 2021 00:41:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[On patrol: Night vision in DR Congo]]></title>
+            <description><![CDATA[Photographer Hugh Kinsella Cunningham goes out with UN peacekeepers.]]></description>
+            <link>https://www.bbc.co.uk/news/world-africa-55333627</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-55333627</guid>
+            <pubDate>Mon, 04 Jan 2021 01:10:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid exercise: 'I'll never go back to the gym again']]></title>
+            <description><![CDATA[An explosion in fitness tech means not everyone will be rushing back to gyms when they can reopen.]]></description>
+            <link>https://www.bbc.co.uk/news/business-55210452</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-55210452</guid>
+            <pubDate>Mon, 04 Jan 2021 00:07:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The K-pop inspired band that challenged gender norms in Kazakhstan]]></title>
+            <description><![CDATA[With their long hair, earrings and guyliner, Ninety One challenged gender norms and angered many.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-55359772</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-55359772</guid>
+            <pubDate>Mon, 04 Jan 2021 00:22:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid: How the war on the virus attacked freedom in Asia]]></title>
+            <description><![CDATA[Lockdowns and harsh laws meant to fight the virus have also seen governments quash dissent.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-55362461</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-55362461</guid>
+            <pubDate>Sun, 03 Jan 2021 00:00:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Viewpoint: Why Ethiopia and Sudan have fallen out over al-Fashaga]]></title>
+            <description><![CDATA[A border dispute has led to armed clashes, deepening fears about insecurity in the region.]]></description>
+            <link>https://www.bbc.co.uk/news/world-africa-55476831</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-55476831</guid>
+            <pubDate>Sun, 03 Jan 2021 00:37:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[‘My husband’s ashes are still unscattered, but we're doing OK’]]></title>
+            <description><![CDATA[Sophie Townsend lost her husband - and father of her children - to cancer. But in time their lives returned to an even(ish) keel.]]></description>
+            <link>https://www.bbc.co.uk/news/stories-55304874</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/stories-55304874</guid>
+            <pubDate>Sun, 03 Jan 2021 00:40:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid-19 pandemic: Tracking the global coronavirus outbreak]]></title>
+            <description><![CDATA[Key charts and maps explaining how the virus has spread around the world.]]></description>
+            <link>https://www.bbc.co.uk/news/world-51235105</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-51235105</guid>
+            <pubDate>Thu, 31 Dec 2020 12:19:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[US politics in 2021: What's in store for President-elect Biden?]]></title>
+            <description><![CDATA[A new president with an agenda that's already set - and an outgoing president who's not leaving quietly.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-55431724</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-55431724</guid>
+            <pubDate>Fri, 01 Jan 2021 00:11:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mauricio Pochettino is back - but why has he chosen Paris St-Germain?]]></title>
+            <description><![CDATA[Thirteen months after leaving Tottenham, Mauricio Pochettino is back in football. Guillem Balague looks at why he has taken on the challenge at PSG.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/55436532</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/55436532</guid>
+            <pubDate>Sat, 02 Jan 2021 15:43:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Amazon's Jeff Bezos: The richest person in the world]]></title>
+            <description><![CDATA[As 2020 ended, Jeff Bezos's wealth was estimated to be more than $185bn (£135bn), after he made tens of billions during the Covid-19 pandemic.]]></description>
+            <link>https://www.bbc.co.uk/news/world-53311792</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-53311792</guid>
+            <pubDate>Mon, 04 Jan 2021 00:13:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Racism in ballet: Black dancer's 'humiliation' at racist comments]]></title>
+            <description><![CDATA[Chloé Lopes Gomes says she has faced humiliating racial harassment while being a ballet dancer in Berlin.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-55339078</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-55339078</guid>
+            <pubDate>Sun, 03 Jan 2021 00:02:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid-19: Impact on Israel]]></title>
+            <description><![CDATA[The BBC's Tom Bateman spent 2020 following the lives of Israelis affected by the pandemic.]]></description>
+            <link>https://www.bbc.co.uk/news/world-55415764</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-55415764</guid>
+            <pubDate>Sun, 03 Jan 2021 00:01:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid-19: How will the pandemic affect global health in 2021?]]></title>
+            <description><![CDATA[From Covid-19 to measles, Smitha Mundasad looks at the health issues facing the world this year.]]></description>
+            <link>https://www.bbc.co.uk/news/health-55431725</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-55431725</guid>
+            <pubDate>Sun, 03 Jan 2021 00:02:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Illegal French New Year rave shut down]]></title>
+            <description><![CDATA[Police say they clashed with attendees while attempting to break up the event in Brittany.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-55515827</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-55515827</guid>
+            <pubDate>Sat, 02 Jan 2021 12:32:23 GMT</pubDate>
+        </item>
+    </channel>
+</rss>

@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" media="screen" href="/~d/styles/rss2full.xsl"?><?xml-stylesheet type="text/css" media="screen" href="http://feeds.foxnews.com/~d/styles/itemcontent.css"?><rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+                    <title>FOX News</title>
+    <link>http://www.foxnews.com/</link>
+    <description><![CDATA[FOXNews.com - Breaking news and video. Latest Current News: U.S., World, Entertainment, Health, Business, Technology, Politics, Sports.]]></description>
+        <image>
+    	<url>http://tools.foxnews.com/sites/tools.foxnews.com/files/images/fox-news-logo.png</url>
+    	<title>FOX News</title>
+    	<link>http://www.foxnews.com/</link>
+    </image>
+            <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feeds.foxnews.com/foxnews/latest" /><feedburner:info xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" uri="foxnews/latest" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /><item>
+                  <guid isPermaLink="true">https://www.foxnews.com/us/virginia-resident-shoots-2-suspects-during-alleged-home-invasion-report</guid>
+      <link>https://www.foxnews.com/us/virginia-resident-shoots-2-suspects-during-alleged-home-invasion-report</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/11/virginia.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/virginia.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/virginia.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">20464619-070b-582e-b8ff-975faccda239</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/us/us-regions/southeast/virginia</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us/crime</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us/personal-freedoms/second-amendment</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/us</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Virginia resident shoots 2 suspects during alleged home invasion: report</title>
+      <description>Two suspects in Virginia suffered non-life-threatening wounds this week after being shot by the resident during the alleged home invasion, according to reports.</description>
+                  <dc:creator>Dom Calicchio</dc:creator>
+                         <pubDate>Fri, 27 Nov 2020 04:44:36 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Dom Calicchio</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/us/massive-sinkhole-swallows-car-in-queens</guid>
+      <link>https://www.foxnews.com/us/massive-sinkhole-swallows-car-in-queens</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/04/Untitled-2.png" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/Untitled-2.png" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/Untitled-2.png" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">efdd7c8c-dde8-5beb-90a4-400406748f19</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/us/new-york-city</category>
+            <category domain="foxnews.com/taxonomy">fox-news/auto</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/us</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>New York City sinkhole swallows SUV</title>
+      <description>An unoccupied orange SUV was found swallowed by a sinkhole in Queens early Thursday morning.</description>
+                   <pubDate>Fri, 27 Nov 2020 03:51:05 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">New York Post</category>
+                              <category domain="foxnews.com/dateline" />
+                                  </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/us/alabama-mail-carrier-surprises-birthday-boy-with-a-gift</guid>
+      <link>https://www.foxnews.com/us/alabama-mail-carrier-surprises-birthday-boy-with-a-gift</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/11/AP20324724503109.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/AP20324724503109.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/AP20324724503109.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">ee5f44ba-65f1-5711-9c0b-e3bc6f90c6f4</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/us/personal-freedoms/proud-american</category>
+            <category domain="foxnews.com/taxonomy">fox-news/lifestyle/occasions/birthday</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us/us-regions/southeast/alabama</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/us</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Alabama mail carrier surprises birthday boy with a gift</title>
+      <description>When Chip Matthews heard the mail truck arriving on his sixth birthday, he rushed out — not knowing that he’d come back with a treasure.</description>
+                   <pubDate>Fri, 27 Nov 2020 03:33:01 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Associated Press</category>
+                              <category domain="foxnews.com/dateline" />
+                                  </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/media/pompeo-most-memorable-moments-secretay-of-state</guid>
+      <link>https://www.foxnews.com/media/pompeo-most-memorable-moments-secretay-of-state</link>
+                  <media:group>
+        <media:content url="https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2a8c002e-458a-4c4b-9e21-a435daa44df1/b1b4dfb7-073c-41f3-b6ee-f0e2f6c9978a/1280x720/match/image.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/image.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/image.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">12ac14f2-b593-567a-8161-cd4760399aaf</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/media/fox-news-flash</category>
+            <category domain="foxnews.com/taxonomy">fox-news/world/conflicts/north-korea</category>
+            <category domain="foxnews.com/taxonomy">fox-news/politics/foreign-policy/secretary-of-state</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/media</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Pompeo reflects on 'most memorable moments' as secretary of state, addresses plans for the future</title>
+      <description>Secretary of State Mike Pompeo on Thursday reflected on some of the most memorable moments during his two-year tenure heading the State Department, in a wide-ranging interview on "Special Report."</description>
+                  <dc:creator>Yael Halon</dc:creator>
+                         <pubDate>Fri, 27 Nov 2020 03:17:30 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Yael Halon</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/politics/wyoming-gov-mark-gordon-tests-positive-for-covid-19</guid>
+      <link>https://www.foxnews.com/politics/wyoming-gov-mark-gordon-tests-positive-for-covid-19</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/11/ap-20148800391539.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/ap-20148800391539.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/ap-20148800391539.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">6a489cd4-ad84-53f9-8de6-45f352f8a4e9</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/health/infectious-disease/coronavirus</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us/us-regions/west/wyoming</category>
+            <category domain="foxnews.com/taxonomy">fox-news/politics/state-and-local/governors</category>
+            <category domain="foxnews.com/taxonomy">fox-news/politics</category>
+            <category domain="foxnews.com/taxonomy">fox-news/health</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/politics</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Wyoming Gov. Mark Gordon tests positive for COVID-19</title>
+      <description>Gordon is the latest governor to test positive for the disease this year, following similar announcements from Virginia Gov. Ralph Northam, Missouri Gov. Mike Parson, Oklahoma Gov. Kevin Stitt, and Ohio Gov. Mike DeWine.</description>
+                  <dc:creator>Lucas Manfredi</dc:creator>
+                         <pubDate>Fri, 27 Nov 2020 03:04:40 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Lucas Manfredi</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/politics/trump-says-coronavirus-vaccine-deliveries-will-start-next-week</guid>
+      <link>https://www.foxnews.com/politics/trump-says-coronavirus-vaccine-deliveries-will-start-next-week</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/11/AP20331826409819.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/AP20331826409819.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/AP20331826409819.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">5a2cc288-3e42-55dd-90f2-6d16cd5ea201</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/health/infectious-disease/coronavirus</category>
+            <category domain="foxnews.com/taxonomy">fox-news/person/donald-trump</category>
+            <category domain="foxnews.com/taxonomy">fox-news/health</category>
+            <category domain="foxnews.com/taxonomy">fox-news/politics</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/politics</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Trump says coronavirus vaccine deliveries will start next week</title>
+      <description>The comments come ahead of a Dec. 10 meeting where FDA regulators will review Pfizer and BioNTech's request for an emergency use authorization for their COVID-19 vaccine.</description>
+                  <dc:creator>Lucas Manfredi</dc:creator>
+                         <pubDate>Fri, 27 Nov 2020 01:52:50 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Lucas Manfredi</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/politics/trump-plans-trip-to-georgia-amid-his-election-battle</guid>
+      <link>https://www.foxnews.com/politics/trump-plans-trip-to-georgia-amid-his-election-battle</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/11/abd3ee44-AP20331826533641.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/abd3ee44-AP20331826533641.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/abd3ee44-AP20331826533641.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">33d565d7-5dae-57a0-b7f1-084526f435ba</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/us/us-regions/southeast/georgia</category>
+            <category domain="foxnews.com/taxonomy">fox-news/person/donald-trump</category>
+            <category domain="foxnews.com/taxonomy">fox-news/politics/2020-senate-races</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/politics</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Trump plans trip to Georgia amid his election battle</title>
+      <description>President Trump said he would travel to Georgia on Saturday to campaign for Sens. Kelly Loeffler and David Perdue ahead of their runoff elections.</description>
+                  <dc:creator>Morgan Phillips</dc:creator>
+                         <pubDate>Fri, 27 Nov 2020 01:48:03 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Morgan Phillips</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/sports/ravens-lamar-jackson-positive-coronavirus-report</guid>
+      <link>https://www.foxnews.com/sports/ravens-lamar-jackson-positive-coronavirus-report</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/11/Lamar-Jackson2.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/Lamar-Jackson2.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/Lamar-Jackson2.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">36eb299b-a88a-532d-9b57-a72f16c1e773</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/sports/nfl/baltimore-ravens</category>
+            <category domain="foxnews.com/taxonomy">fox-news/sports/nfl</category>
+            <category domain="foxnews.com/taxonomy">fox-news/health/infectious-disease/coronavirus</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/sports</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Ravens' Lamar Jackson tests positive for coronavirus: report</title>
+      <description>Baltimore Ravens quarterback Lamar Jackson reportedly tested positive for coronavirus, as the team has seen several players contract the illness over the last week.</description>
+                  <dc:creator>Ryan Gaydos</dc:creator>
+                         <pubDate>Fri, 27 Nov 2020 01:37:02 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Ryan Gaydos</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/sports/gibson-washington-roll-past-cowboys-41-16-on-thanksgiving</guid>
+      <link>https://www.foxnews.com/sports/gibson-washington-roll-past-cowboys-41-16-on-thanksgiving</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/11/Antonio-Gibson.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/Antonio-Gibson.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/Antonio-Gibson.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">c2cdd2b8-2165-5ef5-9447-689ea2bd63c1</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/sports/nfl</category>
+            <category domain="foxnews.com/taxonomy">fox-news/sports/nfl/washington-nfl</category>
+            <category domain="foxnews.com/taxonomy">fox-news/sports/nfl/dallas-cowboys</category>
+            <category domain="foxnews.com/taxonomy">fox-news/person/alex-smith</category>
+            <category domain="foxnews.com/taxonomy">fox-news/person/andy-dalton</category>
+            <category domain="foxnews.com/taxonomy">fox-news/person/ezekiel-elliott</category>
+            <category domain="foxnews.com/taxonomy">fox-news/person/terry-mclaurin</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/sports</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Gibson, Washington roll past Cowboys 41-16 on Thanksgiving</title>
+      <description>Antonio Gibson ran for three touchdowns, Alex Smith had a scoring pass and Washington at least temporarily moved into first place in the woeful NFC East with a 41-16 Thanksgiving victory over the Dallas Cowboys on Thursday.</description>
+                   <pubDate>Fri, 27 Nov 2020 01:05:30 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Associated Press</category>
+                              <category domain="foxnews.com/dateline" />
+                                  </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/politics/obama-says-some-republicans-drive-message-that-white-men-are-victims</guid>
+      <link>https://www.foxnews.com/politics/obama-says-some-republicans-drive-message-that-white-men-are-victims</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/11/AP20323698587601.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/AP20323698587601.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/AP20323698587601.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">8beb0c95-20d8-5828-bf4f-831028979a48</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/person/barack-obama</category>
+            <category domain="foxnews.com/taxonomy">fox-news/person/donald-trump</category>
+            <category domain="foxnews.com/taxonomy">fox-news/politics/2020-presidential-election</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/politics</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Obama says some Republicans drive message that 'White men are victims'</title>
+      <description>Former President Barack Obama said he believes President Trump garnered more than 73 million votes this election cycle, not because of policy but because some Republicans promote a narrative of “White men are victims.” </description>
+                  <dc:creator>Morgan Phillips</dc:creator>
+                         <pubDate>Fri, 27 Nov 2020 00:47:37 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Morgan Phillips</category>
+                            </item>
+      </channel>
+</rss>

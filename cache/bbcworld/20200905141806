@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet title="XSL_formatting" type="text/xsl" href="/shared/bsp/xsl/rss/nolsol.xsl"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News - World]]></title>
+        <description><![CDATA[BBC News - World]]></description>
+        <link>https://www.bbc.co.uk/news/</link>
+        <image>
+            <url>https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News - World</title>
+            <link>https://www.bbc.co.uk/news/</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Sat, 05 Sep 2020 13:23:34 GMT</lastBuildDate>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Trump panned over reports he called US war dead 'losers']]></title>
+            <description><![CDATA[A magazine claims the president called US soldiers killed in action "losers", something he denies.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-54034707</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-54034707</guid>
+            <pubDate>Sat, 05 Sep 2020 08:09:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus: Arrests at Australia anti-lockdown protests]]></title>
+            <description><![CDATA[In Melbourne, the centre of the outbreak, 300 people marched in defiance of tough restrictions.]]></description>
+            <link>https://www.bbc.co.uk/news/world-australia-54040278</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-australia-54040278</guid>
+            <pubDate>Sat, 05 Sep 2020 11:17:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus: Russian vaccine shows signs of immune response]]></title>
+            <description><![CDATA[Scientists say early tests showed that volunteers developed antibodies to fight the virus.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-54036221</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-54036221</guid>
+            <pubDate>Fri, 04 Sep 2020 22:58:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Jessica Krug will not teach this semester, George Washington University says]]></title>
+            <description><![CDATA[Jessica Krug admitted in a blog post that she was a white Jewish woman from Kansas City.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-54036637</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-54036637</guid>
+            <pubDate>Sat, 05 Sep 2020 03:18:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Beirut blast: Victims remembered in one month anniversary vigil]]></title>
+            <description><![CDATA[It is one month since a port explosion caused devastation in Lebanon's capital city.]]></description>
+            <link>https://www.bbc.co.uk/news/world-middle-east-54042223</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-middle-east-54042223</guid>
+            <pubDate>Sat, 05 Sep 2020 13:02:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Typhoon Maysak: North Korea vows to punish officials over 'casualties']]></title>
+            <description><![CDATA[The ruling party says local officials are responsible for "dozens of casualties" in Typhoon Maysak.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-54040139</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-54040139</guid>
+            <pubDate>Sat, 05 Sep 2020 11:01:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Niger mass graves: Army accused of executing over 70 civilians]]></title>
+            <description><![CDATA[Niger's human rights commission has said the killings happened during counterinsurgency operations.]]></description>
+            <link>https://www.bbc.co.uk/news/world-africa-54041564</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-54041564</guid>
+            <pubDate>Sat, 05 Sep 2020 11:54:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[El Salvador granted favours to jailed gang leaders, report says]]></title>
+            <description><![CDATA[The jailed leaders were asked to reduce violence and support the president, a media report says.]]></description>
+            <link>https://www.bbc.co.uk/news/world-latin-america-54033444</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-latin-america-54033444</guid>
+            <pubDate>Fri, 04 Sep 2020 23:41:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Iran's enriched uranium stockpile '10 times limit']]></title>
+            <description><![CDATA[Tehran has continued to enrich uranium in breach of a nuclear deal, the UN nuclear watchdog warns.]]></description>
+            <link>https://www.bbc.co.uk/news/world-middle-east-54033441</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-middle-east-54033441</guid>
+            <pubDate>Sat, 05 Sep 2020 01:51:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Trump bans 'anti-American' diversity training]]></title>
+            <description><![CDATA[The president says any training sessions for government staff on "white privilege" are propaganda.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-54038888</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-54038888</guid>
+            <pubDate>Sat, 05 Sep 2020 04:24:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Jacob Blake makes court appearance from hospital bed]]></title>
+            <description><![CDATA[The black man whose shooting by police triggered protests faces charges unrelated to that incident.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-54036131</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-54036131</guid>
+            <pubDate>Fri, 04 Sep 2020 23:10:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Earth's 'lost species' only the tip of the iceberg]]></title>
+            <description><![CDATA[Hundreds of mammals will go extinct if we do not act now to address biodiversity loss, say scientists.]]></description>
+            <link>https://www.bbc.co.uk/news/science-environment-54034134</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-54034134</guid>
+            <pubDate>Fri, 04 Sep 2020 23:11:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The 'weird signs' that led Chadwick Boseman to Black Panther]]></title>
+            <description><![CDATA[When Marvel's first black male superhero was cast, Boseman revealed there had been "weird signs" that it might happen.]]></description>
+            <link>https://www.bbc.co.uk/news/stories-54014997</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/stories-54014997</guid>
+            <pubDate>Fri, 04 Sep 2020 23:22:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The fight to 'free' the Aboriginal flag]]></title>
+            <description><![CDATA[A copyright row over the flag has angered many Australians who say it is a crucial symbol of identity.]]></description>
+            <link>https://www.bbc.co.uk/news/world-australia-49315063</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-australia-49315063</guid>
+            <pubDate>Fri, 04 Sep 2020 15:25:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[US protests: Dark-clad thugs on planes and other claims fact-checked]]></title>
+            <description><![CDATA[We've been debunking the misinformation swirling around protest movements in US cities.]]></description>
+            <link>https://www.bbc.co.uk/news/54023884</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/54023884</guid>
+            <pubDate>Fri, 04 Sep 2020 23:19:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['Assassins tried to kill my mother right in front of me, twice']]></title>
+            <description><![CDATA[Shuhra Koofi has witnessed two attempts to kill her mother Fawzia Koofi, a longstanding Taliban critic.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-54014336</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-54014336</guid>
+            <pubDate>Fri, 04 Sep 2020 23:19:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why there are fears that Ethiopia could break up]]></title>
+            <description><![CDATA[The feud between Prime Minister Abiy Ahmed and the ruling party in the Tigray region is escalating.]]></description>
+            <link>https://www.bbc.co.uk/news/world-africa-53807187</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-53807187</guid>
+            <pubDate>Fri, 04 Sep 2020 23:13:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Chinese students face increased scrutiny at US airports]]></title>
+            <description><![CDATA[As US-China relations sour further, some young Chinese visitors are being accused of technology theft.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-54016278</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-54016278</guid>
+            <pubDate>Fri, 04 Sep 2020 23:23:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[US election 2020: Will Trump voters support the president again?]]></title>
+            <description><![CDATA["I'm disappointed in myself", Tammy says of her 2016 vote. Many in her hometown remain devoted to the president.]]></description>
+            <link>https://www.bbc.co.uk/news/election-us-2020-54022000</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/election-us-2020-54022000</guid>
+            <pubDate>Fri, 04 Sep 2020 23:17:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Seaman found alive after capsize of cargo ship in typhoon]]></title>
+            <description><![CDATA[The Japanese coastguard rescued a seaman in a dramatic search operation.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-54023001</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-54023001</guid>
+            <pubDate>Fri, 04 Sep 2020 05:15:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tel Aviv: Drone filmed dropping suspected cannabis over city]]></title>
+            <description><![CDATA[A quadcopter was seen releasing small bags, believed to contain illegal drugs, over Tel Aviv, Israel.]]></description>
+            <link>https://www.bbc.co.uk/news/world-54035450</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-54035450</guid>
+            <pubDate>Fri, 04 Sep 2020 19:05:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Belarus: The great-grandmother taking on President Alexander Lukashenko]]></title>
+            <description><![CDATA[As street protests in Belarus continue well into their fourth week, a 73-year-old has turned into an unlikely hero for demonstrators.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-53941984</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-53941984</guid>
+            <pubDate>Thu, 03 Sep 2020 23:00:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Migrant crisis: Rescue boat baby five years on]]></title>
+            <description><![CDATA[One of a million migrants who came to Europe in 2015, Stephanie was heavily pregnant when she was saved.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-53941986</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-53941986</guid>
+            <pubDate>Thu, 03 Sep 2020 23:02:25 GMT</pubDate>
+        </item>
+    </channel>
+</rss>

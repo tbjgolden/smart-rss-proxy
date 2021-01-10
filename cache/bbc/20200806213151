@@ -1,0 +1,432 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet title="XSL_formatting" type="text/xsl" href="/shared/bsp/xsl/rss/nolsol.xsl"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News - Home]]></title>
+        <description><![CDATA[BBC News - Home]]></description>
+        <link>https://www.bbc.co.uk/news/</link>
+        <image>
+            <url>https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News - Home</title>
+            <link>https://www.bbc.co.uk/news/</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Thu, 06 Aug 2020 21:30:18 GMT</lastBuildDate>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Coronavirus: Travellers from Belgium, Andorra, and the Bahamas must quarantine in UK]]></title>
+            <description><![CDATA[The changes start from 04:00 BST on Saturday except in Wales, where they start midnight Thursday.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-53687740</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-53687740</guid>
+            <pubDate>Thu, 06 Aug 2020 21:20:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bank of England boss Bailey backs end of furlough scheme]]></title>
+            <description><![CDATA[UK economy is still set for worst performance in 100 years according to the UK's central bank.]]></description>
+            <link>https://www.bbc.co.uk/news/business-53675467</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-53675467</guid>
+            <pubDate>Thu, 06 Aug 2020 16:02:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[New York attorney general sues to dissolve NRA]]></title>
+            <description><![CDATA[New York's attorney general announces a lawsuit aimed at dissolving the powerful gun lobbying group.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-53684033</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-53684033</guid>
+            <pubDate>Thu, 06 Aug 2020 17:40:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Beirut explosion: Macron calls for 'deep change' in Lebanon after blast]]></title>
+            <description><![CDATA[The visiting French president says funding is available but reforms must take place before it is sent.]]></description>
+            <link>https://www.bbc.co.uk/news/world-middle-east-53686563</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-middle-east-53686563</guid>
+            <pubDate>Thu, 06 Aug 2020 21:25:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Saudi crown prince accused of sending hit squad to Canada]]></title>
+            <description><![CDATA[Mohammed bin Salman has been accused of sending a hit-squad to kill a former Saudi official.]]></description>
+            <link>https://www.bbc.co.uk/news/world-middle-east-53677869</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-middle-east-53677869</guid>
+            <pubDate>Thu, 06 Aug 2020 20:48:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[London Marathon to be elite-only race in 2020]]></title>
+            <description><![CDATA[The 2020 London Marathon will involve only elite athletes, with 45,000 runners unable to take part in the mass participation race.]]></description>
+            <link>https://www.bbc.co.uk/sport/athletics/53661336</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/athletics/53661336</guid>
+            <pubDate>Thu, 06 Aug 2020 17:00:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus: 'The Royals visited my dad's care home but I couldn't']]></title>
+            <description><![CDATA[The care home says Rhys Thomas' father and others who had been isolated were not part of the visit.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-wales-53678266</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-53678266</guid>
+            <pubDate>Thu, 06 Aug 2020 18:05:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Caroline Flack inquest: ‘No doubt' presenter intended to take own life]]></title>
+            <description><![CDATA[A coroner rules the death of the ex-Love Island and X Factor host at her London home was suicide.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-london-53676793</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-53676793</guid>
+            <pubDate>Thu, 06 Aug 2020 17:35:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Zoe Saldana apologises for playing Nina Simone: 'She deserved better']]></title>
+            <description><![CDATA[The actress says she "should never have played Nina" in the heavily criticised 2016 biopic.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-53676550</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-53676550</guid>
+            <pubDate>Thu, 06 Aug 2020 09:28:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Swimmer completes 13 Lake District lakes in three days]]></title>
+            <description><![CDATA[George Taplin swam 43 miles of Lake District waters over the course of the challenge.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-cumbria-53684960</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-cumbria-53684960</guid>
+            <pubDate>Thu, 06 Aug 2020 17:45:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus: England's contact-tracing app readies for launch]]></title>
+            <description><![CDATA[The app will use QR barcode scans as well as Bluetooth handshakes to determine if users are at risk.]]></description>
+            <link>https://www.bbc.co.uk/news/technology-53678508</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-53678508</guid>
+            <pubDate>Thu, 06 Aug 2020 17:04:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tashan Daniel: Man guilty of London Underground murder]]></title>
+            <description><![CDATA[Alex Lanning stabbed Tashan Daniel with an army knife designed for NATO on a London Underground platform.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-london-53595415</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-53595415</guid>
+            <pubDate>Thu, 06 Aug 2020 16:54:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Cyclist Groenewegen apologises for crash]]></title>
+            <description><![CDATA[Dutch cyclist Dylan Groenewegen apologises for the crash that left compatriot Fabio Jakobsen in a coma.]]></description>
+            <link>https://www.bbc.co.uk/sport/cycling/53682454</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/cycling/53682454</guid>
+            <pubDate>Thu, 06 Aug 2020 18:08:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Photographer captures swimming pools from above]]></title>
+            <description><![CDATA[Brad Walls photographs the beauty of sun-drenched swimming pools from an aerial view.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-53684309</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-53684309</guid>
+            <pubDate>Thu, 06 Aug 2020 16:34:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Grandma’s first hug in six months through ‘cuddle curtain’]]></title>
+            <description><![CDATA[Victoria Wood was able to cuddle her grandmother Freda on her 90th birthday.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-south-yorkshire-53684268</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-south-yorkshire-53684268</guid>
+            <pubDate>Thu, 06 Aug 2020 14:36:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Cameron Diaz found 'peace' by quitting acting]]></title>
+            <description><![CDATA[The star opens up to Gwyneth Paltrow, who herself regrets using the phrase "conscious uncoupling".]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-53676783</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-53676783</guid>
+            <pubDate>Thu, 06 Aug 2020 14:30:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tokyo Olympics: Rings temporarily shelved]]></title>
+            <description><![CDATA[The giant Olympic rings exit the spotlight temporarily for maintenance, after the Tokyo games are postponed.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-53687522</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-53687522</guid>
+            <pubDate>Thu, 06 Aug 2020 19:04:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Sheffield man 'never imagined' proposal would set flat on fire]]></title>
+            <description><![CDATA[Albert Ndreu's romantic gesture went up in smoke when tea lights and candles set fire to his home.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-south-yorkshire-53678828</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-south-yorkshire-53678828</guid>
+            <pubDate>Thu, 06 Aug 2020 13:37:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Aberdeen lockdown: 'It feels never ending']]></title>
+            <description><![CDATA[A bar worker tells Radio 1 Newsbeat she's "gutted" the city has gone back into lockdown.]]></description>
+            <link>https://www.bbc.co.uk/news/newsbeat-53683473</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/newsbeat-53683473</guid>
+            <pubDate>Thu, 06 Aug 2020 14:51:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Beaver families win legal 'right to remain']]></title>
+            <description><![CDATA[Fifteen beaver families have been given a permanent home on the River Otter in East Devon.]]></description>
+            <link>https://www.bbc.co.uk/news/science-environment-53658375</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-53658375</guid>
+            <pubDate>Thu, 06 Aug 2020 04:27:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Natasha Lambert prepares for transatlantic sailing challenge]]></title>
+            <description><![CDATA[Natasha Lambert is preparing to sail across the Atlantic in a specially-adapted boat.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-hampshire-53648989</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-hampshire-53648989</guid>
+            <pubDate>Wed, 05 Aug 2020 23:01:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bad Boy Chiller Crew: Today Bradford, tomorrow we take over the world]]></title>
+            <description><![CDATA[Rappers, comedians, influencers - and they're doing it all from the backstreets of Bradford.]]></description>
+            <link>https://www.bbc.co.uk/news/newsbeat-53663601</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/newsbeat-53663601</guid>
+            <pubDate>Wed, 05 Aug 2020 23:58:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Beirut blast: The mother in labour during explosion]]></title>
+            <description><![CDATA[Emmanuelle was getting ready to give birth at St George's hospital in Beirut when an explosion rocked Lebanon's capital.]]></description>
+            <link>https://www.bbc.co.uk/news/world-middle-east-53671860</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-middle-east-53671860</guid>
+            <pubDate>Wed, 05 Aug 2020 17:54:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Dame Shirley Bassey to release first new album in five years]]></title>
+            <description><![CDATA[The Cardiff-born superstar celebrates a 70-year career with her first release in five years.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-wales-53669918</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-53669918</guid>
+            <pubDate>Thu, 06 Aug 2020 08:52:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus: Duke and Duchess of Cambridge visit Barry Island]]></title>
+            <description><![CDATA[Prince William and Catherine speak to business owners in Barry Island about the pandemic.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-wales-53668470</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-53668470</guid>
+            <pubDate>Wed, 05 Aug 2020 17:44:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[US election 2020 poll tracker: Who is ahead - Trump or Biden?]]></title>
+            <description><![CDATA[An in-depth look at the polls and what they can and can’t tell us about who will win the White House.]]></description>
+            <link>https://www.bbc.co.uk/news/election-us-2020-53657174</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/election-us-2020-53657174</guid>
+            <pubDate>Wed, 05 Aug 2020 20:35:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tashan Daniel: The Arsenal fan killed by a violent repeat offender]]></title>
+            <description><![CDATA[Tashan Daniel was on his way to an Arsenal game when he was stabbed by a man with a history of violence.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-london-53667362</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-53667362</guid>
+            <pubDate>Thu, 06 Aug 2020 14:46:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Hiroshima bomb: The day Michiko nearly missed her train]]></title>
+            <description><![CDATA[The horrors of the Hiroshima atomic bomb are laid bare through the story of one woman's life.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-53646820</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-53646820</guid>
+            <pubDate>Wed, 05 Aug 2020 23:09:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Beirut: Why has there been crisis after crisis in Lebanon?]]></title>
+            <description><![CDATA[From the war in 1975 to the explosion that devastated the port area of the capital, Beirut.]]></description>
+            <link>https://www.bbc.co.uk/news/world-middle-east-53669019</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-middle-east-53669019</guid>
+            <pubDate>Wed, 05 Aug 2020 23:01:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus: The childcare 'jigsaw' parents are facing this summer]]></title>
+            <description><![CDATA[Many holiday clubs aren't running and some have had to hike up prices - how are parents coping?]]></description>
+            <link>https://www.bbc.co.uk/news/uk-53635932</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-53635932</guid>
+            <pubDate>Thu, 06 Aug 2020 01:10:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus: The viral rumours that were completely wrong]]></title>
+            <description><![CDATA[In the early days the pandemic, lots of misleading posts went viral. Many were just plain wrong.]]></description>
+            <link>https://www.bbc.co.uk/news/blogs-trending-53640964</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/blogs-trending-53640964</guid>
+            <pubDate>Thu, 06 Aug 2020 00:06:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Is the housing secretary right about how long planning permission takes?]]></title>
+            <description><![CDATA[Robert Jenrick says a standard housing development takes five years to go through the planning process.]]></description>
+            <link>https://www.bbc.co.uk/news/53642683</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/53642683</guid>
+            <pubDate>Thu, 06 Aug 2020 02:29:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The islands that want tourists as well as fish]]></title>
+            <description><![CDATA[The Faroe Islands are trying to reduce their dependence on fishing industries.]]></description>
+            <link>https://www.bbc.co.uk/news/business-53593137</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-53593137</guid>
+            <pubDate>Wed, 05 Aug 2020 23:28:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Zarka's husband sliced off her nose. A surgeon offered to restore it for free]]></title>
+            <description><![CDATA[A young Afghan woman suffered a brutal domestic assault, but surgery gave her a ray of hope.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-53568439</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-53568439</guid>
+            <pubDate>Thu, 06 Aug 2020 00:02:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Kashmir: 'I could land up in jail if I express myself freely']]></title>
+            <description><![CDATA[Artists, poets and journalists feel that freedom of expression is under attack in Kashmir.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-india-53637125</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-india-53637125</guid>
+            <pubDate>Thu, 06 Aug 2020 00:07:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus: How an aged care crisis seized 'ill-prepared' Australia]]></title>
+            <description><![CDATA[As Australia endures its most deadly virus period, has it failed its most vulnerable people?]]></description>
+            <link>https://www.bbc.co.uk/news/world-australia-53633356</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-australia-53633356</guid>
+            <pubDate>Wed, 05 Aug 2020 15:56:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Pakistan dominate woeful England - report & highlights]]></title>
+            <description><![CDATA[England are already facing defeat in the first Test after a Shan Masood-inspired Pakistan dominate the second day at Emirates Old Trafford.]]></description>
+            <link>https://www.bbc.co.uk/sport/cricket/53682160</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/cricket/53682160</guid>
+            <pubDate>Thu, 06 Aug 2020 18:11:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bale 'didn't want to play' against Man City - Real boss Zidane]]></title>
+            <description><![CDATA[Real Madrid manager Zinedine Zidane says Gareth Bale "preferred not to play" in the Champions League last-16 second-leg tie against Manchester City.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/53687308</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/53687308</guid>
+            <pubDate>Thu, 06 Aug 2020 18:28:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Wolverhampton Wanderers 1-0 (2-1 agg) Olympiakos: Raul Jimenez goal sends Wolves into last eight]]></title>
+            <description><![CDATA[Wolverhampton Wanders beat Olympiakos 1-0 to secure a 2-1 aggregate win and reach the Europa League quarter-finals.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/53548606</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/53548606</guid>
+            <pubDate>Thu, 06 Aug 2020 21:29:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Higgins knocked out despite first Crucible 147 break since 2012 - video & report]]></title>
+            <description><![CDATA[Four-time champion John Higgins makes a maximum 147 break but cannot avoid a shock 13-11 defeat by Kurt Maflin in World Championship second round.]]></description>
+            <link>https://www.bbc.co.uk/sport/snooker/53680050</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/snooker/53680050</guid>
+            <pubDate>Thu, 06 Aug 2020 21:26:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[England v Pakistan highlights: Shan Masood scores century as visitors dominate]]></title>
+            <description><![CDATA[Shan Masood scores a century before Pakistan's bowlers rip through England's top order to take control on day two of the First Test at Old Trafford.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/cricket/53686305</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/cricket/53686305</guid>
+            <pubDate>Thu, 06 Aug 2020 19:15:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Beirut explosion: How ship's deadly cargo ended up at port]]></title>
+            <description><![CDATA[More than 2,000 tons of ammonium nitrate arrived in 2013 on the Moldovan-flagged MV Rhosus.]]></description>
+            <link>https://www.bbc.co.uk/news/world-middle-east-53683082</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-middle-east-53683082</guid>
+            <pubDate>Thu, 06 Aug 2020 18:42:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Beirut explosion: What we know so far]]></title>
+            <description><![CDATA[A devastating explosion in Beirut on Tuesday killed at least 137 people and injured thousands.]]></description>
+            <link>https://www.bbc.co.uk/news/world-middle-east-53668493</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-middle-east-53668493</guid>
+            <pubDate>Thu, 06 Aug 2020 12:10:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Beirut: The bride being photographed in wedding dress as blast hit]]></title>
+            <description><![CDATA[Israa Seblani was posing for her wedding photographs when the huge explosion shook the nearby port area of Beirut.]]></description>
+            <link>https://www.bbc.co.uk/news/world-middle-east-53679791</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-middle-east-53679791</guid>
+            <pubDate>Thu, 06 Aug 2020 15:18:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Beirut explosion: Pianist's homage to the victims]]></title>
+            <description><![CDATA[Beirut resident May Melki says her rendition of Auld Lang Syne is a homage, not a farewell.]]></description>
+            <link>https://www.bbc.co.uk/news/world-middle-east-53685236</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-middle-east-53685236</guid>
+            <pubDate>Thu, 06 Aug 2020 16:17:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why Lebanon was already in crisis]]></title>
+            <description><![CDATA[What has caused such anger across Lebanon - and why it is not going away.]]></description>
+            <link>https://www.bbc.co.uk/news/world-middle-east-53390108</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-middle-east-53390108</guid>
+            <pubDate>Wed, 05 Aug 2020 11:23:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Beirut explosion: Exploring the damage after the blast]]></title>
+            <description><![CDATA[A Beirut resident show how neighbours are trying to help clean up and recover after the blast.]]></description>
+            <link>https://www.bbc.co.uk/news/world-middle-east-53675653</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-middle-east-53675653</guid>
+            <pubDate>Thu, 06 Aug 2020 10:24:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[In pictures: Chaos and destruction after the blast]]></title>
+            <description><![CDATA[Photos show the destruction in the Lebanese capital after a huge explosion.]]></description>
+            <link>https://www.bbc.co.uk/news/world-middle-east-53656313</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-middle-east-53656313</guid>
+            <pubDate>Wed, 05 Aug 2020 16:36:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Beirut explosion: What is ammonium nitrate and how dangerous is it?]]></title>
+            <description><![CDATA[Ammonium nitrate has been blamed for a deadly explosion in Beirut, but what exactly is the chemical?]]></description>
+            <link>https://www.bbc.co.uk/news/explainers-53664064</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-53664064</guid>
+            <pubDate>Wed, 05 Aug 2020 13:11:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How conspiracy theories spread after explosion]]></title>
+            <description><![CDATA[False rumours about what caused the Beirut explosion and who was behind it spread on social media.]]></description>
+            <link>https://www.bbc.co.uk/news/53669029</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/53669029</guid>
+            <pubDate>Wed, 05 Aug 2020 17:34:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus: What are the risks of opening schools?]]></title>
+            <description><![CDATA[Children seem to be at low risk from the disease, but can they still spread it?]]></description>
+            <link>https://www.bbc.co.uk/news/health-52003804</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-52003804</guid>
+            <pubDate>Wed, 05 Aug 2020 15:49:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus: What are the new lockdown rules for Aberdeen and other areas?]]></title>
+            <description><![CDATA[Scotland's first local lockdown has been declared in Aberdeen, but how is one imposed and what happens?]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-52934822</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-52934822</guid>
+            <pubDate>Wed, 05 Aug 2020 15:29:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus cure: What progress are we making on treatments?]]></title>
+            <description><![CDATA[Teams around the world are looking into medicines for Covid-19 and scientists are starting to discover what works.]]></description>
+            <link>https://www.bbc.co.uk/news/health-52354520</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-52354520</guid>
+            <pubDate>Wed, 22 Jul 2020 16:37:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Europe lockdown: New coronavirus curbs country by country]]></title>
+            <description><![CDATA[What are European countries doing to control new coronavirus outbreaks?]]></description>
+            <link>https://www.bbc.co.uk/news/explainers-53640249</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-53640249</guid>
+            <pubDate>Thu, 06 Aug 2020 09:49:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus in the UK: How many confirmed cases are there in your area?]]></title>
+            <description><![CDATA[Key graphics explaining how coronavirus has spread in the UK and the government's response.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-51768274</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-51768274</guid>
+            <pubDate>Thu, 06 Aug 2020 16:58:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus: How will schools reopen in September?]]></title>
+            <description><![CDATA[Schools are set to go back for the autumn term, but scientists say society may have to make trade-offs.]]></description>
+            <link>https://www.bbc.co.uk/news/education-51643556</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/education-51643556</guid>
+            <pubDate>Wed, 05 Aug 2020 12:04:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus: What are the UK travel quarantine rules?]]></title>
+            <description><![CDATA[What do you need to know if you're planning to fly during the Covid-19 pandemic?]]></description>
+            <link>https://www.bbc.co.uk/news/explainers-52544307</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-52544307</guid>
+            <pubDate>Thu, 06 Aug 2020 20:07:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus: How does test-and-trace work?]]></title>
+            <description><![CDATA[People who have been in close contact with someone found to have Covid-19 are now being traced.]]></description>
+            <link>https://www.bbc.co.uk/news/explainers-52442754</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-52442754</guid>
+            <pubDate>Tue, 04 Aug 2020 14:32:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[NBA: Black Lives Matter and basketball’s role in discussion on racism]]></title>
+            <description><![CDATA[Basketball is perhaps the sport best placed to challenge racial inequality. Is the NBA doing it right?]]></description>
+            <link>https://www.bbc.co.uk/sport/basketball/53556565</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/basketball/53556565</guid>
+            <pubDate>Fri, 31 Jul 2020 02:47:28 GMT</pubDate>
+        </item>
+    </channel>
+</rss>

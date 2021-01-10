@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" media="screen" href="/~d/styles/rss2full.xsl"?><?xml-stylesheet type="text/css" media="screen" href="http://feeds.foxnews.com/~d/styles/itemcontent.css"?><rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+                    <title>FOX News</title>
+    <link>http://www.foxnews.com/</link>
+    <description><![CDATA[FOXNews.com - Breaking news and video. Latest Current News: U.S., World, Entertainment, Health, Business, Technology, Politics, Sports.]]></description>
+        <image>
+    	<url>http://tools.foxnews.com/sites/tools.foxnews.com/files/images/fox-news-logo.png</url>
+    	<title>FOX News</title>
+    	<link>http://www.foxnews.com/</link>
+    </image>
+            <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feeds.foxnews.com/foxnews/latest" /><feedburner:info xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" uri="foxnews/latest" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /><item>
+                  <guid isPermaLink="true">https://www.foxnews.com/us/this-day-in-history-nov-15</guid>
+      <link>https://www.foxnews.com/us/this-day-in-history-nov-15</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/11/RogerStoneAP111519.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/RogerStoneAP111519.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/RogerStoneAP111519.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">8a5fbc5c-d839-5165-a5f8-6c6ea2bfc28e</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/us/this-day-in-history</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/us</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>This Day in History: Nov. 15</title>
+      <description>The Second Continental Congress approves the Articles of Confederation. Trump confidant and GOP operative Roger Stone is found guilty of all seven counts of obstruction, witness tampering and making false statements</description>
+                  <dc:creator>Bryan Robinson</dc:creator>
+                         <pubDate>Sun, 15 Nov 2020 05:00:13 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Bryan Robinson</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/food-drink/cookies-for-caregivers-thousands-frontline-workers</guid>
+      <link>https://www.foxnews.com/food-drink/cookies-for-caregivers-thousands-frontline-workers</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/10/iStock-178642185.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/iStock-178642185.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/iStock-178642185.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">a52336c7-63d7-5ad1-9a71-105d93e93982</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/us/personal-freedoms/america-together</category>
+            <category domain="foxnews.com/taxonomy">fox-news/health/infectious-disease/coronavirus</category>
+            <category domain="foxnews.com/taxonomy">fox-news/food-drink/food</category>
+            <category domain="foxnews.com/taxonomy">fox-news/food-drink/recipes/meals/dessert</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/food-drink</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Pennsylvania group delivers thousands of cookies to frontline workers during pandemic</title>
+      <description>Scott McKenzie and Jeremy Uhrich, from Huntingdon, Pennsylvania, started the group “Cookies for Caregivers,” which has delivered thousands of cookies to frontline workers since April.</description>
+                  <dc:creator>Ann Schmidt</dc:creator>
+                         <pubDate>Sun, 15 Nov 2020 03:48:56 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Ann Schmidt</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/travel/hawaiian-airlines-redeem-miles-covid-test-kits</guid>
+      <link>https://www.foxnews.com/travel/hawaiian-airlines-redeem-miles-covid-test-kits</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/10/HawaiianAirlinesIstock22.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/HawaiianAirlinesIstock22.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/HawaiianAirlinesIstock22.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">3f1c5331-2e78-53c8-8928-12993d94afb8</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/travel/general/airlines</category>
+            <category domain="foxnews.com/taxonomy">fox-news/health/infectious-disease/coronavirus</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/travel</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Hawaiian Airlines passengers can get coronavirus test kits using air miles</title>
+      <description>Hawaiian Airlines is the first U.S. carrier to allow loyalty members to redeem their miles for a coronavirus test kit.</description>
+                  <dc:creator>Ann Schmidt</dc:creator>
+                         <pubDate>Sun, 15 Nov 2020 03:44:59 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Ann Schmidt</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/sports/iona-rick-pitino-advocates-may-madness-coronavirus</guid>
+      <link>https://www.foxnews.com/sports/iona-rick-pitino-advocates-may-madness-coronavirus</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2018/09/ap17270593812890.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/ap17270593812890.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/ap17270593812890.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">2c174f1e-a30a-5ea3-99d3-cdb04edd8471</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/sports/ncaa-bk</category>
+            <category domain="foxnews.com/taxonomy">fox-news/sports/ncaa</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/sports</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Iona's Rick Pitino advocates for 'May Madness' as coronavirus looms over basketball season</title>
+      <description>The coronavirus pandemic is still determining whether college basketball games get played as some teams’ seasons have been postponed because of several outbreaks at a handful of schools.</description>
+                  <dc:creator>Ryan Gaydos</dc:creator>
+                         <pubDate>Sun, 15 Nov 2020 03:36:45 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Ryan Gaydos</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/sports/sam-mitchell-nba-coach-experience-augusta-national</guid>
+      <link>https://www.foxnews.com/sports/sam-mitchell-nba-coach-experience-augusta-national</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/11/Masters-course.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/Masters-course.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/Masters-course.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">345f64c2-e0b3-5a14-9777-1d9698e79d5f</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/sports/golf/the-masters</category>
+            <category domain="foxnews.com/taxonomy">fox-news/sports/golf</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/sports</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Sam Mitchell, former NBA coach, talks experience at Augusta National</title>
+      <description>Former NBA coach and forward Sam Mitchell said a sour time at a golf club near his Georgia home gave him a bad impression of what it would be like to play at Augusta National.</description>
+                  <dc:creator>Ryan Gaydos</dc:creator>
+                         <pubDate>Sun, 15 Nov 2020 03:34:00 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Ryan Gaydos</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/sports/giants-golden-tate-outburst-unacceptable-denies-traded</guid>
+      <link>https://www.foxnews.com/sports/giants-golden-tate-outburst-unacceptable-denies-traded</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/11/Golden-Tate.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/Golden-Tate.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/Golden-Tate.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">e834f984-c8b7-50c8-a871-d7033516cbdc</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/sports/nfl/new-york-giants</category>
+            <category domain="foxnews.com/taxonomy">fox-news/sports/nfl</category>
+            <category domain="foxnews.com/taxonomy">fox-news/person/joe-judge</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/sports</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Giants' Golden Tate calls his outburst 'unacceptable,' denies he was trying to get traded</title>
+      <description>New York Giants wide receiver Golden Tate apologized for his outburst during Monday night football two weeks ago which landed him in coach Joe Judge’s doghouse.</description>
+                  <dc:creator>Ryan Gaydos</dc:creator>
+                         <pubDate>Sun, 15 Nov 2020 03:29:43 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Ryan Gaydos</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/sports/frustrated-jj-watt-snaps-tweet-the-masters</guid>
+      <link>https://www.foxnews.com/sports/frustrated-jj-watt-snaps-tweet-the-masters</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/11/JJ-Watt.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/JJ-Watt.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/JJ-Watt.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">8e384d79-bd65-5012-b92a-3fe0eea49367</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/sports/nfl/houston-texans</category>
+            <category domain="foxnews.com/taxonomy">fox-news/sports/nfl</category>
+            <category domain="foxnews.com/taxonomy">fox-news/person/j-j-watt</category>
+            <category domain="foxnews.com/taxonomy">fox-news/sports/golf/the-masters</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/sports</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Frustrated J.J. Watt snaps at tweet over struggle trying to watch The Masters</title>
+      <description>J.J. Watt made clear Saturday he had no time for trolling comments on social media as the Houston Texans prepared for their matchup against the Cleveland Browns and The Masters being played out.</description>
+                  <dc:creator>Ryan Gaydos</dc:creator>
+                         <pubDate>Sun, 15 Nov 2020 03:27:15 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Ryan Gaydos</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/sports/jack-nicklaus-trump-question-masters</guid>
+      <link>https://www.foxnews.com/sports/jack-nicklaus-trump-question-masters</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/11/Jack-Nicklaus.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/Jack-Nicklaus.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/Jack-Nicklaus.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">d672b185-184a-5425-9ffd-9c2dbba018f3</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/sports/golf/the-masters</category>
+            <category domain="foxnews.com/taxonomy">fox-news/sports/golf</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/sports</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Jack Nicklaus dismisses Trump question at The Masters: 'I don’t think this is the place for politics'</title>
+      <description>Jack Nicklaus appeared to still be angling his shot a few days after Democrat candidate Joe Biden was projected to win enough electoral votes to beat President Trump in the presidential election.</description>
+                  <dc:creator>Ryan Gaydos</dc:creator>
+                         <pubDate>Sun, 15 Nov 2020 03:24:21 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Ryan Gaydos</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/sports/bubba-watson-coronavirus-pandemic-golf-popularity</guid>
+      <link>https://www.foxnews.com/sports/bubba-watson-coronavirus-pandemic-golf-popularity</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/11/Bubba-Watson.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/Bubba-Watson.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/Bubba-Watson.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">8ab010df-4201-5759-b6fc-bd7767e6b50c</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/sports/golf/the-masters</category>
+            <category domain="foxnews.com/taxonomy">fox-news/sports/golf</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/sports</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Bubba Watson: Coronavirus pandemic helped boost golf's popularity</title>
+      <description>The coronavirus pandemic has been a boon for the golf industry and the sport has never been more popular, Bubba Watson said Friday.</description>
+                  <dc:creator>Ryan Gaydos</dc:creator>
+                         <pubDate>Sun, 15 Nov 2020 03:14:44 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Ryan Gaydos</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/sports/ramseys-3-td-passes-lead-no-23-wildcats-past-purdue-27-20</guid>
+      <link>https://www.foxnews.com/sports/ramseys-3-td-passes-lead-no-23-wildcats-past-purdue-27-20</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/11/Peyton-Ramsey.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/Peyton-Ramsey.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/Peyton-Ramsey.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">9555a862-e921-5c5e-9aae-985de18442a8</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/sports/ncaa-fb</category>
+            <category domain="foxnews.com/taxonomy">fox-news/sports/ncaa</category>
+            <category domain="foxnews.com/taxonomy">fox-news/sports/ncaa/northwestern-wildcats</category>
+            <category domain="foxnews.com/taxonomy">fox-news/sports/ncaa/purdue-boilermakers</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/sports</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Ramsey's 3 TD passes lead No. 23 Wildcats past Purdue 27-20</title>
+      <description>Peyton Ramsey threw for 212 yards and three touchdowns, all to Ramaud Chiaokhiao-Bowman, and No. 23 Northwestern beat Purdue 27-20 on Saturday.</description>
+                   <pubDate>Sun, 15 Nov 2020 03:12:34 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Associated Press</category>
+                              <category domain="foxnews.com/dateline" />
+                                  </item>
+      </channel>
+</rss>

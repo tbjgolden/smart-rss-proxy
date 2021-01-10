@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet title="XSL_formatting" type="text/xsl" href="/shared/bsp/xsl/rss/nolsol.xsl"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News - Home]]></title>
+        <description><![CDATA[BBC News - Home]]></description>
+        <link>https://www.bbc.co.uk/news/</link>
+        <image>
+            <url>https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News - Home</title>
+            <link>https://www.bbc.co.uk/news/</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Sun, 01 Nov 2020 17:51:09 GMT</lastBuildDate>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Covid-19: English lockdown may last beyond 2 Dec, says Gove]]></title>
+            <description><![CDATA[Stricter rules to start on Thursday will need to bring the R rate "below 1", the cabinet minister says.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-54767118</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-54767118</guid>
+            <pubDate>Sun, 01 Nov 2020 16:37:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Sir Bobby Charlton: England World Cup winner diagnosed with dementia]]></title>
+            <description><![CDATA[World Cup-winning England forward and Manchester United legend Sir Bobby Charlton is diagnosed with dementia.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/54770216</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/54770216</guid>
+            <pubDate>Sun, 01 Nov 2020 15:10:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bristol illegal rave attended by 700 people]]></title>
+            <description><![CDATA[Some of the crowd became violent as they were told to leave, Avon and Somerset Police said.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-bristol-54769055</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-bristol-54769055</guid>
+            <pubDate>Sun, 01 Nov 2020 16:47:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Lockdown: Government resists calls to shut schools in England]]></title>
+            <description><![CDATA[Mayors of hard-hit regions are among those calling for schools to shut to reduce transmission faster.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-54772375</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-54772375</guid>
+            <pubDate>Sun, 01 Nov 2020 16:04:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Wrexham's former police station brought down with a bang]]></title>
+            <description><![CDATA[A controlled explosion is used to flatten a former high-rise police station to make way for a supermarket.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-wales-54772401</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-54772401</guid>
+            <pubDate>Sun, 01 Nov 2020 15:58:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid lockdown: 'North worth less than South' mayor claims]]></title>
+            <description><![CDATA[North-west England politicians are angry at differences between local and national furlough rates.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-54769232</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-54769232</guid>
+            <pubDate>Sun, 01 Nov 2020 15:27:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus: Transport for London secures emergency £1.8bn bailout]]></title>
+            <description><![CDATA[Transport for London has secured a six-month deal to keep services running until March 2021.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-london-54768723</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-54768723</guid>
+            <pubDate>Sun, 01 Nov 2020 10:38:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Search for Turkey quake survivors continues]]></title>
+            <description><![CDATA[A survivor is pulled from the rubble in the port city of Izmir as the quake's death toll rises to 64.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-54770210</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-54770210</guid>
+            <pubDate>Sun, 01 Nov 2020 16:07:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Australia records zero Covid-19 cases for first time in five months]]></title>
+            <description><![CDATA[Locally-transmitted cases have dropped to zero and one state is hopeful for a "normal Christmas".]]></description>
+            <link>https://www.bbc.co.uk/news/world-australia-54768038</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-australia-54768038</guid>
+            <pubDate>Sun, 01 Nov 2020 09:26:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Lockdown: 'More sports face collapse without guidance' says shadow sports minister]]></title>
+            <description><![CDATA[The government is urged to issue prompt guidance on how new lockdown rules for England will affect sport "unless they want more sports to face collapse".]]></description>
+            <link>https://www.bbc.co.uk/sport/54767836</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/54767836</guid>
+            <pubDate>Sun, 01 Nov 2020 13:56:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mortgage holidays extended for up to six months]]></title>
+            <description><![CDATA[The scheme to help borrowers facing financial difficulty had been due to end on 31 October.]]></description>
+            <link>https://www.bbc.co.uk/news/business-54768692</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-54768692</guid>
+            <pubDate>Sun, 01 Nov 2020 12:30:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Man City win Women's FA Cup after extra time]]></title>
+            <description><![CDATA[Manchester City win their third Women's FA Cup in four seasons as Georgia Stanway and Janine Beckie's late extra time goals beat Everton at Wembley.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/54711538</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/54711538</guid>
+            <pubDate>Sun, 01 Nov 2020 17:30:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid: Second England lockdown 'a devastating blow']]></title>
+            <description><![CDATA[Some are better prepared, others will diversify businesses and several want more financial support.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-54768611</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-54768611</guid>
+            <pubDate>Sun, 01 Nov 2020 14:13:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid-19: Can my son still get married? And other questions]]></title>
+            <description><![CDATA[We answer some of your questions about the rapidly changing rules and restrictions in the UK.]]></description>
+            <link>https://www.bbc.co.uk/news/explainers-54769629</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-54769629</guid>
+            <pubDate>Sun, 01 Nov 2020 16:16:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid: What will the England lockdown achieve?]]></title>
+            <description><![CDATA[Lockdown is the measure nobody wanted but now many European countries have decided they need.]]></description>
+            <link>https://www.bbc.co.uk/news/health-54766526</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-54766526</guid>
+            <pubDate>Sun, 01 Nov 2020 00:22:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[NHS 'refuses' medical cannabis for children with epilepsy]]></title>
+            <description><![CDATA[Families foot the bill as the NHS "refuses" to prescribe medical cannabis for children with epilepsy.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-kent-54749353</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-kent-54749353</guid>
+            <pubDate>Sun, 01 Nov 2020 00:22:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['My parents had hearts of gold, they didn't deserve it']]></title>
+            <description><![CDATA[How people are dealing with the effects of coronavirus in one New York neighbourhood.]]></description>
+            <link>https://www.bbc.co.uk/news/business-54720268</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-54720268</guid>
+            <pubDate>Sun, 01 Nov 2020 00:27:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Your pictures on the theme of 'urban living']]></title>
+            <description><![CDATA[A selection of pictures from our readers on the theme of "urban living".]]></description>
+            <link>https://www.bbc.co.uk/news/in-pictures-54739292</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/in-pictures-54739292</guid>
+            <pubDate>Fri, 30 Oct 2020 09:57:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Salvaged Victorian signal box to become museum]]></title>
+            <description><![CDATA[It became redundant in 2016 along with others in the East Midlands.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-nottinghamshire-54731548</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-nottinghamshire-54731548</guid>
+            <pubDate>Sun, 01 Nov 2020 00:02:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How I talk to the victims of conspiracy theories]]></title>
+            <description><![CDATA[The BBC's specialist disinformation reporter explains how to help people who've fallen down the rabbit hole.]]></description>
+            <link>https://www.bbc.co.uk/news/blogs-trending-54738471</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/blogs-trending-54738471</guid>
+            <pubDate>Sun, 01 Nov 2020 00:45:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Nagorno-Karabakh conflict: Human cost of two nations fighting for 'Motherland']]></title>
+            <description><![CDATA[The stories of families who have lost sons in the latest territorial war over Nagorno-Karabakh.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-54723662</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-54723662</guid>
+            <pubDate>Sun, 01 Nov 2020 00:50:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How His House turns refugee lives into horror film]]></title>
+            <description><![CDATA[Director Remi Weekes says film explores "the horrors that we do as humans to other humans".]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-54749782</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-54749782</guid>
+            <pubDate>Sun, 01 Nov 2020 00:34:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Obituary: Sir Sean Connery]]></title>
+            <description><![CDATA[Sir Sean Connery left school at 13 and delivered milk, polished coffins and laid bricks.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-13087132</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-13087132</guid>
+            <pubDate>Sat, 31 Oct 2020 12:26:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid: A town's intoxicating will to press on through the pandemic]]></title>
+            <description><![CDATA[In an ex-mining community hardship is nothing new, but a two-week lockdown presents new challenges.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-54730951</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-54730951</guid>
+            <pubDate>Sat, 31 Oct 2020 12:04:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Hamilton wins Emilia Romagna GP as Mercedes seal constructors' title]]></title>
+            <description><![CDATA[Lewis Hamilton moves to the brink of a seventh world title with victory in the Emilia Romagna Grand Prix.]]></description>
+            <link>https://www.bbc.co.uk/sport/formula1/54770864</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/formula1/54770864</guid>
+            <pubDate>Sun, 01 Nov 2020 14:55:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Celtic 90 minutes from quadruple treble after beating Aberdeen to reach final]]></title>
+            <description><![CDATA[Celtic are 90 minutes away from a quadruple treble after easing past Aberdeen in the Scottish Cup semi-final for their 35th domestic knock-out win.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/52170074</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/52170074</guid>
+            <pubDate>Sun, 01 Nov 2020 16:23:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Women's FA Cup Final: Valeri Gauvin equalises for Everton]]></title>
+            <description><![CDATA[Valerie Gauvin heads in to make it 1-1 between Man City and Everton in the Women's FA Cup final at Wembley.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/football/54772016</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/football/54772016</guid>
+            <pubDate>Sun, 01 Nov 2020 16:09:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Match of the Day: Alan Shearer and Danny Murphy on how Diogo Jota & Xherdan Shaqiri helped Liverpool beat West Ham]]></title>
+            <description><![CDATA[Match of the Day pundits Alan Shearer and Danny Murphy analyse the impact of Liverpool's substitutes Diogo Jota and Xherdan Shaqiri during their 2-1 win over West Ham.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/football/54766456</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/football/54766456</guid>
+            <pubDate>Sun, 01 Nov 2020 00:00:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid: Who can go back on to furlough?]]></title>
+            <description><![CDATA[The government has expanded the furlough scheme at the last minute, as it brings in a new lockdown.]]></description>
+            <link>https://www.bbc.co.uk/news/explainers-52135342</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-52135342</guid>
+            <pubDate>Sat, 31 Oct 2020 23:15:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Lockdown rules: What are the Covid regulations where you live?]]></title>
+            <description><![CDATA[Use our search tool to find out about coronavirus rules and restrictions where you live.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-54373904</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-54373904</guid>
+            <pubDate>Sat, 31 Oct 2020 20:31:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid: The new lockdown rules for England, Wales, Scotland and Northern Ireland]]></title>
+            <description><![CDATA[New restrictions have been announced in both Scotland and England.]]></description>
+            <link>https://www.bbc.co.uk/news/explainers-52530518</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-52530518</guid>
+            <pubDate>Sat, 31 Oct 2020 19:47:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid: Why is coronavirus such a threat?]]></title>
+            <description><![CDATA[Why does the biology of coronavirus mean it poses such a threat to human life?]]></description>
+            <link>https://www.bbc.co.uk/news/health-54648684</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-54648684</guid>
+            <pubDate>Thu, 22 Oct 2020 22:58:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid-19 in the UK: How many coronavirus cases are there in your area?]]></title>
+            <description><![CDATA[Explore the data on coronavirus in the UK and find out how many cases there are in your area.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-51768274</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-51768274</guid>
+            <pubDate>Sun, 01 Nov 2020 16:31:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid-19 pandemic: Tracking the global coronavirus outbreak]]></title>
+            <description><![CDATA[Key charts and maps explaining how the virus has spread around the world.]]></description>
+            <link>https://www.bbc.co.uk/news/world-51235105</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-51235105</guid>
+            <pubDate>Sun, 01 Nov 2020 11:44:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[US election 2020: The great dividing line of this campaign]]></title>
+            <description><![CDATA[For some Americans, civil unrest after police shootings is driving their support for Donald Trump.]]></description>
+            <link>https://www.bbc.co.uk/news/election-us-2020-54754792</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/election-us-2020-54754792</guid>
+            <pubDate>Sat, 31 Oct 2020 23:30:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[US election: The big issue that could hurt Trump]]></title>
+            <description><![CDATA[Just ahead of the election, the US is seeing what could be the largest outbreak of the pandemic so far.]]></description>
+            <link>https://www.bbc.co.uk/news/election-us-2020-54754797</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/election-us-2020-54754797</guid>
+            <pubDate>Sat, 31 Oct 2020 22:59:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[US election: 'All Republicans should marry Democrats']]></title>
+            <description><![CDATA[Chenren and Cathy Shao haven't let political differences get in the way of their eight-year marriage.]]></description>
+            <link>https://www.bbc.co.uk/news/election-us-2020-54754800</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/election-us-2020-54754800</guid>
+            <pubDate>Sat, 31 Oct 2020 23:01:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[US election 2020: 'It just makes me feel like a nobody']]></title>
+            <description><![CDATA[Former prisoner Davion Hampton from Florida wants to vote in this US election. But he can't.]]></description>
+            <link>https://www.bbc.co.uk/news/election-us-2020-54754798</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/election-us-2020-54754798</guid>
+            <pubDate>Sat, 31 Oct 2020 23:14:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[US election 2020: Trump is in the fight of his political life]]></title>
+            <description><![CDATA[In the throes of an epoch-defining election, those looking for a healing process will be disappointed.]]></description>
+            <link>https://www.bbc.co.uk/news/election-us-2020-54724957</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/election-us-2020-54724957</guid>
+            <pubDate>Fri, 30 Oct 2020 21:05:36 GMT</pubDate>
+        </item>
+    </channel>
+</rss>

@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" media="screen" href="/~d/styles/rss2full.xsl"?><?xml-stylesheet type="text/css" media="screen" href="http://feeds.foxnews.com/~d/styles/itemcontent.css"?><rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+                    <title>FOX News</title>
+    <link>http://www.foxnews.com/</link>
+    <description><![CDATA[FOXNews.com - Breaking news and video. Latest Current News: U.S., World, Entertainment, Health, Business, Technology, Politics, Sports.]]></description>
+        <image>
+    	<url>http://tools.foxnews.com/sites/tools.foxnews.com/files/images/fox-news-logo.png</url>
+    	<title>FOX News</title>
+    	<link>http://www.foxnews.com/</link>
+    </image>
+            <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feeds.foxnews.com/foxnews/latest" /><feedburner:info xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" uri="foxnews/latest" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /><item>
+                  <guid isPermaLink="true">https://www.foxnews.com/sports/bengals-eagles-play-to-23-23-tie</guid>
+      <link>https://www.foxnews.com/sports/bengals-eagles-play-to-23-23-tie</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/09/AP20271636985236.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/AP20271636985236.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/AP20271636985236.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">630fadb7-2615-56df-bb4c-8045809389e2</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/sports/nfl</category>
+            <category domain="foxnews.com/taxonomy">fox-news/sports/nfl/philadelphia-eagles</category>
+            <category domain="foxnews.com/taxonomy">fox-news/sports/nfl/cincinnati-bengals</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/sports</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Bengals, Eagles play to 23-23 tie</title>
+      <description>Joe Burrow kept his team from losing again. So did Carson Wentz after several mistakes.</description>
+                   <pubDate>Sun, 27 Sep 2020 23:40:20 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Associated Press</category>
+                              <category domain="foxnews.com/dateline" />
+                                  </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/sports/belichick-reaches-milestone-as-patriots-top-raiders-36-20</guid>
+      <link>https://www.foxnews.com/sports/belichick-reaches-milestone-as-patriots-top-raiders-36-20</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/09/AP20271689999121-1.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/AP20271689999121-1.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/AP20271689999121-1.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">b3207754-6712-5f1e-8c9d-d31ee2af6fc4</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/sports/nfl</category>
+            <category domain="foxnews.com/taxonomy">fox-news/sports/nfl/new-england-patriots</category>
+            <category domain="foxnews.com/taxonomy">fox-news/sports/nfl/las-vegas-raiders</category>
+            <category domain="foxnews.com/taxonomy">fox-news/person/cam-newton</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/sports</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Belichick reaches milestone as Patriots top Raiders 36-20</title>
+      <description>Rex Burkhead can’t remember the last time he scored three touchdowns in a game. But he said every time he reached the end zone Sunday was for James White.</description>
+                   <pubDate>Sun, 27 Sep 2020 23:29:34 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Associated Press</category>
+                              <category domain="foxnews.com/dateline" />
+                                  </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/politics/pompeo-keynote-conservative-christian-florida-election-day</guid>
+      <link>https://www.foxnews.com/politics/pompeo-keynote-conservative-christian-florida-election-day</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/08/AP20233771389105.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/AP20233771389105.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/AP20233771389105.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">303c4301-4256-5442-a74f-3c8a39d4c47d</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/politics/2020-presidential-election</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us/us-regions/southeast/florida</category>
+            <category domain="foxnews.com/taxonomy">fox-news/politics/foreign-policy/state-department</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/politics</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Pompeo to give keynote at conservative Christian event in Florida one month before election day</title>
+      <description>Secretary of State Mike Pompeo is slated to give a speech to a conservative Christian group in the all-important swing state of Florida, just one month before the presidential election between Joe Biden and President Donald Trump. </description>
+                  <dc:creator>Nick Givas</dc:creator>
+                         <pubDate>Sun, 27 Sep 2020 23:26:56 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Nick Givas</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/sports/falcons-fans-fume-team-blows-big-lead</guid>
+      <link>https://www.foxnews.com/sports/falcons-fans-fume-team-blows-big-lead</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/09/Falcons-sack.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/Falcons-sack.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/Falcons-sack.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">f1b3156b-bfcb-5822-b39d-15fd54673458</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/sports/nfl</category>
+            <category domain="foxnews.com/taxonomy">fox-news/sports/nfl/atlanta-falcons</category>
+            <category domain="foxnews.com/taxonomy">fox-news/sports/nfl/chicago-bears</category>
+            <category domain="foxnews.com/taxonomy">fox-news/person/matt-ryan</category>
+            <category domain="foxnews.com/taxonomy">fox-news/person/todd-gurley</category>
+            <category domain="foxnews.com/taxonomy">fox-news/person/nick-foles</category>
+            <category domain="foxnews.com/taxonomy">fox-news/person/mitchell-trubisky</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/sports</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Falcons fans fume after team blows big lead in loss for second straight game</title>
+      <description>The Atlanta Falcons became the first team in NFL history to lose consecutive games after leading by 15 or more points on Sunday after blowing a big lead to the Chicago Bears.</description>
+                  <dc:creator>Ryan Gaydos</dc:creator>
+                         <pubDate>Sun, 27 Sep 2020 23:17:53 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Ryan Gaydos</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/us/military-active-duty-suicides-covid-pandemic</guid>
+      <link>https://www.foxnews.com/us/military-active-duty-suicides-covid-pandemic</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/09/158adb8d-1000-3.jpeg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/158adb8d-1000-3.jpeg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/158adb8d-1000-3.jpeg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">473aa09b-ee61-55a8-bdb0-d4cbb1c0ec5d</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/health/infectious-disease/coronavirus</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us/military</category>
+            <category domain="foxnews.com/taxonomy">fox-news/health/mental-health</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/us</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Military leaders say active-duty suicides up 20% during COVID-19 pandemic</title>
+      <description>The Pentagon has yet to release official numbers, but military leaders are actively discussing measures to counter-act the trend.</description>
+                  <dc:creator>Peter Aitken</dc:creator>
+                         <pubDate>Sun, 27 Sep 2020 22:54:37 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Peter Aitken</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/politics/trump-new-york-times-avoid-paying-taxes-totally</guid>
+      <link>https://www.foxnews.com/politics/trump-new-york-times-avoid-paying-taxes-totally</link>
+                  <media:group>
+        <media:content url="https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b1b70d3b-3225-4d5a-8159-215b5e2ee28d/93229635-ca37-4037-9eba-8de0410e997e/1280x720/match/image.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/image.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/image.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">172924e4-4a51-51c6-a6f7-b493e4e272ec</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/person/donald-trump</category>
+            <category domain="foxnews.com/taxonomy">fox-news/politics/finance/taxes</category>
+            <category domain="foxnews.com/taxonomy">fox-news/politics/2020-presidential-election</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/politics</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Trump calls New York Times report that he avoid paying taxes 'totally made up'</title>
+      <description>President Trump lambasted on Sunday a New York Times report that said he paid no federal income taxes in 10 of the past 15 years – calling the story “fake news” and arguing that he paid large sums of both federal and state taxes.</description>
+                  <dc:creator>Andrew O'Reilly</dc:creator>
+                         <pubDate>Sun, 27 Sep 2020 22:23:13 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Andrew O'Reilly</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/politics/pennsylvania-lawmakers-topless-mail-in-voting</guid>
+      <link>https://www.foxnews.com/politics/pennsylvania-lawmakers-topless-mail-in-voting</link>
+                  <media:group>
+        <media:content url="https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7e313832-90a9-4a9c-a95c-132eb30905ce/746a4ee8-e040-4977-a8ce-b9ef1748bd7b/1280x720/match/image.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/image.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/image.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">302f9e52-d50b-5bb1-b492-59b6d0764ee0</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/politics/2020-presidential-election</category>
+            <category domain="foxnews.com/taxonomy">fox-news/politics/elections</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us/us-regions/northeast/pennsylvania</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/politics</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Pennsylvania lawmakers strip down to address mail-in voting issues</title>
+      <description>Bethany Hallam, an Allegheny County councilwoman, and other local elected officials stripped down to their birthday suits in an attempt to make sure Pennsylvania voters cast their ballots by mail to place the ballot in the mandatory secrecy envelope and not send a “naked ballot,” which would invalidate their vote.</description>
+                  <dc:creator>Andrew O'Reilly</dc:creator>
+                         <pubDate>Sun, 27 Sep 2020 22:14:32 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Andrew O'Reilly</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/sports/mike-tyson-held-his-own-mma</guid>
+      <link>https://www.foxnews.com/sports/mike-tyson-held-his-own-mma</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2018/09/mtyson.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/mtyson.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/mtyson.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">174354c8-7d0e-5465-bbd0-b96243c3af49</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/sports/boxing</category>
+            <category domain="foxnews.com/taxonomy">fox-news/sports/ufc</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/sports</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Mike Tyson believes he could've held his own in MMA</title>
+      <description>Mike Tyson said Saturday he believes he could have been a solid mixed martial artist if the sport was as prevalent during his reign in the boxing world.</description>
+                  <dc:creator>Ryan Gaydos</dc:creator>
+                         <pubDate>Sun, 27 Sep 2020 21:55:44 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Ryan Gaydos</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/sports/college-football-coach-all-lives-matter-jesus-quit</guid>
+      <link>https://www.foxnews.com/sports/college-football-coach-all-lives-matter-jesus-quit</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2018/09/football-laces-istock.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/football-laces-istock.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/football-laces-istock.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">f3794b42-029a-5fa9-a571-187e3bff599a</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/sports/ncaa-fb</category>
+            <category domain="foxnews.com/taxonomy">fox-news/sports/ncaa</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/sports</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>College football coach leaves 'All Lives Matter to Our Lord &amp; Savior Jesus Christ' note, quits team</title>
+      <description>An Illinois State football coach abruptly quit the team Thursday and left a note on the door upon his exit from the facility.</description>
+                  <dc:creator>Ryan Gaydos</dc:creator>
+                         <pubDate>Sun, 27 Sep 2020 21:43:49 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Ryan Gaydos</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/sports/bills-josh-allen-win-rams-blowing-25-point-lead</guid>
+      <link>https://www.foxnews.com/sports/bills-josh-allen-win-rams-blowing-25-point-lead</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/09/Tyler-Kroft.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/Tyler-Kroft.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/Tyler-Kroft.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">44d7bf1c-302b-5dfc-b052-63bcf6d6207b</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/sports/nfl</category>
+            <category domain="foxnews.com/taxonomy">fox-news/sports/nfl/buffalo-bills</category>
+            <category domain="foxnews.com/taxonomy">fox-news/sports/nfl/los-angeles-rams</category>
+            <category domain="foxnews.com/taxonomy">fox-news/person/jared-goff</category>
+            <category domain="foxnews.com/taxonomy">fox-news/person/josh-allen</category>
+            <category domain="foxnews.com/taxonomy">fox-news/person/cooper-kupp</category>
+            <category domain="foxnews.com/taxonomy">fox-news/person/robert-woods</category>
+            <category domain="foxnews.com/taxonomy">fox-news/person/aaron-donald</category>
+            <category domain="foxnews.com/taxonomy">fox-news/person/jordan-poyer</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/sports</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Bills, Josh Allen win wild game vs. Rams after blowing 25-point lead</title>
+      <description>Josh Allen led the Buffalo Bills to a wild victory against the Los Angeles Rams on Sunday to remain undefeated to start the 2020 season.</description>
+                  <dc:creator>Ryan Gaydos</dc:creator>
+                         <pubDate>Sun, 27 Sep 2020 21:34:11 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Ryan Gaydos</category>
+                            </item>
+      </channel>
+</rss>

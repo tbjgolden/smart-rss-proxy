@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" media="screen" href="/~d/styles/rss2full.xsl"?><?xml-stylesheet type="text/css" media="screen" href="http://feeds.foxnews.com/~d/styles/itemcontent.css"?><rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+                    <title>FOX News</title>
+    <link>http://www.foxnews.com/</link>
+    <description><![CDATA[FOXNews.com - Breaking news and video. Latest Current News: U.S., World, Entertainment, Health, Business, Technology, Politics, Sports.]]></description>
+        <image>
+    	<url>http://tools.foxnews.com/sites/tools.foxnews.com/files/images/fox-news-logo.png</url>
+    	<title>FOX News</title>
+    	<link>http://www.foxnews.com/</link>
+    </image>
+            <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feeds.foxnews.com/foxnews/latest" /><feedburner:info xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" uri="foxnews/latest" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /><item>
+                  <guid isPermaLink="true">https://www.foxnews.com/opinion/david-bossie-hidin-biden-forced-to-emerge-for-minimal-campaigning-gets-only-softball-media-questions</guid>
+      <link>https://www.foxnews.com/opinion/david-bossie-hidin-biden-forced-to-emerge-for-minimal-campaigning-gets-only-softball-media-questions</link>
+                  <media:group>
+        <media:content url="https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/97e8cbb8-0c8e-4ca7-9531-d16c2cb1fa52/2a5f1343-5073-48a2-b66d-c078f9a0149f/1280x720/match/image.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/image.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/image.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">7d8471c9-ef5e-5f21-8c90-aacf2f2a2e2a</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/opinion</category>
+            <category domain="foxnews.com/taxonomy">fox-news/politics/2020-presidential-election</category>
+            <category domain="foxnews.com/taxonomy">fox-news/politics/elections/democrats</category>
+            <category domain="foxnews.com/taxonomy">fox-news/politics/elections</category>
+            <category domain="foxnews.com/taxonomy">fox-news/politics</category>
+            <category domain="foxnews.com/taxonomy">fox-news/person/joe-biden</category>
+            <category domain="foxnews.com/taxonomy">fox-news/person/donald-trump</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/opinion</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>David Bossie: Hidin’ Biden forced to emerge for minimal campaigning, gets only softball media questions</title>
+      <description>For months, Biden’s team has employed a basement strategy, using the COVID-19 pandemic as a cover story for keeping him away from questions and cameras.</description>
+                  <dc:creator>David Bossie</dc:creator>
+                         <pubDate>Sun, 06 Sep 2020 11:00:42 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">David Bossie</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/opinion/coronavirus-vaccine-newt-gingrich</guid>
+      <link>https://www.foxnews.com/opinion/coronavirus-vaccine-newt-gingrich</link>
+                  <media:group>
+        <media:content url="https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/fb612437-346f-487c-877e-a8a71bd44769/c1b85864-fd52-4a19-8837-0e4940a49afe/1280x720/match/image.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/image.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/image.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">92b42870-3651-577a-8386-e50460a60db4</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/opinion</category>
+            <category domain="foxnews.com/taxonomy">fox-news/health/infectious-disease/coronavirus</category>
+            <category domain="foxnews.com/taxonomy">fox-news/health</category>
+            <category domain="foxnews.com/taxonomy">fox-news/health/infectious-disease</category>
+            <category domain="foxnews.com/taxonomy">fox-news/person/donald-trump</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us/school-reopening-plans</category>
+            <category domain="foxnews.com/taxonomy">fox-news/health/infectious-disease/vaccines</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/opinion</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Newt Gingrich: Search for coronavirus vaccine is making important progress</title>
+      <description>The most striking thing about the push for a coronavirus vaccine is its unprecedented speed. One study from 2013 found that, between 1998 and 2009, it took an average of 10.7 years to develop a vaccine.</description>
+                  <dc:creator>Newt Gingrich</dc:creator>
+                         <pubDate>Sun, 06 Sep 2020 10:00:44 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Gingrich360.com</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Newt Gingrich</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/politics/trump-jabs-at-pelosi-again-over-salon-setup-takes-shot-at-biden-too</guid>
+      <link>https://www.foxnews.com/politics/trump-jabs-at-pelosi-again-over-salon-setup-takes-shot-at-biden-too</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/03/pelosi-trump-AP.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/pelosi-trump-AP.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/pelosi-trump-AP.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">de369c1e-dc82-54da-abad-d5bfc81ed047</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/person/nancy-pelosi</category>
+            <category domain="foxnews.com/taxonomy">fox-news/health/infectious-disease/coronavirus</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us/san-francisco</category>
+            <category domain="foxnews.com/taxonomy">fox-news/health/beauty-and-skin</category>
+            <category domain="foxnews.com/taxonomy">fox-news/person/donald-trump</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/politics</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Trump jabs at Pelosi again over salon ‘setup’ -- takes shot at Biden too</title>
+      <description>President Trump weighed in on the Nancy Pelosi hair salon flap on Saturday – raising doubts about the House speaker’s ability to negotiate with foreign adversaries if she had trouble with a small business owner.</description>
+                  <dc:creator>Dom Calicchio</dc:creator>
+                         <pubDate>Sun, 06 Sep 2020 09:53:46 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Dom Calicchio</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/us/hawaii-plane-appears-to-suffer-engine-fire-before-landing-safely-report</guid>
+      <link>https://www.foxnews.com/us/hawaii-plane-appears-to-suffer-engine-fire-before-landing-safely-report</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/08/police-tape-iStock.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/police-tape-iStock.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/police-tape-iStock.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">6501e6ec-2769-53d2-a702-d252ba090070</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/us/us-regions/west/hawaii</category>
+            <category domain="foxnews.com/taxonomy">fox-news/travel/general/airports</category>
+            <category domain="foxnews.com/taxonomy">fox-news/science/air-and-space</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us/disasters/fires</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/us</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Hawaii plane appears to suffer engine fire before landing safely: report</title>
+      <description>Passengers on a military charter flight in Honolulu had some scary moments late Saturday when an unspecified engine problem cause an inflight emergency, according to a report. </description>
+                  <dc:creator>Brie Stimson</dc:creator>
+                         <pubDate>Sun, 06 Sep 2020 09:25:12 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Brie Stimson</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/food-drink/olive-garden-waitress-restaurant-secrets-tiktok</guid>
+      <link>https://www.foxnews.com/food-drink/olive-garden-waitress-restaurant-secrets-tiktok</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2019/08/OliveGardenIStock.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/OliveGardenIStock.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/OliveGardenIStock.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">8b4de134-308e-50bd-b335-44382415f6fa</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/food-drink/food/restaurants</category>
+            <category domain="foxnews.com/taxonomy">fox-news/lifestyle</category>
+            <category domain="foxnews.com/taxonomy">fox-news/food-drink/food</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/food-drink</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Olive Garden former waitress reveals restaurant 'secrets,' or so she claims in TikTok video</title>
+      <description>A former Olive Garden employee has gone viral for allegedly revealing restaurant secrets.</description>
+                  <dc:creator>Alexandra Deabler</dc:creator>
+                         <pubDate>Sun, 06 Sep 2020 09:00:37 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Alexandra Deabler</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/opinion/iran-sanctions-trump-saeed-ghasseminejad</guid>
+      <link>https://www.foxnews.com/opinion/iran-sanctions-trump-saeed-ghasseminejad</link>
+                  <media:group>
+        <media:content url="https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2e798a4b-e219-4b41-adf0-942aaaeba9f3/6ad33798-7dce-4037-b00c-0b9fa7be0305/1280x720/match/image.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/image.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/image.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">2a0e9380-e2ba-5e35-aa7a-88ea2f5c62ec</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/opinion</category>
+            <category domain="foxnews.com/taxonomy">fox-news/world</category>
+            <category domain="foxnews.com/taxonomy">fox-news/world/world-regions/middle-east</category>
+            <category domain="foxnews.com/taxonomy">fox-news/world/conflicts/iran</category>
+            <category domain="foxnews.com/taxonomy">fox-news/world/world-regions/israel</category>
+            <category domain="foxnews.com/taxonomy">fox-news/world/world-regions/saudi-arabia</category>
+            <category domain="foxnews.com/taxonomy">fox-news/person/donald-trump</category>
+            <category domain="foxnews.com/taxonomy">fox-news/person/joe-biden</category>
+            <category domain="foxnews.com/taxonomy">fox-news/politics/foreign-policy</category>
+            <category domain="foxnews.com/taxonomy">fox-news/politics/elections</category>
+            <category domain="foxnews.com/taxonomy">fox-news/politics/2020-presidential-election</category>
+            <category domain="foxnews.com/taxonomy">fox-news/politics</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/opinion</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Saeed Ghasseminejad: President Joe Biden would give Iran what it wants most — so Iran hopes he defeats Trump</title>
+      <description>Biden has pledged to reenter the 2015 Iran nuclear deal that Trump withdrew from. If Biden does that, the most crippling economic sanctions on Iran would be suspended.</description>
+                  <dc:creator>Saeed Ghasseminejad</dc:creator>
+                         <pubDate>Sun, 06 Sep 2020 09:00:29 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Saeed Ghasseminejad</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/us/wealthy-nyc-woman-20-facing-4-years-in-prison-after-blm-rampage</guid>
+      <link>https://www.foxnews.com/us/wealthy-nyc-woman-20-facing-4-years-in-prison-after-blm-rampage</link>
+                  <media:group>
+        <media:content url="https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/76250c80-1bc5-4d39-ba6c-67687b70ca12/e9148075-f66c-4729-b088-0d349ddee8d7/1280x720/match/image.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/image.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/image.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">ec14bbd1-108c-59f4-bd2e-fe2a57e8e08e</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/us/us-protests</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us/new-york-city</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us/crime</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us/terror/vandalism</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/us</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Wealthy NYC woman, 20, facing 4 years in prison after BLM rampage</title>
+      <description>One of the Black Lives Matter protesters now facing felony rioting and misdemeanor graffiti charges — after a window-smashing free-for-all in Manhattan — is a wealthy Upper East Sider whose mother is an architect and whose father is a child psychiatrist.</description>
+                  <dc:creator>Melissa Klein</dc:creator>
+            <dc:creator>Larry Celona</dc:creator>
+            <dc:creator>Dean Balsamini</dc:creator>
+                         <pubDate>Sun, 06 Sep 2020 08:23:52 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">New York Post</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Melissa Klein</category>
+            <category domain="foxnews.com/metadata/dc.creator">Larry Celona</category>
+            <category domain="foxnews.com/metadata/dc.creator">Dean Balsamini</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/tech/browser-security-settings-you-need-to-check-now</guid>
+      <link>https://www.foxnews.com/tech/browser-security-settings-you-need-to-check-now</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/06/iStock-1132912672.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/iStock-1132912672.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/iStock-1132912672.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">2e989b13-2057-5418-a1bb-f41903f3309f</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/tech</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/tech</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Browser security settings you need to check now</title>
+      <description>No matter which browser you choose, you’re accessing the same internet.</description>
+                  <dc:creator>Kim Komando</dc:creator>
+                         <pubDate>Sun, 06 Sep 2020 08:00:19 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">The Kim Komando Show</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Kim Komando</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/us/portland-riot-declared-after-molotov-cocktails-tossed</guid>
+      <link>https://www.foxnews.com/us/portland-riot-declared-after-molotov-cocktails-tossed</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/09/Portfire.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/Portfire.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/Portfire.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">40ec4063-5db2-53cf-8910-3374f9a3e54c</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/us/portland</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us/us-protests</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us/us-regions/west/oregon</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us/terror/vandalism</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us/crime/police-and-law-enforcement</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/us</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Portland ‘riot’ declared after Molotov cocktails tossed</title>
+      <description>At least three Molotov cocktails were tossed in the direction of Portland, Ore., police late Saturday, prompting yet another night of unrest in the city to be declared a riot, according to reports.</description>
+                  <dc:creator>Dom Calicchio</dc:creator>
+                         <pubDate>Sun, 06 Sep 2020 07:14:19 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Dom Calicchio</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/us/california-wildfire-prompts-air-rescues-of-more-than-160-stranded-campers</guid>
+      <link>https://www.foxnews.com/us/california-wildfire-prompts-air-rescues-of-more-than-160-stranded-campers</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/09/AP20249826168346.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/AP20249826168346.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/AP20249826168346.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">9999f70e-34f7-5a1f-b8dd-863dfbd321fa</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/us/us-regions/west/california</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us/disasters/wildfire</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us/disasters/fires</category>
+            <category domain="foxnews.com/taxonomy">fox-news/science/planet-earth/natural-disasters</category>
+            <category domain="foxnews.com/taxonomy">fox-news/great-outdoors</category>
+            <category domain="foxnews.com/taxonomy">fox-news/weather</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/us</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>California wildfire prompts air rescues of more than 160 stranded campers</title>
+      <description>At least 163 people trapped by a fast-spreading wildfire near Central California’s Mammoth Pool Reservoir in the Sierra National Forest had been rescued by the Air National Guard as of early Sunday morning, according to a report. </description>
+                  <dc:creator>Brie Stimson</dc:creator>
+                         <pubDate>Sun, 06 Sep 2020 05:43:11 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Brie Stimson</category>
+                            </item>
+      </channel>
+</rss>

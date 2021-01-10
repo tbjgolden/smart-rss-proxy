@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet title="XSL_formatting" type="text/xsl" href="/shared/bsp/xsl/rss/nolsol.xsl"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News - Home]]></title>
+        <description><![CDATA[BBC News - Home]]></description>
+        <link>https://www.bbc.co.uk/news/</link>
+        <image>
+            <url>https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News - Home</title>
+            <link>https://www.bbc.co.uk/news/</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Wed, 02 Dec 2020 05:46:23 GMT</lastBuildDate>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Coronavirus: New Covid tier system comes into force in England]]></title>
+            <description><![CDATA[More than 55 million people must abide by the two strictest levels after MPs approved the measures.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-55153899</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-55153899</guid>
+            <pubDate>Wed, 02 Dec 2020 02:03:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Debenhams website overwhelmed as shoppers swoop on sales]]></title>
+            <description><![CDATA[The 242-year-old department store is offering huge discounts after it collapsed on Tuesday.]]></description>
+            <link>https://www.bbc.co.uk/news/business-55152872</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-55152872</guid>
+            <pubDate>Tue, 01 Dec 2020 23:45:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Humans waging 'suicidal war' on nature - UN chief Antonio Guterres]]></title>
+            <description><![CDATA[Secretary General Antonio Guterres says our "war" on the natural world will come back to haunt us.]]></description>
+            <link>https://www.bbc.co.uk/news/science-environment-55147647</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-55147647</guid>
+            <pubDate>Wed, 02 Dec 2020 05:05:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Trump inciting violence, says Georgia election official]]></title>
+            <description><![CDATA["It's all gone too far!" says the voting systems manager as he rebukes fellow Republicans.]]></description>
+            <link>https://www.bbc.co.uk/news/election-us-2020-55153918</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/election-us-2020-55153918</guid>
+            <pubDate>Wed, 02 Dec 2020 04:42:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Dame Jenni Murray on why she's taking her clothes off on TV]]></title>
+            <description><![CDATA[The former Women's Hour presenter will appear on ITV's The Real Full Monty On Ice.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-55142420</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-55142420</guid>
+            <pubDate>Wed, 02 Dec 2020 00:57:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Christmas: Shops offer early festive discounts in battle for survival]]></title>
+            <description><![CDATA[Shop prices are falling in the run-up to Christmas as retailers race to clear stock, a report says.]]></description>
+            <link>https://www.bbc.co.uk/news/business-55151553</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-55151553</guid>
+            <pubDate>Wed, 02 Dec 2020 00:02:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Conception boat fire: Captain charged with 34 deaths]]></title>
+            <description><![CDATA[Prosecutors say the captain's alleged failure to follow safety rules sparked "a hellish nightmare".]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-55153921</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-55153921</guid>
+            <pubDate>Wed, 02 Dec 2020 04:01:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Brexit trade: 'Serious disruption' risk at Channel post-transition period]]></title>
+            <description><![CDATA[Ministers are "taking limited responsibility" for readiness ahead of the transition period ending, MPs say.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-politics-55151333</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-55151333</guid>
+            <pubDate>Wed, 02 Dec 2020 00:40:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Small waters 'can help address biodiversity crisis']]></title>
+            <description><![CDATA[Experts call for urgent action to protect England's smallest freshwater sites, from ponds to streams.]]></description>
+            <link>https://www.bbc.co.uk/news/science-environment-55150482</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-55150482</guid>
+            <pubDate>Wed, 02 Dec 2020 00:44:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[US attorney general finds 'no voter fraud that could overturn election']]></title>
+            <description><![CDATA[The Trump campaign hits back that the attorney general's remark "appears to be without any knowledge".]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-55153366</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-55153366</guid>
+            <pubDate>Wed, 02 Dec 2020 03:20:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Keeping pools closed 'a catastrophe for health and wellbeing']]></title>
+            <description><![CDATA[More than 200 council-run pools will stay closed despite the easing of lockdown restrictions.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-55148387</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-55148387</guid>
+            <pubDate>Wed, 02 Dec 2020 00:34:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Slack sold to business software giant for $27.7bn]]></title>
+            <description><![CDATA[The workplace messaging app's sale comes as the pandemic has increased the focus on remote work.]]></description>
+            <link>https://www.bbc.co.uk/news/business-55154326</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-55154326</guid>
+            <pubDate>Wed, 02 Dec 2020 03:07:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Papers: Vaccine by the weekend and care home visits return]]></title>
+            <description><![CDATA[The news visitors who test negative for Covid can see relatives in care homes makes several front pages.]]></description>
+            <link>https://www.bbc.co.uk/news/blogs-the-papers-55153886</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/blogs-the-papers-55153886</guid>
+            <pubDate>Wed, 02 Dec 2020 05:45:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The New ‘Nigerian Princes’ of hacking?]]></title>
+            <description><![CDATA[BEC hacking is one of the most common types of cyber-attack and experts say Nigeria is its epicentre.]]></description>
+            <link>https://www.bbc.co.uk/news/world-africa-55133086</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-55133086</guid>
+            <pubDate>Wed, 02 Dec 2020 00:07:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Crochet is helping pay for my cancer treatment]]></title>
+            <description><![CDATA[Suzie Aries took up crocheting during the first lockdown and her creations are now helping pay for her immunotherapy.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-london-55146223</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-55146223</guid>
+            <pubDate>Wed, 02 Dec 2020 00:10:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Delhi sees deadliest month amid raging pandemic]]></title>
+            <description><![CDATA[November was the deadliest month in India's capital and the city's crematoriums are overwhelmed.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-55136494</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-55136494</guid>
+            <pubDate>Wed, 02 Dec 2020 00:15:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[England lockdown end date confusion: 'We've lost a day of trade']]></title>
+            <description><![CDATA[Business owners say contradictory government guidance means they did not know when they could reopen.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-55147938</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-55147938</guid>
+            <pubDate>Tue, 01 Dec 2020 20:55:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Zanele Muholi: Celebrating South Africa's black LGBTQIA+ community]]></title>
+            <description><![CDATA[South African photographer Zanele Muholi's black, queer and trans images go on show in London.]]></description>
+            <link>https://www.bbc.co.uk/news/world-africa-55089620</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-55089620</guid>
+            <pubDate>Wed, 02 Dec 2020 00:44:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Rugby League legend to run seven marathons in seven days for charity]]></title>
+            <description><![CDATA[Leeds Rhinos' Kevin Sinfield is embarking on the challenge to raise awareness for Rob Burrow and MND.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-55139745</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-55139745</guid>
+            <pubDate>Tue, 01 Dec 2020 13:09:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Adoption: 'One boy stood out to me - he's now my son']]></title>
+            <description><![CDATA[John is one of a growing number of men embarking on fatherhood alone.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-wales-55150402</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-55150402</guid>
+            <pubDate>Wed, 02 Dec 2020 00:26:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Brexit: All you need to know about the UK leaving the EU]]></title>
+            <description><![CDATA[Time is running out for the UK and EU to strike a deal - what is happening now?]]></description>
+            <link>https://www.bbc.co.uk/news/uk-politics-32810887</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-32810887</guid>
+            <pubDate>Mon, 30 Nov 2020 18:05:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid brainwave: 'I turned my office into a cyclists' cafe']]></title>
+            <description><![CDATA[Three stories of people working in hospitality who have set up new businesses during Covid-19.]]></description>
+            <link>https://www.bbc.co.uk/news/business-55016573</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-55016573</guid>
+            <pubDate>Wed, 02 Dec 2020 00:04:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Steps debate the merits of entering Eurovision]]></title>
+            <description><![CDATA[The band seem like a perfect fit for the song contest but, they tell the BBC, "we have a split camp".]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-55135591</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-55135591</guid>
+            <pubDate>Wed, 02 Dec 2020 00:48:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Trump travel ban: 'I might finally see my sons again']]></title>
+            <description><![CDATA[A lorry driver who has never lived with his sons is waiting for Joe Biden to reverse Trump's travel ban.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-55019408</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-55019408</guid>
+            <pubDate>Wed, 02 Dec 2020 00:45:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Lockdown rules: Michael Gove's Covid claims fact-checked]]></title>
+            <description><![CDATA[We look at the Cabinet Office minister's assertions about the coronavirus lockdown measures.]]></description>
+            <link>https://www.bbc.co.uk/news/55144941</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/55144941</guid>
+            <pubDate>Tue, 01 Dec 2020 17:05:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Strangers swap cemeteries to remember loved ones]]></title>
+            <description><![CDATA[How two people living about 250 miles apart ended up tending the graves of one another's relatives.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-south-scotland-55108245</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-south-scotland-55108245</guid>
+            <pubDate>Wed, 02 Dec 2020 00:01:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Fans to return to football at EFL midweek games after coronavirus restrictions]]></title>
+            <description><![CDATA[After being barred from most matches since March, some supporters in England will return to stadiums on Wednesday.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/55139826</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/55139826</guid>
+            <pubDate>Tue, 01 Dec 2020 17:03:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Jones hits winner as Liverpool beat Ajax to reach Champions League last 16]]></title>
+            <description><![CDATA[A goalkeeping error gifts Liverpool a victory over Ajax which secures the Reds a place in the last 16 of the Champions League with one game to spare.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/55134421</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/55134421</guid>
+            <pubDate>Tue, 01 Dec 2020 22:40:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coded messages hung from England dressing room an 'experiment']]></title>
+            <description><![CDATA[England are experimenting with a system of coded information passed from the analyst to captain Eoin Morgan during play, says batsman Jos Buttler.]]></description>
+            <link>https://www.bbc.co.uk/sport/cricket/55153678</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/cricket/55153678</guid>
+            <pubDate>Tue, 01 Dec 2020 21:24:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Northern Ireland hit back to beat Faroes and book Euro play-off spot]]></title>
+            <description><![CDATA[Northern Ireland recover superbly from an early setback to beat the Faroe Islands 5-1 and keep their history-making Euro 2022 dream alive.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/55134679</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/55134679</guid>
+            <pubDate>Tue, 01 Dec 2020 21:24:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Man City draw with Porto to finish top of group]]></title>
+            <description><![CDATA[Manchester City have a late goal against Porto ruled out but a point is enough for them to secure top spot in Group C.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/55134442</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/55134442</guid>
+            <pubDate>Tue, 01 Dec 2020 23:26:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Wales miss out on Euro play-offs despite beating Belarus]]></title>
+            <description><![CDATA[Wales sweep aside Belarus 3-0 with a fine performance on a bittersweet night for Jayne Ludlow's side who are out of contention for a place at the Euros.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/55137248</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/55137248</guid>
+            <pubDate>Tue, 01 Dec 2020 21:38:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Sports Personality of the Year: Contenders revealed for 2020 BBC award]]></title>
+            <description><![CDATA[A shortlist of six contenders is announced for the 2020 BBC Sports Personality of the Year award.]]></description>
+            <link>https://www.bbc.co.uk/sport/sports-personality/55101008</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/sports-personality/55101008</guid>
+            <pubDate>Tue, 01 Dec 2020 19:28:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Scotland's Euros 2022 hopes ended by late Finland winner]]></title>
+            <description><![CDATA[Scotland's Women's Euro 2022 hopes are over after Amanda Rantanen's stoppage time goal gives Finland victory at Easter Road.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/55130036</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/55130036</guid>
+            <pubDate>Tue, 01 Dec 2020 21:27:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid: What are the new tiers and lockdown rules in England, Scotland, Wales and Northern Ireland?]]></title>
+            <description><![CDATA[England will move to a tougher version of tiered coronavirus restrictions when lockdown ends on Wednesday.]]></description>
+            <link>https://www.bbc.co.uk/news/explainers-52530518</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-52530518</guid>
+            <pubDate>Tue, 01 Dec 2020 17:53:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What tier will you be in from now?]]></title>
+            <description><![CDATA[Use our search tool to find out about coronavirus rules and restrictions where you live.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-54373904</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-54373904</guid>
+            <pubDate>Tue, 01 Dec 2020 17:20:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How do I find a new job during Covid and which sectors are hiring?]]></title>
+            <description><![CDATA[Jobseekers are having a tough time at the moment, but support is available.]]></description>
+            <link>https://www.bbc.co.uk/news/explainers-53685650</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-53685650</guid>
+            <pubDate>Tue, 01 Dec 2020 16:04:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid: What are the new rules for pubs and restaurants?]]></title>
+            <description><![CDATA[New rules for pubs in England come into effect on 2 December after the second lockdown ends.]]></description>
+            <link>https://www.bbc.co.uk/news/business-52977388</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-52977388</guid>
+            <pubDate>Tue, 01 Dec 2020 16:46:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Christmas Covid rules: Who are you allowed to see?]]></title>
+            <description><![CDATA[Restrictions will be temporarily eased around the UK, but there are still rules about what you can do.]]></description>
+            <link>https://www.bbc.co.uk/news/explainers-55056375</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-55056375</guid>
+            <pubDate>Mon, 30 Nov 2020 10:46:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why is my area in a higher tier?]]></title>
+            <description><![CDATA[The government's new approach to determining tiers bundles together low- and high-rate local authorities.]]></description>
+            <link>https://www.bbc.co.uk/news/health-55145619</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-55145619</guid>
+            <pubDate>Tue, 01 Dec 2020 12:56:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus: Should I start taking vitamin D?]]></title>
+            <description><![CDATA[Some people might want to consider it during the pandemic. Here's why.]]></description>
+            <link>https://www.bbc.co.uk/news/health-52371688</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-52371688</guid>
+            <pubDate>Tue, 01 Dec 2020 09:27:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Donut King who went full circle - from rags to riches, twice]]></title>
+            <description><![CDATA[Cambodian refugee Ted Ngoy made a fortune in doughnuts then lost it all to gambling.]]></description>
+            <link>https://www.bbc.co.uk/news/stories-54546427</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/stories-54546427</guid>
+            <pubDate>Sat, 28 Nov 2020 00:02:29 GMT</pubDate>
+        </item>
+    </channel>
+</rss>

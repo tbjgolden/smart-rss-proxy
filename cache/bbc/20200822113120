@@ -1,0 +1,418 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet title="XSL_formatting" type="text/xsl" href="/shared/bsp/xsl/rss/nolsol.xsl"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News - Home]]></title>
+        <description><![CDATA[BBC News - Home]]></description>
+        <link>https://www.bbc.co.uk/news/</link>
+        <image>
+            <url>https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News - Home</title>
+            <link>https://www.bbc.co.uk/news/</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Sat, 22 Aug 2020 11:02:04 GMT</lastBuildDate>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Coronavirus: UK tourists dash home as quarantine rules kick in]]></title>
+            <description><![CDATA[Travellers from Croatia, Austria and Trinidad and Tobago must now self-isolate for two weeks.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-53871078</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-53871078</guid>
+            <pubDate>Sat, 22 Aug 2020 10:11:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus pandemic could be over within two years - WHO head]]></title>
+            <description><![CDATA[WHO chief Dr Tedros Adhanom Ghebreyesus says "we have the technology to stop it".]]></description>
+            <link>https://www.bbc.co.uk/news/world-53870798</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-53870798</guid>
+            <pubDate>Fri, 21 Aug 2020 20:33:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus: 'No socialising' rules in parts of North West]]></title>
+            <description><![CDATA[Residents in Oldham, parts of Blackburn and Pendle are told not to socialise outside their household.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-53852007</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-53852007</guid>
+            <pubDate>Sat, 22 Aug 2020 11:00:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[PC Andrew Harper's father 'heartbroken' for family]]></title>
+            <description><![CDATA[Phil Harper says he was "so proud" of the way his family coped with his police officer son's death.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-berkshire-53862031</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-berkshire-53862031</guid>
+            <pubDate>Fri, 21 Aug 2020 23:49:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Alexei Navalny: Putin critic arrives in Germany for medical treatment]]></title>
+            <description><![CDATA[The Russian opposition activist fell ill in Siberia, with his supporters saying he was poisoned.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-53871617</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-53871617</guid>
+            <pubDate>Sat, 22 Aug 2020 09:23:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Harry Maguire: Manchester United captain arrested following incident in Mykonos]]></title>
+            <description><![CDATA[Manchester United captain Harry Maguire is due in court on Saturday after being arrested following an incident on the island of Mykonos.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/53860014</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/53860014</guid>
+            <pubDate>Sat, 22 Aug 2020 10:05:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Red Hot Chili Peppers: Guitarist Jack Sherman dies aged 64]]></title>
+            <description><![CDATA[Jack Sherman, who joined the band for their first album and first US tour, is described as "unique".]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-53873198</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-53873198</guid>
+            <pubDate>Sat, 22 Aug 2020 09:11:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[New IRA: Two men charged under Terrorism Act]]></title>
+            <description><![CDATA[The men were charged under the Terrorism Act and will appear in court on Saturday morning.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-53869031</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-53869031</guid>
+            <pubDate>Fri, 21 Aug 2020 22:33:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[English music venues welcome extra emergency funding]]></title>
+            <description><![CDATA[After receiving high demand, the government adds £1.1m to the pot and names the first 135 recipients.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-53867585</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-53867585</guid>
+            <pubDate>Sat, 22 Aug 2020 00:31:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Lori Loughlin, US actress, jailed over college admissions scandal]]></title>
+            <description><![CDATA[The star from US sitcom Full House was handed a two-month sentence after agreeing a plea deal.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-53871023</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-53871023</guid>
+            <pubDate>Fri, 21 Aug 2020 20:39:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus forces STA Travel out of business]]></title>
+            <description><![CDATA[The firm which focused on the youth tourism market has 50 outlets in the UK.]]></description>
+            <link>https://www.bbc.co.uk/news/business-53868447</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-53868447</guid>
+            <pubDate>Fri, 21 Aug 2020 21:43:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Papers: 'Man U ace nicked' and second lockdown warning]]></title>
+            <description><![CDATA[The arrest of the footballer Harry Maguire after an incident in Greece dominates Saturday's papers.]]></description>
+            <link>https://www.bbc.co.uk/news/blogs-the-papers-53871062</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/blogs-the-papers-53871062</guid>
+            <pubDate>Sat, 22 Aug 2020 05:21:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus: Poorer children's education could take 'over a year' to recover]]></title>
+            <description><![CDATA[The BBC filmed in a school in St Helens, in which over 60% of pupils receive free school meals.]]></description>
+            <link>https://www.bbc.co.uk/news/education-53810113</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/education-53810113</guid>
+            <pubDate>Fri, 21 Aug 2020 23:06:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Cancer patient's marathon runs inspired by dog in pushchair]]></title>
+            <description><![CDATA[Verity Conroy, from Leicester, has been diagnosed with a rare and aggressive form of breast cancer.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-leicestershire-53822323</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-leicestershire-53822323</guid>
+            <pubDate>Sat, 22 Aug 2020 00:43:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Week in pictures: 15 - 21 August 2020]]></title>
+            <description><![CDATA[A selection of remarkable images taken around the world this week.]]></description>
+            <link>https://www.bbc.co.uk/news/in-pictures-53860399</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/in-pictures-53860399</guid>
+            <pubDate>Fri, 21 Aug 2020 23:01:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Belarus unrest: Opposition leader says Belarusian people must not stop now]]></title>
+            <description><![CDATA[In an exclusive interview with the BBC, the Belarusian opposition leader Svetlana Tikhanovskaya said the people must continue fighting.]]></description>
+            <link>https://www.bbc.co.uk/news/world-53869007</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-53869007</guid>
+            <pubDate>Fri, 21 Aug 2020 16:37:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Joy and caution over extended households in Wales]]></title>
+            <description><![CDATA[As of Saturday, people can form an "exclusive extended arrangement" with four households.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-wales-53865937</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-53865937</guid>
+            <pubDate>Sat, 22 Aug 2020 10:42:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Surfing therapy: 'I know as soon as I get in the sea, I'll feel better again']]></title>
+            <description><![CDATA[Charlotte Banfield has cerebral palsy, autism and anxiety and surfing helps her cope.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-53863075</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-53863075</guid>
+            <pubDate>Fri, 21 Aug 2020 10:57:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Gandhi's glasses left in letterbox sell for £260k]]></title>
+            <description><![CDATA[The spectacles, estimated to fetch £15,000, were bought by a collector from America.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-bristol-53861303</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-bristol-53861303</guid>
+            <pubDate>Fri, 21 Aug 2020 18:42:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Strictly Come Dancing's Bruno Tonioli to miss part of 2020 series]]></title>
+            <description><![CDATA[The Strictly Come Dancing judges' desk will be without Bruno Tonioli until the end of the series.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-53867049</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-53867049</guid>
+            <pubDate>Fri, 21 Aug 2020 15:16:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Casting children for Beyoncé's Black is King 'a dream come true']]></title>
+            <description><![CDATA[Selma Nicholls' casting agency helped to find children for Beyoncé’s Black is King.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-53868204</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-53868204</guid>
+            <pubDate>Fri, 21 Aug 2020 16:35:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Storm Ellen: Stormy sea swimmers labelled 'senseless']]></title>
+            <description><![CDATA[Harbour master David Richards says such behaviour puts "strain" on the emergency services.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-wales-53859239</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-53859239</guid>
+            <pubDate>Fri, 21 Aug 2020 12:56:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Singer Mika on raising money for Lebanon]]></title>
+            <description><![CDATA[Mika, born in Beirut, is hosting a virtual concert to raise money for Lebanon after the the devastating explosion.]]></description>
+            <link>https://www.bbc.co.uk/news/world-middle-east-53860933</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-middle-east-53860933</guid>
+            <pubDate>Fri, 21 Aug 2020 13:45:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Quiz of the week: Why was a wild boar back in the news?]]></title>
+            <description><![CDATA[How closely have you been paying attention to what's been going on during the past seven days?]]></description>
+            <link>https://www.bbc.co.uk/news/world-53833173</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-53833173</guid>
+            <pubDate>Thu, 20 Aug 2020 23:11:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Brighton University students' belongings binned by halls]]></title>
+            <description><![CDATA[Hannah Mullins says she feels violated and is worried many other students are in a similar position.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-sussex-53860029</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-sussex-53860029</guid>
+            <pubDate>Fri, 21 Aug 2020 09:32:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Joe Biden's speech: 'Lots of sweetness and light']]></title>
+            <description><![CDATA[A Trump voter and three Biden voters react to the former vice-president's nomination speech together.]]></description>
+            <link>https://www.bbc.co.uk/news/election-us-2020-53853387</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/election-us-2020-53853387</guid>
+            <pubDate>Fri, 21 Aug 2020 09:28:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus: 'Why I hate working from home']]></title>
+            <description><![CDATA[From back pain to messy housemates; why some employees can't wait to get back to the office.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-53726607</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-53726607</guid>
+            <pubDate>Fri, 21 Aug 2020 23:56:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Twitch: The streamers furious at Burger King]]></title>
+            <description><![CDATA[The fast food chain's latest ad campaign angers a lot of gamers.]]></description>
+            <link>https://www.bbc.co.uk/news/newsbeat-53862091</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/newsbeat-53862091</guid>
+            <pubDate>Sat, 22 Aug 2020 00:03:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Aberdeen lockdown: 'We will only open again when I think it is safe']]></title>
+            <description><![CDATA[What do people in Aberdeen think about the continued local lockdown in the city?]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-north-east-orkney-shetland-53848605</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-north-east-orkney-shetland-53848605</guid>
+            <pubDate>Fri, 21 Aug 2020 23:03:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Viktor Tsoi: How a 33-year-old song became an anthem for change in Belarus]]></title>
+            <description><![CDATA[For anyone watching the protests in Belarus, there is one song that keeps being heard in the crowds.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-53846403</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-53846403</guid>
+            <pubDate>Fri, 21 Aug 2020 23:05:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus: Historic Bratislava counts cost of closed borders]]></title>
+            <description><![CDATA[Slovakia was praised for its swift response to Covid-19, but its tourist industry is paying the price.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-53833866</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-53833866</guid>
+            <pubDate>Fri, 21 Aug 2020 23:16:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The king, his lover - and the elephant in the palace]]></title>
+            <description><![CDATA[Corinna zu Sayn-Wittgenstein speaks out about a multi-million euro gift from Spain's ex-king and an ill-fated elephant hunt.]]></description>
+            <link>https://www.bbc.co.uk/news/stories-53749630</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/stories-53749630</guid>
+            <pubDate>Wed, 19 Aug 2020 23:01:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Brexit: The EU and UK are locked in last-minute power play]]></title>
+            <description><![CDATA[Time is running out for Brussels and London to reach a post-Brexit trade deal.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-politics-53866813</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-53866813</guid>
+            <pubDate>Fri, 21 Aug 2020 18:25:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus: Why many are still shielding... With no end in sight]]></title>
+            <description><![CDATA[Thousands are still in unofficial lockdown because they don't feel safe going out, says BBC disability correspondent Nikki Fox.]]></description>
+            <link>https://www.bbc.co.uk/news/stories-53749631</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/stories-53749631</guid>
+            <pubDate>Fri, 21 Aug 2020 00:41:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Call of Duty: The twins who 'stole' grandad's internet now playing for millions]]></title>
+            <description><![CDATA[Bradley and Matthew Marshall, (AKA Skrapz and Wuskin) on the Call of Duty World Championships.]]></description>
+            <link>https://www.bbc.co.uk/news/newsbeat-53845501</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/newsbeat-53845501</guid>
+            <pubDate>Fri, 21 Aug 2020 02:50:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Stress, burnout and redundancy: Tough times in IT]]></title>
+            <description><![CDATA[More staff working from home means more work for IT staff, but many face uncertainty over their jobs.]]></description>
+            <link>https://www.bbc.co.uk/news/business-53683463</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-53683463</guid>
+            <pubDate>Thu, 20 Aug 2020 23:06:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[DNC 2020: Joe Biden convention speech fact-checked]]></title>
+            <description><![CDATA[Joe Biden made claims about coronavirus and unemployment in his first major speech as the Democratic presidential nominee.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-53858940</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-53858940</guid>
+            <pubDate>Fri, 21 Aug 2020 06:16:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus: What are the risks of catching it from food packaging?]]></title>
+            <description><![CDATA[Some cases around the world have been linked to packaging on frozen food.]]></description>
+            <link>https://www.bbc.co.uk/news/explainers-53783890</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-53783890</guid>
+            <pubDate>Thu, 20 Aug 2020 23:04:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus: Why Spain is seeing second wave]]></title>
+            <description><![CDATA[Spain has Europe's fastest-rising caseload two months after it lifted one of the strictest lockdowns.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-53832981</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-53832981</guid>
+            <pubDate>Thu, 20 Aug 2020 23:05:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Lili Reinhart: Being bisexual is not just 'a phase']]></title>
+            <description><![CDATA[The Riverdale star talks about her sexuality and why her new film is not "another teen romance".]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-53785585</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-53785585</guid>
+            <pubDate>Thu, 20 Aug 2020 23:06:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus: Youthful Pakistan appears to avoid worst of pandemic]]></title>
+            <description><![CDATA[Testing in Pakistan has been low, but the country seems to have suffered less than its neighbours.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-53742214</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-53742214</guid>
+            <pubDate>Thu, 20 Aug 2020 23:06:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Navas dedicates Sevilla's Europa League triumph to Reyes and Puerta]]></title>
+            <description><![CDATA[Sevilla captain Jesus Navas dedicates his side's sixth Europa League title to former players Jose Antonio Reyes and Antonio Puerta.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/53871493</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/53871493</guid>
+            <pubDate>Fri, 21 Aug 2020 23:04:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[England v Pakistan: Zak Crawley & Jos Buttler put England in control against Pakistan]]></title>
+            <description><![CDATA[Zak Crawley scores his maiden Test century and shares a 200-run partnership with Jos Buttler to put England in control against Pakistan in the third Test in Southampton.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/cricket/53868918</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/cricket/53868918</guid>
+            <pubDate>Fri, 21 Aug 2020 18:31:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[AIG Women's Open: 'Monster' putts and 'masterful' chips in day two's best shots]]></title>
+            <description><![CDATA[Charley Hull and Anna Nordqvist feature in the best shots from a difficult day two at the Women's Open at Royal Troon, Ayrshire.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/golf/53870336</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/golf/53870336</guid>
+            <pubDate>Fri, 21 Aug 2020 19:06:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Gossip: Can Arsenal seal deals for Thomas Partey, Philippe Coutinho & Pierre-Emerick Aubameyang?]]></title>
+            <description><![CDATA[BBC Sport's Liam Loftus catches up with Arsenal fan Pippa Monique to discuss the club's potential signings this summer, including Thomas Partey and Philippe Coutinho.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/football/53856304</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/football/53856304</guid>
+            <pubDate>Fri, 21 Aug 2020 05:08:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus: What are the UK travel quarantine rules?]]></title>
+            <description><![CDATA[France and the Netherlands are the latest places from where people must quarantine on arriving in the UK.]]></description>
+            <link>https://www.bbc.co.uk/news/explainers-52544307</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-52544307</guid>
+            <pubDate>Thu, 20 Aug 2020 16:24:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why is Croatia on the quarantine list? And other questions]]></title>
+            <description><![CDATA[People returning to the UK from Croatia must self-isolate from Saturday. We answer your travel questions.]]></description>
+            <link>https://www.bbc.co.uk/news/explainers-53862943</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-53862943</guid>
+            <pubDate>Fri, 21 Aug 2020 16:05:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus: What are the rules around evictions?]]></title>
+            <description><![CDATA[The ban on evictions has been extended, but how do they work?]]></description>
+            <link>https://www.bbc.co.uk/news/explainers-53860154</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-53860154</guid>
+            <pubDate>Fri, 21 Aug 2020 15:19:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus in the UK: How many confirmed cases are there in your area?]]></title>
+            <description><![CDATA[Key graphics explaining how coronavirus has spread in the UK and the government's response.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-51768274</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-51768274</guid>
+            <pubDate>Fri, 21 Aug 2020 16:07:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus: What are the new lockdown rules for Oldham, Pendle and Blackburn?]]></title>
+            <description><![CDATA[Tighter restrictions are being imposed in Oldham, Pendle and Blackburn. But how does a local lockdown work?]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-52934822</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-52934822</guid>
+            <pubDate>Fri, 21 Aug 2020 16:57:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus: What are the UK's travel rules and which countries can you visit?]]></title>
+            <description><![CDATA[New rules mean people entering the UK from certain countries will not have to quarantine.]]></description>
+            <link>https://www.bbc.co.uk/news/explainers-53221896</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-53221896</guid>
+            <pubDate>Thu, 20 Aug 2020 16:52:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Quarantine: Do I have to self isolate?]]></title>
+            <description><![CDATA[If you have to observe a 14-day isolation period after travelling from certain countries, here's what you need to know.]]></description>
+            <link>https://www.bbc.co.uk/news/health-53782908</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-53782908</guid>
+            <pubDate>Thu, 20 Aug 2020 15:07:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ancient Egypt: Mummified animals 'digitally unwrapped' in 3D scans]]></title>
+            <description><![CDATA[The snake, bird and cat, from Swansea University's collection, are at least 2,000 years old.]]></description>
+            <link>https://www.bbc.co.uk/news/stories-53841256</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/stories-53841256</guid>
+            <pubDate>Thu, 20 Aug 2020 15:05:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Earliest art in the British Isles discovered on Jersey]]></title>
+            <description><![CDATA[Fragments of stone engraved with abstract designs are the earliest art in the British Isles.]]></description>
+            <link>https://www.bbc.co.uk/news/science-environment-53835146</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-53835146</guid>
+            <pubDate>Wed, 19 Aug 2020 18:06:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Penguin waddling in Broxtowe picked up by police]]></title>
+            <description><![CDATA[The officers were surprised to see the aquatic bird in landlocked Nottinghamshire.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-nottinghamshire-53798757</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-nottinghamshire-53798757</guid>
+            <pubDate>Sun, 16 Aug 2020 16:52:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Meet the UK's youngest qualified pilot, aged 14]]></title>
+            <description><![CDATA[Jack Jenner-Hall has qualified as a pilot at the age of 14 after flying a glider alone.]]></description>
+            <link>https://www.bbc.co.uk/news/newsbeat-53818567</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/newsbeat-53818567</guid>
+            <pubDate>Thu, 20 Aug 2020 00:06:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Hands-free driving could be made legal on UK roads by spring]]></title>
+            <description><![CDATA[Government is consulting industry on technology which can take control of a vehicle at up to 70mph.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-53830947</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-53830947</guid>
+            <pubDate>Wed, 19 Aug 2020 10:52:16 GMT</pubDate>
+        </item>
+    </channel>
+</rss>

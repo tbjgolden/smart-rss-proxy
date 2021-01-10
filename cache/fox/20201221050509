@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" media="screen" href="/~d/styles/rss2full.xsl"?><?xml-stylesheet type="text/css" media="screen" href="http://feeds.foxnews.com/~d/styles/itemcontent.css"?><rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+                    <title>FOX News</title>
+    <link>http://www.foxnews.com/</link>
+    <description><![CDATA[FOXNews.com - Breaking news and video. Latest Current News: U.S., World, Entertainment, Health, Business, Technology, Politics, Sports.]]></description>
+        <image>
+    	<url>http://tools.foxnews.com/sites/tools.foxnews.com/files/images/fox-news-logo.png</url>
+    	<title>FOX News</title>
+    	<link>http://www.foxnews.com/</link>
+    </image>
+            <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feeds.foxnews.com/foxnews/latest" /><feedburner:info xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" uri="foxnews/latest" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /><item>
+                  <guid isPermaLink="true">https://www.foxnews.com/health/live-updates-coronavirus-12-21-2020</guid>
+      <link>https://www.foxnews.com/health/live-updates-coronavirus-12-21-2020</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/12/17M_virus.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/17M_virus.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/17M_virus.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">1fd630de-ee3d-5058-9596-06d6c396743a</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/news-events/live-coverage</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/health</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Live Updates: Coronavirus relief deal reached</title>
+      <description>The House and Senate were expected to vote on the legislation on Monday.</description>
+                   <pubDate>Mon, 21 Dec 2020 05:00:49 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                              <category domain="foxnews.com/dateline" />
+                                  </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/us/this-day-in-history-dec-21</guid>
+      <link>https://www.foxnews.com/us/this-day-in-history-dec-21</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/12/LockerbieAP.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/LockerbieAP.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/LockerbieAP.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">6e79f121-d487-563d-99c6-7799a22693c7</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/us/this-day-in-history</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/us</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>This Day in History: Dec. 21</title>
+      <description>A terrorist bomb explodes aboard a Pam Am Boeing 747 over Lockerbie, Scotland, killing 270 people.</description>
+                  <dc:creator>Bryan Robinson</dc:creator>
+                         <pubDate>Mon, 21 Dec 2020 05:00:46 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Bryan Robinson</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/media/grenell-concerned-biden-china</guid>
+      <link>https://www.foxnews.com/media/grenell-concerned-biden-china</link>
+                  <media:group>
+        <media:content url="https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c28f7d9e-93dd-4f2d-8aca-5a65187ce7d3/0b8e5977-cc18-4c46-9a18-6ca0383a6793/1280x720/match/image.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/image.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/image.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">766c6259-0802-5aca-a079-42729bbf9aae</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/media/fox-news-flash</category>
+            <category domain="foxnews.com/taxonomy">fox-news/shows/life-liberty-levin</category>
+            <category domain="foxnews.com/taxonomy">fox-news/world/world-regions/china</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/media</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Former DNI Grenell 'very concerned' over Biden admin's reported ties to China: They've 'been playing us'</title>
+      <description>Former acting Director of National Intelligence Richard Grenell said Sunday that he is "very concerned" about President-elect Joe Biden's reported ties to China, and raised questions about other key cabinet members' who have advocated for supporting China's "rise" in the past. </description>
+                  <dc:creator>Yael Halon</dc:creator>
+                         <pubDate>Mon, 21 Dec 2020 04:22:29 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Yael Halon</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/sports/mayfield-browns-move-closer-to-playoffs-top-giants-20-6</guid>
+      <link>https://www.foxnews.com/sports/mayfield-browns-move-closer-to-playoffs-top-giants-20-6</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/12/Browns-defense.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/Browns-defense.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/Browns-defense.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">3425db38-f894-5fc8-84c7-d6aa42eb3d4d</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/sports/nfl</category>
+            <category domain="foxnews.com/taxonomy">fox-news/sports/nfl/cleveland-browns</category>
+            <category domain="foxnews.com/taxonomy">fox-news/sports/nfl/new-york-giants</category>
+            <category domain="foxnews.com/taxonomy">fox-news/person/baker-mayfield</category>
+            <category domain="foxnews.com/taxonomy">fox-news/person/jarvis-landry</category>
+            <category domain="foxnews.com/taxonomy">fox-news/person/nick-chubb</category>
+            <category domain="foxnews.com/taxonomy">fox-news/person/austin-hooper</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/sports</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Mayfield, Browns move closer to playoffs, top Giants 20-6</title>
+      <description>Baker Mayfield led two 95-yard touchdown drives and the Cleveland Browns moved closer to ending their 17-year playoff drought with a 20-6 victory over the New York Giants on Sunday night.</description>
+                   <pubDate>Mon, 21 Dec 2020 04:21:12 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Associated Press</category>
+                              <category domain="foxnews.com/dateline" />
+                                  </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/us/chicago-violence-5-killed-29-shot-in-another-bloody-weekend</guid>
+      <link>https://www.foxnews.com/us/chicago-violence-5-killed-29-shot-in-another-bloody-weekend</link>
+                  <media:group>
+        <media:content url="https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6cdd34c6-5759-4be7-a886-62a451c4a022/3a3ca737-aceb-4bad-a59b-fdeace78e3ec/1280x720/match/image.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/image.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/image.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">6e4a7b9d-ecc1-5376-a4c6-2686248bd446</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/us/chicago</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us/crime/chicagos-crime-wave</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/us</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Chicago violence: 5 killed, 29 shot in another bloody weekend</title>
+      <description />
+                  <dc:creator>Edmund DeMarche</dc:creator>
+                         <pubDate>Mon, 21 Dec 2020 04:12:26 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Edmund DeMarche</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/sports/nfl-week-15-2020-recap-scores-standings</guid>
+      <link>https://www.foxnews.com/sports/nfl-week-15-2020-recap-scores-standings</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/12/Bills-celebrate.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/Bills-celebrate.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/Bills-celebrate.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">f769c6cb-9c45-5e95-bbf3-4e0a16872d02</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/sports/nfl</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/sports</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>NFL Week 15 recap, scores and standings</title>
+      <description>It is weird to think it but after Monday night’s game, there will only be two weeks remaining in the 2020 NFL regular season. The finish line is on the horizon and some teams wrapped up playoff spots.</description>
+                  <dc:creator>Ryan Gaydos</dc:creator>
+                         <pubDate>Mon, 21 Dec 2020 04:10:39 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Ryan Gaydos</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/sports/army-9-wins-fights-bowl-game</guid>
+      <link>https://www.foxnews.com/sports/army-9-wins-fights-bowl-game</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/12/Army-celebrates.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/Army-celebrates.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/Army-celebrates.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">fd0e3b2a-dfa9-5432-bf7d-2a75dcc65976</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/sports/ncaa/army-black-knights</category>
+            <category domain="foxnews.com/taxonomy">fox-news/sports/ncaa/college-football-bowl-season</category>
+            <category domain="foxnews.com/taxonomy">fox-news/sports/ncaa</category>
+            <category domain="foxnews.com/taxonomy">fox-news/sports/ncaa-fb</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/sports</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Army, with 9 wins, fights for bowl game: 'They deserve better. Period'</title>
+      <description>Army put together a successful 9-2 season seventh-year head coach Jeff Monken and came away with wins over rivals Navy and Air Force to end the season.</description>
+                  <dc:creator>Ryan Gaydos</dc:creator>
+                         <pubDate>Mon, 21 Dec 2020 03:58:16 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Ryan Gaydos</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/health/nursing-homes-vaccination-effort-pharmacies</guid>
+      <link>https://www.foxnews.com/health/nursing-homes-vaccination-effort-pharmacies</link>
+                  <media:group>
+        <media:content url="https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6b233628-4882-4dda-81ec-a11e4bcf8a72/0131f6f8-a029-44f3-8a57-ba62a4310f12/1280x720/match/image.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/image.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/image.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">fe4be573-822a-5042-815c-2504e9d20896</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/health/infectious-disease/coronavirus</category>
+            <category domain="foxnews.com/taxonomy">fox-news/health/geriatric-health</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/health</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Nursing homes prepare for historic vaccination effort</title>
+      <description>Beginning on Monday, the vast majority of the nation’s long term care facilities will rely on Walgreens and CVS pharmacists to vaccinate their residents and staff. </description>
+                  <dc:creator>Bryan Llenas</dc:creator>
+                         <pubDate>Mon, 21 Dec 2020 03:46:34 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Bryan Llenas</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/sports/buie-northwestern-beat-no-4-michigan-state-79-65</guid>
+      <link>https://www.foxnews.com/sports/buie-northwestern-beat-no-4-michigan-state-79-65</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/12/Pete-Nance.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/Pete-Nance.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/Pete-Nance.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">1c88f2fa-2e22-53a7-876d-8c36459de29b</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/sports/ncaa-bk</category>
+            <category domain="foxnews.com/taxonomy">fox-news/sports/ncaa</category>
+            <category domain="foxnews.com/taxonomy">fox-news/sports/ncaa/michigan-state-spartans</category>
+            <category domain="foxnews.com/taxonomy">fox-news/sports/ncaa/northwestern-wildcats</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/sports</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Buie, Northwestern beat No. 4 Michigan State 79-65</title>
+      <description>Boo Buie scored a career-high 30 points and Northwestern beat Michigan State for the first time in almost a decade, topping the No. 4 Spartans 79-65 on Sunday night.</description>
+                   <pubDate>Mon, 21 Dec 2020 03:42:19 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Associated Press</category>
+                              <category domain="foxnews.com/dateline" />
+                                  </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/sports/quentin-grimes-helps-no-6-houston-rout-alcorn-state-88-55</guid>
+      <link>https://www.foxnews.com/sports/quentin-grimes-helps-no-6-houston-rout-alcorn-state-88-55</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/12/Quentin-Grimes.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/Quentin-Grimes.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/Quentin-Grimes.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">28189d2d-4f54-558f-893d-90755586c9c6</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/sports/ncaa-bk</category>
+            <category domain="foxnews.com/taxonomy">fox-news/sports/ncaa</category>
+            <category domain="foxnews.com/taxonomy">fox-news/sports/ncaa/houston-cougars</category>
+            <category domain="foxnews.com/taxonomy">fox-news/sports/ncaa/alcorn-state-braves</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/sports</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Quentin Grimes helps No. 6 Houston rout Alcorn State 88-55</title>
+      <description>Even short-handed, Houston didn’t miss a beat in its first game in 15 days.</description>
+                   <pubDate>Mon, 21 Dec 2020 03:39:00 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Associated Press</category>
+                              <category domain="foxnews.com/dateline" />
+                                  </item>
+      </channel>
+</rss>

@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" media="screen" href="/~d/styles/rss2full.xsl"?><?xml-stylesheet type="text/css" media="screen" href="http://feeds.foxnews.com/~d/styles/itemcontent.css"?><rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+                    <title>FOX News</title>
+    <link>http://www.foxnews.com/</link>
+    <description><![CDATA[FOXNews.com - Breaking news and video. Latest Current News: U.S., World, Entertainment, Health, Business, Technology, Politics, Sports.]]></description>
+        <image>
+    	<url>http://tools.foxnews.com/sites/tools.foxnews.com/files/images/fox-news-logo.png</url>
+    	<title>FOX News</title>
+    	<link>http://www.foxnews.com/</link>
+    </image>
+            <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feeds.foxnews.com/foxnews/latest" /><feedburner:info xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" uri="foxnews/latest" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /><item>
+                  <guid isPermaLink="true">https://www.foxnews.com/politics/alex-azar-taiwan-visit-coronavirus-vaccine-distribution</guid>
+      <link>https://www.foxnews.com/politics/alex-azar-taiwan-visit-coronavirus-vaccine-distribution</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/08/Alex-Azar-coronavirus.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/Alex-Azar-coronavirus.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/Alex-Azar-coronavirus.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">033bd961-635d-5952-aa15-b920184aa34b</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/person/alex-azar</category>
+            <category domain="foxnews.com/taxonomy">fox-news/health/infectious-disease/coronavirus</category>
+            <category domain="foxnews.com/taxonomy">fox-news/politics/executive/health-care</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/politics</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>US would share coronavirus vaccine with world after Americans' needs are met: Azar</title>
+      <description>The U.S. will share any coronavirus vaccine it develops with the globe after American needs are met, Health and Human Services Secretary Alex Azar said Monday during a visit to Taiwan.</description>
+                  <dc:creator>Evie Fordham</dc:creator>
+                         <pubDate>Mon, 10 Aug 2020 11:45:42 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Evie Fordham</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/sports/indians-send-zach-plesac-home-violating-mlb-protocols</guid>
+      <link>https://www.foxnews.com/sports/indians-send-zach-plesac-home-violating-mlb-protocols</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/08/Zach-Plesac.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/Zach-Plesac.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/Zach-Plesac.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">12e96201-2f69-512c-be04-26bb3baf3a45</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/sports/mlb</category>
+            <category domain="foxnews.com/taxonomy">fox-news/sports/mlb/cleveland-indians</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/sports</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Indians send Zach Plesac home after pitcher has dinner in Chicago, violating MLB protocols</title>
+      <description>The Cleveland Indians on Sunday sent pitcher Zach Plesac home after he violated team rules and Major League Baseball’s coronavirus health protocols.</description>
+                  <dc:creator>Ryan Gaydos</dc:creator>
+                         <pubDate>Mon, 10 Aug 2020 11:44:14 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Ryan Gaydos</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/sports/clemson-trevor-lawrence-unified-message</guid>
+      <link>https://www.foxnews.com/sports/clemson-trevor-lawrence-unified-message</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/01/Trevor-Lawrence7.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/Trevor-Lawrence7.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/Trevor-Lawrence7.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">bbc2d745-4592-5e5f-85fd-2c4ddf539ea1</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/sports/ncaa-fb</category>
+            <category domain="foxnews.com/taxonomy">fox-news/sports/ncaa</category>
+            <category domain="foxnews.com/taxonomy">fox-news/health/infectious-disease/coronavirus</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/sports</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Clemson's Trevor Lawrence leads star student-athletes in unified message: 'We all want to play football'</title>
+      <description>Clemson’s Trevor Lawrence, Ohio State’s Justin Fields and other top college football stars appeared to be unified in their stance to play the 2020 season despite the ongoing coronavirus pandemic.</description>
+                  <dc:creator>Ryan Gaydos</dc:creator>
+                         <pubDate>Mon, 10 Aug 2020 11:37:39 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Ryan Gaydos</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/sports/collin-morikawa-5-things-to-know-about-the-golfer</guid>
+      <link>https://www.foxnews.com/sports/collin-morikawa-5-things-to-know-about-the-golfer</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/08/Collin-Morikawa4.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/Collin-Morikawa4.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/Collin-Morikawa4.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">8d104b10-ee66-5980-9263-9d148b19faa0</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/sports/golf</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/sports</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Collin Morikawa: 5 things to know about the golfer</title>
+      <description>Collin Morikawa is a relative unknown in the golf ranks.</description>
+                  <dc:creator>Ryan Gaydos</dc:creator>
+                         <pubDate>Mon, 10 Aug 2020 11:16:34 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Ryan Gaydos</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/media/judy-gold-comedy-offending-todays-public-everything-is-not-about-you</guid>
+      <link>https://www.foxnews.com/media/judy-gold-comedy-offending-todays-public-everything-is-not-about-you</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/08/Judy-Gold.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/Judy-Gold.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/Judy-Gold.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">96ddcaf4-bc1e-5ce8-a064-ba4882847ff4</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/media/fox-news-flash</category>
+            <category domain="foxnews.com/taxonomy">fox-news/entertainment/genres/comedy</category>
+            <category domain="foxnews.com/taxonomy">fox-news/lifestyle</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/media</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Judy Gold on comedy offending today’s public: ‘Everything is not about you’</title>
+      <description>Comedian Judy Gold warned that comedians today must be careful not to offend their audience since one joke taken out of context can ruin a comic's career.</description>
+                  <dc:creator>Angelica Stabile</dc:creator>
+                         <pubDate>Mon, 10 Aug 2020 11:12:11 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Angelica Stabile</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/world/mount-sinabung-eruption-volcano-indonesia-ash-cloud-ring-of-fire-pacific</guid>
+      <link>https://www.foxnews.com/world/mount-sinabung-eruption-volcano-indonesia-ash-cloud-ring-of-fire-pacific</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/08/volcano_1.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/volcano_1.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/volcano_1.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">3422ca06-0fe6-5f50-84aa-0df1c35e6c9c</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/science/planet-earth/natural-disasters</category>
+            <category domain="foxnews.com/taxonomy">fox-news/world/world-regions/asia</category>
+            <category domain="foxnews.com/taxonomy">fox-news/weather</category>
+            <category domain="foxnews.com/taxonomy">fox-news/world/disasters</category>
+            <category domain="foxnews.com/taxonomy">fox-news/world/disasters/disaster-response</category>
+            <category domain="foxnews.com/taxonomy">fox-news/science/planet-earth/geology</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/world</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Mount Sinabung volcano in Indonesia erupts, sends column of ash more than 3 miles into the sky</title>
+      <description>A rumbling volcano in Indonesia erupted Monday, sending a towering column of ash more than 3 miles into the sky and raining down on nearby villages.</description>
+                  <dc:creator>Travis Fedschun</dc:creator>
+                         <pubDate>Mon, 10 Aug 2020 11:07:50 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Travis Fedschun</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/opinion/another-coronavirus-lockdown-hurt-patients-providers-sally-pipes</guid>
+      <link>https://www.foxnews.com/opinion/another-coronavirus-lockdown-hurt-patients-providers-sally-pipes</link>
+                  <media:group>
+        <media:content url="https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/87e52466-8376-4f83-8eff-f585ec14d315/c6e4e928-3018-4539-9361-bce27270158a/1280x720/match/image.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/image.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/image.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">7e67602c-7fde-5c8a-8b09-89b28c57db27</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/opinion</category>
+            <category domain="foxnews.com/taxonomy">fox-news/health/infectious-disease/coronavirus</category>
+            <category domain="foxnews.com/taxonomy">fox-news/health/infectious-disease</category>
+            <category domain="foxnews.com/taxonomy">fox-news/health</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/opinion</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Sally Pipes: Another coronavirus lockdown would hurt these patients and providers</title>
+      <description>As they try to get the coronavirus' spread under control, states must resist the urge to impose blanket stay-at-home orders.</description>
+                  <dc:creator>Sally Pipes</dc:creator>
+                         <pubDate>Mon, 10 Aug 2020 11:00:11 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Sally Pipes</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/sports/collin-morikawa-struggle-pga-championship-trophy</guid>
+      <link>https://www.foxnews.com/sports/collin-morikawa-struggle-pga-championship-trophy</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/08/Collin-Morikawa5.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/Collin-Morikawa5.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/Collin-Morikawa5.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">be53853a-1cf9-50e8-9d80-a74ecfc4d49c</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/sports/golf/pga-championship</category>
+            <category domain="foxnews.com/taxonomy">fox-news/sports/golf</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/sports</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Collin Morikawa's only struggle at PGA Championship came during the trophy presentation</title>
+      <description>Collin Morikawa handled nearly everything Sunday – from the front and back nines to some of the veterans on the PGA Tour as he shot up the PGA Championship leaderboard for the win.</description>
+                  <dc:creator>Ryan Gaydos</dc:creator>
+                         <pubDate>Mon, 10 Aug 2020 10:21:13 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Ryan Gaydos</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/opinion/cancel-culture-character-assassination-techno-tyranny-adonis-hoffman</guid>
+      <link>https://www.foxnews.com/opinion/cancel-culture-character-assassination-techno-tyranny-adonis-hoffman</link>
+                  <media:group>
+        <media:content url="https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3c66c649-9038-4aa2-a8af-34b3ac454ee5/3aa4f728-6780-4783-8e85-e55d9b839910/1280x720/match/image.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/image.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/image.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">24dae59a-a22d-5f0a-9d38-912a9f63ab93</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/opinion</category>
+            <category domain="foxnews.com/taxonomy">fox-news/politics</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/opinion</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Adonis Hoffman: Cancel culture is techno tyranny – it gives everyone the power to do this</title>
+      <description>While cancellation may seek to stifle speech, it causes social and economic destruction as well.</description>
+                  <dc:creator>Adonis Hoffman</dc:creator>
+                         <pubDate>Mon, 10 Aug 2020 10:00:48 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Adonis Hoffman</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/entertainment/record-breaking-shark-breach-captured-camera</guid>
+      <link>https://www.foxnews.com/entertainment/record-breaking-shark-breach-captured-camera</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/08/AP20220431951761.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/AP20220431951761.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/AP20220431951761.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">90b9912d-38da-58ac-8484-3c81f1e209fa</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/science/wild-nature/sharks</category>
+            <category domain="foxnews.com/taxonomy">fox-news/entertainment</category>
+            <category domain="foxnews.com/taxonomy">fox-news/entertainment/tv</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/entertainment</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Record-breaking shark breach captured on camera</title>
+      <description>Since Air Jaws debuted on the Discovery Channel back in 2001, the series has given audiences a glimpse of some of the most exciting visuals of great white sharks breaches.</description>
+                  <dc:creator>David Aaro</dc:creator>
+                         <pubDate>Mon, 10 Aug 2020 09:34:14 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">David Aaro</category>
+                            </item>
+      </channel>
+</rss>

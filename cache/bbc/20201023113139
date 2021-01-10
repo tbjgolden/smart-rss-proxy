@@ -1,0 +1,607 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet title="XSL_formatting" type="text/xsl" href="/shared/bsp/xsl/rss/nolsol.xsl"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News - Home]]></title>
+        <description><![CDATA[BBC News - Home]]></description>
+        <link>https://www.bbc.co.uk/news/</link>
+        <image>
+            <url>https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News - Home</title>
+            <link>https://www.bbc.co.uk/news/</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Fri, 23 Oct 2020 11:22:25 GMT</lastBuildDate>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Presidential debate: Trump and Biden row over Covid, climate and racism]]></title>
+            <description><![CDATA[The bitter rivals' final TV debate was more restrained this time but there were plenty of personal jabs.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-54654937</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-54654937</guid>
+            <pubDate>Fri, 23 Oct 2020 06:40:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid in Scotland: Sturgeon to set out five-tier alert system]]></title>
+            <description><![CDATA[It will include a top level of measures more rigorous than those south of the border.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-54647145</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-54647145</guid>
+            <pubDate>Thu, 22 Oct 2020 23:35:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid-19: England and Wales begin tougher rules for millions]]></title>
+            <description><![CDATA["We all hope to be in a position" to allow families to spend Christmas together, a government minister says.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-54654138</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-54654138</guid>
+            <pubDate>Fri, 23 Oct 2020 11:05:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Free school meals: Authors urge government action to stop child hunger]]></title>
+            <description><![CDATA[Authors say no child must go hungry this winter, amid continuing row over free school meals.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-politics-54657796</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-54657796</guid>
+            <pubDate>Fri, 23 Oct 2020 10:39:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Gap considers closing all its UK stores]]></title>
+            <description><![CDATA[Thousands of jobs could be at risk as the US clothing chain mulls closing its company-owned shops.]]></description>
+            <link>https://www.bbc.co.uk/news/business-54635810</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-54635810</guid>
+            <pubDate>Fri, 23 Oct 2020 09:57:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Wales lockdown to start in bid to save Christmas trade]]></title>
+            <description><![CDATA[Pubs, restaurants and non-essential shops will shut when the 17-day lockdown starts at 18:00 BST.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-wales-54647460</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-54647460</guid>
+            <pubDate>Fri, 23 Oct 2020 11:20:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus infections continue to rise]]></title>
+            <description><![CDATA[Cases have risen by a quarter to more than 32,500 a day in England, says the Office for National Statistics]]></description>
+            <link>https://www.bbc.co.uk/news/health-54659029</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-54659029</guid>
+            <pubDate>Fri, 23 Oct 2020 11:15:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Susan Nicholson's parents win appeal for fresh inquest]]></title>
+            <description><![CDATA[Susan Nicholson was murdered by Robert Trigg five years after he killed his previous partner.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-sussex-54659858</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-sussex-54659858</guid>
+            <pubDate>Fri, 23 Oct 2020 10:16:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Britain and Japan sign post-Brexit trade deal]]></title>
+            <description><![CDATA[The countries formally sign a deal described by the UK's international trade secretary as "ground-breaking".]]></description>
+            <link>https://www.bbc.co.uk/news/business-54654814</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-54654814</guid>
+            <pubDate>Fri, 23 Oct 2020 08:53:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Nagorno-Karabakh: The three-year-old orphaned by war]]></title>
+            <description><![CDATA[Hadija’s mum, dad and older sister were killed in the Azerbaijaini town of Ganja.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-54650502</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-54650502</guid>
+            <pubDate>Thu, 22 Oct 2020 23:11:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Shoppers defy economic gloom in September]]></title>
+            <description><![CDATA[The amount of retail sales saw a 1.5% rise last month, boosted by DIY and garden items.]]></description>
+            <link>https://www.bbc.co.uk/news/business-54656486</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-54656486</guid>
+            <pubDate>Fri, 23 Oct 2020 09:51:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[HS2: Moving ancient woodland habitat for rail line flawed, ecologists say]]></title>
+            <description><![CDATA[Soil is being moved to new sites but ecologists question whether the process is effective.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-54628840</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-54628840</guid>
+            <pubDate>Fri, 23 Oct 2020 03:33:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid: Teacher trapped in Italy quarantine happy to be home]]></title>
+            <description><![CDATA[Rhys James and his three friends were kept in isolation in a Florence Covid facility for two months.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-wales-54628221</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-54628221</guid>
+            <pubDate>Fri, 23 Oct 2020 05:51:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Quiz of the week: Beyoncé, the Church of England and swans for sale]]></title>
+            <description><![CDATA[How closely have you been paying attention to what's been going on during the past seven days?]]></description>
+            <link>https://www.bbc.co.uk/news/world-54642168</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-54642168</guid>
+            <pubDate>Thu, 22 Oct 2020 23:13:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Manchester United's Marcus Rashford and his mum help out at foodbank]]></title>
+            <description><![CDATA[Charity FareShare has named a new warehouse after the footballer's mother, Melanie.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-54657676</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-54657676</guid>
+            <pubDate>Fri, 23 Oct 2020 07:24:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Papers: Test and trace 'can't cope' and jobs aid 'triples']]></title>
+            <description><![CDATA[The papers cover Boris Johnson's admission of testing failures and billions more for businesses.]]></description>
+            <link>https://www.bbc.co.uk/news/blogs-the-papers-54654115</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/blogs-the-papers-54654115</guid>
+            <pubDate>Fri, 23 Oct 2020 04:51:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Brexit: Why is fishing a stumbling block in the trade talks?]]></title>
+            <description><![CDATA[Fishing is one of the key stumbling blocks preventing a trade deal between the UK and EU.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-54652985</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-54652985</guid>
+            <pubDate>Thu, 22 Oct 2020 23:52:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Composer with dementia whose piano-playing went viral meets students he inspired]]></title>
+            <description><![CDATA[Eighty-year-old Paul Harvey went viral after he was filmed playing piano pieces learned decades ago.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-54653205</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-54653205</guid>
+            <pubDate>Thu, 22 Oct 2020 23:04:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Stormzy takes starring role in Watch Dogs: Legion video game]]></title>
+            <description><![CDATA[The grime star tells the BBC that video games can be a platform to speak out against injustice.]]></description>
+            <link>https://www.bbc.co.uk/news/technology-54649263</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-54649263</guid>
+            <pubDate>Thu, 22 Oct 2020 17:26:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Quest Sprout: 'The most wholesome thing on the internet']]></title>
+            <description><![CDATA[Among the horrors of 2020, one small green hero has emerged to bring brief moments of joy.]]></description>
+            <link>https://www.bbc.co.uk/news/newsbeat-54646324</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/newsbeat-54646324</guid>
+            <pubDate>Thu, 22 Oct 2020 23:15:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Wrecks visible in River Severn 60 years after disaster]]></title>
+            <description><![CDATA[New drone footage shows the remains of two barges involved in the Severn Railway Bridge disaster.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-gloucestershire-54651734</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-gloucestershire-54651734</guid>
+            <pubDate>Thu, 22 Oct 2020 23:14:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The apps promising to improve your sex life]]></title>
+            <description><![CDATA[There are a growing number of apps that promise to help with sexual wellbeing, but are they effective?]]></description>
+            <link>https://www.bbc.co.uk/news/business-54461969</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-54461969</guid>
+            <pubDate>Thu, 22 Oct 2020 23:14:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid: Why is coronavirus so deadly?]]></title>
+            <description><![CDATA[Why does the biology of coronavirus mean it poses such a threat to human life?]]></description>
+            <link>https://www.bbc.co.uk/news/health-54648684</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-54648684</guid>
+            <pubDate>Thu, 22 Oct 2020 22:58:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['A big supermarket shop feels frivolous now']]></title>
+            <description><![CDATA[Families from both ends of the income spectrum have had to tighten their belts in the last six months.]]></description>
+            <link>https://www.bbc.co.uk/news/business-54479043</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-54479043</guid>
+            <pubDate>Thu, 22 Oct 2020 23:19:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Nigeria Sars protest: The misinformation circulating online]]></title>
+            <description><![CDATA[Misleading claims about protests against a controversial police unit have been widely shared.]]></description>
+            <link>https://www.bbc.co.uk/news/world-africa-54628292</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-54628292</guid>
+            <pubDate>Thu, 22 Oct 2020 23:18:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Pixie: Irish road movie offers 'light-hearted relief' from Covid worries]]></title>
+            <description><![CDATA[Its young stars hope the anarchic road movie will give "light-hearted relief" from pandemic worries.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-54375344</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-54375344</guid>
+            <pubDate>Thu, 22 Oct 2020 23:29:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Justin Fashanu: 30 years since footballer came out]]></title>
+            <description><![CDATA[Thirty years after football's first openly gay player came out, what has changed in the game?]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-norfolk-54617759</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-norfolk-54617759</guid>
+            <pubDate>Thu, 22 Oct 2020 19:51:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Payment holidays: 'I can't afford to be out of work']]></title>
+            <description><![CDATA[People needing a break from paying bills owing to coronavirus pressures will be judged differently from 31 October.]]></description>
+            <link>https://www.bbc.co.uk/news/business-54576518</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-54576518</guid>
+            <pubDate>Wed, 21 Oct 2020 23:55:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tanzania President John Magufuli: The man who declared victory over coronavirus]]></title>
+            <description><![CDATA[President John Magufuli’s idiosyncratic handling of Covid-19 has put Tanzania in the global spotlight.]]></description>
+            <link>https://www.bbc.co.uk/news/world-africa-54603689</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-54603689</guid>
+            <pubDate>Wed, 21 Oct 2020 23:18:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Asafoetida: The smelly spice India loves but never grew]]></title>
+            <description><![CDATA[Asafoetida occupies a treasured spot in the Indian pantry, but has never been farmed there until now.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-india-54617077</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-india-54617077</guid>
+            <pubDate>Wed, 21 Oct 2020 23:07:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Nagorno-Karabakh: The Armenian-Azeri 'information wars']]></title>
+            <description><![CDATA[There are false videos that have gone viral. Some are doctored or old footage that has thousands of views.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-54614392</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-54614392</guid>
+            <pubDate>Wed, 21 Oct 2020 23:21:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Will cruise ships return to Venice?]]></title>
+            <description><![CDATA[Pressure is mounting on the Italian authorities to decide on the future of cruise ships in Venice.]]></description>
+            <link>https://www.bbc.co.uk/news/business-54478119</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-54478119</guid>
+            <pubDate>Wed, 21 Oct 2020 23:19:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Robshaw, Wigglesworth, Maitland & Wray among Barbarians stood down for bubble breach]]></title>
+            <description><![CDATA[Chris Robshaw, Richard Wigglesworth, Sean Maitland and Jackson Wray are among 12 Barbarians players stood down from Sunday's fixture against England after breaking Covid rules.]]></description>
+            <link>https://www.bbc.co.uk/sport/rugby-union/54656359</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/rugby-union/54656359</guid>
+            <pubDate>Fri, 23 Oct 2020 10:45:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The all-time greatest? Rank the best as Pele turns 80]]></title>
+            <description><![CDATA[As we mark Pele's 80th birthday, you can have your say on some of the greatest players of all time.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/54543144</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/54543144</guid>
+            <pubDate>Fri, 23 Oct 2020 05:02:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Riders take team buses for part of Giro stage in safety protest]]></title>
+            <description><![CDATA[Riders will take team buses nearly halfway through stage 19 of the Giro d'Italia after a protest over safety.]]></description>
+            <link>https://www.bbc.co.uk/sport/cycling/54640116</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/cycling/54640116</guid>
+            <pubDate>Fri, 23 Oct 2020 10:51:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[New York Giants' Daniel Jones trips himself after 80-yard run against Philadelphia Eagles]]></title>
+            <description><![CDATA[New York Giants quarterback Daniel Jones makes an 80-yard run against the Philadelphia Eagles before tripping himself up with the touchdown line at his mercy.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/american-football/54659637</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/american-football/54659637</guid>
+            <pubDate>Fri, 23 Oct 2020 09:20:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Six Nations 2020: Watch the best moments from tournament so far]]></title>
+            <description><![CDATA[The Six Nations is back - watch the best moments from the 2020 tournament so far, including huge tackles, epic tries and some cringey parents.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/rugby-union/54482115</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/rugby-union/54482115</guid>
+            <pubDate>Fri, 23 Oct 2020 05:15:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Presidential debate 2020: Trump and Biden final debate fact-checked]]></title>
+            <description><![CDATA[The final face off between Donald Trump and Joe Biden covered a wide range of issues]]></description>
+            <link>https://www.bbc.co.uk/news/election-us-2020-54645608</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/election-us-2020-54645608</guid>
+            <pubDate>Fri, 23 Oct 2020 05:20:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Trump and Biden spar in final presidential debate]]></title>
+            <description><![CDATA[Their last time together on stage featured a much more subdued debate with real policy discussions.]]></description>
+            <link>https://www.bbc.co.uk/news/election-us-2020-54650687</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/election-us-2020-54650687</guid>
+            <pubDate>Fri, 23 Oct 2020 04:24:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Presidential debate 2020: Voters react to final Trump-Biden clash]]></title>
+            <description><![CDATA[Two Biden voters. Two Trump voters. Two undecided voters. Did the final debate change anyone's mind?]]></description>
+            <link>https://www.bbc.co.uk/news/election-us-2020-54650688</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/election-us-2020-54650688</guid>
+            <pubDate>Fri, 23 Oct 2020 05:58:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Kristen Welker: Presidential debate moderator was 'clear winner' on social media]]></title>
+            <description><![CDATA[The NBC correspondent is labelled "clear winner" for the way she led the final presidential debate.]]></description>
+            <link>https://www.bbc.co.uk/news/election-us-2020-54655482</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/election-us-2020-54655482</guid>
+            <pubDate>Fri, 23 Oct 2020 05:54:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[US election 2020: What are Trump's and Biden's policies?]]></title>
+            <description><![CDATA[Some of President Trump's and Joe Biden's key policies explained and compared.]]></description>
+            <link>https://www.bbc.co.uk/news/election-us-2020-54507550</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/election-us-2020-54507550</guid>
+            <pubDate>Sun, 18 Oct 2020 15:14:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[US election 2020: A really simple guide]]></title>
+            <description><![CDATA[If you’re looking for a refresher or trying to understand it for the first time, this guide will help.]]></description>
+            <link>https://www.bbc.co.uk/news/election-us-2020-53785985</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/election-us-2020-53785985</guid>
+            <pubDate>Fri, 25 Sep 2020 15:01:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[US election 2020 polls: Who is ahead - Trump or Biden?]]></title>
+            <description><![CDATA[An in-depth look at the polls and what they can and can’t tell us about who will win the White House.]]></description>
+            <link>https://www.bbc.co.uk/news/election-us-2020-53657174</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/election-us-2020-53657174</guid>
+            <pubDate>Thu, 22 Oct 2020 15:09:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[US Election 2020: Can you trust the polls?]]></title>
+            <description><![CDATA[Did US election polling get it wrong in 2016? Reality Check considers whether polls can predict who'll be the next US president.]]></description>
+            <link>https://www.bbc.co.uk/news/election-us-2020-54377467</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/election-us-2020-54377467</guid>
+            <pubDate>Thu, 01 Oct 2020 23:08:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Electoral College: Which voters really decide the US election?]]></title>
+            <description><![CDATA[More than 245 million Americans are eligible to vote but only a few will decide the outcome.]]></description>
+            <link>https://www.bbc.co.uk/news/election-us-2020-54396559</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/election-us-2020-54396559</guid>
+            <pubDate>Sun, 04 Oct 2020 23:29:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Predict the president 2020: Will Trump or Biden win the US election? You decide]]></title>
+            <description><![CDATA[Play our game to predict whether Donald Trump or Joe Biden will win the key states in the election.]]></description>
+            <link>https://www.bbc.co.uk/news/election-us-2020-54286528</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/election-us-2020-54286528</guid>
+            <pubDate>Fri, 25 Sep 2020 16:35:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[US election 2020: Has Trump delivered on his promises?]]></title>
+            <description><![CDATA[Donald Trump made voters a number of promises before they elected him. But has he kept his word?]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-37982000</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-37982000</guid>
+            <pubDate>Thu, 15 Oct 2020 22:02:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How Kamala Harris highlights what women in politics face]]></title>
+            <description><![CDATA[From being seen as angry to questions around motherhood - are women in politics treated differently?]]></description>
+            <link>https://www.bbc.co.uk/news/election-us-2020-54574584</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/election-us-2020-54574584</guid>
+            <pubDate>Wed, 21 Oct 2020 01:01:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[US 2020 election: Who does China really want to win?]]></title>
+            <description><![CDATA[With the US battered by the coronavirus and political polarisation, China thinks its time has come.]]></description>
+            <link>https://www.bbc.co.uk/news/election-us-2020-54522988</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/election-us-2020-54522988</guid>
+            <pubDate>Mon, 19 Oct 2020 21:34:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[US election: What can the US learn from other pandemic elections?]]></title>
+            <description><![CDATA[There is plenty the US can learn from other nations that have held elections under Covid-restrictions.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-54604915</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-54604915</guid>
+            <pubDate>Mon, 19 Oct 2020 23:01:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[US election 2020: Why it matters so much to Germans]]></title>
+            <description><![CDATA[Trump has singled out Berlin for repeated criticism, but some say it was a much needed wake-up call.]]></description>
+            <link>https://www.bbc.co.uk/news/election-us-2020-54522984</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/election-us-2020-54522984</guid>
+            <pubDate>Wed, 14 Oct 2020 22:28:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[US election 2020: How would Biden change foreign policy?]]></title>
+            <description><![CDATA[The two candidates offer very different visions of the world so allies - and adversaries - are watching closely.]]></description>
+            <link>https://www.bbc.co.uk/news/election-us-2020-54472696</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/election-us-2020-54472696</guid>
+            <pubDate>Thu, 15 Oct 2020 21:37:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Job Support Scheme: How do new post-furlough changes work?]]></title>
+            <description><![CDATA[The government will expand its Job Support Scheme to help firms affected by coronavirus restrictions.]]></description>
+            <link>https://www.bbc.co.uk/news/explainers-52135342</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-52135342</guid>
+            <pubDate>Thu, 22 Oct 2020 15:03:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Local lockdown rules: What Covid tier is my area in?]]></title>
+            <description><![CDATA[Use our search tool to find out about coronavirus rules and restrictions where you live.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-54373904</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-54373904</guid>
+            <pubDate>Fri, 23 Oct 2020 08:29:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus: Can I still get my hair cut at home? And other questions]]></title>
+            <description><![CDATA[We answer some of your questions about the rapidly changing rules and restrictions in the UK.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-china-51176409</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-china-51176409</guid>
+            <pubDate>Thu, 22 Oct 2020 15:05:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[UK travel restrictions: Which countries can I visit without quarantining?]]></title>
+            <description><![CDATA[Key holiday spots are being regularly added to the travel quarantine list as infection rates rise.]]></description>
+            <link>https://www.bbc.co.uk/news/explainers-53221896</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-53221896</guid>
+            <pubDate>Thu, 22 Oct 2020 17:26:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid: What will tier 3 rules for Manchester and South Yorkshire be?]]></title>
+            <description><![CDATA[All parts of the UK have brought in varying levels of extra restrictions as coronavirus cases grow.]]></description>
+            <link>https://www.bbc.co.uk/news/explainers-52530518</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-52530518</guid>
+            <pubDate>Fri, 23 Oct 2020 11:15:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus: What help are self-employed getting from government?]]></title>
+            <description><![CDATA[What is being done for the five million self-employed people in the UK facing a loss of income?]]></description>
+            <link>https://www.bbc.co.uk/news/business-52052123</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-52052123</guid>
+            <pubDate>Thu, 22 Oct 2020 11:38:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus: What powers do police have if people break Covid rules?]]></title>
+            <description><![CDATA[Coronavirus lockdown rules are changing across the UK, but who is responsible for enforcing them?]]></description>
+            <link>https://www.bbc.co.uk/news/explainers-52106843</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-52106843</guid>
+            <pubDate>Tue, 20 Oct 2020 17:54:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus: What's happening to free school meals during holidays?]]></title>
+            <description><![CDATA[The government in England will not extend a voucher scheme over the winter holidays, while Scotland and Wales pledge to do so.]]></description>
+            <link>https://www.bbc.co.uk/news/explainers-53053337</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-53053337</guid>
+            <pubDate>Wed, 21 Oct 2020 14:58:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus: What does the tier system mean for half-term holidays?]]></title>
+            <description><![CDATA[Where can I go and what can I do on a holiday in the UK?]]></description>
+            <link>https://www.bbc.co.uk/news/explainers-52646738</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-52646738</guid>
+            <pubDate>Wed, 21 Oct 2020 13:00:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus: When and how are pubs allowed to open?]]></title>
+            <description><![CDATA[Pubs across the UK are facing restrictions as coronavirus rates rise.]]></description>
+            <link>https://www.bbc.co.uk/news/business-52977388</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-52977388</guid>
+            <pubDate>Wed, 21 Oct 2020 12:59:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid: How much money are tier 3 areas getting?]]></title>
+            <description><![CDATA[Disagreements over money have raised questions about how the payments are decided by government.]]></description>
+            <link>https://www.bbc.co.uk/news/54630551</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/54630551</guid>
+            <pubDate>Wed, 21 Oct 2020 16:21:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Do all Tier 3 area workers get 80% of wages?]]></title>
+            <description><![CDATA[The prime minister claims workers will get 80% of their wages. Will they?]]></description>
+            <link>https://www.bbc.co.uk/news/54633147</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/54633147</guid>
+            <pubDate>Wed, 21 Oct 2020 15:07:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus: How much will it cost the UK?]]></title>
+            <description><![CDATA[The pandemic will cost the government hundreds of billions of pounds. Where will it all come from?]]></description>
+            <link>https://www.bbc.co.uk/news/business-52663523</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-52663523</guid>
+            <pubDate>Thu, 22 Oct 2020 11:24:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid symptoms: Is it a cold, flu or coronavirus?]]></title>
+            <description><![CDATA[With similar symptoms, deciding whether or not you need to get tested for coronavirus can be tricky.]]></description>
+            <link>https://www.bbc.co.uk/news/health-54145299</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-54145299</guid>
+            <pubDate>Thu, 17 Sep 2020 09:39:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid: What are the lockdown rules in place across Europe?]]></title>
+            <description><![CDATA[What restrictions are being put in place in Europe to control new coronavirus outbreaks?]]></description>
+            <link>https://www.bbc.co.uk/news/explainers-53640249</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-53640249</guid>
+            <pubDate>Wed, 21 Oct 2020 12:07:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus: How to get a Covid test]]></title>
+            <description><![CDATA[What are the tests for coronavirus, who are they for and how do they work?]]></description>
+            <link>https://www.bbc.co.uk/news/health-51943612</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-51943612</guid>
+            <pubDate>Thu, 17 Sep 2020 11:09:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid: What is a circuit-breaker?]]></title>
+            <description><![CDATA[Can a short burst of national restrictions change the course of the epidemic?]]></description>
+            <link>https://www.bbc.co.uk/news/health-54206582</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-54206582</guid>
+            <pubDate>Mon, 19 Oct 2020 11:35:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Support bubbles: How do they work and who is in yours?]]></title>
+            <description><![CDATA[Some people across the UK have been able to form "support bubbles" or "extended households".]]></description>
+            <link>https://www.bbc.co.uk/news/health-52637354</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-52637354</guid>
+            <pubDate>Mon, 19 Oct 2020 15:40:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid: What will you be able to do in Wales lockdown?]]></title>
+            <description><![CDATA[From 18:00 BST Friday people should stay home as much as possible, but what are you allowed to do?]]></description>
+            <link>https://www.bbc.co.uk/news/uk-wales-54597306</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-54597306</guid>
+            <pubDate>Wed, 21 Oct 2020 11:21:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid-19 in the UK: How many coronavirus cases are there in your area?]]></title>
+            <description><![CDATA[Explore the data on coronavirus in the UK and find out how many cases there are in your area.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-51768274</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-51768274</guid>
+            <pubDate>Thu, 22 Oct 2020 16:41:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid: What happens if someone in school tests positive?]]></title>
+            <description><![CDATA[Schools are adopting measures to reduce the spread of coronavirus and keep pupils safe.]]></description>
+            <link>https://www.bbc.co.uk/news/education-51643556</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/education-51643556</guid>
+            <pubDate>Wed, 14 Oct 2020 09:52:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid: How worried should we be?]]></title>
+            <description><![CDATA[We know we are heading into a difficult winter, but how worried should we be?]]></description>
+            <link>https://www.bbc.co.uk/news/health-54570373</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-54570373</guid>
+            <pubDate>Sat, 17 Oct 2020 00:24:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus: What are the rules for face masks or face coverings?]]></title>
+            <description><![CDATA[People around the UK must now wear face coverings in many public places, but what are the rules?]]></description>
+            <link>https://www.bbc.co.uk/news/health-51205344</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-51205344</guid>
+            <pubDate>Fri, 16 Oct 2020 14:39:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus: Do people still have to shield?]]></title>
+            <description><![CDATA[As restrictions change across the country, how should more vulnerable people keep themselves safe?]]></description>
+            <link>https://www.bbc.co.uk/news/health-51997151</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-51997151</guid>
+            <pubDate>Tue, 13 Oct 2020 10:59:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Circuit breaker: What is a circuit-breaker lockdown?]]></title>
+            <description><![CDATA[The BBC's Laura Foster explains what a circuit-breaker is and how it could help tackle Covid-19.]]></description>
+            <link>https://www.bbc.co.uk/news/health-54563252</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-54563252</guid>
+            <pubDate>Mon, 19 Oct 2020 11:34:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid-19 pandemic: Tracking the global coronavirus outbreak]]></title>
+            <description><![CDATA[Key charts and maps explaining how the virus has spread around the world.]]></description>
+            <link>https://www.bbc.co.uk/news/world-51235105</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-51235105</guid>
+            <pubDate>Fri, 23 Oct 2020 10:29:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus: What are Northern Ireland's new Covid rules?]]></title>
+            <description><![CDATA[BBC News NI's Jordan Kenny explains what you need to know about the new Covid-19 restrictions.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-54543094</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-54543094</guid>
+            <pubDate>Wed, 14 Oct 2020 13:20:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus: Simple guide to staying safe]]></title>
+            <description><![CDATA[Step-by-step, what to do to help prevent the spread of the virus.]]></description>
+            <link>https://www.bbc.co.uk/news/health-51711227</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-51711227</guid>
+            <pubDate>Mon, 28 Sep 2020 15:43:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid symptoms: What are they and how do I protect myself?]]></title>
+            <description><![CDATA[A new cough, fever and change in smell or taste are the key symptoms that mean you may have coronavirus.]]></description>
+            <link>https://www.bbc.co.uk/news/health-51048366</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-51048366</guid>
+            <pubDate>Fri, 25 Sep 2020 10:29:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus: How many people can attend a wedding?]]></title>
+            <description><![CDATA[The rules on who can attend ceremonies vary around the UK, while receptions are banned in some areas.]]></description>
+            <link>https://www.bbc.co.uk/news/explainers-52811509</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-52811509</guid>
+            <pubDate>Wed, 14 Oct 2020 09:52:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid Sage documents: The scientific evidence and what No 10 then did]]></title>
+            <description><![CDATA[The government did not take the recommendation of a "circuit breaker" lockdown.]]></description>
+            <link>https://www.bbc.co.uk/news/health-54528983</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-54528983</guid>
+            <pubDate>Tue, 13 Oct 2020 23:44:11 GMT</pubDate>
+        </item>
+    </channel>
+</rss>

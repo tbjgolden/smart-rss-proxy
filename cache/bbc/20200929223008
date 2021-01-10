@@ -1,0 +1,397 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet title="XSL_formatting" type="text/xsl" href="/shared/bsp/xsl/rss/nolsol.xsl"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News - Home]]></title>
+        <description><![CDATA[BBC News - Home]]></description>
+        <link>https://www.bbc.co.uk/news/</link>
+        <image>
+            <url>https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News - Home</title>
+            <link>https://www.bbc.co.uk/news/</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Tue, 29 Sep 2020 22:13:50 GMT</lastBuildDate>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Boris Johnson 'misspoke' over North East Covid restrictions]]></title>
+            <description><![CDATA[Boris Johnson apologises after failing to clarify the detail of new tighter coronavirus restrictions.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-54342688</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-54342688</guid>
+            <pubDate>Tue, 29 Sep 2020 18:42:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Wales lockdown: Half a million in the north added to local restrictions]]></title>
+            <description><![CDATA[Wrexham, Denbighshire, Flintshire and Conwy face restrictions from 18:00 BST on Thursday.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-wales-politics-54346608</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-politics-54346608</guid>
+            <pubDate>Tue, 29 Sep 2020 22:01:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus: Global Covid-19 death toll passes one million]]></title>
+            <description><![CDATA[UN chief António Guterres calls it "an agonising milestone" as the fight to stem the virus continues.]]></description>
+            <link>https://www.bbc.co.uk/news/world-54334496</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-54334496</guid>
+            <pubDate>Tue, 29 Sep 2020 08:45:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus: Police to be told they can use NHS Covid-19 app]]></title>
+            <description><![CDATA[Officers will be told on Wednesday they can install the app to personal but not work smartphones.]]></description>
+            <link>https://www.bbc.co.uk/news/technology-54337768</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-54337768</guid>
+            <pubDate>Tue, 29 Sep 2020 17:49:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Students home for Christmas with end of term online]]></title>
+            <description><![CDATA[Face-to-face lessons could end early so students have time to isolate ahead of Christmas break.]]></description>
+            <link>https://www.bbc.co.uk/news/education-54340184</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/education-54340184</guid>
+            <pubDate>Tue, 29 Sep 2020 19:56:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Duchess of Sussex: Meghan and Harry book can be used in privacy case]]></title>
+            <description><![CDATA[The Mail on Sunday wins the latest fight in the case over the publication of a letter she wrote to her father.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-54345461</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-54345461</guid>
+            <pubDate>Tue, 29 Sep 2020 17:41:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Brexit: Government Brexit plan gets MPs' final backing]]></title>
+            <description><![CDATA[A bill giving the UK the power to override parts of the EU deal passes with a majority of 84.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-politics-54341534</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-54341534</guid>
+            <pubDate>Tue, 29 Sep 2020 21:18:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Manchester Arena Inquiry: Bomb plotters 'still at large']]></title>
+            <description><![CDATA[People who helped plan the Manchester Arena bombing are "still at large", a public inquiry hears.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-manchester-54327290</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-manchester-54327290</guid>
+            <pubDate>Tue, 29 Sep 2020 19:24:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Carabao Cup: Tottenham 1-1 Chelsea (5-4 pens) - Spurs progress on spot-kicks]]></title>
+            <description><![CDATA[Mason Mount misses the fifth penalty as Tottenham edge past Chelsea on penalties after a 1-1 draw to reach the Carabao Cup quarter-finals.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/54298219</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/54298219</guid>
+            <pubDate>Tue, 29 Sep 2020 22:12:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Belarus: France's Macron calls for 'peaceful transition' amid protests]]></title>
+            <description><![CDATA[The French president promises to help mediate in the country following weeks of political unrest.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-54338173</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-54338173</guid>
+            <pubDate>Tue, 29 Sep 2020 17:00:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Amazon One: Palm scanner launched for 'secure' payments]]></title>
+            <description><![CDATA[The tech giant launches a palm scanner for secure payments and other biometric checks.]]></description>
+            <link>https://www.bbc.co.uk/news/technology-54337984</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-54337984</guid>
+            <pubDate>Tue, 29 Sep 2020 17:11:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Lincolnshire Wildlife Park: Swearing parrots removed from view]]></title>
+            <description><![CDATA[Although parrots are well known for mimicking bad language, these are "more sweary than most".]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-lincolnshire-54340425</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-lincolnshire-54340425</guid>
+            <pubDate>Tue, 29 Sep 2020 17:16:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Meaning Of Mariah Carey: Six revelations from the singer's memoir]]></title>
+            <description><![CDATA[The star recalls her experiences with racism and domestic violence in a revealing and frank memoir.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-54340236</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-54340236</guid>
+            <pubDate>Tue, 29 Sep 2020 15:19:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Jet suit paramedic 'could save lives']]></title>
+            <description><![CDATA[A first test flight has been carried out in the Lake District.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-54341378</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-54341378</guid>
+            <pubDate>Tue, 29 Sep 2020 10:29:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Freddie Flintoff's bulimia documentary: 'It gave me a sense of relief']]></title>
+            <description><![CDATA[The reaction to Andrew Flintoff's powerful documentary about the eating disorder has been huge.]]></description>
+            <link>https://www.bbc.co.uk/news/newsbeat-54343453</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/newsbeat-54343453</guid>
+            <pubDate>Tue, 29 Sep 2020 16:13:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Sir David Attenborough gets quizzed by kids after plea to world leaders to save nature]]></title>
+            <description><![CDATA[His hope for the future of the planet lies in the hands of children, so what do they want to ask him?]]></description>
+            <link>https://www.bbc.co.uk/news/uk-54333080</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-54333080</guid>
+            <pubDate>Mon, 28 Sep 2020 23:08:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Rare bone-eating 'bearded vulture' spotted in Norfolk]]></title>
+            <description><![CDATA[The wild raptor - known as Vigo - is thought to be returning home after a summer in Derbyshire.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-norfolk-54342198</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-norfolk-54342198</guid>
+            <pubDate>Tue, 29 Sep 2020 18:50:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Chadwick Boseman gave some of his 21 Bridges salary to co-star Sienna Miller]]></title>
+            <description><![CDATA[The British actress says Boseman took a pay cut in order to raise her salary on the film 21 Bridges.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-54337525</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-54337525</guid>
+            <pubDate>Tue, 29 Sep 2020 08:11:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Dancing on Ice 2021: Rebekah Vardy joins line-up]]></title>
+            <description><![CDATA[She joins the ITV celebrity skating show and speaks about her row with Coleen Rooney.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-54232806</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-54232806</guid>
+            <pubDate>Tue, 29 Sep 2020 10:44:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[TikTok Ban: How did TikTok stay online in the US?]]></title>
+            <description><![CDATA[Sophia Smith-Galer explains why President Trump shifted his position on banning new downloads of the app.]]></description>
+            <link>https://www.bbc.co.uk/news/world-54333290</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-54333290</guid>
+            <pubDate>Mon, 28 Sep 2020 23:15:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid ICU survivor: 'I have come out the other end']]></title>
+            <description><![CDATA[Tam McCue, 64, spent nearly two weeks on a ventilator after he was diagnosed with coronavirus in April.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-glasgow-west-54322911</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-glasgow-west-54322911</guid>
+            <pubDate>Mon, 28 Sep 2020 23:19:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[BTS to become multi-millionaires after label goes public]]></title>
+            <description><![CDATA[The South Korean K-pop group will become multi-millionaires after their label Big Hit goes public.]]></description>
+            <link>https://www.bbc.co.uk/news/business-54334876</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-54334876</guid>
+            <pubDate>Mon, 28 Sep 2020 23:48:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid-19: Milestones of the global pandemic]]></title>
+            <description><![CDATA[We track some of the key moments in the spread of Covid-19 around the world.]]></description>
+            <link>https://www.bbc.co.uk/news/world-54337098</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-54337098</guid>
+            <pubDate>Tue, 29 Sep 2020 14:53:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[As death toll passes 1m, your tributes to those who died]]></title>
+            <description><![CDATA[A collection of your tributes to some of the thousands of people in the UK who have died with coronavirus.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-52676411</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-52676411</guid>
+            <pubDate>Fri, 25 Sep 2020 15:12:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['I monitor my staff with software that takes screenshots']]></title>
+            <description><![CDATA[Many have struggled to get to grips with working from home, but would surveillance technology help?]]></description>
+            <link>https://www.bbc.co.uk/news/business-54289152</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-54289152</guid>
+            <pubDate>Tue, 29 Sep 2020 09:26:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[US 2020 election: Social media's nightmare scenario]]></title>
+            <description><![CDATA[Potential election chaos will play out on social media, and Big Tech is worried.]]></description>
+            <link>https://www.bbc.co.uk/news/technology-54311383</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-54311383</guid>
+            <pubDate>Tue, 29 Sep 2020 05:21:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus: 'My name was used to steal a government Covid loan']]></title>
+            <description><![CDATA[Criminals are targeting loans designed to help small firms stay afloat in the coronavirus pandemic.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-54187581</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-54187581</guid>
+            <pubDate>Mon, 28 Sep 2020 16:01:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid rules: What's the evidence for 10pm pub closing time?]]></title>
+            <description><![CDATA[A number of new rules have been introduced for pubs and restaurants, but why?]]></description>
+            <link>https://www.bbc.co.uk/news/54293460</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/54293460</guid>
+            <pubDate>Mon, 28 Sep 2020 16:01:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Man City sign Benfica defender Dias for £65m]]></title>
+            <description><![CDATA[Manchester City sign defender Ruben Dias from Benfica on a six-year deal for about £65m.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/54331554</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/54331554</guid>
+            <pubDate>Tue, 29 Sep 2020 20:17:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['I don't see who's next' - Watson concerned about future of British tennis ]]></title>
+            <description><![CDATA[Heather Watson expresses concerns about the future of British tennis after she became the final Briton to be knocked out in the French Open singles first round.]]></description>
+            <link>https://www.bbc.co.uk/sport/tennis/54349009</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/tennis/54349009</guid>
+            <pubDate>Tue, 29 Sep 2020 20:34:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Khan apology for Villa performance 'not helpful', says Fulham boss Parker]]></title>
+            <description><![CDATA[Fulham boss Scott Parker says Tony Khan's Twitter apology for the performance in Monday's 3-0 defeat by Aston Villa was "not helpful".]]></description>
+            <link>https://www.bbc.co.uk/sport/football/54344889</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/54344889</guid>
+            <pubDate>Tue, 29 Sep 2020 14:13:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[England's Tuilagi and Lawes injured as Sale beat Northampton]]></title>
+            <description><![CDATA[Manu Tuilagi and Courtney Lawes go off with injuries as Sale beat Northampton Saints 34-14 in the Premiership.]]></description>
+            <link>https://www.bbc.co.uk/sport/rugby-union/54330274</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/rugby-union/54330274</guid>
+            <pubDate>Tue, 29 Sep 2020 18:54:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Man Utd have £91m Sancho bid rejected - Wednesday's football gossip]]></title>
+            <description><![CDATA[Manchester United have another bid rejected for Jadon Sancho, Pep Guardiola wants a new left-back at Manchester City, plus more.]]></description>
+            <link>https://www.bbc.co.uk/sport/54344892</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/54344892</guid>
+            <pubDate>Tue, 29 Sep 2020 21:47:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Liverpool's Thiago self-isolating after positive coronavirus test]]></title>
+            <description><![CDATA[Liverpool midfielder Thiago Alcantara tests positive for coronavirus and is self-isolating.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/54347025</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/54347025</guid>
+            <pubDate>Tue, 29 Sep 2020 18:00:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mick Schumacher set for F1 race weekend debut]]></title>
+            <description><![CDATA[Mick Schumacher is one of three Ferrari academy drivers who will be given Formula 1 race weekend debuts in forthcoming races.]]></description>
+            <link>https://www.bbc.co.uk/sport/formula1/54343061</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/formula1/54343061</guid>
+            <pubDate>Tue, 29 Sep 2020 12:47:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[US election 2020: What time is the Trump v Biden presidential debate?]]></title>
+            <description><![CDATA[The first one is just hours away. Here's what you need to know about who's hosting and what to expect.]]></description>
+            <link>https://www.bbc.co.uk/news/election-us-2020-54003441</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/election-us-2020-54003441</guid>
+            <pubDate>Tue, 29 Sep 2020 13:52:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Chris Wallace: First debate host and Fox anchor unloved by Trump]]></title>
+            <description><![CDATA[Chris Wallace, known for his tough interviewing of all politicians, hosts the first US presidential debate.]]></description>
+            <link>https://www.bbc.co.uk/news/election-us-2020-54315285</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/election-us-2020-54315285</guid>
+            <pubDate>Mon, 28 Sep 2020 15:58:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[First US presidential debate: What to watch for from Trump and Biden]]></title>
+            <description><![CDATA[Trump's style is aggressive, Biden's amiable - but both share a weakness. What to look for tonight.]]></description>
+            <link>https://www.bbc.co.uk/news/election-us-2020-54300076</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/election-us-2020-54300076</guid>
+            <pubDate>Tue, 29 Sep 2020 03:40:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[US election 2020: A really simple guide]]></title>
+            <description><![CDATA[If you’re looking for a refresher or trying to understand it for the first time, this guide will help.]]></description>
+            <link>https://www.bbc.co.uk/news/election-us-2020-53785985</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/election-us-2020-53785985</guid>
+            <pubDate>Fri, 25 Sep 2020 15:01:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus: Where do governments borrow money?]]></title>
+            <description><![CDATA[How does it work when a government wants to borrow money, and when does it have to pay it back?]]></description>
+            <link>https://www.bbc.co.uk/news/business-50504151</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-50504151</guid>
+            <pubDate>Fri, 25 Sep 2020 07:29:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Europe lockdown: New coronavirus rules country-by-country]]></title>
+            <description><![CDATA[What are European countries doing to control new coronavirus outbreaks?]]></description>
+            <link>https://www.bbc.co.uk/news/explainers-53640249</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-53640249</guid>
+            <pubDate>Tue, 29 Sep 2020 10:34:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus: What is the R number and how is it calculated?]]></title>
+            <description><![CDATA[The simple but crucial number at the heart of lockdown decisions across the UK.]]></description>
+            <link>https://www.bbc.co.uk/news/health-52473523</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-52473523</guid>
+            <pubDate>Mon, 21 Sep 2020 09:16:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Job Support Scheme: How is furlough changing?]]></title>
+            <description><![CDATA[The government has announced a job support scheme for when furlough ends.]]></description>
+            <link>https://www.bbc.co.uk/news/explainers-52135342</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-52135342</guid>
+            <pubDate>Fri, 25 Sep 2020 10:53:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus: How does Covid-19 test-and-trace work?]]></title>
+            <description><![CDATA[People who have been in close contact with someone found to have Covid-19 are being traced.]]></description>
+            <link>https://www.bbc.co.uk/news/explainers-52442754</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-52442754</guid>
+            <pubDate>Mon, 28 Sep 2020 12:27:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus: Will the new Job Support Scheme help me? And other questions]]></title>
+            <description><![CDATA[An NHS contact tracing app has finally been launched in England and Wales. We answer some of your questions.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-china-51176409</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-china-51176409</guid>
+            <pubDate>Fri, 25 Sep 2020 12:00:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid: What is self-isolation and who has to do it?]]></title>
+            <description><![CDATA[If you are told to self-isolate, how long must you do it for, and what are the rules?]]></description>
+            <link>https://www.bbc.co.uk/news/explainers-54239922</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-54239922</guid>
+            <pubDate>Mon, 21 Sep 2020 17:17:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[UK travel restrictions: Which countries are on the UK's quarantine list?]]></title>
+            <description><![CDATA[Key holiday spots are being regularly added to the travel quarantine list as infection rates rise.]]></description>
+            <link>https://www.bbc.co.uk/news/explainers-53221896</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-53221896</guid>
+            <pubDate>Thu, 24 Sep 2020 16:17:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Employment: Seven ways the young have been hit by Covid]]></title>
+            <description><![CDATA[The coronavirus pandemic has transformed the working lives of the under-25s.]]></description>
+            <link>https://www.bbc.co.uk/news/explainers-54005156</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-54005156</guid>
+            <pubDate>Mon, 28 Sep 2020 12:13:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How many coronavirus cases are there in your area?]]></title>
+            <description><![CDATA[Explore the data on coronavirus in the UK and find out how many cases there are in your area.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-51768274</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-51768274</guid>
+            <pubDate>Tue, 29 Sep 2020 16:42:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid symptoms: What are they and how do I protect myself?]]></title>
+            <description><![CDATA[A new cough, fever and change in smell or taste are the key symptoms that mean you may have coronavirus.]]></description>
+            <link>https://www.bbc.co.uk/news/health-51048366</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-51048366</guid>
+            <pubDate>Fri, 25 Sep 2020 10:29:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid: Can students get a refund from their university?]]></title>
+            <description><![CDATA[What are your rights if your tuition or accommodation has been affected by the pandemic?]]></description>
+            <link>https://www.bbc.co.uk/news/explainers-54195756</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-54195756</guid>
+            <pubDate>Tue, 29 Sep 2020 11:56:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus: Simple guide to staying safe]]></title>
+            <description><![CDATA[Step-by-step, what to do to help prevent the spread of the virus.]]></description>
+            <link>https://www.bbc.co.uk/news/health-51711227</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-51711227</guid>
+            <pubDate>Mon, 28 Sep 2020 15:43:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid-19: Tracking the outbreak, as deaths pass one million]]></title>
+            <description><![CDATA[The grim milestone is reached with the virus spreading fast in India and picking up again in Europe.]]></description>
+            <link>https://www.bbc.co.uk/news/world-51235105</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-51235105</guid>
+            <pubDate>Tue, 29 Sep 2020 16:38:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid rules: How much of the UK is now under some sort of lockdown?]]></title>
+            <description><![CDATA[More areas of Wales are set to face extra restrictions.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-52934822</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-52934822</guid>
+            <pubDate>Tue, 29 Sep 2020 16:09:05 GMT</pubDate>
+        </item>
+    </channel>
+</rss>

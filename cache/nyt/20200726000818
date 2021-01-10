@@ -1,0 +1,933 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:nyt="http://www.nytimes.com/namespaces/rss/2.0" version="2.0">
+  <channel>
+    <title>NYT &gt; Top Stories</title>
+    <link>https://www.nytimes.com</link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml" rel="self" type="application/rss+xml"></atom:link>
+    <description></description>
+    <language>en-us</language>
+    <copyright>Copyright 2020 The New York Times Company</copyright>
+    <lastBuildDate>Sun, 26 Jul 2020 00:15:27 +0000</lastBuildDate>
+    <pubDate>Sun, 26 Jul 2020 00:15:27 +0000</pubDate>
+    <image>
+      <title>NYT &gt; Top Stories</title>
+      <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
+      <link>https://www.nytimes.com</link>
+    </image>
+    <item>
+      <title>Live Coronavirus Updates: World News</title>
+      <link>https://www.nytimes.com/2020/07/25/world/coronavirus-covid-19.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/07/25/world/coronavirus-covid-19.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/07/25/world/coronavirus-covid-19.html" rel="standout"></atom:link>
+      <description>Friday was the fourth day running that the United States reported over 1,100 deaths. Pirate attacks are among the crime patterns shifting in the pandemic. New research sheds light on male vulnerability to severe Covid-19.</description>
+      <pubDate>Sun, 26 Jul 2020 00:03:08 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/07/16/us/us-briefing-promo-image-print/us-briefing-promo-image-moth.jpg" width="151"></media:content>
+      <media:credit>The New York Times</media:credit>
+    </item>
+    <item>
+      <title>Corporate Insiders Pocket $1 Billion in Rush for Coronavirus Vaccine</title>
+      <link>https://www.nytimes.com/2020/07/25/business/coronavirus-vaccine-profits-vaxart.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/07/25/business/coronavirus-vaccine-profits-vaxart.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/07/25/business/coronavirus-vaccine-profits-vaxart.html" rel="standout"></atom:link>
+      <description>Well-timed stock bets have generated big profits for senior executives and board members at companies developing vaccines and treatments.</description>
+      <dc:creator>David Gelles and Jesse Drucker</dc:creator>
+      <pubDate>Sat, 25 Jul 2020 13:28:24 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vaccination and Immunization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Vaxart Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Floroiu, Andrei</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Moderna Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Novavax Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Regeneron Pharmaceuticals Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drugs (Pharmaceuticals)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Armistice Capital LLC</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/07/26/business/26Virus-Vaccine-Payday-shot/26Virus-Vaccine-Payday-shot-moth.jpg" width="151"></media:content>
+      <media:credit>Ted S. Warren/Associated Press</media:credit>
+      <media:description>A trial of a potential coronavirus vaccine announced by Moderna in January. Since then, Moderna insiders have sold shares totaling about $248 million.</media:description>
+    </item>
+    <item>
+      <title>Hurricane Hanna: Storm Makes Landfall in Texas</title>
+      <link>https://www.nytimes.com/2020/07/25/us/hanna-storm-texas.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/07/25/us/hanna-storm-texas.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/07/25/us/hanna-storm-texas.html" rel="standout"></atom:link>
+      <description>Some of the communities in the storm’s path have seen a sudden spike in Covid-19 cases and hospitalizations as Texas has become one of the largest hot spots in the country.</description>
+      <dc:creator>Edgar Sandoval, Nicholas Bogel-Burroughs and Manny Fernandez</dc:creator>
+      <pubDate>Sat, 25 Jul 2020 23:05:00 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hurricanes and Tropical Storms</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Corpus Christi (Tex)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Disease Rates</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/07/25/us/25texas-storm-4/merlin_174939237_2d995a3b-8bcf-483c-a8e9-87382a68603e-moth.jpg" width="151"></media:content>
+      <media:credit>Tamir Kalifa for The New York Times</media:credit>
+      <media:description>Waves crashing against the Padre Island seawall in Corpus Christi, Texas, on Saturday.</media:description>
+    </item>
+    <item>
+      <title>Officials Push U.S.-China Relations Toward Point of No Return</title>
+      <link>https://www.nytimes.com/2020/07/25/world/asia/us-china-trump-xi.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/07/25/world/asia/us-china-trump-xi.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/07/25/world/asia/us-china-trump-xi.html" rel="standout"></atom:link>
+      <description>Top aides to President Trump want to leave a lasting legacy of ruptured ties between the two powers. China’s aggression has been helping their cause.</description>
+      <dc:creator>Edward Wong and Steven Lee Myers</dc:creator>
+      <pubDate>Sat, 25 Jul 2020 15:37:59 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Xi Jinping</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Chengdu (China)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Houston (Tex)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Diplomatic Service, Embassies and Consulates</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/07/26/world/00china-us-clash1/00china-us-clash1-moth.jpg" width="151"></media:content>
+      <media:credit>Erin Schaff/The New York Times</media:credit>
+      <media:description>President Trump meeting with China&amp;rsquo;s leader, Xi Jinping, center right, in Japan last year.</media:description>
+    </item>
+    <item>
+      <title>As the World Gets Tougher on China, Japan Tries to Thread a Needle</title>
+      <link>https://www.nytimes.com/2020/07/25/world/asia/japan-china-xi.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/07/25/world/asia/japan-china-xi.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/07/25/world/asia/japan-china-xi.html" rel="standout"></atom:link>
+      <description>Tokyo has not confronted Beijing as the United States and other allies have, mindful of its neighbor’s economic might and its own limited military options.</description>
+      <dc:creator>Motoko Rich and Makiko Inoue</dc:creator>
+      <pubDate>Sat, 25 Jul 2020 23:24:53 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Economic Conditions and Trends</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Japan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Xi Jinping</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Abe, Shinzo</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/07/22/world/22japan-china1/22japan-china1-moth.jpg" width="151"></media:content>
+      <media:credit>Pool photo by Noel Celis</media:credit>
+      <media:description>Prime Minister Shinzo Abe of Japan and China’s leader, Xi Jinping, in Beijing last year.</media:description>
+    </item>
+    <item>
+      <title>Federal Agents Push Into Portland Streets, Stretching Limits of Their Authority</title>
+      <link>https://www.nytimes.com/2020/07/25/us/portland-federal-legal-jurisdiction-courts.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/07/25/us/portland-federal-legal-jurisdiction-courts.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/07/25/us/portland-federal-legal-jurisdiction-courts.html" rel="standout"></atom:link>
+      <description>Federal agents are venturing blocks from the buildings they were sent to protect. Oregon officials say they are illegally taking on the role of riot police.</description>
+      <dc:creator>Mike Baker, Thomas Fuller and Sergio Olmos</dc:creator>
+      <pubDate>Sat, 25 Jul 2020 21:59:51 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">George Floyd Protests (2020)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Black Lives Matter Movement</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Portland (Ore)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Homeland Security Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Federal-State Relations (US)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/07/17/autossell/portland-v1-2/portland-v1-2-moth.jpg" width="151"></media:content>
+      <media:credit>Photo by Caitlin Ochs/Reuters, Illustration by The New York Times</media:credit>
+    </item>
+    <item>
+      <title>A ‘Wall of Vets’ Joins the Front Lines of Portland Protests</title>
+      <link>https://www.nytimes.com/2020/07/25/us/a-wall-of-vets-joins-the-front-lines-of-portland-protests.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/07/25/us/a-wall-of-vets-joins-the-front-lines-of-portland-protests.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/07/25/us/a-wall-of-vets-joins-the-front-lines-of-portland-protests.html" rel="standout"></atom:link>
+      <description>Military veterans said they banded together to protect the free speech of demonstrators.</description>
+      <dc:creator>Mike Baker</dc:creator>
+      <pubDate>Sat, 25 Jul 2020 19:33:17 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Veterans</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Black Lives Matter Movement</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/07/25/us/25portland-vets-2/merlin_174927747_94035921-5a45-4a66-ad8e-95099242a9de-moth.jpg" width="151"></media:content>
+      <media:credit>Octavio Jones for The New York Times</media:credit>
+    </item>
+    <item>
+      <title>John Lewis, Son of Alabama, Makes His Last Journey Home</title>
+      <link>https://www.nytimes.com/2020/07/25/us/john-lewis-memorial-service.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/07/25/us/john-lewis-memorial-service.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/07/25/us/john-lewis-memorial-service.html" rel="standout"></atom:link>
+      <description>Days of memorials for the congressman and civil rights figure began in Troy, the small Alabama town where he was raised. “Rest well,” one of his sisters said.</description>
+      <dc:creator>Rick Rojas</dc:creator>
+      <pubDate>Sat, 25 Jul 2020 20:18:53 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lewis, John R</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Civil Rights and Liberties</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">House of Representatives</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/07/25/us/25lewis-memorial-1/merlin_174939324_b99d22b9-07b3-46cd-b132-7406ba9638ec-moth.jpg" width="151"></media:content>
+      <media:credit>Nicole Craine for The New York Times</media:credit>
+      <media:description>Friends and family gathered in Troy, Ala., on Saturday to honor Representative John Lewis.</media:description>
+    </item>
+    <item>
+      <title>Anatomy of an Election ‘Meltdown’ in Georgia</title>
+      <link>https://www.nytimes.com/2020/07/25/us/politics/georgia-election-voting-problems.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/07/25/us/politics/georgia-election-voting-problems.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/07/25/us/politics/georgia-election-voting-problems.html" rel="standout"></atom:link>
+      <description>New voting machines and the pandemic exacerbated distrust of the state’s oversight of elections and voter access. What does this mean for November?</description>
+      <dc:creator>Danny Hakim, Reid J. Epstein and Stephanie Saul</dc:creator>
+      <pubDate>Sat, 25 Jul 2020 09:00:10 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2020</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Georgia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Primaries and Caucuses</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Voting Machines</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Absentee Voting</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cyberwarfare and Defense</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer Security</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Raffensperger, Brad</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Dominion Voting Systems Corp</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/07/19/us/politics/00GEORGIA1/merlin_173310798_a778b947-25bc-4156-ba8b-5d45c29fa159-moth.jpg" width="151"></media:content>
+      <media:credit>Audra Melton for The New York Times</media:credit>
+      <media:description>Voters waited for hours on Primary Day at the C.T. Martin Natatorium and Recreation Center in Atlanta.</media:description>
+    </item>
+    <item>
+      <title>A 2020 Question 100 Days Out: Will the Elections Be Free and Fair?</title>
+      <link>https://www.nytimes.com/2020/07/25/us/politics/2020-election-voter-fraud-interference.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/07/25/us/politics/2020-election-voter-fraud-interference.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/07/25/us/politics/2020-election-voter-fraud-interference.html" rel="standout"></atom:link>
+      <description>President Trump baselessly rages about voter fraud, while Joe Biden warns of foreign interference.</description>
+      <dc:creator>Katie Glueck</dc:creator>
+      <pubDate>Sat, 25 Jul 2020 15:29:35 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2020</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Interference in 2016 US Elections and Ties to Trump Associates</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Absentee Voting</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rumors and Misinformation</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/07/25/us/politics/25election-legitimacy1/25election-legitimacy1-moth.jpg" width="151"></media:content>
+      <media:credit>John Moore/Getty Images</media:credit>
+      <media:description>An election worker wearing protective gloves organized mailed-in ballots at the King County elections processing center in Renton, Wash.</media:description>
+    </item>
+    <item>
+      <title>Will Trump’s Abrupt Shift on Coronavirus Re-energize His Campaign?</title>
+      <link>https://www.nytimes.com/2020/07/25/us/politics/trump-florida-convention.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/07/25/us/politics/trump-florida-convention.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/07/25/us/politics/trump-florida-convention.html" rel="standout"></atom:link>
+      <description>President Trump’s cancellation of the convention in Florida and sudden embrace of masks may signal his acceptance of a political landscape transformed by the pandemic.</description>
+      <dc:creator>Adam Nagourney</dc:creator>
+      <pubDate>Sat, 25 Jul 2020 22:59:54 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2020</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Masks</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Republican National Convention</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus Reopenings</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/07/25/multimedia/25CONVENTION-ANALYSIS1/25CONVENTION-ANALYSIS1-moth.jpg" width="151"></media:content>
+      <media:credit>Saul Martinez for The New York Times</media:credit>
+      <media:description>A Covid-19 testing site in Miami Springs, Fla. President Trump’s attempt to downplay the virus has met the reality of rising caseloads, death counts and overwhelmed intensive care units in battleground states.</media:description>
+    </item>
+    <item>
+      <title>11 of Our Best Weekend Reads</title>
+      <link>https://www.nytimes.com/2020/07/24/briefing/best-weekend-reads.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/07/24/briefing/best-weekend-reads.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/07/24/briefing/best-weekend-reads.html" rel="standout"></atom:link>
+      <description>Farewell, John Lewis. Bake sales with global reach. Panama hats. 30 years of the A.D.A. And more.</description>
+      <dc:creator>Anna Schaverien</dc:creator>
+      <pubDate>Fri, 24 Jul 2020 19:00:08 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/07/24/multimedia/24weekendreads-promo/24weekendreads-promo-moth.jpg" width="151"></media:content>
+    </item>
+    <item>
+      <title>The Battle for a Baseball Season</title>
+      <link>https://www.nytimes.com/2020/07/24/podcasts/the-daily/mlb-baseball-season-coronavirus.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/07/24/podcasts/the-daily/mlb-baseball-season-coronavirus.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/07/24/podcasts/the-daily/mlb-baseball-season-coronavirus.html" rel="standout"></atom:link>
+      <description>A conversation with the commissioner of Major League Baseball about the path to this season’s start.</description>
+      <pubDate>Fri, 24 Jul 2020 10:03:38 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Baseball</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Major League Baseball</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Manfred, Robert D</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/07/22/sports/24daily/22mlb-previewlede1-moth.jpg" width="151"></media:content>
+      <media:credit>Etienne Laurent/EPA, via Shutterstock</media:credit>
+      <media:description>The baseball will be real at Dodger Stadium during Los Angeles’s opener on Friday, but the fans won’t be.</media:description>
+    </item>
+    <item>
+      <title>Introducing: Nice White Parents</title>
+      <link>https://www.nytimes.com/2020/07/23/podcasts/nice-white-parents-serial.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/07/23/podcasts/nice-white-parents-serial.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/07/23/podcasts/nice-white-parents-serial.html" rel="standout"></atom:link>
+      <description>A new limited series about building a better school system, and what gets in the way. “Nice White Parents” — coming July 30 from Serial Productions, brought to you by The New York Times.</description>
+      <pubDate>Sat, 25 Jul 2020 14:02:32 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Education (K-12)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Education</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Parenting</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Race and Ethnicity</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Discrimination</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Serial Productions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Serial (Radio Program)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">This American Life (Radio Program)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/07/21/podcasts/nice-white-parents-album-art/nice-white-parents-album-art-moth.jpg" width="151"></media:content>
+      <media:credit>The New York Times</media:credit>
+    </item>
+    <item>
+      <title>Sign Up: ‘At Home’</title>
+      <link>https://www.nytimes.com/newsletters/at-home</link>
+      <guid isPermaLink="true">https://www.nytimes.com/newsletters/at-home</guid>
+      <atom:link href="https://www.nytimes.com/newsletters/at-home" rel="standout"></atom:link>
+      <description>How to live a full and cultured life during the pandemic, at home.</description>
+      <dc:creator>The New York Times</dc:creator>
+      <pubDate>Sat, 25 Jul 2020 13:07:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>In Portland’s So-Called War Zone, It’s the Troops Who Provide the Menace</title>
+      <link>https://www.nytimes.com/2020/07/25/opinion/sunday/portland-protest-federal-troops.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/07/25/opinion/sunday/portland-protest-federal-troops.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/07/25/opinion/sunday/portland-protest-federal-troops.html" rel="standout"></atom:link>
+      <description>If President Trump is actually trying to establish order, he is stunningly incompetent.</description>
+      <dc:creator>Nicholas Kristof</dc:creator>
+      <pubDate>Sat, 25 Jul 2020 18:40:07 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Federal-State Relations (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">George Floyd Protests (2020)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/07/26/opinion/26kristof2/26kristof2-moth-v2.jpg" width="151"></media:content>
+      <media:credit>Mason Trinca for The New York Times</media:credit>
+      <media:description>Federal agents clashing with protesters near the Federal District Courthouse in Portland, Ore., on Wednesday.</media:description>
+    </item>
+    <item>
+      <title>A Visit to the Classrooms the Kids Left Behind</title>
+      <link>https://www.nytimes.com/2020/07/25/opinion/school-coronavirus-reopening.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/07/25/opinion/school-coronavirus-reopening.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/07/25/opinion/school-coronavirus-reopening.html" rel="standout"></atom:link>
+      <description>School administrators confront what one called “the greatest challenge of my career.”</description>
+      <dc:creator>Ashley Gilbertson</dc:creator>
+      <pubDate>Sat, 25 Jul 2020 19:00:18 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Shutdowns (Institutional)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Parenting</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Education (K-12)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus Reopenings</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
+    </item>
+    <item>
+      <title>A.O.C. and the Daughter Defense</title>
+      <link>https://www.nytimes.com/2020/07/25/opinion/aoc-daughters-ted-yoho.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/07/25/opinion/aoc-daughters-ted-yoho.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/07/25/opinion/aoc-daughters-ted-yoho.html" rel="standout"></atom:link>
+      <description>Sorry, Ted Yoho. Having daughters doesn’t get you a sexism free pass.</description>
+      <dc:creator>Jessica Bennett</dc:creator>
+      <pubDate>Sat, 25 Jul 2020 16:18:00 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Women and Girls</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sexual Harassment</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">House of Representatives</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kavanaugh, Brett M</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ocasio-Cortez, Alexandria</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Yoho, Ted</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/07/25/opinion/25bennett/25bennett-moth.jpg" width="151"></media:content>
+      <media:credit>House Television, via Associated Press</media:credit>
+      <media:description>Rep. Alexandria Ocasio-Cortez speaking at the House on Thursday.</media:description>
+    </item>
+    <item>
+      <title>Who Gets to Be a ‘Naked Athena’?</title>
+      <link>https://www.nytimes.com/2020/07/25/opinion/portland-protests-white.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/07/25/opinion/portland-protests-white.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/07/25/opinion/portland-protests-white.html" rel="standout"></atom:link>
+      <description>On weirdness, whiteness and federal agents in Portland.</description>
+      <dc:creator>Mitchell S. Jackson</dc:creator>
+      <pubDate>Sat, 25 Jul 2020 18:05:32 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">George Floyd Protests (2020)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Black People</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Race and Ethnicity</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Black Lives Matter Movement</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Whites</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Oregon</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Portland (Ore)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/07/26/opinion/25jackson1/25jackson1-moth.jpg" width="151"></media:content>
+      <media:credit>Nathan Howard/Reuters</media:credit>
+      <media:description>A nude protester faces off against law enforcement officers during a protest against racial inequality in Portland, Ore., on July 18.</media:description>
+    </item>
+    <item>
+      <title>How to Give Children Joy, Even During a Pandemic</title>
+      <link>https://www.nytimes.com/2020/07/23/opinion/coronavirus-parenting-joy.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/07/23/opinion/coronavirus-parenting-joy.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/07/23/opinion/coronavirus-parenting-joy.html" rel="standout"></atom:link>
+      <description>The coronavirus forces parents to weigh their kids’ safety against the need for freedom — a tension Black parents have been contending with for generations.</description>
+      <dc:creator>Esau McCaulley</dc:creator>
+      <pubDate>Thu, 23 Jul 2020 17:18:55 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Black People</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Children and Childhood</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Parenting</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/07/26/opinion/sunday/26mccaulley/26mccaulley-moth.jpg" width="151"></media:content>
+      <media:credit>Sabrena Khadija</media:credit>
+    </item>
+    <item>
+      <title>A ‘Safety Net’ That’s a Kafkaesque Mess</title>
+      <link>https://www.nytimes.com/2020/07/25/opinion/a-safety-net-thats-a-kafkaesque-mess.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/07/25/opinion/a-safety-net-thats-a-kafkaesque-mess.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/07/25/opinion/a-safety-net-thats-a-kafkaesque-mess.html" rel="standout"></atom:link>
+      <description>The Supplemental Security Income program, on which millions of disabled Americans depend, is daunting by design.</description>
+      <dc:creator>Ari Ne’eman</dc:creator>
+      <pubDate>Sat, 25 Jul 2020 15:10:58 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Disabilities</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Security (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Poverty</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Americans With Disabilities Act</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/07/25/opinion/25disability-social-security/25disability-social-security-moth.jpg" width="151"></media:content>
+      <media:credit>Dadu Shin</media:credit>
+    </item>
+    <item>
+      <title>A.O.C. and the Jurassic Jerks</title>
+      <link>https://www.nytimes.com/2020/07/25/opinion/aoc-yoho-trump-2020.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/07/25/opinion/aoc-yoho-trump-2020.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/07/25/opinion/aoc-yoho-trump-2020.html" rel="standout"></atom:link>
+      <description>For the Cave Man President and his party, clubbing women is not a path to victory.</description>
+      <dc:creator>Maureen Dowd</dc:creator>
+      <pubDate>Sat, 25 Jul 2020 16:06:39 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ocasio-Cortez, Alexandria</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Yoho, Ted</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2020</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/07/25/opinion/25dowd1/25dowd1-moth.jpg" width="151"></media:content>
+      <media:credit>House Television, via Associated Press</media:credit>
+      <media:description>Rep. Alexandria Ocasio-Cortez speaks on the House floor on Thursday.</media:description>
+    </item>
+    <item>
+      <title>Donald Trump Is the Best Ever President in the History of the Cosmos</title>
+      <link>https://www.nytimes.com/2020/07/25/opinion/sunday/trump-lies.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/07/25/opinion/sunday/trump-lies.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/07/25/opinion/sunday/trump-lies.html" rel="standout"></atom:link>
+      <description>That’s no more fantastical than the rest of his re-election campaign.</description>
+      <dc:creator>Frank Bruni</dc:creator>
+      <pubDate>Sat, 25 Jul 2020 18:46:00 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2020</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/07/26/opinion/sunday/26bruni/26bruni-moth.jpg" width="151"></media:content>
+      <media:credit>Ben Wiseman</media:credit>
+    </item>
+    <item>
+      <title>The Ghost of Margaret Sanger</title>
+      <link>https://www.nytimes.com/2020/07/25/opinion/abortion-racism-margaret-sanger.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/07/25/opinion/abortion-racism-margaret-sanger.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/07/25/opinion/abortion-racism-margaret-sanger.html" rel="standout"></atom:link>
+      <description>Planned Parenthood and the complexities of anti-racism.</description>
+      <dc:creator>Ross Douthat</dc:creator>
+      <pubDate>Sat, 25 Jul 2020 20:34:25 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Race and Ethnicity</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Black People</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Abortion</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Birth Control and Family Planning</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Discrimination</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sanger, Margaret</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Planned Parenthood Federation of America</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/07/26/opinion/26douthat1/26douthat1-moth.jpg" width="151"></media:content>
+      <media:credit>Bettmann/Getty Images</media:credit>
+      <media:description>Margaret Sanger in 1916, when she was indicted for mailing materials advocating birth control, charges that were later dropped.</media:description>
+    </item>
+    <item>
+      <title>The Pandemic Could Make Political Conventions Less Terrible</title>
+      <link>https://www.nytimes.com/2020/07/25/opinion/sunday/republican-convention-trump.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/07/25/opinion/sunday/republican-convention-trump.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/07/25/opinion/sunday/republican-convention-trump.html" rel="standout"></atom:link>
+      <description>The president did America a favor, in more ways than one, by canceling much of this year’s Republican National Convention.</description>
+      <dc:creator>The Editorial Board</dc:creator>
+      <pubDate>Sat, 25 Jul 2020 22:53:15 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2020</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Republican National Convention</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican National Committee</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Jacksonville (Fla)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Democratic National Convention</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/07/25/opinion/25convention_virtual/25convention_virtual-moth.jpg" width="151"></media:content>
+      <media:credit>Nicholas Konrad/The New York Times</media:credit>
+    </item>
+    <item>
+      <title>‘Home-Schooling Won’t Kill Us. Covid-19 Might.’</title>
+      <link>https://www.nytimes.com/2020/07/25/opinion/coronavirus-school-reopening.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/07/25/opinion/coronavirus-school-reopening.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/07/25/opinion/coronavirus-school-reopening.html" rel="standout"></atom:link>
+      <description>Parents and teachers struggle with how to reopen schools safely this fall.</description>
+      <dc:creator>Rachel L. Harris and Lisa Tarchak</dc:creator>
+      <pubDate>Sat, 25 Jul 2020 04:10:19 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Education (K-12)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus Risks and Safety Concerns</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">E-Learning</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Teachers and School Employees</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/07/25/opinion/sunday/25opreaders-school/25opreaders-school-moth.jpg" width="151"></media:content>
+      <media:credit>Photo illustration by Doug Chayka; Photograph from Getty Images</media:credit>
+    </item>
+    <item>
+      <title>The Man Who Brian Eno Called ‘the Daddy of Us All’</title>
+      <link>https://www.nytimes.com/2020/07/22/t-magazine/la-monte-young.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/07/22/t-magazine/la-monte-young.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/07/22/t-magazine/la-monte-young.html" rel="standout"></atom:link>
+      <description>La Monte Young, the composer who quietly shaped much of contemporary Western music, reaches his last act.</description>
+      <dc:creator>M.H. Miller</dc:creator>
+      <pubDate>Thu, 23 Jul 2020 18:14:40 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Music</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Art</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Choi, Jung Hee</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zazeela, Marian (1940- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Young, La Monte</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">TriBeCa (Manhattan, NY)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/07/13/t-magazine/13tmag-young-slide-M0J6/13tmag-young-slide-M0J6-moth.jpg" width="151"></media:content>
+      <media:credit>Nicholas Calcott</media:credit>
+      <media:description>La Monte Young in the “Dream House” installation inside his New York residence.</media:description>
+    </item>
+    <item>
+      <title>Road Trips are Great. Except for the Driving.</title>
+      <link>https://www.nytimes.com/2020/07/24/travel/virus-road-trip.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/07/24/travel/virus-road-trip.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/07/24/travel/virus-road-trip.html" rel="standout"></atom:link>
+      <description>I wasn’t looking for an exotic vacation, just a temporary reprieve from compulsive news-watching and a dose of in-person fun with family and friends.</description>
+      <dc:creator>Amy Tara Koch</dc:creator>
+      <pubDate>Fri, 24 Jul 2020 09:00:17 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Automobiles</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Road Trips</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">States (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Travel and Vacations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Quarantine (Life and Culture)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Roads and Traffic</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Back (Human Body Part)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Catskills (NYS Area)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Chicago (Ill)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Connecticut</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Interstate 95</category>
+    </item>
+    <item>
+      <title>Brazil’s Bolsonaro, Leading Virus Skeptic, Says He’s No Longer Infected</title>
+      <link>https://www.nytimes.com/2020/07/25/world/americas/bolsonaro-coronavirus.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/07/25/world/americas/bolsonaro-coronavirus.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/07/25/world/americas/bolsonaro-coronavirus.html" rel="standout"></atom:link>
+      <description>President Jair M. Bolsonaro of Brazil said on social media that he had tested negative for the coronavirus, more than two weeks after confirming his infection. Then he went for a motorcycle ride.</description>
+      <dc:creator>Ernesto Londoño</dc:creator>
+      <pubDate>Sat, 25 Jul 2020 23:17:01 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bolsonaro, Jair (1955- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Brazil</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/07/25/world/25virus-bolsonaro/25virus-bolsonaro-moth.jpg" width="151"></media:content>
+      <media:credit>Sergio Lima/Agence France-Presse — Getty Images</media:credit>
+      <media:description>President Jair M. Bolsonaro took a motorcycle ride on Saturday after he announced he tested negative for Covid-19 more than two weeks after being diagnosed.</media:description>
+    </item>
+    <item>
+      <title>Protests Swell in Russia’s Far East in a Stark New Challenge to Putin</title>
+      <link>https://www.nytimes.com/2020/07/25/world/europe/russia-protests-putin-khabarovsk.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/07/25/world/europe/russia-protests-putin-khabarovsk.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/07/25/world/europe/russia-protests-putin-khabarovsk.html" rel="standout"></atom:link>
+      <description>Demonstrations in the city of Khabarovsk drew tens of thousands for the third straight weekend. The anger, fueled by the arrest of a popular governor, has little precedent in modern Russia.</description>
+      <dc:creator>Anton Troianovski</dc:creator>
+      <pubDate>Sat, 25 Jul 2020 11:53:36 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Furgal, Sergei I</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Khabarovsk (Russia)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/07/26/world/26russia-protests-cmyk/25russia-protests01sub-moth.jpg" width="151"></media:content>
+      <media:credit>Igor Volkov/Associated Press</media:credit>
+      <media:description>In Khabarovsk, Russia, on Saturday. Opposition activists estimated that 50,000 to 100,000 had poured into the streets. City officials said about 6,500 people attended, clearly an undercount.</media:description>
+    </item>
+    <item>
+      <title>Roy Den Hollander, Who Killed Judge’s Son, Had List of Possible Targets</title>
+      <link>https://www.nytimes.com/2020/07/25/nyregion/roy-den-hollander-esther-salas-list.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/07/25/nyregion/roy-den-hollander-esther-salas-list.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/07/25/nyregion/roy-den-hollander-esther-salas-list.html" rel="standout"></atom:link>
+      <description>The list was found after the lawyer killed himself and had more than a dozen names, including three other judges and two doctors.</description>
+      <dc:creator>William K. Rashbaum</dc:creator>
+      <pubDate>Sat, 25 Jul 2020 22:13:39 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Murders, Attempted Murders and Homicides</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">San Bernardino, Calif, Shooting (2015)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Suicides and Suicide Attempts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Den Hollander, Roy (1947-2020)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Salas, Esther (1968- )</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/07/25/nyregion/25NJJUDGE-2/25NJJUDGE-2-moth.jpg" width="151"></media:content>
+      <media:credit>San Bernardino County Sheriff&#39;s Department, via Associated Press</media:credit>
+      <media:description>Roy Den Hollander was captured on a surveillance camera in Union Station in Los Angeles. He killed a lawyer nearby. </media:description>
+    </item>
+    <item>
+      <title>Flooding in India Kills Scores of Animals, Including Endangered Rhinos</title>
+      <link>https://www.nytimes.com/2020/07/25/world/asia/india-floods-rhinos.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/07/25/world/asia/india-floods-rhinos.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/07/25/world/asia/india-floods-rhinos.html" rel="standout"></atom:link>
+      <description>The flooding at the famous Kaziranga game reserve has drawn the attention of the Duke and Duchess of Cambridge, who had visited the park to learn about its conservation efforts.</description>
+      <dc:creator>The Associated Press</dc:creator>
+      <pubDate>Sat, 25 Jul 2020 15:08:45 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Floods</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rhinoceroses</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Endangered and Extinct Species</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Landslides and Mudslides</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">International Federation of Red Cross and Red Crescent Societies</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Assam State (India)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kaziranga National Park (India)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/07/25/world/25india-floods01/25india-floods01-moth.jpg" width="151"></media:content>
+      <media:credit>Anuwar Hazarika/Reuters</media:credit>
+      <media:description>One-horned rhinos moving to higher ground in the flood-affected area of the Kaziranga game reserve in India last week.</media:description>
+    </item>
+    <item>
+      <title>A Viewer Spotted a Lump on Her Neck. Now, She’s Having a Tumor Removed.</title>
+      <link>https://www.nytimes.com/2020/07/25/us/victoria-price-thyroid-cancer.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/07/25/us/victoria-price-thyroid-cancer.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/07/25/us/victoria-price-thyroid-cancer.html" rel="standout"></atom:link>
+      <description>Victoria Price, an investigative reporter in Tampa, Fla., said she was grateful that a viewer sent her a terse email suggesting that she get her thyroid checked out.</description>
+      <dc:creator>Johnny Diaz</dc:creator>
+      <pubDate>Sat, 25 Jul 2020 09:30:08 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Thyroid Cancer</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Neck</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Television</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">News and News Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Price, Victoria (1991- )</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/07/24/multimedia/24xp-reporter-promo/24xp-reporter-promo-moth.jpg" width="151"></media:content>
+      <media:credit>Victoria Price</media:credit>
+      <media:description>Ms. Price reported her diagnosis on Thursday and will have surgery next week.</media:description>
+    </item>
+    <item>
+      <title>Regis Philbin, TV’s Enduring Everyman, Dies at 88</title>
+      <link>https://www.nytimes.com/2020/07/25/arts/television/regis-philbin-dead.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/07/25/arts/television/regis-philbin-dead.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/07/25/arts/television/regis-philbin-dead.html" rel="standout"></atom:link>
+      <description>With patience, determination and folksy, spontaneous wit, Mr. Philbin climbed to pre-eminence relatively late in life on talk and game shows.</description>
+      <dc:creator>Robert D. McFadden</dc:creator>
+      <pubDate>Sun, 26 Jul 2020 00:04:20 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Philbin, Regis</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Obituaries)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Television</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">ABC Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Live! With Regis and Kelly (TV Program)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Who Wants to Be a Millionaire (TV Program)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/07/25/obituaries/25philbin-obit-pix1-sub/25philbin-obit-pix1-sub-moth.jpg" width="151"></media:content>
+      <media:credit>Karsten Moran for The New York Times</media:credit>
+      <media:description>Regis Philbin at his home in Greenwich, Conn., in 2013. He was was a television personality for nearly six decades.</media:description>
+    </item>
+    <item>
+      <title>Take Coronavirus More Seriously, Say Olympic Rowers Who Got It</title>
+      <link>https://www.nytimes.com/2020/07/24/sports/olympics/coronavirus-us-rowing-olympics.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/07/24/sports/olympics/coronavirus-us-rowing-olympics.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/07/24/sports/olympics/coronavirus-us-rowing-olympics.html" rel="standout"></atom:link>
+      <description>A physical therapist brought the virus to rowers who were training to make the U.S. Olympic team, and one gold medalist said it “knocked us down pretty hard.”</description>
+      <dc:creator>Juliet Macur</dc:creator>
+      <pubDate>Sat, 25 Jul 2020 00:05:59 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rowing</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Olympic Games (2020)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/07/21/sports/21virus-rowing-1/21virus-rowing-1-moth.jpg" width="151"></media:content>
+      <media:credit>Benjamin Norman for The New York Times</media:credit>
+      <media:description>Emily Regan begins a morning practice at Mercer Lake in New Jersey. “Look what the virus still did to us,” she said. “It knocked us down pretty hard.”</media:description>
+    </item>
+    <item>
+      <title>Big Tech Funds a Think Tank Pushing for Fewer Rules. For Big Tech.</title>
+      <link>https://www.nytimes.com/2020/07/24/technology/global-antitrust-institute-google-amazon-qualcomm.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/07/24/technology/global-antitrust-institute-google-amazon-qualcomm.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/07/24/technology/global-antitrust-institute-google-amazon-qualcomm.html" rel="standout"></atom:link>
+      <description>Google, Amazon and Qualcomm finance a George Mason University institute teaching a hands-off approach to antitrust regulators and judges.</description>
+      <dc:creator>Daisuke Wakabayashi</dc:creator>
+      <pubDate>Fri, 24 Jul 2020 21:20:04 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Amazon.com Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">George Mason University</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Google Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Qualcomm Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Justice Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Antitrust Laws and Competition Issues</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Philanthropy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Colleges and Universities</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Conflicts of Interest</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Conventions, Fairs and Trade Shows</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Law Schools</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ginsburg, Douglas H</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Naidu, Suresh</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Varian, Hal R</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Wright, Joshua D (1977- )</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/07/26/business/00GEORGEMASON-cover/00GEORGEMASON-cover-moth.jpg" width="151"></media:content>
+      <media:credit>Jared Soares for The New York Times</media:credit>
+      <media:description>George Mason University in Arlington, Va.</media:description>
+    </item>
+    <item>
+      <title>How Rob Manfred Navigated a Summer of Peril for Baseball</title>
+      <link>https://www.nytimes.com/2020/07/25/sports/rob-manfred-mlb-season.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/07/25/sports/rob-manfred-mlb-season.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/07/25/sports/rob-manfred-mlb-season.html" rel="standout"></atom:link>
+      <description>“We cannot be the one sport that doesn’t figure out how to play,” M.L.B.’s commissioner repeatedly told himself during months of contentious negotiations.</description>
+      <dc:creator>Michael S. Schmidt</dc:creator>
+      <pubDate>Sat, 25 Jul 2020 09:00:17 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Baseball</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Organized Labor</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">World Series</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Major League Baseball</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Major League Baseball Players Assn</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Manfred, Robert D</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Clark, Tony (1972- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Selig, Bud</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/07/24/sports/24manfred-1/24manfred-1-moth.jpg" width="151"></media:content>
+      <media:credit>Elaine Thompson/Associated Press</media:credit>
+      <media:description>Rob Manfred leaned on his predecessor, Bud Selig, as he faced the biggest crisis of his tenure this year.</media:description>
+    </item>
+    <item>
+      <title>That ‘Home Office’ of Yours? It Needs an Upgrade</title>
+      <link>https://www.nytimes.com/2020/07/21/realestate/coronavirus-home-office-upgrade.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/07/21/realestate/coronavirus-home-office-upgrade.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/07/21/realestate/coronavirus-home-office-upgrade.html" rel="standout"></atom:link>
+      <description>You may be working from home for a while. It’s time for something more professional than a corner of the dining table.</description>
+      <dc:creator>Tim McKeough</dc:creator>
+      <pubDate>Tue, 21 Jul 2020 09:00:21 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Real Estate and Housing (Residential)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Home Repairs and Improvements</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Restoration and Renovation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Interior Design and Furnishings</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Quarantine (Life and Culture)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Furniture</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Telecommuting</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Service</category>
+    </item>
+    <item>
+      <title>Do We Need to Tell Our Son That His Dad Has Coronavirus?</title>
+      <link>https://www.nytimes.com/2020/07/23/style/husband-sick-coronavirus-parenting.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/07/23/style/husband-sick-coronavirus-parenting.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/07/23/style/husband-sick-coronavirus-parenting.html" rel="standout"></atom:link>
+      <description>He is 8 years old and very afraid of us getting sick.</description>
+      <dc:creator>Philip Galanes</dc:creator>
+      <pubDate>Thu, 23 Jul 2020 16:04:30 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Customs, Etiquette and Manners</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus Risks and Safety Concerns</category>
+    </item>
+    <item>
+      <title>Need Help With Your Estate Plan? Go With the Flow, Advisers Say</title>
+      <link>https://www.nytimes.com/2020/07/24/your-money/need-help-with-your-estate-plan-go-with-the-flow-advisers-say.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/07/24/your-money/need-help-with-your-estate-plan-go-with-the-flow-advisers-say.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/07/24/your-money/need-help-with-your-estate-plan-go-with-the-flow-advisers-say.html" rel="standout"></atom:link>
+      <description>As older adults face mortality during the pandemic, lawyers and wealth advisers are using color-coded documents and flowcharts to help them understand estate planning.</description>
+      <dc:creator>Paul Sullivan</dc:creator>
+      <pubDate>Sat, 25 Jul 2020 03:39:01 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wills and Estates</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Inheritance and Estate Taxes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Personal Finances</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">High Net Worth Individuals</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/07/24/business/24Wealth-01/24Wealth-01-moth.jpg" width="151"></media:content>
+      <media:credit>Travis Dove for The New York Times</media:credit>
+      <media:description>Andrew D. Hendry found densely worded estate planning documents “really not useful to make a decision,” so his wealth adviser introduced him to a flowchart.</media:description>
+    </item>
+    <item>
+      <title>Where the Wild Things Play</title>
+      <link>https://www.nytimes.com/2020/07/21/parenting/animal-behavior-play-games.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/07/21/parenting/animal-behavior-play-games.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/07/21/parenting/animal-behavior-play-games.html" rel="standout"></atom:link>
+      <description>The animal world is full of games. And tucked in among wrestling monkeys, belligerent birds and wily coyotes are lessons for us all.</description>
+      <dc:creator>Erik Vance</dc:creator>
+      <pubDate>Tue, 21 Jul 2020 18:19:18 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Animals</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Animal Behavior</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Dolphins and Porpoises</category>
+      <category domain="">Parenting Play Package</category>
+    </item>
+    <item>
+      <title>Suggestions, Distractions and Diaries. Our Staff Is an Open Book.</title>
+      <link>https://www.nytimes.com/2020/07/23/at-home/newsletter.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/07/23/at-home/newsletter.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/07/23/at-home/newsletter.html" rel="standout"></atom:link>
+      <description>Worry is a drumbeat. Above it, though, there’s a melody: a craving for distraction and joy, for intimacy, for serendipity.</description>
+      <dc:creator>Sam Sifton</dc:creator>
+      <pubDate>Thu, 23 Jul 2020 22:15:33 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Quarantine (Life and Culture)</category>
+    </item>
+    <item>
+      <title>At the Olympics in Bombed-Out London, She Forever Changed Women’s Sports</title>
+      <link>https://www.nytimes.com/2020/07/24/magazine/1948-olympics-fanny-blankers-koen.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/07/24/magazine/1948-olympics-fanny-blankers-koen.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/07/24/magazine/1948-olympics-fanny-blankers-koen.html" rel="standout"></atom:link>
+      <description>The 1948 Summer Games, the first held after the war, were a celebration of improvisation, renewal and change, embodied in a Dutch track star named Fanny Blankers-Koen.</description>
+      <dc:creator>Jeré Longman</dc:creator>
+      <pubDate>Fri, 24 Jul 2020 09:00:44 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Track and Field</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Swimming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Olympic Games (1948)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Women and Girls</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">World War II (1939-45)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Athletics and Sports</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">London (England)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/07/24/multimedia/24ww2-1948olympics-08/24ww2-1948olympics-08-moth.jpg" width="151"></media:content>
+      <media:credit>Associated Press</media:credit>
+      <media:description>Fanny Blankers-Koen crossing the finish line in 11.9 seconds to win the Women’s 100-meter final in the Summer Olympic Games in 1948.</media:description>
+    </item>
+    <item>
+      <title>Looking at Epic Poetry Through 21st-Century Eyes</title>
+      <link>https://www.nytimes.com/2020/07/23/books/epic-poem-boewulf-aeneid-faerie-queene.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/07/23/books/epic-poem-boewulf-aeneid-faerie-queene.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/07/23/books/epic-poem-boewulf-aeneid-faerie-queene.html" rel="standout"></atom:link>
+      <description>New translations of the “Aeneid,” “Beowulf” and other ancient stories challenge some of our modern-day ideas.</description>
+      <dc:creator>Talya Zax</dc:creator>
+      <pubDate>Thu, 23 Jul 2020 16:28:43 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Books and Literature</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Poetry and Poets</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Translation and Interpreters</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Roman Civilization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Greek Civilization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Dante Alighieri (1265-1321)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Headley, Maria Dahvana</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Virgil</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Wilson, Emily (1971- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Rome (Italy)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Beowulf (Book)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Aeneid (Book)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bartsch, Shadi</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Nicholson, Catherine (1978- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Reading and Not Reading The Faerie Queene: Spenser and the Making of Literary Criticism (Book)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">The Faerie Queene (Book)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Spenser, Edmund</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/07/24/books/00Epicpoem1/00Epicpoem1-moth.jpg" width="151"></media:content>
+      <media:credit>Los Angeles County Museum of Art</media:credit>
+      <media:description>A 17th-century depiction of Aeneas and Dido.</media:description>
+    </item>
+    <item>
+      <title>‘Radioactive’ Review: Marie Curie and the Science of Autonomy</title>
+      <link>https://www.nytimes.com/2020/07/23/movies/radioactive-review.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/07/23/movies/radioactive-review.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/07/23/movies/radioactive-review.html" rel="standout"></atom:link>
+      <description>Rosamund Pike plays the pioneering scientist who won two Nobel Prizes while raising two daughters (one won her own Nobel).</description>
+      <dc:creator>Manohla Dargis</dc:creator>
+      <pubDate>Fri, 24 Jul 2020 00:55:03 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Movies</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Pike, Rosamund</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Satrapi, Marjane</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Riley, Sam</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Radioactive (Movie)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/07/23/arts/00radioactive/merlin_174737838_05030794-9c78-4078-86f4-84a4f7ee00e0-moth.jpg" width="151"></media:content>
+      <media:credit>Laurie Sparham/Amazon Studios</media:credit>
+      <media:description>Rosamund Pike as Marie Curie in Marjane Satrapi’s “Radioactive.”</media:description>
+    </item>
+    <item>
+      <title>At the British Masters, Empty Fairways, Empty Pubs and a Hole in the Bubble</title>
+      <link>https://www.nytimes.com/2020/07/23/sports/golf/british-masters-newcastle-wylam.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/07/23/sports/golf/british-masters-newcastle-wylam.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/07/23/sports/golf/british-masters-newcastle-wylam.html" rel="standout"></atom:link>
+      <description>A town in northeast England welcomed 70,000 fans for the British Masters three years ago. This year, in so many ways, is different.</description>
+      <dc:creator>Karen Crouse</dc:creator>
+      <pubDate>Fri, 24 Jul 2020 12:44:47 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Golf</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Westwood, Lee</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/07/23/sports/23golf-europe-1/23golf-europe-1-moth-v2.jpg" width="151"></media:content>
+      <media:credit>Mary Turner for The New York Times</media:credit>
+      <media:description>Three years ago, the streets of Wylam, England, filled with thousands of golf fans during the British Masters. This week, they have been eerily quiet.</media:description>
+    </item>
+    <item>
+      <title>Yoshitomo Nara Paints What He Hears</title>
+      <link>https://www.nytimes.com/2020/07/24/t-magazine/yoshitomo-nara.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/07/24/t-magazine/yoshitomo-nara.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/07/24/t-magazine/yoshitomo-nara.html" rel="standout"></atom:link>
+      <description>Ahead of a major retrospective in Los Angeles, the Japanese artist discusses his musical education.</description>
+      <dc:creator>Nick Marino</dc:creator>
+      <pubDate>Fri, 24 Jul 2020 17:20:29 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Art</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Los Angeles County Museum of Art</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Nara, Yoshitomo</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Music</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/06/30/t-magazine/30tmag-nara-slide-67ZV/30tmag-nara-slide-67ZV-moth.jpg" width="151"></media:content>
+      <media:credit>Tetsuya Miura</media:credit>
+      <media:description>Yoshitomo Nara in his home studio in Tochigi Prefecture, Japan, with one of his bigheaded girl works, “Miss Moonlight” (2020).</media:description>
+    </item>
+    <item>
+      <title>There Are Wasps in the Yard. You’d Better Get to Know Them.</title>
+      <link>https://www.nytimes.com/article/paper-wasps-yellowjackets.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/article/paper-wasps-yellowjackets.html</guid>
+      <atom:link href="https://www.nytimes.com/article/paper-wasps-yellowjackets.html" rel="standout"></atom:link>
+      <description>They buzz. They hover. Sometimes they sting. But how much do you really know about these insects that can menace our summers?</description>
+      <dc:creator>Cara Giaimo</dc:creator>
+      <pubDate>Tue, 21 Jul 2020 20:14:37 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Animal Cognition</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wasps (Insects)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hornets (Insects)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Summer (Season)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Invasive Species</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Picnics</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Lawns</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Service</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-science</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-animals</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/07/20/science/20SCI-WASPS1/20SCI-WASPS1-moth.jpg" width="151"></media:content>
+      <media:credit>Paul Hobson/Nature Picture Library/Alamy</media:credit>
+      <media:description>Wasps, the essential summer resident, convening on a bounty of sugar.</media:description>
+    </item>
+    <item>
+      <title>Why the ‘Super Weird’ Moons of Mars Fascinate Scientists</title>
+      <link>https://www.nytimes.com/2020/07/25/science/mars-moons-phobos-deimos.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/07/25/science/mars-moons-phobos-deimos.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/07/25/science/mars-moons-phobos-deimos.html" rel="standout"></atom:link>
+      <description>What’s the big deal about little Phobos and tinier Deimos?</description>
+      <dc:creator>Robin George Andrews</dc:creator>
+      <pubDate>Sat, 25 Jul 2020 22:14:37 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Space and Astronomy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mars (Planet)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Solar System</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Asteroids</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Japan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Japan Aerospace Exploration Agency</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/07/28/science/28SCI-MARSMOONS/merlin_174901806_c697045b-15f4-489c-8196-173bf399e4d2-moth.jpg" width="151"></media:content>
+      <media:credit>NASA/JPL/University of Arizona</media:credit>
+      <media:description>A close-up view of Phobos, the larger of Mars’s two moons. It is 17 miles across.</media:description>
+    </item>
+    <item>
+      <title>Viking Age Smallpox Complicates Story of Viral Evolution</title>
+      <link>https://www.nytimes.com/2020/07/23/science/smallpox-vikings-genetics.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/07/23/science/smallpox-vikings-genetics.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/07/23/science/smallpox-vikings-genetics.html" rel="standout"></atom:link>
+      <description>An extinct version of the smallpox virus dating to 1,400 years ago prompts speculation about viruses becoming more lethal over time.</description>
+      <dc:creator>James Gorman</dc:creator>
+      <pubDate>Thu, 23 Jul 2020 18:00:10 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Smallpox</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Viruses</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Evolution (Biology)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Immune System</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">DNA (Deoxyribonucleic Acid)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Cambridge University</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Science (Journal)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Genetics and Heredity</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-science</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/07/23/science/23VIRUS-SMALLPOX1/23VIRUS-SMALLPOX1-moth.jpg" width="151"></media:content>
+      <media:credit>Charles Phelps Cushing/ClassicStock, via Getty Images</media:credit>
+      <media:description>A 19th-century depiction by the German artist Hugo Vogel of a raid by the Viking king Olaf Tryggvesson circa 994 A.D.</media:description>
+    </item>
+    <item>
+      <title>How Ultra-Black Fish Disappear in the Deepest Seas</title>
+      <link>https://www.nytimes.com/2020/07/16/science/ultra-black-fish.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/07/16/science/ultra-black-fish.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/07/16/science/ultra-black-fish.html" rel="standout"></atom:link>
+      <description>Researchers have found fish that absorb more than 99.9 percent of the light that hits their skin.</description>
+      <dc:creator>Katherine J. Wu</dc:creator>
+      <pubDate>Thu, 16 Jul 2020 15:00:12 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fish and Other Marine Life</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Animals</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Color</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Evolution (Biology)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Current Biology (Journal)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-animals</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Biology and Biochemistry</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/07/21/science/16TB-ULTRABLACKFISH1/16TB-ULTRABLACKFISH1-moth.jpg" width="151"></media:content>
+      <media:credit>Karen Osborn, Smithsonian</media:credit>
+      <media:description>A common fangtooth, a deep-sea species of ultra-black fish. While some ultra-black fish might appear brownish, it’s the product of camera overexposure and editing.</media:description>
+    </item>
+    <item>
+      <title>Try Spelling Bee</title>
+      <link>https://www.nytimes.com/puzzles/spelling-bee</link>
+      <guid isPermaLink="true">https://www.nytimes.com/puzzles/spelling-bee</guid>
+      <atom:link href="https://www.nytimes.com/puzzles/spelling-bee" rel="standout"></atom:link>
+      <description>Puzzle throughout the day to see how many words you can find.</description>
+      <dc:creator>The New York Times</dc:creator>
+      <pubDate>Wed, 08 Jul 2020 19:16:41 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/03/23/crosswords/spelling-bee-logo-nytgames-hi-res/spelling-bee-logo-nytgames-hi-res-moth-v2.png" width="151"></media:content>
+      <media:credit>The New York Times</media:credit>
+    </item>
+    <item>
+      <title>The Crossword, Vertex and More</title>
+      <link>https://www.nytimes.com/crosswords</link>
+      <guid isPermaLink="true">https://www.nytimes.com/crosswords</guid>
+      <atom:link href="https://www.nytimes.com/crosswords" rel="standout"></atom:link>
+      <description>Solve the daily puzzle edited by Will Shortz, or try out other games like the Mini and Letter Boxed.</description>
+      <dc:creator>The New York Times</dc:creator>
+      <pubDate>Wed, 08 Jul 2020 19:16:41 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/03/23/crosswords/crossword-logo-nytgames-hires/crossword-logo-nytgames-hires-moth-v2.png" width="151"></media:content>
+      <media:credit>The New York Times</media:credit>
+    </item>
+    <item>
+      <title>Try Tiles</title>
+      <link>https://www.nytimes.com/puzzles/tiles</link>
+      <guid isPermaLink="true">https://www.nytimes.com/puzzles/tiles</guid>
+      <atom:link href="https://www.nytimes.com/puzzles/tiles" rel="standout"></atom:link>
+      <description>Our soothing matching game may help you de-stress.</description>
+      <dc:creator>The New York Times</dc:creator>
+      <pubDate>Wed, 08 Jul 2020 19:16:41 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/03/23/crosswords/tiles-logo-nytgames-hi-res/tiles-logo-nytgames-hi-res-moth-v2.png" width="151"></media:content>
+      <media:credit>The New York Times</media:credit>
+    </item>
+  </channel>
+</rss>

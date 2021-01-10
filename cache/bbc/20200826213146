@@ -1,0 +1,460 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet title="XSL_formatting" type="text/xsl" href="/shared/bsp/xsl/rss/nolsol.xsl"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News - Home]]></title>
+        <description><![CDATA[BBC News - Home]]></description>
+        <link>https://www.bbc.co.uk/news/</link>
+        <image>
+            <url>https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News - Home</title>
+            <link>https://www.bbc.co.uk/news/</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Wed, 26 Aug 2020 21:28:14 GMT</lastBuildDate>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Jacob Blake: Teenager arrested over Wisconsin protesters' deaths]]></title>
+            <description><![CDATA[A teenager is arrested over the killing of two protesters following the police shooting of a black man.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-53926277</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-53926277</guid>
+            <pubDate>Wed, 26 Aug 2020 21:16:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A-levels and GCSEs: Boris Johnson blames 'mutant algorithm' for exam fiasco]]></title>
+            <description><![CDATA[Teachers' union says the PM is trying to "shrug away" responsibility for this year's exam problems.]]></description>
+            <link>https://www.bbc.co.uk/news/education-53923279</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/education-53923279</guid>
+            <pubDate>Wed, 26 Aug 2020 19:31:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bread price may rise after dire wheat harvest]]></title>
+            <description><![CDATA[The price of bread is set to rise after what could be the worst UK wheat harvest in 40 years.]]></description>
+            <link>https://www.bbc.co.uk/news/science-environment-53921121</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-53921121</guid>
+            <pubDate>Wed, 26 Aug 2020 16:00:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Girls Aloud singer Sarah Harding diagnosed with breast cancer]]></title>
+            <description><![CDATA[The 38-year-old star says she is doing her best to stay positive after the "devastating" diagnosis.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-53919598</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-53919598</guid>
+            <pubDate>Wed, 26 Aug 2020 10:51:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Nóra Quoirin: Site of Malaysian body find 'searched several times']]></title>
+            <description><![CDATA[An inquest in Malaysia hears police had already combed the site where Nóra Quoirin's body was found.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-london-53919837</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-53919837</guid>
+            <pubDate>Wed, 26 Aug 2020 12:52:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[EU trade commissioner Phil Hogan resigns over 'Covid breach']]></title>
+            <description><![CDATA[EU trade commissioner Phil Hogan was under pressure over his attendance at a golf dinner.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-53923052</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-53923052</guid>
+            <pubDate>Wed, 26 Aug 2020 21:28:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Hurricane Laura ‘will cause unsurvivable storm surge’]]></title>
+            <description><![CDATA[Hurricane Laura, heading for Texas and Louisiana, is now a Category 4 storm, weather officials say.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-53921285</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-53921285</guid>
+            <pubDate>Wed, 26 Aug 2020 20:12:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Telford boy calls number on toy ambulance to get help for ill mum]]></title>
+            <description><![CDATA["Brave" Josh made the call when he found his mum lying unconscious on the floor at their home.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-shropshire-53921514</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-shropshire-53921514</guid>
+            <pubDate>Wed, 26 Aug 2020 13:43:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus: Some restaurants extend Eat Out to September]]></title>
+            <description><![CDATA[They say they will use their own money to continue offering discounts when the government promotion ends.]]></description>
+            <link>https://www.bbc.co.uk/news/business-53923027</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-53923027</guid>
+            <pubDate>Wed, 26 Aug 2020 18:29:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus: Plymouth teens test positive after Greece holiday]]></title>
+            <description><![CDATA[At least 11 teenagers in Plymouth have the virus after a group returned from Zante, officials say.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-devon-53923999</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-devon-53923999</guid>
+            <pubDate>Wed, 26 Aug 2020 16:38:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Celtic knocked out of Champions League]]></title>
+            <description><![CDATA[Celtic suffer their earliest Champions League exit since 2005 after losing to Hungarian visitors Ferencvaros.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/53884053</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/53884053</guid>
+            <pubDate>Wed, 26 Aug 2020 20:37:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus: Delayed EasyJet passengers face unforeseen quarantine]]></title>
+            <description><![CDATA[The airline says it could not book enough rooms in Gibraltar so some passengers spent the night in Spain.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-53923509</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-53923509</guid>
+            <pubDate>Wed, 26 Aug 2020 20:29:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[WindowSwap: ‘I think we all are explorers in our own ways’]]></title>
+            <description><![CDATA[People from around the world are sharing videos of what’s outside their windows.]]></description>
+            <link>https://www.bbc.co.uk/news/world-53828000</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-53828000</guid>
+            <pubDate>Tue, 25 Aug 2020 23:09:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Warning over 'dangerous' DIY beauty trends on TikTok]]></title>
+            <description><![CDATA[Teenagers have posted videos of supposed teeth-whitening, lip-plumping and mole-removal tips.]]></description>
+            <link>https://www.bbc.co.uk/news/technology-53921081</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-53921081</guid>
+            <pubDate>Wed, 26 Aug 2020 16:25:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[RNC 2020: What young Republicans think of Trump]]></title>
+            <description><![CDATA[The BBC spoke to young Republicans in the lead-up to the 2020 presidential election.]]></description>
+            <link>https://www.bbc.co.uk/news/election-us-2020-53909470</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/election-us-2020-53909470</guid>
+            <pubDate>Wed, 26 Aug 2020 00:54:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Endangered red panda cub born as Whipsnade Zoo reopened]]></title>
+            <description><![CDATA[The cub was the size of a human finger when it was born on 19 June, zoo says.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-beds-bucks-herts-53922121</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-beds-bucks-herts-53922121</guid>
+            <pubDate>Wed, 26 Aug 2020 15:28:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Plymouth MP Johnny Mercer injured in canoe accident]]></title>
+            <description><![CDATA[Plymouth MP Johnny Mercer needed surgery after capsizing in the River Tamar.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-devon-53921050</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-devon-53921050</guid>
+            <pubDate>Wed, 26 Aug 2020 15:09:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Did Messi really send his Barcelona transfer request by fax?]]></title>
+            <description><![CDATA[A short history of fax, why Messi had to use Spain's burofax system and some more fax facts.]]></description>
+            <link>https://www.bbc.co.uk/news/newsbeat-53919378</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/newsbeat-53919378</guid>
+            <pubDate>Wed, 26 Aug 2020 11:22:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Plane built on Mumbai rooftop takes to the skies]]></title>
+            <description><![CDATA[No one believed pilot Amol Yadav when he told them his plans, but he proved them wrong.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-india-53905897</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-india-53905897</guid>
+            <pubDate>Wed, 26 Aug 2020 03:48:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The effect of coronavirus on DJs, musicians and clubbing]]></title>
+            <description><![CDATA[DJ and broadcaster Jamz Supernova looks at what impact the pandemic has had on the clubbing industry.]]></description>
+            <link>https://www.bbc.co.uk/news/stories-53898112</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/stories-53898112</guid>
+            <pubDate>Wed, 26 Aug 2020 06:40:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Lockdown may have lasting effects on friendships]]></title>
+            <description><![CDATA[Some marginal friendships will by lost, says psychologist, while other deeper ones may need work.]]></description>
+            <link>https://www.bbc.co.uk/news/science-environment-53909243</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-53909243</guid>
+            <pubDate>Wed, 26 Aug 2020 00:21:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Foster carer who took on two young children at age of 21]]></title>
+            <description><![CDATA[Rachel James takes up the role after hearing emergency carers were needed during the pandemic.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-somerset-53909122</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-somerset-53909122</guid>
+            <pubDate>Tue, 25 Aug 2020 19:35:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Beirut residents fear they may lose their homes to gentrification after blast]]></title>
+            <description><![CDATA[Mrs Beaini has lived in the same Beirut house for more than 60 years, but she can't afford repairs.]]></description>
+            <link>https://www.bbc.co.uk/news/world-middle-east-53904882</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-middle-east-53904882</guid>
+            <pubDate>Tue, 25 Aug 2020 23:03:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Rock star Jack White's auction to help John Peel Centre]]></title>
+            <description><![CDATA[Jack White is selling guitars, a White Stripes drum kit and other memorabilia to aid the centre.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-suffolk-53907408</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-suffolk-53907408</guid>
+            <pubDate>Tue, 25 Aug 2020 18:37:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Scottish farmers star in Pharrell Williams and Jay-Z video]]></title>
+            <description><![CDATA[The Aberdeenshire couple initially thought the request for help was a hoax but they have now found fame.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-north-east-orkney-shetland-53902386</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-north-east-orkney-shetland-53902386</guid>
+            <pubDate>Tue, 25 Aug 2020 12:42:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Storm Francis: In pictures]]></title>
+            <description><![CDATA[Pictures show the effects of Storm Francis's strong winds and heavy rain in the UK.]]></description>
+            <link>https://www.bbc.co.uk/news/in-pictures-53903532</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/in-pictures-53903532</guid>
+            <pubDate>Tue, 25 Aug 2020 15:05:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why have there been so many U-turns recently?]]></title>
+            <description><![CDATA[There is some disquiet among Tory MPs - but there is evidence the public views a change of direction with sympathy.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-politics-53918715</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-53918715</guid>
+            <pubDate>Wed, 26 Aug 2020 15:41:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Eat Out to Help Out: The highs and lows of the coronavirus discount scheme]]></title>
+            <description><![CDATA[Some of the highs and lows of the government's discount scheme for diners.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-53894998</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-53894998</guid>
+            <pubDate>Wed, 26 Aug 2020 00:44:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tony Hall: Departing BBC boss looks back on his time in charge]]></title>
+            <description><![CDATA[Lord Hall is stepping down as director general of the BBC after seven years in the role.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-53916319</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-53916319</guid>
+            <pubDate>Wed, 26 Aug 2020 15:49:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Harry Maguire: Why his Greek trial went so fast]]></title>
+            <description><![CDATA[Greek justice threw the book at Harry Maguire, and fast, but the case throws up a number of questions.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-53918506</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-53918506</guid>
+            <pubDate>Wed, 26 Aug 2020 16:38:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['I took a pay cut but at least I kept my job’]]></title>
+            <description><![CDATA[Companies across the UK have asked staff to accept lower pay in order to avoid lay-offs.]]></description>
+            <link>https://www.bbc.co.uk/news/business-53751316</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-53751316</guid>
+            <pubDate>Tue, 25 Aug 2020 23:31:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus: Can I work from home overseas?]]></title>
+            <description><![CDATA[Thinking about setting up a home office abroad? Here's what you need to know.]]></description>
+            <link>https://www.bbc.co.uk/news/business-53524486</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-53524486</guid>
+            <pubDate>Tue, 25 Aug 2020 23:33:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Climate change: How the UK contributes to global deforestation]]></title>
+            <description><![CDATA[Chocolate, pizza, shampoo.... Just some of the things that could be making climate change worse.]]></description>
+            <link>https://www.bbc.co.uk/news/newsbeat-53907739</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/newsbeat-53907739</guid>
+            <pubDate>Wed, 26 Aug 2020 06:12:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Lionel Messi hands in Barcelona transfer request: Where could he go next?]]></title>
+            <description><![CDATA[Every club in the world would love to have Lionel Messi but few could afford him, so where could he end up if he does leave Barcelona?]]></description>
+            <link>https://www.bbc.co.uk/sport/football/53913907</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/53913907</guid>
+            <pubDate>Tue, 25 Aug 2020 22:19:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Melania Trump: The unusual, traditional First Lady]]></title>
+            <description><![CDATA[From her modelling career to involvement in politics, this is what we know about the US First Lady.]]></description>
+            <link>https://www.bbc.co.uk/news/election-us-2016-37256893</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/election-us-2016-37256893</guid>
+            <pubDate>Wed, 26 Aug 2020 08:18:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Navalny and Russia’s arsenal of exotic poisons]]></title>
+            <description><![CDATA[Nerve agent was apparently used on Putin critic Alexei Navalny – and Russia has a history of poisonings.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-53907761</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-53907761</guid>
+            <pubDate>Wed, 26 Aug 2020 00:29:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[British Army could axe ageing tanks as part of modernisation plans]]></title>
+            <description><![CDATA[Senior Army officers have told the BBC the military may abandon its ageing stock of Challenger 2 tanks.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-53909087</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-53909087</guid>
+            <pubDate>Tue, 25 Aug 2020 17:36:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Carnival and coronavouchers: Brazil’s economic struggles]]></title>
+            <description><![CDATA[The disruption caused by coronavirus means that Brazil's samba schools now face an uncertain future.]]></description>
+            <link>https://www.bbc.co.uk/news/world-latin-america-53904411</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-latin-america-53904411</guid>
+            <pubDate>Wed, 26 Aug 2020 00:38:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[South Africa's sugar cane murders: Living in fear of serial killings]]></title>
+            <description><![CDATA[A farming community in South Africa is reeling after the bodies of five women were recently discovered.]]></description>
+            <link>https://www.bbc.co.uk/news/world-africa-53905167</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-53905167</guid>
+            <pubDate>Wed, 26 Aug 2020 00:37:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mike Pence at RNC 2020: The rare times he made headlines]]></title>
+            <description><![CDATA[The vice-president has largely stayed out of the limelight. We take a look at the few times he didn't.]]></description>
+            <link>https://www.bbc.co.uk/news/election-us-2020-53909471</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/election-us-2020-53909471</guid>
+            <pubDate>Tue, 25 Aug 2020 18:20:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Greta Thunberg: What she did during her year-long school break]]></title>
+            <description><![CDATA[The 17-year-old has gone back to education after a year of climate change activism.]]></description>
+            <link>https://www.bbc.co.uk/news/newsbeat-53902468</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/newsbeat-53902468</guid>
+            <pubDate>Tue, 25 Aug 2020 11:33:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Milwaukee Bucks boycott NBA play-off game after Jacob Blake shooting]]></title>
+            <description><![CDATA[The Milwaukee Bucks did not appear for game five of their NBA play-off series against the Orlando Magic on Wednesday.]]></description>
+            <link>https://www.bbc.co.uk/sport/basketball/53926764</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/basketball/53926764</guid>
+            <pubDate>Wed, 26 Aug 2020 21:15:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Maguire's legal team lodges appeal against guilty verdict]]></title>
+            <description><![CDATA[Harry Maguire's legal team lodges an appeal against the guilty verdict that led to him receiving a suspended jail sentence of 21 months and 10 days in Greek court, Manchester United say.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/53922147</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/53922147</guid>
+            <pubDate>Wed, 26 Aug 2020 15:48:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[England's Parris sent off but Lyon reach ninth Womens' Champions League final]]></title>
+            <description><![CDATA[Wendie Renard secures Lyon a record ninth appearance in the Women's Champions League final with a 1-0 win over Paris St-Germain.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/53905422</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/53905422</guid>
+            <pubDate>Wed, 26 Aug 2020 21:08:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Chelsea sign England left-back Chilwell from Leicester for £45m]]></title>
+            <description><![CDATA[Chelsea sign England left-back Ben Chilwell from Leicester on a five-year deal for £45m.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/53913585</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/53913585</guid>
+            <pubDate>Wed, 26 Aug 2020 16:55:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Barcelona want to 'build team around Messi', says sporting director]]></title>
+            <description><![CDATA[Barcelona still plan to build a team around Lionel Messi and do not want him to leave, says sporting director Ramon Planes.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/53918659</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/53918659</guid>
+            <pubDate>Wed, 26 Aug 2020 13:18:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Maguire's lack of apology 'shocking' but he still has time 'to say sorry' - prosecution lawyer]]></title>
+            <description><![CDATA[Harry Maguire's lack of apology following his trial in Greece is "shocking" and "unsportsmanlike", says one of the prosecution lawyers.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/53920365</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/53920365</guid>
+            <pubDate>Wed, 26 Aug 2020 16:31:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus: Are teachers more at risk of coronavirus?]]></title>
+            <description><![CDATA[Children are at low risk from the disease, but concerns have been raised for teachers.]]></description>
+            <link>https://www.bbc.co.uk/news/health-52003804</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-52003804</guid>
+            <pubDate>Tue, 25 Aug 2020 14:35:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus: What are the rules for face masks or face coverings?]]></title>
+            <description><![CDATA[The guidance on who should wear face coverings varies around the UK.]]></description>
+            <link>https://www.bbc.co.uk/news/health-51205344</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-51205344</guid>
+            <pubDate>Wed, 26 Aug 2020 16:00:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus: How are other countries getting children back to class?]]></title>
+            <description><![CDATA[Children are starting a new school year across Europe. What measures are being put in place?]]></description>
+            <link>https://www.bbc.co.uk/news/explainers-53892357</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-53892357</guid>
+            <pubDate>Tue, 25 Aug 2020 23:12:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus: When does the 'eat out to help out scheme' end?]]></title>
+            <description><![CDATA[Thousands of venues have taken part in a discounting scheme to help boost the hospitality industry.]]></description>
+            <link>https://www.bbc.co.uk/news/explainers-53431026</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-53431026</guid>
+            <pubDate>Tue, 25 Aug 2020 16:59:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus in the UK: How many confirmed cases are there in your area?]]></title>
+            <description><![CDATA[Key graphics explaining how coronavirus has spread in the UK and the government's response.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-51768274</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-51768274</guid>
+            <pubDate>Wed, 26 Aug 2020 16:59:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus: What tests are available?]]></title>
+            <description><![CDATA[What are the tests for coronavirus, who are they for and how do they work?]]></description>
+            <link>https://www.bbc.co.uk/news/health-51943612</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-51943612</guid>
+            <pubDate>Wed, 19 Aug 2020 10:34:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus: How can I find a new job?]]></title>
+            <description><![CDATA[Jobseekers are having a tough time at the moment but some sectors are hiring and support is available.]]></description>
+            <link>https://www.bbc.co.uk/news/explainers-53685650</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-53685650</guid>
+            <pubDate>Mon, 24 Aug 2020 15:33:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus: What are the UK travel quarantine rules?]]></title>
+            <description><![CDATA[France and the Netherlands are the latest places from where people must quarantine on arriving in the UK.]]></description>
+            <link>https://www.bbc.co.uk/news/explainers-52544307</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-52544307</guid>
+            <pubDate>Thu, 20 Aug 2020 16:24:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[BTec Nationals and Firsts: What went wrong with the grades?]]></title>
+            <description><![CDATA[The BTec First grades have been delayed. What caused the problems with the results?]]></description>
+            <link>https://www.bbc.co.uk/news/education-49279219</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/education-49279219</guid>
+            <pubDate>Tue, 25 Aug 2020 08:20:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus cure: What progress are we making on treatments?]]></title>
+            <description><![CDATA[Teams around the world are looking into medicines for Covid-19 and scientists are starting to discover what works.]]></description>
+            <link>https://www.bbc.co.uk/news/health-52354520</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-52354520</guid>
+            <pubDate>Mon, 24 Aug 2020 09:56:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus: How does Covid-19 test-and-trace work?]]></title>
+            <description><![CDATA[People who have been in close contact with someone found to have Covid-19 are now being traced.]]></description>
+            <link>https://www.bbc.co.uk/news/explainers-52442754</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-52442754</guid>
+            <pubDate>Thu, 13 Aug 2020 16:10:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus: Does my child have to return to school?]]></title>
+            <description><![CDATA[Parents are being urged to send their children back to school for the autumn term]]></description>
+            <link>https://www.bbc.co.uk/news/education-51643556</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/education-51643556</guid>
+            <pubDate>Mon, 24 Aug 2020 09:53:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Europe lockdown: New coronavirus rules country by country]]></title>
+            <description><![CDATA[What are European countries doing to control new coronavirus outbreaks?]]></description>
+            <link>https://www.bbc.co.uk/news/explainers-53640249</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-53640249</guid>
+            <pubDate>Thu, 20 Aug 2020 12:29:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus: What are the rules around evictions?]]></title>
+            <description><![CDATA[The ban on evictions has been extended, but how do they work?]]></description>
+            <link>https://www.bbc.co.uk/news/explainers-53860154</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-53860154</guid>
+            <pubDate>Fri, 21 Aug 2020 15:19:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus: What are the risks of catching it from food packaging?]]></title>
+            <description><![CDATA[Some cases around the world have been linked to packaging on frozen food.]]></description>
+            <link>https://www.bbc.co.uk/news/explainers-53783890</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-53783890</guid>
+            <pubDate>Thu, 20 Aug 2020 23:04:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus: What are the UK's travel rules and which countries can you visit?]]></title>
+            <description><![CDATA[New rules mean people entering the UK from certain countries will not have to quarantine.]]></description>
+            <link>https://www.bbc.co.uk/news/explainers-53221896</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-53221896</guid>
+            <pubDate>Wed, 26 Aug 2020 16:23:45 GMT</pubDate>
+        </item>
+    </channel>
+</rss>

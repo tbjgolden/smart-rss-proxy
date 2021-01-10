@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet title="XSL_formatting" type="text/xsl" href="/shared/bsp/xsl/rss/nolsol.xsl"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News - Home]]></title>
+        <description><![CDATA[BBC News - Home]]></description>
+        <link>https://www.bbc.co.uk/news/</link>
+        <image>
+            <url>https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News - Home</title>
+            <link>https://www.bbc.co.uk/news/</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Fri, 14 Aug 2020 00:47:54 GMT</lastBuildDate>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Coronavirus: Lockdown to ease further in England from Saturday]]></title>
+            <description><![CDATA[More beauty treatments, small wedding receptions and live indoor shows can resume this weekend.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-53772735</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-53772735</guid>
+            <pubDate>Thu, 13 Aug 2020 21:41:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[France to be added to UK quarantine countries]]></title>
+            <description><![CDATA[People returning from the Netherlands and Malta from Saturday will also have to self-isolate.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-politics-53773914</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-53773914</guid>
+            <pubDate>Fri, 14 Aug 2020 00:40:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Fewer hospital patients in Covid-19 hotspots]]></title>
+            <description><![CDATA[Hospital admissions are not rising despite increases in coronavirus cases, according to NHS England data.]]></description>
+            <link>https://www.bbc.co.uk/news/health-53772459</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-53772459</guid>
+            <pubDate>Thu, 13 Aug 2020 23:52:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Fortnite: Apple ban sparks court action from Epic Games]]></title>
+            <description><![CDATA[Epic Games says it is taking Apple to court over "monopolistic" policies after it banned Fortnite.]]></description>
+            <link>https://www.bbc.co.uk/news/technology-53773715</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-53773715</guid>
+            <pubDate>Thu, 13 Aug 2020 21:29:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus travel: Majorca's party capital deserted]]></title>
+            <description><![CDATA[Majorca's famous party destination Magaluf has been left deserted because of coronavirus.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-53767992</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-53767992</guid>
+            <pubDate>Thu, 13 Aug 2020 23:03:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Free school meals 'should be extended' for pupils from low-income migrant families]]></title>
+            <description><![CDATA[Pupils from low-income migrant families should keep getting government support, say charities.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-53766050</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-53766050</guid>
+            <pubDate>Thu, 13 Aug 2020 23:47:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Trump stokes Kamala Harris 'birther' theory]]></title>
+            <description><![CDATA[The US president fuels a fringe idea, echoing his past false claims about Barack Obama's origins.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-53774289</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-53774289</guid>
+            <pubDate>Fri, 14 Aug 2020 00:11:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['We were all packed, then they cancelled our holiday']]></title>
+            <description><![CDATA[Hundreds of would-be holidaymakers are finding their bookings have been cancelled last minute.]]></description>
+            <link>https://www.bbc.co.uk/news/business-53758385</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-53758385</guid>
+            <pubDate>Thu, 13 Aug 2020 23:01:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[‘Raise sick pay’ to lower virus health and economic risk]]></title>
+            <description><![CDATA[It would manage a "crude" trade-off between lives and jobs as the UK economy reopens, a report says.]]></description>
+            <link>https://www.bbc.co.uk/news/business-53772260</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-53772260</guid>
+            <pubDate>Thu, 13 Aug 2020 23:01:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus: Greencore staff self-isolate after outbreak]]></title>
+            <description><![CDATA[Health officials are working with the sandwich makers in Northampton, where 299 tested positive.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-northamptonshire-53762233</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-northamptonshire-53762233</guid>
+            <pubDate>Thu, 13 Aug 2020 17:06:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Israel and UAE strike historic deal to normalise relations]]></title>
+            <description><![CDATA[Israel and the United Arab Emirates agree to normalise relations in the third Israel-Arab peace deal.]]></description>
+            <link>https://www.bbc.co.uk/news/world-middle-east-53770859</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-middle-east-53770859</guid>
+            <pubDate>Thu, 13 Aug 2020 20:50:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Trump blocks postal funds to prevent expanded mail-in voting]]></title>
+            <description><![CDATA[The Postal Service requires emergency funds to cope with the pandemic and the election, Democrats say.]]></description>
+            <link>https://www.bbc.co.uk/news/election-us-2020-53772526</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/election-us-2020-53772526</guid>
+            <pubDate>Thu, 13 Aug 2020 18:36:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Papers: Results "fiasco" and new UK quarantine for France]]></title>
+            <description><![CDATA[Many of Friday's papers lead on reaction to A-level results and calls for the system to be reviewed.]]></description>
+            <link>https://www.bbc.co.uk/news/blogs-the-papers-53773887</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/blogs-the-papers-53773887</guid>
+            <pubDate>Thu, 13 Aug 2020 23:38:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bangladesh: Losing my job as a garment factory worker]]></title>
+            <description><![CDATA[Sonia is one of thousands of garment workers who have lost their jobs in Bangladesh due to Covid-19.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-53769348</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-53769348</guid>
+            <pubDate>Thu, 13 Aug 2020 23:08:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Georgia School: 'We walked into a dangerous situation']]></title>
+            <description><![CDATA[A photo of the crowded school hallway went viral, and since then nine people have tested positive.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-53759662</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-53759662</guid>
+            <pubDate>Thu, 13 Aug 2020 23:13:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Quiz of the week: Who was named the world's highest-paid male actor?]]></title>
+            <description><![CDATA[How closely have you been paying attention to what's been going on during the past seven days?]]></description>
+            <link>https://www.bbc.co.uk/news/world-53750253</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-53750253</guid>
+            <pubDate>Thu, 13 Aug 2020 23:24:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus: Preparing for a post-lockdown musical]]></title>
+            <description><![CDATA[The cast and crew of Sleepless describe the preparations for their ''coronavirus-safe'' production.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-53769971</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-53769971</guid>
+            <pubDate>Thu, 13 Aug 2020 17:04:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Beirut explosion: Children dealing with the trauma of the explosion]]></title>
+            <description><![CDATA[Thousands of injured, displaced and traumatised children are dealing with the aftermath of the port explosion.]]></description>
+            <link>https://www.bbc.co.uk/news/world-middle-east-53763542</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-middle-east-53763542</guid>
+            <pubDate>Thu, 13 Aug 2020 13:43:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Lightning pictures: Spectacular storms light up England skies]]></title>
+            <description><![CDATA[Photos from across England show a remarkable lightning show on a stormy Wednesday night.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-53764430</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-53764430</guid>
+            <pubDate>Thu, 13 Aug 2020 12:55:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The girl who picked up an AK47 to defend her family]]></title>
+            <description><![CDATA[An Afghan girl was hailed as a hero, but her story was more complicated than it first looked.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-53503700</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-53503700</guid>
+            <pubDate>Thu, 13 Aug 2020 23:08:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Babyteeth: The teen film tackling cancer with humour]]></title>
+            <description><![CDATA[Its star Eliza Scanlen, says the script had "more life than anything I've read in ages".]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-53736137</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-53736137</guid>
+            <pubDate>Thu, 13 Aug 2020 23:25:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Beirut blast: Picking up the pieces of a shattered city]]></title>
+            <description><![CDATA[The destruction goes for miles, but Beirutis are slowly picking up the pieces in a broken city.]]></description>
+            <link>https://www.bbc.co.uk/news/world-middle-east-53757809</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-middle-east-53757809</guid>
+            <pubDate>Thu, 13 Aug 2020 23:27:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mauritius oil spill: Are major incidents less frequent?]]></title>
+            <description><![CDATA[Oil slicks can lead to major environmental disasters but industry experts say regulations are now much tighter.]]></description>
+            <link>https://www.bbc.co.uk/news/world-53757747</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-53757747</guid>
+            <pubDate>Thu, 13 Aug 2020 23:28:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Robots go their own way deep in the ocean]]></title>
+            <description><![CDATA[Firms are building robots that can survey the seabed and underwater structures without human help.]]></description>
+            <link>https://www.bbc.co.uk/news/business-53218719</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-53218719</guid>
+            <pubDate>Thu, 13 Aug 2020 23:01:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['Why I stopped hiding my scars']]></title>
+            <description><![CDATA[Jayne, Emily, Laura and Aimee talk about their scars, and how they came to accept them.]]></description>
+            <link>https://www.bbc.co.uk/news/stories-53641244</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/stories-53641244</guid>
+            <pubDate>Wed, 12 Aug 2020 23:04:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The millions being made from cardboard theft]]></title>
+            <description><![CDATA[With the global market for recycled cardboard worth billions of dollars, it is attracting criminals.]]></description>
+            <link>https://www.bbc.co.uk/news/business-53724620</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-53724620</guid>
+            <pubDate>Wed, 12 Aug 2020 23:05:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Belarus elections: Shocked by violence, people lose their fear]]></title>
+            <description><![CDATA[Defiance is spreading in the face of attacks by police on people in the streets and detainees.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-53762995</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-53762995</guid>
+            <pubDate>Thu, 13 Aug 2020 10:01:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What Europe's cities are doing to handle heatwaves]]></title>
+            <description><![CDATA[As London swelters, we look at how urban areas can adapt to deal with higher temperatures.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-53752690</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-53752690</guid>
+            <pubDate>Wed, 12 Aug 2020 23:02:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bowlers put England on top against Pakistan - report & highlights]]></title>
+            <description><![CDATA[England's bowlers grab the upper hand in the second Test against Pakistan on a weather-affected first day at the Ageas Bowl.]]></description>
+            <link>https://www.bbc.co.uk/sport/cricket/53765001</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/cricket/53765001</guid>
+            <pubDate>Thu, 13 Aug 2020 18:33:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Leipzig shock Atletico to reach Champions League semi-final]]></title>
+            <description><![CDATA[RB Leipzig will play Paris St-Germain in the last four of the Champions League after Tyler Adams' late deflected winner knocks out Atletico Madrid.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/53730258</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/53730258</guid>
+            <pubDate>Thu, 13 Aug 2020 21:52:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Defending champion Andreescu pulls out of US Open]]></title>
+            <description><![CDATA[Defending champion Bianca Andreescu withdraws from this year's US Open because the coronavirus pandemic has hampered her return from injury.]]></description>
+            <link>https://www.bbc.co.uk/sport/tennis/53770601</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/tennis/53770601</guid>
+            <pubDate>Thu, 13 Aug 2020 19:40:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ronnie O'Sullivan punches table at World Snooker Championship in match against Mark Selby]]></title>
+            <description><![CDATA[Ronnie O'Sullivan punches the table after missing a tough pink at the World Snooker Championship in his semi-final match against Mark Selby.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/snooker/53772167</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/snooker/53772167</guid>
+            <pubDate>Thu, 13 Aug 2020 16:48:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Fans to be allowed to attend Crucible final as government green lights pilot events]]></title>
+            <description><![CDATA[Fans to be allowed into the Crucible Theatre this weekend for the final of the World Snooker Championship, BBC Sport understands.]]></description>
+            <link>https://www.bbc.co.uk/sport/snooker/53771656</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/snooker/53771656</guid>
+            <pubDate>Thu, 13 Aug 2020 23:08:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[England v Pakistan highlights: James Anderson leads the way as England get their noses in front on a rain-affected day]]></title>
+            <description><![CDATA[James Anderson leads the way for England as the hosts take five wickets on a rain-affected day at Southampton to put themselves in a strong position in the second Test against Pakistan.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/cricket/53772760</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/cricket/53772760</guid>
+            <pubDate>Thu, 13 Aug 2020 18:23:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['He's exhausted after that' - The one with Anthony McGill and the really long snooker cue]]></title>
+            <description><![CDATA[Anthony McGill uses all the extensions available to him to help with a difficult shot but then decides not to use it in a tense semi-final with Kyren Wilson.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/snooker/53774118</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/snooker/53774118</guid>
+            <pubDate>Thu, 13 Aug 2020 21:48:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus: Should I go to university this year?]]></title>
+            <description><![CDATA[Will students have online or face-to-face learning this autumn, and will they still have to pay full fees?]]></description>
+            <link>https://www.bbc.co.uk/news/explainers-52753913</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-52753913</guid>
+            <pubDate>Wed, 12 Aug 2020 17:14:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Exam results: Do I have a right to know my child's results? And other questions]]></title>
+            <description><![CDATA[Are you concerned about your results? Experts answer some of your questions.]]></description>
+            <link>https://www.bbc.co.uk/news/education-53735304</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/education-53735304</guid>
+            <pubDate>Thu, 13 Aug 2020 11:52:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A-level results: 'My future has been set back completely']]></title>
+            <description><![CDATA[Students share their disappointment after their predicted exam results were downgraded.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-53765190</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-53765190</guid>
+            <pubDate>Thu, 13 Aug 2020 15:15:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A-level results day: 'I haven't got into uni because of it']]></title>
+            <description><![CDATA[Some students who haven't got the results they wanted are angry about how the situation has been dealt with.]]></description>
+            <link>https://www.bbc.co.uk/news/education-53765486</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/education-53765486</guid>
+            <pubDate>Thu, 13 Aug 2020 14:46:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A levels: Why did I not get the grades I expected?]]></title>
+            <description><![CDATA[Education editor Branwen Jeffreys explains how A-level grades were decided this year and what you can do if you didn't get what you expected.]]></description>
+            <link>https://www.bbc.co.uk/news/education-53749854</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/education-53749854</guid>
+            <pubDate>Thu, 13 Aug 2020 14:22:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How have my exam results been decided this year?]]></title>
+            <description><![CDATA[With exams in the UK cancelled this year, students' grades have been 'calculated' instead.]]></description>
+            <link>https://www.bbc.co.uk/news/education-53682466</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/education-53682466</guid>
+            <pubDate>Thu, 13 Aug 2020 08:25:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[BTec Nationals: Who are the students who didn't just do A-levels?]]></title>
+            <description><![CDATA[All about the BTec National, one of the popular alternatives to A-levels.]]></description>
+            <link>https://www.bbc.co.uk/news/education-49279219</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/education-49279219</guid>
+            <pubDate>Thu, 13 Aug 2020 08:49:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Exam results: 'Mocks aren't a fair way to decide grades']]></title>
+            <description><![CDATA[A-level student Mia Cleal-Bramley explains why she doesn't want to rely on her mock exam results.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-53754434</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-53754434</guid>
+            <pubDate>Wed, 12 Aug 2020 18:27:50 GMT</pubDate>
+        </item>
+    </channel>
+</rss>

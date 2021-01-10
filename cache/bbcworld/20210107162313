@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet title="XSL_formatting" type="text/xsl" href="/shared/bsp/xsl/rss/nolsol.xsl"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News - World]]></title>
+        <description><![CDATA[BBC News - World]]></description>
+        <link>https://www.bbc.co.uk/news/</link>
+        <image>
+            <url>https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News - World</title>
+            <link>https://www.bbc.co.uk/news/</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Thu, 07 Jan 2021 16:09:54 GMT</lastBuildDate>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Capitol riots: Congress certifies Joe Biden's victory after violent disruption]]></title>
+            <description><![CDATA[Lawmakers confirm Joe Biden's election victory hours after a pro-Trump mob stormed the Capitol.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-55568621</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-55568621</guid>
+            <pubDate>Thu, 07 Jan 2021 13:06:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Trump blocked by Twitter and Facebook]]></title>
+            <description><![CDATA[The US president is blocked from Twitter for 12 hours and Facebook for 24 hours after violent riot.]]></description>
+            <link>https://www.bbc.co.uk/news/technology-55569604</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-55569604</guid>
+            <pubDate>Thu, 07 Jan 2021 10:28:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Capitol riots: A visual guide to the storming of Congress]]></title>
+            <description><![CDATA[Breakdown of what happened when Trump supporters stormed the Capitol amid a key Senate vote.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-55575260</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-55575260</guid>
+            <pubDate>Thu, 07 Jan 2021 15:33:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Elon Musk becomes world's richest person worth $185bn]]></title>
+            <description><![CDATA[The Tesla and SpaceX owner replaces Jeff Bezos as the richest man on the planet.]]></description>
+            <link>https://www.bbc.co.uk/news/technology-55578403</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-55578403</guid>
+            <pubDate>Thu, 07 Jan 2021 16:04:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid: China places 11m under lockdown after outbreak in northern city]]></title>
+            <description><![CDATA[Residents of Shijiazhuang are banned from leaving and will be tested en masse after an outbreak there.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-china-55576961</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-china-55576961</guid>
+            <pubDate>Thu, 07 Jan 2021 15:36:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tokyo 2020: Organisers say Olympic Games will go ahead despite Covid-19 surge]]></title>
+            <description><![CDATA[Tokyo 2020 organisers say they will be ready to host the Olympic Games - despite the city declaring a state of emergency over Covid-19.]]></description>
+            <link>https://www.bbc.co.uk/sport/olympics/55575450</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/olympics/55575450</guid>
+            <pubDate>Thu, 07 Jan 2021 15:33:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Facial recognition identifies people wearing masks]]></title>
+            <description><![CDATA[NEC developed the system in response to the coronavirus pandemic.]]></description>
+            <link>https://www.bbc.co.uk/news/technology-55573802</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-55573802</guid>
+            <pubDate>Thu, 07 Jan 2021 11:49:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ryanair scraps most UK and Irish lockdown flights]]></title>
+            <description><![CDATA[The airline warns few, if any, flights will operate to or from Ireland or the UK from the end of January.]]></description>
+            <link>https://www.bbc.co.uk/news/business-55571834</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-55571834</guid>
+            <pubDate>Thu, 07 Jan 2021 12:46:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Amazon pledges billions for affordable homes in US]]></title>
+            <description><![CDATA[The effort comes as housing prices have skyrocketed, creating an affordability crisis.]]></description>
+            <link>https://www.bbc.co.uk/news/business-55564478</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-55564478</guid>
+            <pubDate>Wed, 06 Jan 2021 16:25:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Millionaire French hotel owner to testify in kidnap trial]]></title>
+            <description><![CDATA[Jacqueline Veyrac, 80, will give evidence in France over a botched attempt to kidnap her for ransom.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-55547514</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-55547514</guid>
+            <pubDate>Thu, 07 Jan 2021 00:47:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ghana president Nana Akufo-Addo sworn in for a second term]]></title>
+            <description><![CDATA[President Nana Akufo-Addo has been sworn in for a second term after chaotic scenes in parliament.]]></description>
+            <link>https://www.bbc.co.uk/news/world-africa-55575420</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-55575420</guid>
+            <pubDate>Thu, 07 Jan 2021 13:56:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Hong Kong national security law: Activists say arrests confirm worst fears]]></title>
+            <description><![CDATA[Activists say their worst fears about the Beijing-imposed national security law have been confirmed.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-china-55569719</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-china-55569719</guid>
+            <pubDate>Thu, 07 Jan 2021 06:43:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Capitol riots: Who broke into the building?]]></title>
+            <description><![CDATA[There's speculation over who was involved in the protests and whether they belong to organised groups]]></description>
+            <link>https://www.bbc.co.uk/news/55572805</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/55572805</guid>
+            <pubDate>Thu, 07 Jan 2021 12:55:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Trump’s Twitter endgame: Is it over? ]]></title>
+            <description><![CDATA[It’s hard to see that Donald Trump now has a future on the social network.]]></description>
+            <link>https://www.bbc.co.uk/news/technology-55571291</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-55571291</guid>
+            <pubDate>Thu, 07 Jan 2021 10:43:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[US Capitol riots: World leaders react to 'horrifying' scenes in Washington]]></title>
+            <description><![CDATA[Leaders from around the world call for peace and a peaceful transfer of power in Washington.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-55568613</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-55568613</guid>
+            <pubDate>Thu, 07 Jan 2021 13:25:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Capitol riots: Has the US legislature been attacked before?]]></title>
+            <description><![CDATA[The heart of US democracy has seen violent scenes in the past - from bombs to attempts to burn it down.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-55572825</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-55572825</guid>
+            <pubDate>Thu, 07 Jan 2021 11:51:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How six brothers - and their lions - terrorised a Libyan town]]></title>
+            <description><![CDATA[The Kani brothers presided over a reign of terror in the Libyan town of Tarhuna - now their crimes are being revealed.]]></description>
+            <link>https://www.bbc.co.uk/news/stories-55564933</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/stories-55564933</guid>
+            <pubDate>Thu, 07 Jan 2021 00:30:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Central African Republic: A disputed election and a strange rebel alliance]]></title>
+            <description><![CDATA[A strange coalition of former enemies has joined forces to oust Central African Republic's newly re-elected leader.]]></description>
+            <link>https://www.bbc.co.uk/news/world-africa-55558642</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-55558642</guid>
+            <pubDate>Thu, 07 Jan 2021 02:34:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Capitol riots: Moment protesters storm US legislature]]></title>
+            <description><![CDATA[The US Capitol has gone into lockdown amid violent clashes between police and Trump supporters, who broke security lines and are inside the building.]]></description>
+            <link>https://www.bbc.co.uk/news/election-us-2020-55564421</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/election-us-2020-55564421</guid>
+            <pubDate>Wed, 06 Jan 2021 19:41:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Senate debate suspended as protesters enter Capitol]]></title>
+            <description><![CDATA[As Trump supporters entered the US Capitol building, politicians halted debate inside.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-55567931</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-55567931</guid>
+            <pubDate>Wed, 06 Jan 2021 19:49:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Trump: 'We will never give up, we will never concede']]></title>
+            <description><![CDATA[President Donald Trump spoke to thousands of supporters who'd gathered for the "Save America" rally.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-55561627</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-55561627</guid>
+            <pubDate>Wed, 06 Jan 2021 19:54:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Streets of Beijing back to life after Covid]]></title>
+            <description><![CDATA[The BBC asks people in Beijing whether they think their economy's recovered from the Covid pandemic.]]></description>
+            <link>https://www.bbc.co.uk/news/world-55564098</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-55564098</guid>
+            <pubDate>Thu, 07 Jan 2021 00:02:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Palm cockatoo: Why a unique ‘drumming’ bird is in peril]]></title>
+            <description><![CDATA[The palm cockatoo is thought to be the only bird to use tools musically to attract a mate.]]></description>
+            <link>https://www.bbc.co.uk/news/world-australia-55541188</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-australia-55541188</guid>
+            <pubDate>Wed, 06 Jan 2021 00:05:14 GMT</pubDate>
+        </item>
+    </channel>
+</rss>

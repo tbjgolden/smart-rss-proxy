@@ -1,0 +1,984 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:nyt="http://www.nytimes.com/namespaces/rss/2.0" version="2.0">
+  <channel>
+    <title>NYT &gt; Top Stories</title>
+    <link>https://www.nytimes.com</link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml" rel="self" type="application/rss+xml"></atom:link>
+    <description></description>
+    <language>en-us</language>
+    <copyright>Copyright 2020 The New York Times Company</copyright>
+    <lastBuildDate>Sat, 15 Aug 2020 20:52:17 +0000</lastBuildDate>
+    <pubDate>Sat, 15 Aug 2020 20:52:17 +0000</pubDate>
+    <image>
+      <title>NYT &gt; Top Stories</title>
+      <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
+      <link>https://www.nytimes.com</link>
+    </image>
+    <item>
+      <title>‘We’re Clearly Not Doing Enough’: Drop in Testing Hampers Coronavirus Response</title>
+      <link>https://www.nytimes.com/2020/08/15/us/coronavirus-testing-decrease.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/08/15/us/coronavirus-testing-decrease.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/08/15/us/coronavirus-testing-decrease.html" rel="standout"></atom:link>
+      <description>For the first time during the pandemic, the United States saw a downward trend in the number of coronavirus tests conducted each day.</description>
+      <dc:creator>Sarah Mervosh, Nicholas Bogel-Burroughs and Sheryl Gay Stolberg</dc:creator>
+      <pubDate>Sat, 15 Aug 2020 20:25:42 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Tests (Medical)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Contact Tracing (Public Health)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Quarantines</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Health and Human Services Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Giroir, Brett P</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/13/us/00VIRUS-TESTING-1/00VIRUS-TESTING-1-moth.jpg" width="151"></media:content>
+      <media:credit>Philip Cheung for The New York Times</media:credit>
+      <media:description>A testing site in Los Angeles on Thursday. The number of tests being conducted daily in the area is down from earlier peaks this summer.</media:description>
+    </item>
+    <item>
+      <title>As Colleges Move Classes Online, Families Rebel Against the Cost</title>
+      <link>https://www.nytimes.com/2020/08/15/us/covid-college-tuition.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/08/15/us/covid-college-tuition.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/08/15/us/covid-college-tuition.html" rel="standout"></atom:link>
+      <description>Schools face rising demands for tuition rebates, increased aid and leaves of absence as students ask if college is becoming “glorified Skype.”</description>
+      <dc:creator>Shawn Hubler</dc:creator>
+      <pubDate>Sat, 15 Aug 2020 18:15:44 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus Reopenings</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Colleges and Universities</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Financial Aid (Education)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Tuition</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Chapman University</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Feldman, David H</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/14/us/00virus-tuition/00virus-tuition-moth.jpg" width="151"></media:content>
+      <media:credit>Sanjay Suchak for The New York Times</media:credit>
+      <media:description>The empty campus of the University of Virginia in Charlottesville, Va. The school is among a host of colleges that plan to hold all or most of their classes online this fall.</media:description>
+    </item>
+    <item>
+      <title>Coronavirus Live News and Updates</title>
+      <link>https://www.nytimes.com/2020/08/15/world/coronavirus-covid-19.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/08/15/world/coronavirus-covid-19.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/08/15/world/coronavirus-covid-19.html" rel="standout"></atom:link>
+      <description>Mitt Romney blasts President Trump’s handling of pandemic. Many U.S. cities fear a public transit “death spiral.” Brazil’s extensive outbreak makes it a good vaccine testing ground.</description>
+      <pubDate>Sat, 15 Aug 2020 20:32:32 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/03/us/us-briefing-promo-image-print/us-briefing-promo-image-moth.jpg" width="151"></media:content>
+      <media:credit>The New York Times</media:credit>
+    </item>
+    <item>
+      <title>Coronavirus Crisis Has Made Brazil an Ideal Vaccine Laboratory</title>
+      <link>https://www.nytimes.com/2020/08/15/world/americas/brazil-coronavirus-vaccine.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/08/15/world/americas/brazil-coronavirus-vaccine.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/08/15/world/americas/brazil-coronavirus-vaccine.html" rel="standout"></atom:link>
+      <description>Widespread contagion, a deep bench of scientists and a robust vaccine-making infrastructure have made Brazil an important player in the quest to find a vaccine.</description>
+      <dc:creator>Manuela Andreoni and Ernesto Londoño</dc:creator>
+      <pubDate>Sat, 15 Aug 2020 17:41:00 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vaccination and Immunization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">AstraZeneca PLC</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Oxford University</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Pfizer Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Brazil</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/16/world/SUB16virus-brazil-vax/15virus-brazil-vax-moth.jpg" width="151"></media:content>
+      <media:credit>Victor Moriyama for The New York Times</media:credit>
+      <media:description>Denise Abranches, a dental surgeon working in the intensive care unit of a large hospital in S&amp;atilde;o Paulo treating Covid-19 patients, was among the first to volunteer for a vaccine trial.</media:description>
+    </item>
+    <item>
+      <title>Mothers, Babies Stranded in Ukraine Surrogacy Industry</title>
+      <link>https://www.nytimes.com/2020/08/15/world/europe/ukraine-baby-surrogate.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/08/15/world/europe/ukraine-baby-surrogate.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/08/15/world/europe/ukraine-baby-surrogate.html" rel="standout"></atom:link>
+      <description>Virus travel bans are wreaking havoc on surrogacy agencies that help same-sex couples build families.</description>
+      <dc:creator>Maria Varenikova</dc:creator>
+      <pubDate>Sat, 15 Aug 2020 17:35:40 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Surrogate Motherhood</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pregnancy and Childbirth</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Travel Warnings</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Child Custody and Support</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Famagusta (Cyprus)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kyiv (Ukraine)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/05/world/00ukraine-surrogacy1/merlin_175327539_1dbf2641-e234-4017-ba5c-edc234e64d39-moth.jpg" width="151"></media:content>
+      <media:credit>Oksana Parafeniuk for The New York Times</media:credit>
+      <media:description>Ira, a surrogate mother who traveled to Northern Cyprus to give birth in February, watched the newborn die on a table while doctors worked to save her own life.</media:description>
+    </item>
+    <item>
+      <title>Postal Crisis Ripples Across Nation as Election Looms</title>
+      <link>https://www.nytimes.com/2020/08/15/us/post-office-vote-by-mail.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/08/15/us/post-office-vote-by-mail.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/08/15/us/post-office-vote-by-mail.html" rel="standout"></atom:link>
+      <description>President Trump’s furious objection to mail-in balloting and a new Trump-allied postmaster general are raising fears about the election and the Postal Service.</description>
+      <dc:creator>Luke Broadwater, Jack Healy, Michael D. Shear and Hailey Fuchs</dc:creator>
+      <pubDate>Sat, 15 Aug 2020 19:16:13 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Postal Service and Post Offices</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Absentee Voting</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2020</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Postal Service (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">DeJoy, Louis</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Darby (Pa)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/15/us/politics/15postoffice-promo/15postoffice-promo-moth.jpg" width="151"></media:content>
+      <media:credit>Michelle Gustafson for The New York Times</media:credit>
+    </item>
+    <item>
+      <title>Kamala Harris, Daughter of Immigrants, Is the Face of America’s Demographic Shift</title>
+      <link>https://www.nytimes.com/2020/08/15/us/second-generation-immigrant-kamala-harris.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/08/15/us/second-generation-immigrant-kamala-harris.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/08/15/us/second-generation-immigrant-kamala-harris.html" rel="standout"></atom:link>
+      <description>Her parents’ arrival to Berkeley as young graduate students was the beginning of a historic wave of immigration from outside Europe that would change the United States in ways its leaders never imagined.</description>
+      <dc:creator>Sabrina Tavernise</dc:creator>
+      <pubDate>Sat, 15 Aug 2020 17:00:24 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration and Emigration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2020</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Black People</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Indian-Americans</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Race and Ethnicity</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Jamaican-Americans</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vice Presidents and Vice Presidency (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Harris, Kamala D</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hashmi, Ghazala</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Whites</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Population</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/14/us/00HARRIS-SECONDGEN/00HARRIS-SECONDGEN-moth.jpg" width="151"></media:content>
+      <media:credit>Erin Schaff/The New York Times</media:credit>
+      <media:description>In California, where Kamala Harris grew up and the state she now represents in the Senate, about half of all children come from immigrant homes. </media:description>
+    </item>
+    <item>
+      <title>Democrats Prepare for an Unprecedented Convention</title>
+      <link>https://www.nytimes.com/live/2020/08/15/us/biden-vs-trump-election</link>
+      <guid isPermaLink="true">https://www.nytimes.com/live/2020/08/15/us/biden-vs-trump-election</guid>
+      <atom:link href="https://www.nytimes.com/live/2020/08/15/us/biden-vs-trump-election" rel="standout"></atom:link>
+      <description>Many questions remain as the first virtual convention nears. Here’s the latest.</description>
+      <dc:creator>The New York Times</dc:creator>
+      <pubDate>Sat, 15 Aug 2020 20:25:50 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/15/multimedia/15election-briefing-convention-sub-2/merlin_175577160_70bbdc9f-99aa-4151-877e-744f2d3e1438-moth.jpg" width="151"></media:content>
+      <media:credit>Bryan R. Smith/Agence France-Presse — Getty Images</media:credit>
+      <media:description>With the virtual nature of the convention, the Wisconsin Center will serve as the production hub, with attendance limited to personnel responsible for operating the event.</media:description>
+    </item>
+    <item>
+      <title>Shifting Dynamics of the Mideast Pushed Israel and U.A.E. Together</title>
+      <link>https://www.nytimes.com/2020/08/15/world/middleeast/israel-uae-netanyahu-arabs.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/08/15/world/middleeast/israel-uae-netanyahu-arabs.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/08/15/world/middleeast/israel-uae-netanyahu-arabs.html" rel="standout"></atom:link>
+      <description>Prime Minister Netanyahu’s quest to open relations with Arab countries without settling the Palestinian conflict long seemed quixotic. External events changed the equation.</description>
+      <dc:creator>David M. Halbfinger and Ronen Bergman</dc:creator>
+      <pubDate>Sat, 15 Aug 2020 19:29:58 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Palestinians</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Netanyahu, Benjamin</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United Arab Emirates</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/15/world/15netanyahu-arabs01/15netanyahu-arabs01-moth.jpg" width="151"></media:content>
+      <media:credit>Ronen Zvulun/Reuters</media:credit>
+      <media:description>Prime Minister Benjamin Netanyahu had insisted for years that Israel could open diplomatic relations with Arab countries without settling the Palestinian conflict first. He was proved right this week.</media:description>
+    </item>
+    <item>
+      <title>The &#39;Basketball Cop&#39; Was a Hero in One Video. Another Told a Different Story.</title>
+      <link>https://www.nytimes.com/2020/08/15/us/politics/basketball-cop-gainesville-police.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/08/15/us/politics/basketball-cop-gainesville-police.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/08/15/us/politics/basketball-cop-gainesville-police.html" rel="standout"></atom:link>
+      <description>Bobby White was celebrated as the “Basketball Cop” after millions saw a video of him shooting hoops with local teenagers. A recording from two years earlier shows him throwing a young Black man on the hood of his car during an arrest.</description>
+      <dc:creator>Nicholas Casey</dc:creator>
+      <pubDate>Sat, 15 Aug 2020 19:36:35 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gainesville (Fla)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Police Brutality, Misconduct and Shootings</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Police</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Race and Ethnicity</category>
+    </item>
+    <item>
+      <title>11 of Our Best Weekend Reads</title>
+      <link>https://www.nytimes.com/2020/08/14/briefing/11-of-our-best-weekend-reads.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/08/14/briefing/11-of-our-best-weekend-reads.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/08/14/briefing/11-of-our-best-weekend-reads.html" rel="standout"></atom:link>
+      <description>Black activists in Chicago. Retail in Manhattan. An elephant’s pandemic journey. Bike shorts. And more.</description>
+      <dc:creator>Jillian Rayfield</dc:creator>
+      <pubDate>Fri, 14 Aug 2020 16:42:18 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/15/reader-center/15weekendreads-promo/15weekendreads-promo-moth.jpg" width="151"></media:content>
+    </item>
+    <item>
+      <title>Episode Four: ‘Here’s Another Fun Thing You Can Do’</title>
+      <link>https://www.nytimes.com/2020/08/13/podcasts/nice-white-parents-school.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/08/13/podcasts/nice-white-parents-school.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/08/13/podcasts/nice-white-parents-school.html" rel="standout"></atom:link>
+      <description>Is it possible to limit the power of white parents?</description>
+      <pubDate>Thu, 13 Aug 2020 14:34:07 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Education (K-12)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Parenting</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Boerum Hill (Brooklyn, NY)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Cobble Hill (Brooklyn, NY)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Serial Productions</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/07/30/podcasts/30nwp-art/nice-white-parents-album-art-moth.jpg" width="151"></media:content>
+      <media:credit>The New York Times</media:credit>
+    </item>
+    <item>
+      <title>‘Coronavirus Schools Briefing’</title>
+      <link>https://www.nytimes.com/newsletters/coronavirus-schools-briefing</link>
+      <guid isPermaLink="true">https://www.nytimes.com/newsletters/coronavirus-schools-briefing</guid>
+      <atom:link href="https://www.nytimes.com/newsletters/coronavirus-schools-briefing" rel="standout"></atom:link>
+      <description>A newsletter on how the pandemic is upending education. Coming soon.</description>
+      <dc:creator>The New York Times</dc:creator>
+      <pubDate>Sat, 15 Aug 2020 10:31:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>A Conversation About Vice-Presidential Nominee Kamala Harris</title>
+      <link>https://www.nytimes.com/2020/07/23/us/politics/2020-election-events.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/07/23/us/politics/2020-election-events.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/07/23/us/politics/2020-election-events.html" rel="standout"></atom:link>
+      <description>Our reporters give you the back story and breakdown what this means for the election.</description>
+      <pubDate>Thu, 13 Aug 2020 21:33:24 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2020</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Castro, Julian</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Medina, Jennifer</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/07/31/us/politics/31biden-vp-harris/31biden-vp-harris-moth-v2.jpg" width="151"></media:content>
+      <media:credit>Pete Marovich for The New York Times</media:credit>
+      <media:description>Senator Kamala Harris of California, one of Mr. Biden’s rivals in the Democratic primary, is backed by important figures in the party’s donor class.</media:description>
+    </item>
+    <item>
+      <title>Biden Dreams of Kamelot</title>
+      <link>https://www.nytimes.com/2020/08/15/opinion/sunday/biden-harris.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/08/15/opinion/sunday/biden-harris.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/08/15/opinion/sunday/biden-harris.html" rel="standout"></atom:link>
+      <description>Trumpworld dismisses Harris as calculating. But we need a woman who can calculate a way out of the mess this president has made.</description>
+      <dc:creator>Maureen Dowd</dc:creator>
+      <pubDate>Sat, 15 Aug 2020 18:30:09 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Harris, Kamala D</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2020</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vice Presidents and Vice Presidency (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/16/opinion/15Dowd/15Dowd-moth.jpg" width="151"></media:content>
+      <media:credit>Maddie McGarvey for The New York Times</media:credit>
+      <media:description>Senator Kamala Harris.</media:description>
+    </item>
+    <item>
+      <title>The 19th Amendment: An Important Milestone in an Unfinished Journey</title>
+      <link>https://www.nytimes.com/2020/08/15/opinion/19th-amendment-centennial-suffrage.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/08/15/opinion/19th-amendment-centennial-suffrage.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/08/15/opinion/19th-amendment-centennial-suffrage.html" rel="standout"></atom:link>
+      <description>A century later, it’s past time to recognize the women of color who were sidelined in the fight for gender and racial equality.</description>
+      <dc:creator>The Editorial Board</dc:creator>
+      <pubDate>Sat, 15 Aug 2020 18:30:09 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Black People</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Discrimination</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Women and Girls</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Women&#39;s Rights</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Race and Ethnicity</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nineteenth Amendment (US Constitution)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Voter Registration and Requirements</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/15/opinion/15vote-op2/15vote-op2-moth-v7.jpg" width="151"></media:content>
+      <media:credit>Nicholas Konrad/The New York Times</media:credit>
+    </item>
+    <item>
+      <title>The Week QAnon Went Mainstream</title>
+      <link>https://www.nytimes.com/2020/08/15/opinion/qanon-marjorie-greene-congress.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/08/15/opinion/qanon-marjorie-greene-congress.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/08/15/opinion/qanon-marjorie-greene-congress.html" rel="standout"></atom:link>
+      <description>A supporter of the dangerous conspiracy theory is most likely headed to Congress. The social media platforms have some soul-searching to do.</description>
+      <dc:creator>Charlie Warzel</dc:creator>
+      <pubDate>Sat, 15 Aug 2020 16:39:55 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">QAnon</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fringe Groups and Movements</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, House of Representatives</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">4chan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Facebook Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Twitter</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">YouTube.com</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Greene, Marjorie Taylor (1974- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zuckerberg, Mark E</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/15/opinion/15warzel1/15warzel1-moth.jpg" width="151"></media:content>
+      <media:credit>Mike Stewart/Associated Press</media:credit>
+      <media:description>Construction executive Marjorie Taylor Greene, third from left, with her supporters at a watch party event on Aug. 11, 2020, in Rome, Ga.</media:description>
+    </item>
+    <item>
+      <title>Learning to Love Joe Biden</title>
+      <link>https://www.nytimes.com/2020/08/15/opinion/joe-biden-2020-1988-what-it-takes.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/08/15/opinion/joe-biden-2020-1988-what-it-takes.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/08/15/opinion/joe-biden-2020-1988-what-it-takes.html" rel="standout"></atom:link>
+      <description>He’s not out on the campaign trail now, but when he was a young man in a hurry, he told us who he was.</description>
+      <dc:creator>Jennifer Senior</dc:creator>
+      <pubDate>Sat, 15 Aug 2020 15:00:09 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2020</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 1988</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Elections (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Harris, Kamala D</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hart, Gary</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Cramer, Richard Ben</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/16/opinion/16senior1/16senior1-moth.jpg" width="151"></media:content>
+      <media:credit>Keith Meyers/The New York Times</media:credit>
+      <media:description>Senator Joe Biden with his wife, Jill, and children, from left, Robert Hunter, Joseph III, and Ashley, after declaring his candidacy for president in Wilmingon, Del., in 1987.</media:description>
+    </item>
+    <item>
+      <title>What the Prince Harry and Meghan Markle Biography Says About Britain</title>
+      <link>https://www.nytimes.com/2020/08/15/opinion/finding-freedom-harry-meghan.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/08/15/opinion/finding-freedom-harry-meghan.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/08/15/opinion/finding-freedom-harry-meghan.html" rel="standout"></atom:link>
+      <description>Prince Harry confused sacrifice with service. Meghan, Duchess of Sussex, confused it with fame.</description>
+      <dc:creator>Tanya Gold</dc:creator>
+      <pubDate>Sat, 15 Aug 2020 15:53:36 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Harry, Duke of Sussex</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Markle, Meghan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Royal Families</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/15/opinion/15Gold/15Gold-moth.jpg" width="151"></media:content>
+      <media:credit>Tolga Akmen/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Prince Harry and Meghan, Duchess of Sussex, at Westminster Abbey in London in March.</media:description>
+    </item>
+    <item>
+      <title>The Improbable Journey of the Suffragist Sash</title>
+      <link>https://www.nytimes.com/2020/08/15/opinion/sashes-suffrage-19th-amendment.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/08/15/opinion/sashes-suffrage-19th-amendment.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/08/15/opinion/sashes-suffrage-19th-amendment.html" rel="standout"></atom:link>
+      <description>How a strip of fabric went from iconic protest accessory to pageant queen prop to bachelorette party wear.</description>
+      <dc:creator>Hilary Levey Friedman</dc:creator>
+      <pubDate>Sat, 15 Aug 2020 15:00:07 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nineteenth Amendment (US Constitution)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Women&#39;s Rights</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Women and Girls</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fashion and Apparel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Beauty Contests</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Miss America Organization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Pankhurst, Emmeline</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Paul, Alice</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/16/opinion/sunday/16friedman/16friedman-moth.jpg" width="151"></media:content>
+      <media:credit>Na Kim</media:credit>
+    </item>
+    <item>
+      <title>‘Kamala Harris’s Nomination Is Everything to Me’</title>
+      <link>https://www.nytimes.com/2020/08/15/opinion/kamala-harris-vice-president-biden.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/08/15/opinion/kamala-harris-vice-president-biden.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/08/15/opinion/kamala-harris-vice-president-biden.html" rel="standout"></atom:link>
+      <description>For some, the senator’s being on the Democratic ticket is about more than just the vice presidency.</description>
+      <dc:creator>Rachel L. Harris</dc:creator>
+      <pubDate>Sat, 15 Aug 2020 15:00:08 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2020</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Indian-Americans</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vice Presidents and Vice Presidency (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Harris, Kamala D</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/15/opinion/15opreaders-kamala1/15opreaders-kamala1-moth.jpg" width="151"></media:content>
+      <media:credit>Demetrius Freeman for The New York Times</media:credit>
+      <media:description>U.S. Senator of California, Kamala Harris.</media:description>
+    </item>
+    <item>
+      <title>Is Gaming the Future of the Virtual World?</title>
+      <link>https://www.nytimes.com/2020/08/15/opinion/fortnite-epic-apple-gaming.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/08/15/opinion/fortnite-epic-apple-gaming.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/08/15/opinion/fortnite-epic-apple-gaming.html" rel="standout"></atom:link>
+      <description>During the pandemic, digital three-dimensional environments are where much of life is taking place.</description>
+      <dc:creator>Ruchir Sharma</dc:creator>
+      <pubDate>Sat, 15 Aug 2020 15:00:04 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer and Video Games</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Virtual Reality (Computers)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">E-Commerce</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/15/opinion/15sharma/15sharma-moth.jpg" width="151"></media:content>
+      <media:credit>Erik Carter</media:credit>
+    </item>
+    <item>
+      <title>Kamala Harris&#39;s Undertold, Undersold Story</title>
+      <link>https://www.nytimes.com/2020/08/14/opinion/kamala-harris-biden-2020.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/08/14/opinion/kamala-harris-biden-2020.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/08/14/opinion/kamala-harris-biden-2020.html" rel="standout"></atom:link>
+      <description>As a prosecutor she can make you tremble. But as a trailblazer can she make you cry?</description>
+      <dc:creator>Frank Bruni</dc:creator>
+      <pubDate>Sat, 15 Aug 2020 04:44:56 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Harris, Kamala D</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2020</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Women and Girls</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vice Presidents and Vice Presidency (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Race and Ethnicity</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Black People</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/16/opinion/sunday/16bruni/16bruni-moth.jpg" width="151"></media:content>
+      <media:credit>Ben Wiseman</media:credit>
+    </item>
+    <item>
+      <title>The Unlikely Triumph of Italian Nationhood</title>
+      <link>https://www.nytimes.com/2020/08/14/opinion/italy-coronavirus.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/08/14/opinion/italy-coronavirus.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/08/14/opinion/italy-coronavirus.html" rel="standout"></atom:link>
+      <description>Italy coheres as America breaks apart.</description>
+      <dc:creator>Roger Cohen</dc:creator>
+      <pubDate>Fri, 14 Aug 2020 23:00:05 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Italy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bergamo (Italy)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/14/opinion/14cohen1/14cohen1-moth.jpg" width="151"></media:content>
+      <media:credit>Alberto Lingria/Reuters</media:credit>
+      <media:description>Inside Stadio Atleti Azzurri in Bergamo, Italy, after a soccer match between Atalanta and Inter Milan. Play resumed on Aug. 1.</media:description>
+    </item>
+    <item>
+      <title>Set Parents Free</title>
+      <link>https://www.nytimes.com/2020/08/14/opinion/coronavirus-parenting-education.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/08/14/opinion/coronavirus-parenting-education.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/08/14/opinion/coronavirus-parenting-education.html" rel="standout"></atom:link>
+      <description>Everyone is terrified of both sickness and censure. Are there better ways to raise our children amid a pandemic?</description>
+      <dc:creator>Kim Brooks</dc:creator>
+      <pubDate>Fri, 14 Aug 2020 15:32:22 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Children and Childhood</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus Risks and Safety Concerns</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Education (K-12)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Parenting</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Anxiety and Stress</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Loneliness</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/16/opinion/sunday/14kbrooks/14kbrooks-moth.jpg" width="151"></media:content>
+      <media:credit>Jon Han</media:credit>
+    </item>
+    <item>
+      <title>‘We’ve Already Survived an Apocalypse’: Indigenous Writers Are Changing Sci-Fi</title>
+      <link>https://www.nytimes.com/2020/08/14/books/indigenous-native-american-sci-fi-horror.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/08/14/books/indigenous-native-american-sci-fi-horror.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/08/14/books/indigenous-native-american-sci-fi-horror.html" rel="standout"></atom:link>
+      <description>Long underrepresented in genre fiction, Native American and First Nations authors are reshaping its otherworldly (but still often Eurocentric) worlds.</description>
+      <dc:creator>Alexandra Alter</dc:creator>
+      <pubDate>Fri, 14 Aug 2020 14:07:26 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Books and Literature</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Writing and Writers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Science Fiction</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Indigenous People</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Native Americans</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Navajo Indians</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Apache Indians</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Dimaline, Cherie</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Jones, Stephen Graham</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Roanhorse, Rebecca</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Little Badger, Darcie</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Empire of Wild: A Novel (Book)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Trail of Lightning (Book)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">The Only Good Indians (Book)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Elatsoe (Book)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/07/30/books/00IndiginousSci-Fi1/00IndiginousSci-Fi1-moth-v2.jpg" width="151"></media:content>
+      <media:credit>Arden Wray for The New York Times</media:credit>
+      <media:description>Cherie Dimaline near her home in Midland, Ontario. “There’s a big push now for the telling of Indigenous stories,” she said.</media:description>
+    </item>
+    <item>
+      <title>The Particular Texture and Joy of Homemade Ice Cream</title>
+      <link>https://www.nytimes.com/2020/08/12/magazine/the-particular-texture-and-joy-of-homemade-ice-cream.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/08/12/magazine/the-particular-texture-and-joy-of-homemade-ice-cream.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/08/12/magazine/the-particular-texture-and-joy-of-homemade-ice-cream.html" rel="standout"></atom:link>
+      <description>The moments spent watching and waiting for this chocolate-flake raspberry ice cream to form capture a childish delight that we could all use right now.</description>
+      <dc:creator>Dorie Greenspan</dc:creator>
+      <pubDate>Wed, 12 Aug 2020 09:00:05 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ice Cream and Frozen Desserts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Chocolate</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Raspberries</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Brooklyn (NYC)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/16/magazine/16mag-eat-02/16mag-eat-02-moth.jpg" width="151"></media:content>
+      <media:credit>Heami Lee for The New York Times. Food stylist: Maggie Ruggiero. Prop stylist: Rebecca Bartoshesky.</media:credit>
+    </item>
+    <item>
+      <title>Under Siege in Belarus, Lukashenko Turns to Putin</title>
+      <link>https://www.nytimes.com/2020/08/15/world/europe/belarus-russia-Lukashenko-Putin.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/08/15/world/europe/belarus-russia-Lukashenko-Putin.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/08/15/world/europe/belarus-russia-Lukashenko-Putin.html" rel="standout"></atom:link>
+      <description>The shift toward Russia comes at a time of crisis for President Aleksandr G. Lukashenko of Belarus, who has frequently played Moscow off against the West.</description>
+      <dc:creator>Andrew Higgins and Ivan Nechepurenko</dc:creator>
+      <pubDate>Sat, 15 Aug 2020 20:26:01 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">European Union</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lukashenko, Aleksandr G</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Belarus</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Minsk (Belarus)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/16/world/16belarus-putin/14belarus-putin01-moth.jpg" width="151"></media:content>
+      <media:credit>Pool photo by Sergei Chirikov</media:credit>
+      <media:description>President Aleksandr G. Lukashenko of Belarus, right, with President Vladimir V. Putin or Russia last year. He later accused Moscow of plotting to overthrow him.</media:description>
+    </item>
+    <item>
+      <title>Polish Cleric Retires in Face of Cover-Up Accusations. It’s Not Enough, Critics Say.</title>
+      <link>https://www.nytimes.com/2020/08/14/world/europe/pope-francis-abuse-gdansk.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/08/14/world/europe/pope-francis-abuse-gdansk.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/08/14/world/europe/pope-francis-abuse-gdansk.html" rel="standout"></atom:link>
+      <description>Pope Francis accepted the resignation of Archbishop Slawoj Leszek Glodz of Poland, a move seen as a subtle rebuke. But far more is needed to address the abuse of children by priests, advocates say.</description>
+      <dc:creator>Elisabetta Povoledo and Anatol Magdziarz</dc:creator>
+      <pubDate>Fri, 14 Aug 2020 19:45:33 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Child Abuse and Neglect</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Priests</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sex Crimes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Roman Catholic Church</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Francis</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gdansk (Poland)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Poland</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/14/world/14poland/14poland-moth.jpg" width="151"></media:content>
+      <media:credit>Adam Warzawa/EPA, via Shutterstock</media:credit>
+      <media:description>Slawoj Leszek Glodz, the archbishop of Gdansk, during a ceremony last year.</media:description>
+    </item>
+    <item>
+      <title>Trump Ads Attack Biden Through Deceptive Editing and Hyperbole</title>
+      <link>https://www.nytimes.com/2020/08/15/us/politics/trump-campaign-ads-biden.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/08/15/us/politics/trump-campaign-ads-biden.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/08/15/us/politics/trump-campaign-ads-biden.html" rel="standout"></atom:link>
+      <description>We reviewed all of the Trump campaign’s television ads since June. Two-thirds contained clearly misleading claims or videos.</description>
+      <dc:creator>Linda Qiu</dc:creator>
+      <pubDate>Sat, 15 Aug 2020 13:43:55 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2020</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Police Reform</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Taxation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Political Advertising</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Federal Taxes (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Police</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Black Lives Matter Movement</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Tax Cuts and Jobs Act (2017)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Charter Schools</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/15/us/15dc-factcheck/15dc-factcheck-moth.jpg" width="151"></media:content>
+      <media:credit>Al Drago for The New York Times</media:credit>
+      <media:description>President Trump during an unscheduled stop last month in Bedminster, N.J. His campaign’s ads throughout much of June and July have focused on activists’ calls to defund the police with hyperbolic warnings about the ramifications.</media:description>
+    </item>
+    <item>
+      <title>Pinterest Employees Demand Gender and Race Equality</title>
+      <link>https://www.nytimes.com/2020/08/14/technology/pinterest-walkout-equality.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/08/14/technology/pinterest-walkout-equality.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/08/14/technology/pinterest-walkout-equality.html" rel="standout"></atom:link>
+      <description>More than 200 said they stood in solidarity with three former co-workers who have accused the company of discrimination.</description>
+      <dc:creator>Erin Griffith</dc:creator>
+      <pubDate>Fri, 14 Aug 2020 22:53:33 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Discrimination</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Workplace Hazards and Violations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Women and Girls</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wages and Salaries</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Executive Compensation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Pinterest</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Brougher, Fancoise</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Silbermann, Ben</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/14/business/14pinterest1/14pinterest1-moth.jpg" width="151"></media:content>
+      <media:credit>Justin Sullivan/Getty Images</media:credit>
+      <media:description>Pinterest headquarters in San Francisco. On Friday, employees showed support for three former co-workers by sharing a petition and staging a virtual walkout.</media:description>
+    </item>
+    <item>
+      <title>Japan Cabinet Ministers Visit Yasukuni Shrine</title>
+      <link>https://www.nytimes.com/2020/08/15/world/asia/japan-yasukuni-shrine.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/08/15/world/asia/japan-yasukuni-shrine.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/08/15/world/asia/japan-yasukuni-shrine.html" rel="standout"></atom:link>
+      <description>Shinjiro Koizumi, a rising political star, was one of four cabinet ministers who went to Yasukuni Shrine, which has strong links to Japan’s imperial past.</description>
+      <dc:creator>Motoko Rich</dc:creator>
+      <pubDate>Sat, 15 Aug 2020 14:23:56 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Japan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Koizumi, Shinjiro</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Yasukuni Shrine (Tokyo, Japan)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Liberal Democratic Party (Japan)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">World War II (1939-45)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/16/world/16japan-shrine/15japan2-moth.jpg" width="151"></media:content>
+      <media:credit>Charly Triballeau/Agence France-Presse &amp;mdash; Getty Images</media:credit>
+      <media:description>Praying at Yasukuni Shrine in Tokyo on Saturday, the 75th anniversary of the end of World War II.</media:description>
+    </item>
+    <item>
+      <title>‘The Fish Rots From the Head’: How a Salmon Crisis Stoked Russian Protests</title>
+      <link>https://www.nytimes.com/2020/08/15/world/europe/Khabarovsk-Russia-Amur-protests-salmon.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/08/15/world/europe/Khabarovsk-Russia-Amur-protests-salmon.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/08/15/world/europe/Khabarovsk-Russia-Amur-protests-salmon.html" rel="standout"></atom:link>
+      <description>Plentiful salmon used to be one of the few perks for residents of Russia’s Far East. Then the fish vanished, and many local residents blamed President Putin.</description>
+      <dc:creator>Anton Troianovski and Sergey Ponomarev</dc:creator>
+      <pubDate>Sat, 15 Aug 2020 09:00:23 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fish and Other Marine Life</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Salmon</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fishing, Commercial</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">World Wildlife Fund</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Furgal, Sergei I</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Amur River</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Khabarovsk (Russia)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/12/world/00russia-fish1-promo/00russia-fish1-moth.jpg" width="151"></media:content>
+      <media:credit>Sergey Ponomarev for The New York Times</media:credit>
+      <media:description>Fishermen on the Amur river in Russia’s far-east.</media:description>
+    </item>
+    <item>
+      <title>A Bitter Wind at a Shaky Time, and Iowa Is Left Reeling</title>
+      <link>https://www.nytimes.com/2020/08/15/us/midwest-storm-farms.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/08/15/us/midwest-storm-farms.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/08/15/us/midwest-storm-farms.html" rel="standout"></atom:link>
+      <description>Devastating windstorms just before harvest were the last thing that Iowa farmers needed.</description>
+      <dc:creator>Will Wright</dc:creator>
+      <pubDate>Sat, 15 Aug 2020 15:46:43 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Agriculture and Farming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iowa</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Midwestern States (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Corn</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Soybeans</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/14/us/14IOWA-1-sub/merlin_175593246_44580aef-bc41-4dc1-9346-2758deb2b17e-moth.jpg" width="151"></media:content>
+      <media:credit>Daniel Acker/Getty Images</media:credit>
+      <media:description>Corn plants after a storm in Tama, Iowa. State officials estimate that as many as 14 million acres of farmland — more than a third of the state’s total farmland — were damaged. </media:description>
+    </item>
+    <item>
+      <title>America’s Retirement Race Gap, and Ideas for Closing It</title>
+      <link>https://www.nytimes.com/2020/08/14/business/retirement-inequality-racism.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/08/14/business/retirement-inequality-racism.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/08/14/business/retirement-inequality-racism.html" rel="standout"></atom:link>
+      <description>Scholars and policymakers have proposed ways to fix the inequities between whites and people of color, including changes to Social Security and building wealth from birth.</description>
+      <dc:creator>Mark Miller</dc:creator>
+      <pubDate>Fri, 14 Aug 2020 09:00:34 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Retirement</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Black People</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Income Inequality</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Security (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hispanic-Americans</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Discrimination</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Labor and Jobs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pensions and Retirement Plans</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Longevity</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Center for Retirement Research at Boston College</category>
+      <category domain="">Baby bonds</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hamilton, Darrick</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kijakazi, Kilolo</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Stocks and Bonds</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/16/business/07Retiring-01/07Retiring-01-moth.jpg" width="151"></media:content>
+      <media:credit>Ty Wright for The New York Times</media:credit>
+      <media:description>&amp;ldquo;The way that wealth is generally created for most Americans is, wealth begets more wealth,&amp;rdquo; says Darrick Hamilton, an economist and executive director of the Kirwan Institute at Ohio State University.</media:description>
+    </item>
+    <item>
+      <title>Bayern 8, Barcelona 2. The End.</title>
+      <link>https://www.nytimes.com/2020/08/14/sports/soccer/bayern-barcelona-8-2-champions-league.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/08/14/sports/soccer/bayern-barcelona-8-2-champions-league.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/08/14/sports/soccer/bayern-barcelona-8-2-champions-league.html" rel="standout"></atom:link>
+      <description>A thrashing in the Champions League quarterfinals showed Bayern Munich at the peak of its powers and Barcelona at the end of the line.</description>
+      <dc:creator>Rory Smith</dc:creator>
+      <pubDate>Sat, 15 Aug 2020 01:42:20 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Soccer</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">UEFA Champions League (Soccer)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Barcelona (Soccer Team)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Bayern Munich (Soccer Team)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Messi, Lionel</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/14/sports/14onsoccer-messi-sub/14onsoccer-messi-sub-moth.jpg" width="151"></media:content>
+      <media:credit>Pool photo by Manu Fernandez</media:credit>
+      <media:description>Lionel Messi has had much better nights in the Champions League.</media:description>
+    </item>
+    <item>
+      <title>Feel Like You’re Going Out of Your Mind? Consider Your Mind-Set</title>
+      <link>https://www.nytimes.com/2020/08/12/well/growth-mindset-resilience.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/08/12/well/growth-mindset-resilience.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/08/12/well/growth-mindset-resilience.html" rel="standout"></atom:link>
+      <description>No one likes to make mistakes, but how you manage them can be a key to a stronger future.</description>
+      <dc:creator>Alina Tugend</dc:creator>
+      <pubDate>Wed, 12 Aug 2020 19:03:33 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Education</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mental Health and Disorders</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/12/multimedia/12sp-resilence-NEW-tugend/12sp-resilence-NEW-tugend-moth.jpg" width="151"></media:content>
+      <media:credit>Monika Aichele</media:credit>
+    </item>
+    <item>
+      <title>What Happens When the Season Changes?</title>
+      <link>https://www.nytimes.com/2020/08/12/at-home/newsletter.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/08/12/at-home/newsletter.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/08/12/at-home/newsletter.html" rel="standout"></atom:link>
+      <description>Taking refuge outdoors is still an option.</description>
+      <dc:creator>Sam Sifton</dc:creator>
+      <pubDate>Thu, 13 Aug 2020 10:53:18 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Quarantine (Life and Culture)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/09/multimedia/09AHcoverillo-charlotteager/09AHcoverillo-charlotteager-moth.jpg" width="151"></media:content>
+      <media:credit>Charlotte Ager</media:credit>
+    </item>
+    <item>
+      <title>How to Add More Play to Your Grown-Up Life — Even Now</title>
+      <link>https://www.nytimes.com/2020/08/14/smarter-living/adults-play-work-life-balance.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/08/14/smarter-living/adults-play-work-life-balance.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/08/14/smarter-living/adults-play-work-life-balance.html" rel="standout"></atom:link>
+      <description>Play can feel silly, unproductive and time consuming. And that’s precisely the point.</description>
+      <dc:creator>Kristin Wong</dc:creator>
+      <pubDate>Fri, 14 Aug 2020 21:31:38 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Work-Life Balance</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Leisure</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mental Health and Disorders</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Age, Chronological</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Happiness</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/01/24/smarter-living/00sl-play-promo/00sl-play-promo-moth-v2.jpg" width="151"></media:content>
+      <media:credit>Lorraine Sorlet </media:credit>
+    </item>
+    <item>
+      <title>Are You Overpraising Your Child?</title>
+      <link>https://www.nytimes.com/2020/08/13/parenting/praising-children.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/08/13/parenting/praising-children.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/08/13/parenting/praising-children.html" rel="standout"></atom:link>
+      <description>All those “Good jobs!” might be undermining kids’ independence and self-confidence.</description>
+      <dc:creator>Paul L. Underwood</dc:creator>
+      <pubDate>Thu, 13 Aug 2020 16:07:20 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Parenting</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Children and Childhood</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Anxiety and Stress</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/03/multimedia/praising-your-child/praising-your-child-moth.jpg" width="151"></media:content>
+      <media:credit>João Fazenda</media:credit>
+    </item>
+    <item>
+      <title>Stay Cool Without Racking Up a Bill</title>
+      <link>https://www.nytimes.com/2020/08/08/at-home/lower-air-conditioning-bill.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/08/08/at-home/lower-air-conditioning-bill.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/08/08/at-home/lower-air-conditioning-bill.html" rel="standout"></atom:link>
+      <description>Four ways to air-condition your home more efficiently in the summer heat.</description>
+      <dc:creator>Sara Aridi</dc:creator>
+      <pubDate>Sat, 08 Aug 2020 21:00:07 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Service</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Energy Efficiency</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fans (Airflow)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Air Conditioning</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/09/multimedia/09AH-airconditioners/09AH-airconditioners-moth.jpg" width="151"></media:content>
+      <media:credit>Jordan Awan</media:credit>
+    </item>
+    <item>
+      <title>Cracking Codes With Sanford Biggers</title>
+      <link>https://www.nytimes.com/2020/08/14/arts/design/sanford-biggers-quilt-bronx-museum.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/08/14/arts/design/sanford-biggers-quilt-bronx-museum.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/08/14/arts/design/sanford-biggers-quilt-bronx-museum.html" rel="standout"></atom:link>
+      <description>“You don’t have to follow the norms,” says this artist who makes wrenching sculptures transformed by gunfire and radically altered heirloom quilts. A studio visit sheds light on his personal journey.</description>
+      <dc:creator>Siddhartha Mitter</dc:creator>
+      <pubDate>Fri, 14 Aug 2020 14:00:11 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Art</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Quilts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sculpture</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Bronx Museum of the Arts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biggers, Sanford</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Black People</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Moon Medicin (Music Group)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/16/arts/16BIGGERS-main/16BIGGERS-main-moth.jpg" width="151"></media:content>
+      <media:credit>Gioncarlo Valentine for The New York Times</media:credit>
+      <media:description>Sanford Biggers, in his Harlem studio, works with antique quilts, disrupting them with bold paint strokes, or a grid, or cutting into them. “They’re portals,” the artist said. “I consider them between painting, drawing and sculpture, and a repository of memory.”</media:description>
+    </item>
+    <item>
+      <title>Taking the Edinburgh Fringe’s Madcap Energy Online</title>
+      <link>https://www.nytimes.com/2020/08/14/theater/edinburgh-fringe-festival-online.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/08/14/theater/edinburgh-fringe-festival-online.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/08/14/theater/edinburgh-fringe-festival-online.html" rel="standout"></atom:link>
+      <description>For the first time in its 73-year history, the hugely influential festival is canceled. Devoted fans and theater makers are finding ways to keep the spirit alive.</description>
+      <dc:creator>Alice Jones</dc:creator>
+      <pubDate>Fri, 14 Aug 2020 14:07:35 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Comedy and Humor</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Theater</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Edinburgh Festival Fringe</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/15/arts/14edinburgh1/14edinburgh1-moth.jpg" width="151"></media:content>
+      <media:credit>Richard Lakos</media:credit>
+      <media:description>From left, Gary McNair, Annie George, Harriet Bolwell and Francesca Moody with one of the sheds used for &amp;ldquo;Shedinburgh,&amp;rdquo; a livestreamed comedy and drama festival.</media:description>
+    </item>
+    <item>
+      <title>A Bouquet of Group Art Shows Near Houston Street</title>
+      <link>https://www.nytimes.com/2020/08/13/arts/design/nyc-galleries-art-shows.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/08/13/arts/design/nyc-galleries-art-shows.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/08/13/arts/design/nyc-galleries-art-shows.html" rel="standout"></atom:link>
+      <description>These expansive exhibitions, in galleries on or near the Lower East Side, create an immersive sense of art and the reawakening art scene.</description>
+      <dc:creator>Roberta Smith</dc:creator>
+      <pubDate>Fri, 14 Aug 2020 14:17:42 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Art</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Edlin, Andrew, Gallery (Manhattan, NY)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Harvey, Steven, Fine Art Projects</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Karma Gallery (Manhattan, NY)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Tibor de Nagy Gallery</category>
+    </item>
+    <item>
+      <title>Tackling a Century-Old Mystery: Did My Grandmother Vote?</title>
+      <link>https://www.nytimes.com/2020/08/14/us/suffrage-segregation-voting-black-women-19th-amendment.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/08/14/us/suffrage-segregation-voting-black-women-19th-amendment.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/08/14/us/suffrage-segregation-voting-black-women-19th-amendment.html" rel="standout"></atom:link>
+      <description>Had she, in the throes of segregation and suffrage, cast a hard-won vote? I needed to know.</description>
+      <dc:creator>Martha S. Jones</dc:creator>
+      <pubDate>Fri, 14 Aug 2020 22:59:03 +0000</pubDate>
+      <category domain="">2020 Suffrage</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Voter Registration and Requirements</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Women&#39;s Rights</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Black People</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nineteenth Amendment (US Constitution)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Segregation and Desegregation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Jones, Martha S</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Jones, Susie W</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Brown, Charlotte Hawkins</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Bennett College</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">St Louis (Mo)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Greensboro (NC)</category>
+    </item>
+    <item>
+      <title>Kingston: A City Remade by the Coronavirus</title>
+      <link>https://www.nytimes.com/2020/08/14/realestate/kingston-coronavirus-new-residents.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/08/14/realestate/kingston-coronavirus-new-residents.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/08/14/realestate/kingston-coronavirus-new-residents.html" rel="standout"></atom:link>
+      <description>A writer who moved upstate for a slower lifestyle fears that the latest wave of migrants, fleeing Covid, will bring their worst instincts with them.</description>
+      <dc:creator>Sara B. Franklin</dc:creator>
+      <pubDate>Fri, 14 Aug 2020 16:44:35 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Real Estate and Housing (Residential)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Quarantine (Life and Culture)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Race and Ethnicity</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kingston (NY)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Gentrification</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Hudson River Valley (NY)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/16/realestate/14Domestic-Kingston/14Domestic-Kingston-moth.jpg" width="151"></media:content>
+      <media:credit>Jason Hoffman</media:credit>
+    </item>
+    <item>
+      <title>How Do You Solve a Moon Mystery? Fire a Laser at It</title>
+      <link>https://www.nytimes.com/2020/08/15/science/moon-lasers-dust.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/08/15/science/moon-lasers-dust.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/08/15/science/moon-lasers-dust.html" rel="standout"></atom:link>
+      <description>Researchers have used reflective prisms left on the moon’s surface for decades, but had increasingly seen problems with their effectiveness.</description>
+      <dc:creator>Katherine Kornei</dc:creator>
+      <pubDate>Sat, 15 Aug 2020 09:00:19 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Moon</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Laser (Light Amplification by Stimulated Emission of Radiation)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Aeronautics and Space Administration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Apollo Project</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Space and Astronomy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Weights and Measures</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Earth, Planets and Space (Journal)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/15/science/15SCI-MOONDUST1/15SCI-MOONDUST1-moth.jpg" width="151"></media:content>
+      <media:credit>NASA</media:credit>
+      <media:description>A laser reflecting panel, called a retroreflector, left by the Apollo 14 astronauts in 1971.</media:description>
+    </item>
+    <item>
+      <title>This Star Looked Like It Would Explode. Maybe It Just Sneezed</title>
+      <link>https://www.nytimes.com/2020/08/14/science/betelgeuse-star-supernova.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/08/14/science/betelgeuse-star-supernova.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/08/14/science/betelgeuse-star-supernova.html" rel="standout"></atom:link>
+      <description>The mysterious dimming of the red supergiant Betelgeuse is the result of a stellar exhalation, astronomers say.</description>
+      <dc:creator>Dennis Overbye</dc:creator>
+      <pubDate>Fri, 14 Aug 2020 16:18:48 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Stars and Galaxies</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hubble Space Telescope</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Telescopes and Observatories</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Space and Astronomy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Astrophysical Journal</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-science</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/14/science/14SCI-BETELGEUSE1/14SCI-BETELGEUSE1-moth.jpg" width="151"></media:content>
+      <media:credit>European Southern Observatory</media:credit>
+      <media:description>An image taken in February by the European Southern Observatory’s Very Large Telescope of the star Betelgeuse, in the constellation Orion, which has been observed to be dimming.</media:description>
+    </item>
+    <item>
+      <title>A Honeybee’s Tongue Is More Swiss Army Knife Than Ladle</title>
+      <link>https://www.nytimes.com/2020/08/11/science/honeybees-drink-video.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/08/11/science/honeybees-drink-video.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/08/11/science/honeybees-drink-video.html" rel="standout"></atom:link>
+      <description>Once again, insects prove to be more complicated than scientists thought they were.</description>
+      <dc:creator>James Gorman</dc:creator>
+      <pubDate>Tue, 11 Aug 2020 23:25:40 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Bees</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Tongue</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Animal Behavior</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Biology Letters (Journal)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Flowers and Plants</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-science</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-animals</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">University of Washington</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Sun Yat-sen University</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/11/science/11TB-BEES/11TB-BEES-moth.jpg" width="151"></media:content>
+      <media:credit>Jiangkun Wei</media:credit>
+      <media:description>Researchers found that bees’ tongues are so sensitive to the viscosity of nectar that “they switch at the exact point you would expect, to get the best reward for the energy invested.”</media:description>
+    </item>
+    <item>
+      <title>The Coronavirus Is New, but Your Immune System Might Still Recognize It</title>
+      <link>https://www.nytimes.com/2020/08/06/health/coronavirus-immune-cells.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/08/06/health/coronavirus-immune-cells.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/08/06/health/coronavirus-immune-cells.html" rel="standout"></atom:link>
+      <description>Some people carry immune cells called T cells that can capitalize on the virus’s resemblance to other members of its family tree.</description>
+      <dc:creator>Katherine J. Wu</dc:creator>
+      <pubDate>Thu, 06 Aug 2020 21:00:08 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Immune System</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vaccination and Immunization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-science</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-health</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/11/science/06VIRUS-CROSS-REACTIVE1/merlin_175379085_78b2b3e8-142e-42c8-a9a1-d1d49b9a539c-moth.jpg" width="151"></media:content>
+      <media:credit>Science Source</media:credit>
+      <media:description>A colorized scanning electron micrograph of a human T cell. Encounters with other coronaviruses may prime the immune system to fight the virus that causes Covid-19.</media:description>
+    </item>
+    <item>
+      <title>When Lamb Chops Met Romaine</title>
+      <link>https://www.nytimes.com/2020/08/14/dining/grilled-lamb-chops-recipe.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/08/14/dining/grilled-lamb-chops-recipe.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/08/14/dining/grilled-lamb-chops-recipe.html" rel="standout"></atom:link>
+      <description>The combination of grilled lamb chops, crisp romaine lettuce hearts and creamy ranch dressing is almost a salad, but not quite.</description>
+      <dc:creator>Melissa Clark</dc:creator>
+      <pubDate>Fri, 14 Aug 2020 16:28:39 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cooking and Cookbooks</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Lamb</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Salads</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Grilling (Cooking)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/19/dining/19appe1/19appe1-moth.jpg" width="151"></media:content>
+      <media:credit>Johnny Miller for The New York Times. Food Stylist: Rebecca Jurkevich.</media:credit>
+    </item>
+    <item>
+      <title>This Is Where I Stand</title>
+      <link>https://www.nytimes.com/2020/08/13/opinion/conservative-radicals.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/08/13/opinion/conservative-radicals.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/08/13/opinion/conservative-radicals.html" rel="standout"></atom:link>
+      <description>The power of conservative radicalism in an age of upheaval.</description>
+      <dc:creator>David Brooks</dc:creator>
+      <pubDate>Thu, 13 Aug 2020 22:41:23 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2020</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Discrimination</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fringe Groups and Movements</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/08/13/opinion/13brooks2/13brooks2-moth.jpg" width="151"></media:content>
+      <media:credit>Mason Trinca for The New York Times</media:credit>
+    </item>
+    <item>
+      <title>Comfort Viewing: 3 Reasons I Love ‘Silent Witness’</title>
+      <link>https://www.nytimes.com/2020/08/14/arts/television/silent-witness-bbc.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/08/14/arts/television/silent-witness-bbc.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/08/14/arts/television/silent-witness-bbc.html" rel="standout"></atom:link>
+      <description>Amid the real-life terrors of a pandemic, the writer takes solace in this long-running British crime series, which may be the only TV drama whose title character is a corpse.</description>
+      <dc:creator>Laurel Graeber</dc:creator>
+      <pubDate>Fri, 14 Aug 2020 20:19:19 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Television</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Fox, Emilia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Silent Witness (TV Program)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">British Broadcasting Corp</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Quarantine (Life and Culture)</category>
+    </item>
+    <item>
+      <title>Try Spelling Bee</title>
+      <link>https://www.nytimes.com/puzzles/spelling-bee</link>
+      <guid isPermaLink="true">https://www.nytimes.com/puzzles/spelling-bee</guid>
+      <atom:link href="https://www.nytimes.com/puzzles/spelling-bee" rel="standout"></atom:link>
+      <description>Puzzle throughout the day to see how many words you can find.</description>
+      <dc:creator>The New York Times</dc:creator>
+      <pubDate>Wed, 08 Jul 2020 19:16:41 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/03/23/crosswords/spelling-bee-logo-nytgames-hi-res/spelling-bee-logo-nytgames-hi-res-moth-v2.png" width="151"></media:content>
+      <media:credit>The New York Times</media:credit>
+    </item>
+    <item>
+      <title>The Crossword, Vertex and More</title>
+      <link>https://www.nytimes.com/crosswords</link>
+      <guid isPermaLink="true">https://www.nytimes.com/crosswords</guid>
+      <atom:link href="https://www.nytimes.com/crosswords" rel="standout"></atom:link>
+      <description>Solve the daily puzzle edited by Will Shortz, or try out other games like the Mini and Letter Boxed.</description>
+      <dc:creator>The New York Times</dc:creator>
+      <pubDate>Wed, 08 Jul 2020 19:16:41 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/03/23/crosswords/crossword-logo-nytgames-hires/crossword-logo-nytgames-hires-moth-v2.png" width="151"></media:content>
+      <media:credit>The New York Times</media:credit>
+    </item>
+    <item>
+      <title>Try Tiles</title>
+      <link>https://www.nytimes.com/puzzles/tiles</link>
+      <guid isPermaLink="true">https://www.nytimes.com/puzzles/tiles</guid>
+      <atom:link href="https://www.nytimes.com/puzzles/tiles" rel="standout"></atom:link>
+      <description>Our soothing matching game may help you de-stress.</description>
+      <dc:creator>The New York Times</dc:creator>
+      <pubDate>Wed, 08 Jul 2020 19:16:41 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/03/23/crosswords/tiles-logo-nytgames-hi-res/tiles-logo-nytgames-hi-res-moth-v2.png" width="151"></media:content>
+      <media:credit>The New York Times</media:credit>
+    </item>
+  </channel>
+</rss>

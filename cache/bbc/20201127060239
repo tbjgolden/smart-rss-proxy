@@ -1,0 +1,425 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet title="XSL_formatting" type="text/xsl" href="/shared/bsp/xsl/rss/nolsol.xsl"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News - Home]]></title>
+        <description><![CDATA[BBC News - Home]]></description>
+        <link>https://www.bbc.co.uk/news/</link>
+        <image>
+            <url>https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News - Home</title>
+            <link>https://www.bbc.co.uk/news/</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Fri, 27 Nov 2020 05:56:24 GMT</lastBuildDate>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Coronavirus: Tory MPs call for more evidence on 'appalling' Covid tiers plan]]></title>
+            <description><![CDATA[Some backbench MPs say the new restrictions could lead to "utter devastation" for local economies.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-politics-55097182</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-55097182</guid>
+            <pubDate>Fri, 27 Nov 2020 04:36:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid-19: NI under tough new lockdown measures]]></title>
+            <description><![CDATA[The measures which are designed to slow the spread of the virus came into force at 00:01 on Friday.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-55087816</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-55087816</guid>
+            <pubDate>Fri, 27 Nov 2020 00:02:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Oxford Covid vaccine: Regulator asked to assess jab]]></title>
+            <description><![CDATA[The referral is "a significant first step" to a possible rollout of the vaccine, the government says.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-55096434</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-55096434</guid>
+            <pubDate>Fri, 27 Nov 2020 02:32:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[US election: Trump signals he is prepared to leave White House]]></title>
+            <description><![CDATA[He has refused to concede the election but says he will quit if Joe Biden's victory is confirmed.]]></description>
+            <link>https://www.bbc.co.uk/news/election-us-2020-55096851</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/election-us-2020-55096851</guid>
+            <pubDate>Fri, 27 Nov 2020 02:54:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[October redundancies double last year's rate]]></title>
+            <description><![CDATA[With Covid cases rising and uncertainty over government support, employers planned 51,000 job cuts]]></description>
+            <link>https://www.bbc.co.uk/news/business-55077292</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-55077292</guid>
+            <pubDate>Fri, 27 Nov 2020 00:03:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Diego Maradona: Footballer laid to rest as Argentina grieves]]></title>
+            <description><![CDATA[The football legend is laid to rest in a private ceremony after a day of emotional scenes.]]></description>
+            <link>https://www.bbc.co.uk/news/world-latin-america-55060614</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-latin-america-55060614</guid>
+            <pubDate>Fri, 27 Nov 2020 00:20:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Cancer: Blood test for 50 types to be trialled by NHS]]></title>
+            <description><![CDATA[More than 165,000 people in England will be offered the tests from next year.]]></description>
+            <link>https://www.bbc.co.uk/news/health-55094301</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-55094301</guid>
+            <pubDate>Fri, 27 Nov 2020 00:00:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['This is War': Poland’s battle for abortion]]></title>
+            <description><![CDATA[People have taken to the streets as the government attempts to ban nearly all abortions.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-55077166</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-55077166</guid>
+            <pubDate>Fri, 27 Nov 2020 00:28:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Brexit: Face-to-face trade talks to resume in London]]></title>
+            <description><![CDATA[In-person meetings were suspended when EU chief negotiator Michel Barnier had to self-isolate.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-politics-55090861</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-55090861</guid>
+            <pubDate>Thu, 26 Nov 2020 22:56:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Kate warns of lockdown loneliness for parents]]></title>
+            <description><![CDATA[The Duchess of Cambridge highlights a "dramatic increase" in parents feeling cut off from support.]]></description>
+            <link>https://www.bbc.co.uk/news/education-55078644</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/education-55078644</guid>
+            <pubDate>Fri, 27 Nov 2020 00:00:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Controversial 'virginity tests' sold by UK clinics]]></title>
+            <description><![CDATA[The "unscientific" examinations are condemned by international organisations such as the UN.]]></description>
+            <link>https://www.bbc.co.uk/news/newsbeat-55078634</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/newsbeat-55078634</guid>
+            <pubDate>Fri, 27 Nov 2020 01:15:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Paris police officers suspended over beating of black music producer]]></title>
+            <description><![CDATA[Video of the three officers beating the music producer at his studio has caused an outcry in France.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-55091212</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-55091212</guid>
+            <pubDate>Thu, 26 Nov 2020 22:33:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Black Friday: Next, M&S and Wilko shun sales event]]></title>
+            <description><![CDATA[Although Black Friday spending in the UK is set to soar in 2020, some brands won't be taking part.]]></description>
+            <link>https://www.bbc.co.uk/news/business-55093002</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-55093002</guid>
+            <pubDate>Fri, 27 Nov 2020 00:02:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The papers: 'Tiers of rage and disbelief' as 'north sees red']]></title>
+            <description><![CDATA[Most papers lead on reaction to areas being placed within the government's tougher new tier system.]]></description>
+            <link>https://www.bbc.co.uk/news/blogs-the-papers-55096416</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/blogs-the-papers-55096416</guid>
+            <pubDate>Fri, 27 Nov 2020 05:55:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Quiz of the week: What went on with the Pope's social media?]]></title>
+            <description><![CDATA[How closely have you been paying attention to what's been going on during the past seven days?]]></description>
+            <link>https://www.bbc.co.uk/news/world-55057711</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-55057711</guid>
+            <pubDate>Fri, 27 Nov 2020 00:28:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus: When can I get the COVID-19 vaccine?]]></title>
+            <description><![CDATA[Excitement over the vaccine has turned to questions on the reality of when we can get it.]]></description>
+            <link>https://www.bbc.co.uk/news/health-55096276</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-55096276</guid>
+            <pubDate>Fri, 27 Nov 2020 00:15:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Oscar Saxelby-Lee turns on Worcester Christmas lights]]></title>
+            <description><![CDATA[People in the city helped to raise £750,000 for the six-year-old to undergo cancer treatment abroad.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-hereford-worcester-55071615</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-hereford-worcester-55071615</guid>
+            <pubDate>Thu, 26 Nov 2020 18:01:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Searching 80,000 miles for the American dream]]></title>
+            <description><![CDATA[Photographer Ian Brown travelled around the US in search of people's American dreams.]]></description>
+            <link>https://www.bbc.co.uk/news/in-pictures-54604504</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/in-pictures-54604504</guid>
+            <pubDate>Fri, 27 Nov 2020 00:30:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Death of England: The former prisoner turned leading man]]></title>
+            <description><![CDATA[Michael Balogun stars in Death of England: Delroy at The National Theatre.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-55089169</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-55089169</guid>
+            <pubDate>Fri, 27 Nov 2020 00:14:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['Holy grail' rail posters collection saved from attic]]></title>
+            <description><![CDATA[Great Western Railway posters dating back to the 1930s had been forgotten about for 60 years.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-bristol-55094176</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-bristol-55094176</guid>
+            <pubDate>Thu, 26 Nov 2020 19:45:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Cancelled prom pictures win £15,000 Taylor Wessing portrait prize]]></title>
+            <description><![CDATA[Alys Tomlinson's Lost Summer features school leavers denied their proms by the coronavirus pandemic.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-55089950</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-55089950</guid>
+            <pubDate>Thu, 26 Nov 2020 15:32:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Damilola Taylor: What lessons have been learnt 20 years on?]]></title>
+            <description><![CDATA[The killing of a 10-year-old boy shocked Britain. But what has the death taught police 20 years on?]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-london-55059793</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-55059793</guid>
+            <pubDate>Fri, 27 Nov 2020 04:51:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What's going on with Scottish independence?]]></title>
+            <description><![CDATA[Elections in 2021 and the pandemic have brought the issue of Scottish independence into the spotlight.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-politics-55087364</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-55087364</guid>
+            <pubDate>Fri, 27 Nov 2020 03:11:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Utah monolith: Internet sleuths got there, but its origins are still a mystery]]></title>
+            <description><![CDATA[The metal monolith sits deep in a desert easy to get lost in, so officials did not reveal its location.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-55071058</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-55071058</guid>
+            <pubDate>Thu, 26 Nov 2020 20:59:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ex-convict's tribute to 'special' Jack Merritt]]></title>
+            <description><![CDATA[Rosca Onya remembers the prison education worker killed in the Fishmongers' Hall attack a year ago.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-55084453</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-55084453</guid>
+            <pubDate>Fri, 27 Nov 2020 03:13:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Lockdown asylum freeze puts Iraqi doctor 'in limbo']]></title>
+            <description><![CDATA["Karim" wanted to help the NHS but the pandemic put his asylum claim on hold.]]></description>
+            <link>https://www.bbc.co.uk/news/education-55086216</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/education-55086216</guid>
+            <pubDate>Fri, 27 Nov 2020 03:12:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Is there a gap between public and private sector pay?]]></title>
+            <description><![CDATA[The chancellor has been making some claims about pay in the public and private sectors.]]></description>
+            <link>https://www.bbc.co.uk/news/55089900</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/55089900</guid>
+            <pubDate>Thu, 26 Nov 2020 18:26:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['Bros is back': Luke Goss on his Christmas film and making up with Matt]]></title>
+            <description><![CDATA[After his new Christmas movie Luke will reunite with twin Matt for the first Bros album in 30 years.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-55084784</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-55084784</guid>
+            <pubDate>Fri, 27 Nov 2020 03:14:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Oxford/AstraZeneca Covid vaccine 'dose error' explained]]></title>
+            <description><![CDATA[Some trial volunteers were given shots half the planned strength, so how does that affect the results?]]></description>
+            <link>https://www.bbc.co.uk/news/health-55086927</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-55086927</guid>
+            <pubDate>Thu, 26 Nov 2020 17:36:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[If public spending was £100, how would it be split?]]></title>
+            <description><![CDATA[Every year the chancellor doles out billions of pounds of taxpayer money, but where does it go?]]></description>
+            <link>https://www.bbc.co.uk/news/business-55071334</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-55071334</guid>
+            <pubDate>Thu, 26 Nov 2020 18:42:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus and gender: More chores for women set back gains in equality]]></title>
+            <description><![CDATA[Women take on the burden of unpaid chores during Covid, UN data shows, threatening gender equality.]]></description>
+            <link>https://www.bbc.co.uk/news/world-55016842</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-55016842</guid>
+            <pubDate>Thu, 26 Nov 2020 00:38:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mourinho praises 'team player' Alli after emphatic win against Ludogorets]]></title>
+            <description><![CDATA[Jose Mourinho praises Dele Alli for being a "team player" after the playmaker's performance helps Tottenham to a 4-0 Europa League win against Ludogorets.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/55071634</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/55071634</guid>
+            <pubDate>Thu, 26 Nov 2020 23:58:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Sloppy Celtic out of Europa League after 4-1 loss to Sparta Prague]]></title>
+            <description><![CDATA[Celtic's Europa League campaign will end at the group stage as successive 4-1 defeats by Sparta Prague heaps more pressure on Neil Lennon.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/55031903</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/55031903</guid>
+            <pubDate>Thu, 26 Nov 2020 19:49:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Diego Maradona dies: Guillem Balague on 'the magician, the cheat, the god, the flawed genius']]></title>
+            <description><![CDATA[Guillem Balague has spent much of 2020 working on a Diego Maradona book - and it has opened his eyes about a man he thought he already knew.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/55084504</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/55084504</guid>
+            <pubDate>Thu, 26 Nov 2020 11:01:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Lewis Hamilton: Formula 1 'needs to do more' on human rights in host countries]]></title>
+            <description><![CDATA[Lewis Hamilton says Formula 1 "needs to do more" to try to improve human rights issues in some of its host countries.]]></description>
+            <link>https://www.bbc.co.uk/sport/formula1/55091709</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/formula1/55091709</guid>
+            <pubDate>Thu, 26 Nov 2020 17:53:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Vardy sends Leicester into last 32 after dramatic finale]]></title>
+            <description><![CDATA[Jamie Vardy scores a dramatic injury-time goal to send Leicester into the knockout stages of the Europa League with a draw against Braga.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/55071641</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/55071641</guid>
+            <pubDate>Thu, 26 Nov 2020 21:54:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Manchester United will not say if they have received ransom demands over cyber attack]]></title>
+            <description><![CDATA[Manchester United will not say if they have received ransom demands over the cyber attack on the club last week that forced them to shut down their systems.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/55094962</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/55094962</guid>
+            <pubDate>Thu, 26 Nov 2020 22:45:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[South Africa v England: Eoin Morgan says he does not know best T20 side]]></title>
+            <description><![CDATA[Captain Eoin Morgan says there are seven or eight "pretty strong candidates" to be in England's best team, less than a year before the T20 World Cup.]]></description>
+            <link>https://www.bbc.co.uk/sport/cricket/55084964</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/cricket/55084964</guid>
+            <pubDate>Thu, 26 Nov 2020 14:21:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Lockdown rules: What Covid tier is your area in and what are the restrictions?]]></title>
+            <description><![CDATA[Use our search tool to find out about coronavirus rules and restrictions where you live.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-54373904</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-54373904</guid>
+            <pubDate>Thu, 26 Nov 2020 14:23:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid: What are the new tiers and lockdown rules in England, Scotland, Wales and Northern Ireland?]]></title>
+            <description><![CDATA[England will move to a tougher version of tiered coronavirus restrictions when lockdown ends next week.]]></description>
+            <link>https://www.bbc.co.uk/news/explainers-52530518</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-52530518</guid>
+            <pubDate>Thu, 26 Nov 2020 18:08:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid: Can we have a pub lunch on Boxing Day? And other questions]]></title>
+            <description><![CDATA[We answer some of your questions about the Oxford vaccine.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-china-51176409</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-china-51176409</guid>
+            <pubDate>Thu, 26 Nov 2020 15:26:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid-19 in the UK: How many coronavirus cases are there in your area?]]></title>
+            <description><![CDATA[Explore the data on coronavirus in the UK and find out how many cases there are in your area.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-51768274</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-51768274</guid>
+            <pubDate>Thu, 26 Nov 2020 17:13:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus: How to get a Covid test]]></title>
+            <description><![CDATA[What are the tests for coronavirus, who are they for and how do they work?]]></description>
+            <link>https://www.bbc.co.uk/news/health-51943612</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-51943612</guid>
+            <pubDate>Mon, 16 Nov 2020 17:32:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid symptoms: What are they and how do I protect myself?]]></title>
+            <description><![CDATA[A new cough, fever and change in smell or taste are the key symptoms that mean you may have coronavirus.]]></description>
+            <link>https://www.bbc.co.uk/news/health-51048366</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-51048366</guid>
+            <pubDate>Fri, 25 Sep 2020 10:29:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Christmas Covid rules: Who are you allowed to see?]]></title>
+            <description><![CDATA[Restrictions will be temporarily eased around the UK, but there are still rules about what you can do.]]></description>
+            <link>https://www.bbc.co.uk/news/explainers-55056375</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-55056375</guid>
+            <pubDate>Thu, 26 Nov 2020 11:14:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid: Seven things that may be different this Christmas]]></title>
+            <description><![CDATA[Restrictions on social gatherings may be eased so families can get together for the festive period.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-54099810</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-54099810</guid>
+            <pubDate>Thu, 26 Nov 2020 10:07:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid: How to keep the virus at bay this Christmas]]></title>
+            <description><![CDATA[Christmas could be a dangerous time to contract the virus - but precautions can be taken.]]></description>
+            <link>https://www.bbc.co.uk/news/explainers-55017034</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-55017034</guid>
+            <pubDate>Tue, 24 Nov 2020 18:01:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid vaccines: Who decides if they are safe?]]></title>
+            <description><![CDATA[Busting myths and explaining the facts around immunisation.]]></description>
+            <link>https://www.bbc.co.uk/news/health-55056016</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-55056016</guid>
+            <pubDate>Tue, 24 Nov 2020 17:22:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid: What are the new rules for pubs and restaurants?]]></title>
+            <description><![CDATA[New rules for pubs in England come into effect on 2 December after the second lockdown ends.]]></description>
+            <link>https://www.bbc.co.uk/news/business-52977388</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-52977388</guid>
+            <pubDate>Wed, 25 Nov 2020 10:28:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Christmas rules: What can you do in a Covid Christmas?]]></title>
+            <description><![CDATA[How you and your family can celebrate Christmas and minimise the spread of coronavirus.]]></description>
+            <link>https://www.bbc.co.uk/news/explainers-55065919</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-55065919</guid>
+            <pubDate>Tue, 24 Nov 2020 20:57:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid: What are the quarantine rules when arriving in the UK?]]></title>
+            <description><![CDATA[Travellers arriving from almost all other countries must self-isolate on entry to the UK.]]></description>
+            <link>https://www.bbc.co.uk/news/explainers-52544307</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-52544307</guid>
+            <pubDate>Thu, 26 Nov 2020 19:15:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid: How will I get a coronavirus vaccine?]]></title>
+            <description><![CDATA[Several vaccines are showing promise and one is already being reviewed by the UK regulator.]]></description>
+            <link>https://www.bbc.co.uk/news/health-55045639</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-55045639</guid>
+            <pubDate>Tue, 24 Nov 2020 01:58:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid vaccine update: When will one be ready?]]></title>
+            <description><![CDATA[Hopes are rising that an effective vaccine against Covid-19 will be available soon.]]></description>
+            <link>https://www.bbc.co.uk/news/health-51665497</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-51665497</guid>
+            <pubDate>Mon, 23 Nov 2020 08:24:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why the Oxford vaccine matters]]></title>
+            <description><![CDATA[Why news on this vaccine is particularly important for people living in the UK.]]></description>
+            <link>https://www.bbc.co.uk/news/explainers-55044811</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-55044811</guid>
+            <pubDate>Mon, 23 Nov 2020 13:54:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid: What is mass testing and how does it work?]]></title>
+            <description><![CDATA[Tier three areas of England will be offered mass testing after a successful pilot in Liverpool.]]></description>
+            <link>https://www.bbc.co.uk/news/explainers-54872039</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-54872039</guid>
+            <pubDate>Thu, 26 Nov 2020 19:32:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus: How to be happier while working from home]]></title>
+            <description><![CDATA[Tips on happier ways to work from home in the Covid-19 pandemic and beyond.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-54886125</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-54886125</guid>
+            <pubDate>Tue, 17 Nov 2020 00:35:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid: What does my boss have to do to keep me safe?]]></title>
+            <description><![CDATA[With Boris Johnson self-isolating after a meeting, what do employers have to do to keep their staff safe?]]></description>
+            <link>https://www.bbc.co.uk/news/business-52567567</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-52567567</guid>
+            <pubDate>Wed, 18 Nov 2020 10:17:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus: How does Covid-19 test-and-trace work?]]></title>
+            <description><![CDATA[The scheme told Dido Harding she had to self-isolate, a week after her husband was also told to isolate.]]></description>
+            <link>https://www.bbc.co.uk/news/explainers-52442754</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-52442754</guid>
+            <pubDate>Wed, 18 Nov 2020 11:13:01 GMT</pubDate>
+        </item>
+    </channel>
+</rss>

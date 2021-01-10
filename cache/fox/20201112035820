@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" media="screen" href="/~d/styles/rss2full.xsl"?><?xml-stylesheet type="text/css" media="screen" href="http://feeds.foxnews.com/~d/styles/itemcontent.css"?><rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+                    <title>FOX News</title>
+    <link>http://www.foxnews.com/</link>
+    <description><![CDATA[FOXNews.com - Breaking news and video. Latest Current News: U.S., World, Entertainment, Health, Business, Technology, Politics, Sports.]]></description>
+        <image>
+    	<url>http://tools.foxnews.com/sites/tools.foxnews.com/files/images/fox-news-logo.png</url>
+    	<title>FOX News</title>
+    	<link>http://www.foxnews.com/</link>
+    </image>
+            <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feeds.foxnews.com/foxnews/latest" /><feedburner:info xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" uri="foxnews/latest" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /><item>
+                  <guid isPermaLink="true">https://www.foxnews.com/opinion/tucker-carlson-2020-presidential-election-voter-fraud-dead-voters</guid>
+      <link>https://www.foxnews.com/opinion/tucker-carlson-2020-presidential-election-voter-fraud-dead-voters</link>
+                  <media:group>
+        <media:content url="https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/187cf7d9-dac3-4af6-8954-7f632cb00b11/23aa4f39-c2ca-4017-a6aa-4ade4bb066a7/1280x720/match/image.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/image.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/image.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">9aef4bbe-eb9f-55ee-b1bd-6fe3d04dd00f</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/shows/tucker-carlson-tonight</category>
+            <category domain="foxnews.com/taxonomy">fox-news/shows/tucker-carlson-tonight/transcript/tuckers-monologue</category>
+            <category domain="foxnews.com/taxonomy">fox-news/politics/elections/voter-fraud-concerns</category>
+            <category domain="foxnews.com/taxonomy">fox-news/politics/elections</category>
+            <category domain="foxnews.com/taxonomy">fox-news/politics/2020-presidential-election</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us/us-regions/west/nevada</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us/us-regions/southeast/georgia</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us/us-regions/northeast/pennsylvania</category>
+            <category domain="foxnews.com/taxonomy">fox-news/politics/elections/democrats</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/opinion</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Tucker Carlson: Yes, dead people voted in this election and Democrats helped make it happen</title>
+      <description>Dead people, like any other group, tend to vote more often when you make it easier for them to vote, and this year, we made it much easier for the dead to vote.</description>
+                  <dc:creator>Tucker Carlson</dc:creator>
+                         <pubDate>Thu, 12 Nov 2020 03:33:49 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Tucker Carlson</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/politics/georgia-democrat-senate-candidate-baltimore-church</guid>
+      <link>https://www.foxnews.com/politics/georgia-democrat-senate-candidate-baltimore-church</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/11/LoefflerWarnockSplit.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/LoefflerWarnockSplit.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/LoefflerWarnockSplit.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">0a4957b2-ee29-59ef-bd58-47a4b89de768</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/us/us-regions/southeast/georgia</category>
+            <category domain="foxnews.com/taxonomy">fox-news/politics</category>
+            <category domain="foxnews.com/taxonomy">fox-news/politics/2020-senate-races</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us/us-regions/southeast</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/politics</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Allegations in Georgia Democrat's handling of child abuse case resurface</title>
+      <description>With their Georgia Senate race headed for a runoff election in January, the mudslinging is ramping up between Sen. Kelly Loeffler and her Democratic challenger Raphael Warnock.</description>
+                  <dc:creator>Michael Ruiz</dc:creator>
+            <dc:creator>Sam Dorman</dc:creator>
+                         <pubDate>Thu, 12 Nov 2020 03:04:26 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Michael Ruiz</category>
+            <category domain="foxnews.com/metadata/dc.creator">Sam Dorman</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/politics/soros-district-attorney-races-2020</guid>
+      <link>https://www.foxnews.com/politics/soros-district-attorney-races-2020</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/01/Geroge-Soros-WEF-Getty.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/Geroge-Soros-WEF-Getty.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/Geroge-Soros-WEF-Getty.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">1c0e5a90-c33c-5f54-906f-4d000f2f417f</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/person/george-soros</category>
+            <category domain="foxnews.com/taxonomy">fox-news/politics/state-and-local/elections</category>
+            <category domain="foxnews.com/taxonomy">fox-news/politics/judiciary</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/politics</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Soros resources help district attorney races go liberal</title>
+      <description>More district attorneys have won elections this cycle with the help of money tied to megadonor George Soros, raising additional questions about the the billionaire's apparently ongoing campaign to influence local law enforcement.</description>
+                  <dc:creator>Sam Dorman</dc:creator>
+                         <pubDate>Thu, 12 Nov 2020 03:02:13 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Sam Dorman</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/great-outdoors/grocery-stealing-lake-tahoe-bear-released-back-wild</guid>
+      <link>https://www.foxnews.com/great-outdoors/grocery-stealing-lake-tahoe-bear-released-back-wild</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/08/bear-Government-of-Saskatchewan.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/bear-Government-of-Saskatchewan.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/bear-Government-of-Saskatchewan.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">240027fd-0dac-5ff9-beaa-6cde9eaa949b</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/travel/vacation-destinations/lake-tahoe</category>
+            <category domain="foxnews.com/taxonomy">fox-news/odd-news</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us/us-regions/west/california</category>
+            <category domain="foxnews.com/taxonomy">fox-news/lifestyle</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/great-outdoors</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Grocery-stealing Lake Tahoe bear released back in wild, officials share</title>
+      <description>When a Lake Tahoe community had an unbearable problem, California wildlife officials stepped in to help.</description>
+                  <dc:creator>James Leggate</dc:creator>
+                         <pubDate>Thu, 12 Nov 2020 02:59:29 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">James Leggate</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/politics/us-china-relationship-challenge-biden</guid>
+      <link>https://www.foxnews.com/politics/us-china-relationship-challenge-biden</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/11/AP20315794984780.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/AP20315794984780.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/AP20315794984780.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">b2f4941c-53d9-5533-b662-d572fab07681</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/world/world-regions/hong-kong</category>
+            <category domain="foxnews.com/taxonomy">fox-news/world/world-regions/china</category>
+            <category domain="foxnews.com/taxonomy">fox-news/person/joe-biden</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/politics</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>US-China relationship remains a challenge for Biden amid Hong Kong struggles</title>
+      <description>Chinese President Xi Jinping is one of the few major super powers yet to congratulate president-elect Joe Biden on his presidential win, though this is unlikely to further tamper the slew of foreign policy challenges facing U.S.-China relations.</description>
+                  <dc:creator>Caitlin McFall</dc:creator>
+                         <pubDate>Thu, 12 Nov 2020 02:48:39 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Caitlin McFall</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/entertainment/cma-awards-2020-reba-mcentire-red-carpet-debut-boyfriend-rex-linn</guid>
+      <link>https://www.foxnews.com/entertainment/cma-awards-2020-reba-mcentire-red-carpet-debut-boyfriend-rex-linn</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/11/Reba-McEntire-Rex-Linn.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/Reba-McEntire-Rex-Linn.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/Reba-McEntire-Rex-Linn.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">fd04e7cc-75d4-53a5-bfc3-6040a062a6aa</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/entertainment/events/cma-awards</category>
+            <category domain="foxnews.com/taxonomy">fox-news/entertainment/celebrity-news</category>
+            <category domain="foxnews.com/taxonomy">fox-news/entertainment/genres/country</category>
+            <category domain="foxnews.com/taxonomy">fox-news/entertainment/events/couples</category>
+            <category domain="foxnews.com/taxonomy">fox-news/entertainment</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/entertainment</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>At CMA Awards, Reba McEntire, Rex Linn make red carpet debut</title>
+      <description>Reba McEntire and actor Rex Linn made their red carpet debut at the 2020 CMA Awards.</description>
+                  <dc:creator>Nate Day</dc:creator>
+                         <pubDate>Thu, 12 Nov 2020 02:37:10 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Nate Day</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/entertainment/maren-morris-sheer-see-through-robe-2020-cma-awards</guid>
+      <link>https://www.foxnews.com/entertainment/maren-morris-sheer-see-through-robe-2020-cma-awards</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/11/GettyImages-1229584412.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/GettyImages-1229584412.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/GettyImages-1229584412.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">115ed824-8dfa-58ba-9ec7-a49dff904ac3</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/entertainment/events/cma-awards</category>
+            <category domain="foxnews.com/taxonomy">fox-news/person/maren-morris</category>
+            <category domain="foxnews.com/taxonomy">fox-news/entertainment/genres/country</category>
+            <category domain="foxnews.com/taxonomy">fox-news/entertainment/music</category>
+            <category domain="foxnews.com/taxonomy">fox-news/entertainment</category>
+            <category domain="foxnews.com/taxonomy">fox-news/entertainment/celebrity-news</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/entertainment</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>New mom Maren Morris sports sheer see-through robe at 2020 CMA Awards</title>
+      <description>Morris is nominated for a total of five CMA Awards. </description>
+                  <dc:creator>Julius Young</dc:creator>
+                         <pubDate>Thu, 12 Nov 2020 02:33:13 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Julius Young</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/us/antifa-portland-meetup-covid</guid>
+      <link>https://www.foxnews.com/us/antifa-portland-meetup-covid</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/11/AP20309343074390.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/AP20309343074390.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/AP20309343074390.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">0b7e7398-5912-5f6a-944e-2bf82dd0a33f</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/us/portland</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us/crime/antifa</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us/us-protests</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/us</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Antifa planning Portland meetup in defiance of COVID-19 rules, online posts reportedly reveal</title>
+      <description>Demonstrators allegedly aligned with Antifa are expected to meet up at a downtown Portland business zone Wednesday night in a continuation of nightly protests, according to posts made on social media.</description>
+                  <dc:creator>Louis Casiano</dc:creator>
+                         <pubDate>Thu, 12 Nov 2020 02:31:37 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Louis Casiano</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/politics/flashback-bidens-chief-of-staff-obama-admin-h1n1</guid>
+      <link>https://www.foxnews.com/politics/flashback-bidens-chief-of-staff-obama-admin-h1n1</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/11/Ronald-Klain-GETTY.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/Ronald-Klain-GETTY.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/Ronald-Klain-GETTY.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">16936c10-1464-5781-945a-077fcffd28cc</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/health/infectious-disease/coronavirus</category>
+            <category domain="foxnews.com/taxonomy">fox-news/person/joe-biden</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/politics</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>FLASHBACK: Biden's chief of staff pick admits Obama admin did everything wrong with H1N1</title>
+      <description>The former Obama administration official said it was pure luck H1N1 wasn’t one of the great mass casualty events in American history.</description>
+                  <dc:creator>Brittany De Lea</dc:creator>
+                         <pubDate>Thu, 12 Nov 2020 02:30:19 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Brittany De Lea</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/entertainment/cmas-2020-kelsea-ballerini-floral-gown</guid>
+      <link>https://www.foxnews.com/entertainment/cmas-2020-kelsea-ballerini-floral-gown</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/11/8086f4fd-Kelsea-Ballerini.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/8086f4fd-Kelsea-Ballerini.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/8086f4fd-Kelsea-Ballerini.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">5ab8e213-b810-57f3-9ab0-6e4dba3bba3b</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/entertainment/events/cma-awards</category>
+            <category domain="foxnews.com/taxonomy">fox-news/entertainment</category>
+            <category domain="foxnews.com/taxonomy">fox-news/entertainment/celebrity-news</category>
+            <category domain="foxnews.com/taxonomy">fox-news/entertainment/style</category>
+            <category domain="foxnews.com/taxonomy">fox-news/entertainment/genres/country</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/entertainment</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Kelsea Ballerini wows in sheer floral gown at 2020 CMA Awards</title>
+      <description>"Dibs" singer Kelsea Ballerini took to the 2020 CMAs red carpet wearing a gown decorated with flowers.</description>
+                  <dc:creator>Nate Day</dc:creator>
+                         <pubDate>Thu, 12 Nov 2020 02:30:11 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Nate Day</category>
+                            </item>
+      </channel>
+</rss>

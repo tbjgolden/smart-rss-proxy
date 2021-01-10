@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" media="screen" href="/~d/styles/rss2full.xsl"?><?xml-stylesheet type="text/css" media="screen" href="http://feeds.foxnews.com/~d/styles/itemcontent.css"?><rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+                    <title>FOX News</title>
+    <link>http://www.foxnews.com/</link>
+    <description><![CDATA[FOXNews.com - Breaking news and video. Latest Current News: U.S., World, Entertainment, Health, Business, Technology, Politics, Sports.]]></description>
+        <image>
+    	<url>http://tools.foxnews.com/sites/tools.foxnews.com/files/images/fox-news-logo.png</url>
+    	<title>FOX News</title>
+    	<link>http://www.foxnews.com/</link>
+    </image>
+            <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feeds.foxnews.com/foxnews/latest" /><feedburner:info xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" uri="foxnews/latest" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /><item>
+                  <guid isPermaLink="true">https://www.foxnews.com/entertainment/mel-gibson-talks-about-braveheart-hollywoods-coronavirus-battle-and-why-he-steers-clear-of-politics</guid>
+      <link>https://www.foxnews.com/entertainment/mel-gibson-talks-about-braveheart-hollywoods-coronavirus-battle-and-why-he-steers-clear-of-politics</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/12/Video-2020-12-29T223556.320.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/Video-2020-12-29T223556.320.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/Video-2020-12-29T223556.320.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">e9e55d5f-2db7-5969-a669-21cdbcb6d80d</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/shows/ingraham-angle</category>
+            <category domain="foxnews.com/taxonomy">fox-news/entertainment/media</category>
+            <category domain="foxnews.com/taxonomy">fox-news/media/fox-news-flash</category>
+            <category domain="foxnews.com/taxonomy">fox-news/entertainment/movies</category>
+            <category domain="foxnews.com/taxonomy">fox-news/entertainment/celebrity-news</category>
+            <category domain="foxnews.com/taxonomy">fox-news/entertainment</category>
+            <category domain="foxnews.com/taxonomy">fox-news/lifestyle/occasions/christmas</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us/education/patriotism</category>
+            <category domain="foxnews.com/taxonomy">fox-news/health/infectious-disease/coronavirus</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/entertainment</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Mel Gibson talks about 'Braveheart,' Hollywood's coronavirus battle -- and why he steers clear of politics</title>
+      <description>Actor and Oscar-winning director Mel Gibson spoke exclusively with "The Ingraham Angle" on Tuesday, celebrating the 25th anniversary of his acclaimed film "Braveheart," his newest project, "Fatman" -- and commenting on how the coronavirus has affected Hollywood.</description>
+                  <dc:creator>Charles Creitz</dc:creator>
+                         <pubDate>Wed, 30 Dec 2020 05:05:38 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Charles Creitz</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/health/live-updates-coronavirus-12-30-2020</guid>
+      <link>https://www.foxnews.com/health/live-updates-coronavirus-12-30-2020</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/12/AP20364030902974.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/AP20364030902974.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/AP20364030902974.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">849b41f5-591e-5407-b0c8-6af4bf8f3670</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/news-events/live-coverage</category>
+            <category domain="foxnews.com/taxonomy">fox-news/health/infectious-disease/coronavirus</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/health</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Live Updates: First case of highly contagious coronavirus variant found in Colorado</title>
+      <description>Vaccines being given now are thought to be effective against the variant</description>
+                   <pubDate>Wed, 30 Dec 2020 05:03:28 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                              <category domain="foxnews.com/dateline" />
+                                  </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/politics/live-updates-georgia-12-30-2020</guid>
+      <link>https://www.foxnews.com/politics/live-updates-georgia-12-30-2020</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/12/AP20357783791355.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/AP20357783791355.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/AP20357783791355.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">973f35b5-8837-5892-a2f2-a11cc6951bc3</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/news-events/live-coverage</category>
+            <category domain="foxnews.com/taxonomy">fox-news/politics/2020-senate-races</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/politics</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Live Updates: Georgia Gov. Kemp continues to ensure ballot security ahead of Senate runoffs</title>
+      <description>Sens. David Perdue and Kelly Loeffler are aiming to hold off Democrats Jon Ossoff and Raphael Warnock</description>
+                   <pubDate>Wed, 30 Dec 2020 05:03:25 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                              <category domain="foxnews.com/dateline" />
+                                  </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/politics/live-updates-biden-12-30-2020</guid>
+      <link>https://www.foxnews.com/politics/live-updates-biden-12-30-2020</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/12/AP20357736550164.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/AP20357736550164.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/AP20357736550164.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">346b5e29-5d1f-56e6-897d-caac5244c97a</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/news-events/live-coverage</category>
+            <category domain="foxnews.com/taxonomy">fox-news/person/joe-biden</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/politics</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Live Updates: Biden warns Trump administration’s efforts to vaccinate Americans 'falling behind'</title>
+      <description>The president-elect also criticized the outgoing administration's lack of COVID testing for Americans, calling it "a travesty." </description>
+                   <pubDate>Wed, 30 Dec 2020 05:03:24 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                              <category domain="foxnews.com/dateline" />
+                                  </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/us/this-day-in-history-dec-30</guid>
+      <link>https://www.foxnews.com/us/this-day-in-history-dec-30</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/12/LeninAP.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/LeninAP.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/LeninAP.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">b0d65792-fa61-531d-86f4-55f24050342e</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/us/this-day-in-history</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/us</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>This Day in History: Dec. 30</title>
+      <description>Vladimir Lenin proclaims the establishment of the Union of Soviet Socialist Republics.</description>
+                  <dc:creator>Bryan Robinson</dc:creator>
+                         <pubDate>Wed, 30 Dec 2020 05:00:07 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Bryan Robinson</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/entertainment/alec-baldwin-told-david-letterman-my-wife-is-from-spain-in-2013-clip</guid>
+      <link>https://www.foxnews.com/entertainment/alec-baldwin-told-david-letterman-my-wife-is-from-spain-in-2013-clip</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/12/Hilaria-Baldwin-Alec-Baldwin.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/Hilaria-Baldwin-Alec-Baldwin.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/Hilaria-Baldwin-Alec-Baldwin.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">563352e0-a7cc-55f9-a8d7-968d6b5057b2</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/entertainment/celebrity-news</category>
+            <category domain="foxnews.com/taxonomy">fox-news/person/alec-baldwin</category>
+            <category domain="foxnews.com/taxonomy">fox-news/entertainment</category>
+            <category domain="foxnews.com/taxonomy">fox-news/entertainment/tv</category>
+            <category domain="foxnews.com/taxonomy">fox-news/entertainment/genres/late-night</category>
+            <category domain="foxnews.com/taxonomy">fox-news/entertainment/events/scandal</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/entertainment</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Alec Baldwin told David Letterman, 'My wife is from Spain," in 2013 clip</title>
+      <description>Alec Baldwin impersonated the accent of his wife, Hilaria Baldwin, and claimed, "My wife is from Spain," during an appearance on David Letterman's late-night talk show in 2013, according to an old clip that has surfaced online.</description>
+                  <dc:creator>David Aaro</dc:creator>
+                         <pubDate>Wed, 30 Dec 2020 04:46:10 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">David Aaro</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/entertainment/ireland-baldwin-corrected-term-latinx-hilaria-baldwin-heritage</guid>
+      <link>https://www.foxnews.com/entertainment/ireland-baldwin-corrected-term-latinx-hilaria-baldwin-heritage</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/12/Ireland-Baldwin.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/Ireland-Baldwin.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/Ireland-Baldwin.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">aff0b774-efe2-5d6a-8fe3-5c3c09940193</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/entertainment/celebrity-news</category>
+            <category domain="foxnews.com/taxonomy">fox-news/entertainment</category>
+            <category domain="foxnews.com/taxonomy">fox-news/entertainment/events/scandal</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/entertainment</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Ireland Baldwin corrected after using term 'Latinx' amid stepmom Hilaria's heritage controversy</title>
+      <description>The star recently stepped in to support her stepmother, Hilaria Baldwin, as fans debate the authenticity of her Spanish heritage, having accused her of faking an accent for years.</description>
+                  <dc:creator>Nate Day</dc:creator>
+                         <pubDate>Wed, 30 Dec 2020 04:26:37 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Nate Day</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/us/nashville-bombers-girlfriend-told-police-in-2019-he-was-making-explosives-inside-rv-report</guid>
+      <link>https://www.foxnews.com/us/nashville-bombers-girlfriend-told-police-in-2019-he-was-making-explosives-inside-rv-report</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/12/201226-nashville-rv-bombing.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/201226-nashville-rv-bombing.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/201226-nashville-rv-bombing.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">28fcdae6-fe97-522b-8355-4187d82a972f</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/us/nashville</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us/terror/bombings</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us/us-regions/southeast/tennessee</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us/crime</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us/disasters</category>
+            <category domain="foxnews.com/taxonomy">fox-news/tech/topics/fbi</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us/crime/police-and-law-enforcement</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/us</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Nashville bomber’s girlfriend told police in 2019 he was making explosives inside RV: report</title>
+      <description>Police visited the home of Nashville bomber Anthony Quinn Warner in 2019 after his girlfriend told authorities he was making bombs inside his recreational vehicle, according to a report.</description>
+                  <dc:creator>Dom Calicchio</dc:creator>
+                         <pubDate>Wed, 30 Dec 2020 03:45:50 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Dom Calicchio</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/politics/luke-letlow-41-year-old-congressman-elect-dies-of-covid-19</guid>
+      <link>https://www.foxnews.com/politics/luke-letlow-41-year-old-congressman-elect-dies-of-covid-19</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/12/AP20358846439845.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/AP20358846439845.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/AP20358846439845.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">e79d6f06-e144-5bd4-b9a4-3d1c826b9d4b</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/politics/elections/house-of-representatives</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us/us-regions/southeast/louisiana</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/politics</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Luke Letlow, 41-year-old congressman-elect, dies with COVID-19</title>
+      <description />
+                  <dc:creator>Edmund DeMarche</dc:creator>
+                         <pubDate>Wed, 30 Dec 2020 03:43:31 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Edmund DeMarche</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/entertainment/billie-eilish-loses-100k-instagram-followers-post-picture-challenge</guid>
+      <link>https://www.foxnews.com/entertainment/billie-eilish-loses-100k-instagram-followers-post-picture-challenge</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/11/Billie-Eilish-oscars.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/Billie-Eilish-oscars.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/Billie-Eilish-oscars.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">4eeb307a-592d-5f48-bd07-98e7030c7258</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/entertainment/celebrity-news</category>
+            <category domain="foxnews.com/taxonomy">fox-news/entertainment</category>
+            <category domain="foxnews.com/taxonomy">fox-news/entertainment/music</category>
+            <category domain="foxnews.com/taxonomy">fox-news/entertainment/events/grammys</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/entertainment</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Billie Eilish loses 100K Instagram followers after viral challenge posts and calls them ‘Babies’</title>
+      <description>The "Bad Guy" singer, 18, was one of the latest celebrities to participate in the "Post a Picture Of" Instagram challenge.</description>
+                  <dc:creator>Julius Young</dc:creator>
+                         <pubDate>Wed, 30 Dec 2020 03:34:22 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Julius Young</category>
+                            </item>
+      </channel>
+</rss>

@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" media="screen" href="/~d/styles/rss2full.xsl"?><?xml-stylesheet type="text/css" media="screen" href="http://feeds.foxnews.com/~d/styles/itemcontent.css"?><rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+                    <title>FOX News</title>
+    <link>http://www.foxnews.com/</link>
+    <description><![CDATA[FOXNews.com - Breaking news and video. Latest Current News: U.S., World, Entertainment, Health, Business, Technology, Politics, Sports.]]></description>
+        <image>
+    	<url>http://tools.foxnews.com/sites/tools.foxnews.com/files/images/fox-news-logo.png</url>
+    	<title>FOX News</title>
+    	<link>http://www.foxnews.com/</link>
+    </image>
+            <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feeds.foxnews.com/foxnews/latest" /><feedburner:info xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" uri="foxnews/latest" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /><item>
+                  <guid isPermaLink="true">https://www.foxnews.com/world/china-flooding-14-killed-three-gorges-dam-yangtze-river</guid>
+      <link>https://www.foxnews.com/world/china-flooding-14-killed-three-gorges-dam-yangtze-river</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/07/AP20200227331065.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/AP20200227331065.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/AP20200227331065.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">4d2beab9-f344-5368-9964-936485d82fbd</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/world/world-regions/china</category>
+            <category domain="foxnews.com/taxonomy">fox-news/world/disasters/floods</category>
+            <category domain="foxnews.com/taxonomy">fox-news/weather</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/world</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>China flooding: 14 killed at Three Gorges Dam on Yangtze River as water peaks</title>
+      <description>At least 14 people have died in the latest round of seasonal rains and flooding in southern China, as soldiers and workers built makeshift barriers with sandbags and rocks Saturday to keep the Yangtze River and its tributaries at bay.</description>
+                  <dc:creator>Frank Miles</dc:creator>
+                         <pubDate>Sat, 18 Jul 2020 23:35:43 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Frank Miles</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/us/some-new-york-state-beaches-closed-midday-social-distancing-heat-wave-reduce-capacity</guid>
+      <link>https://www.foxnews.com/us/some-new-york-state-beaches-closed-midday-social-distancing-heat-wave-reduce-capacity</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2018/09/fire_island1.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/fire_island1.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/fire_island1.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">d24b34d6-c76b-560b-ac1d-d069d4b51f74</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/health/infectious-disease/coronavirus</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us/us-regions/northeast/new-york</category>
+            <category domain="foxnews.com/taxonomy">fox-news/person/andrew-cuomo</category>
+            <category domain="foxnews.com/taxonomy">fox-news/travel/general/beach</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/us</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Some New York state beaches closed by midday as social distancing, heat wave reduce capacity</title>
+      <description>Some New York state parks closed by midday Saturday after hitting max capacity and a heatwave that hit the area, officials said.</description>
+                  <dc:creator>Peter Aitken</dc:creator>
+                         <pubDate>Sat, 18 Jul 2020 23:12:07 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Peter Aitken</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/us/texas-1000-inmates-federal-prison-test-positive-coronavirus</guid>
+      <link>https://www.foxnews.com/us/texas-1000-inmates-federal-prison-test-positive-coronavirus</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/07/a0ce6313-terre-haute.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/a0ce6313-terre-haute.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/a0ce6313-terre-haute.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">d51c1b5c-1501-55bd-a9f1-6ea7ab47571d</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/us/us-regions/southwest/texas</category>
+            <category domain="foxnews.com/taxonomy">fox-news/health/infectious-disease/coronavirus</category>
+            <category domain="foxnews.com/taxonomy">fox-news/health/infectious-disease</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/us</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Coronavirus: 1,000 Texas inmates test positive in one federal prison, report says</title>
+      <description>More than 1,000 inmates in a Texas federal prison have tested positive for the coronavirus, according to a new report.</description>
+                  <dc:creator>Peter Aitken</dc:creator>
+                         <pubDate>Sat, 18 Jul 2020 22:53:51 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Peter Aitken</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/sports/clemsons-trevor-lawrence-proposes-girlfriend</guid>
+      <link>https://www.foxnews.com/sports/clemsons-trevor-lawrence-proposes-girlfriend</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/01/Trevor-Lawrence7.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/Trevor-Lawrence7.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/Trevor-Lawrence7.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">2ee1467a-cf38-516c-aaf0-db749e0a39fe</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/sports/ncaa/clemson-tigers</category>
+            <category domain="foxnews.com/taxonomy">fox-news/sports/ncaa-fb</category>
+            <category domain="foxnews.com/taxonomy">fox-news/sports</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/sports</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Clemson's Trevor Lawrence proposes to longtime girlfriend: 'Everything I've dreamed of'</title>
+      <description>Clemson quarterback Trevor Lawrence and high school sweetheart Marissa Mowry announced their engagement on Friday.</description>
+                  <dc:creator>Paulina Dedaj</dc:creator>
+                         <pubDate>Sat, 18 Jul 2020 22:47:01 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Paulina Dedaj</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/sports/ex-washington-d-j-swearinger-jay-gruden-text</guid>
+      <link>https://www.foxnews.com/sports/ex-washington-d-j-swearinger-jay-gruden-text</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/07/Swearinger-Gruden-REUTERS-AP-2.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/Swearinger-Gruden-REUTERS-AP-2.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/Swearinger-Gruden-REUTERS-AP-2.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">cdb4e22a-3042-5868-9e70-2db26a21bab8</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/sports/nfl/washington-redskins</category>
+            <category domain="foxnews.com/taxonomy">fox-news/sports/nfl</category>
+            <category domain="foxnews.com/taxonomy">fox-news/sports</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/sports</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Ex-Washington safety D.J. Swearinger calls out Jay Gruden over alleged text: 'They all need to be exposed'</title>
+      <description>Former Washington safety D.J. Swearinger spoke out on Friday about his experience while playing for his former team, saying “they all need to be exposed.”</description>
+                  <dc:creator>Paulina Dedaj</dc:creator>
+                         <pubDate>Sat, 18 Jul 2020 22:37:43 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Paulina Dedaj</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/us/florida-sheriff-investigates-triple-homicide-lake</guid>
+      <link>https://www.foxnews.com/us/florida-sheriff-investigates-triple-homicide-lake</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/07/Presser-POLK-COUNTY-SHERIFFS-OFFICE.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/Presser-POLK-COUNTY-SHERIFFS-OFFICE.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/Presser-POLK-COUNTY-SHERIFFS-OFFICE.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">210bfcac-5518-50be-a941-41bc97f07fce</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/us/crime/homicide</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us/us-regions/southeast/florida</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us/crime/police-and-law-enforcement</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/us</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Florida sheriff investigates triple homicide on lake: 'This is a horrific scene"</title>
+      <description>Florida detectives said Saturday they were investigating the deaths of three close friends who drove to a lake at night to go catfishing and were beaten and shot.</description>
+                  <dc:creator>Robert Gearty</dc:creator>
+                         <pubDate>Sat, 18 Jul 2020 22:29:15 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Robert Gearty</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/opinion/conservatives-movies-dan-gainor</guid>
+      <link>https://www.foxnews.com/opinion/conservatives-movies-dan-gainor</link>
+                  <media:group>
+        <media:content url="https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/827a1ee3-1004-4980-800e-7d8c7f0af485/6f8bf0de-3c2a-4499-bbc1-d4d2d51accc5/1280x720/match/image.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/image.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/image.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">49231eb9-c1e2-5bb9-bbf8-2f23aac9b324</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/opinion</category>
+            <category domain="foxnews.com/taxonomy">fox-news/entertainment/movies</category>
+            <category domain="foxnews.com/taxonomy">fox-news/topic/old-hollywood</category>
+            <category domain="foxnews.com/taxonomy">fox-news/entertainment</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/opinion</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Dan Gainor: A long-needed conservative movie studio is being created to counter far-left Hollywood</title>
+      <description>Now far-left and pro-Communist voices are celebrated in Hollywood, while conservative voices and themes are effectively blacklisted.</description>
+                  <dc:creator>Dan Gainor</dc:creator>
+                         <pubDate>Sat, 18 Jul 2020 22:01:42 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Dan Gainor</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/politics/city-violence-liberal-mayors-social-media-feuds-trump-officials</guid>
+      <link>https://www.foxnews.com/politics/city-violence-liberal-mayors-social-media-feuds-trump-officials</link>
+                  <media:group>
+        <media:content url="https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/42a9d799-c1f2-4fc1-a550-1eb1c0d05e12/645a57ac-fa5b-4881-8b5c-4a227f4c6472/1280x720/match/image.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/image.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/image.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">72b587c1-f870-5978-99e2-fda303e302f6</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/us/us-protests</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us/crime/chicagos-crime-wave</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us/chicago</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us/portland</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us/new-york-city</category>
+            <category domain="foxnews.com/taxonomy">fox-news/person/donald-trump</category>
+            <category domain="foxnews.com/taxonomy">fox-news/politics/executive/white-house</category>
+            <category domain="foxnews.com/taxonomy">fox-news/person/bill-de-blasio</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/politics</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>As city violence surges, liberal mayors engage in social media feuds with Trump officials</title>
+      <description>As violence and unrest surge in major cities across the U.S., liberal mayors are taking a combative stance toward the Trump administration and offers of federal help -- engaging in sometimes-feisty social media feuds with officials. </description>
+                  <dc:creator>Adam Shaw</dc:creator>
+                         <pubDate>Sat, 18 Jul 2020 21:50:30 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Adam Shaw</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/sports/no-canada-blue-jays-barred-playing-games-toronto</guid>
+      <link>https://www.foxnews.com/sports/no-canada-blue-jays-barred-playing-games-toronto</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/07/AP20200001630997.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/AP20200001630997.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/AP20200001630997.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">b3042dc7-4527-5076-8b69-d079ac9dbb3c</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/health/infectious-disease/coronavirus</category>
+            <category domain="foxnews.com/taxonomy">fox-news/world/world-regions/canada</category>
+            <category domain="foxnews.com/taxonomy">fox-news/sports/mlb/toronto-blue-jays</category>
+            <category domain="foxnews.com/taxonomy">fox-news/sports/mlb</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/sports</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>No Canada: Blue Jays barred from playing games in Toronto</title>
+      <description>The Blue Jays won't play their home games in Toronto this year because Canada's government doesn't think it's safe for players to travel back and forth from the United States.</description>
+                  <dc:creator>Rob Gillies</dc:creator>
+                         <pubDate>Sat, 18 Jul 2020 21:29:14 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Associated Press</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Rob Gillies</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/media/kansas-city-police-chief-700-people-shot-prediction</guid>
+      <link>https://www.foxnews.com/media/kansas-city-police-chief-700-people-shot-prediction</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/07/Richard-Smith-KANSAS-CITY-POLICE-DEPARTMENT.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/Richard-Smith-KANSAS-CITY-POLICE-DEPARTMENT.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/Richard-Smith-KANSAS-CITY-POLICE-DEPARTMENT.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">bbbb69bc-2171-5e29-a144-20f463315e20</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/media/fox-news-flash</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us/us-regions/midwest/missouri</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us/crime/police-and-law-enforcement</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us/crime</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/media</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Kansas City police chief predicts 'close to 700 people' shot in city by end of year</title>
+      <description>Richard Smith, police chief in Kansas City, Mo., predicted on Saturday that his city's recent spike in violent crime would continue for some time, and defended the presence of federal authorities to counter violent protests in the city.</description>
+                  <dc:creator>Sam Dorman</dc:creator>
+                         <pubDate>Sat, 18 Jul 2020 21:17:55 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Sam Dorman</category>
+                            </item>
+      </channel>
+</rss>

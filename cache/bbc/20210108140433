@@ -1,0 +1,425 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet title="XSL_formatting" type="text/xsl" href="/shared/bsp/xsl/rss/nolsol.xsl"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News - Home]]></title>
+        <description><![CDATA[BBC News - Home]]></description>
+        <link>https://www.bbc.co.uk/news/</link>
+        <image>
+            <url>https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News - Home</title>
+            <link>https://www.bbc.co.uk/news/</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Fri, 08 Jan 2021 13:59:59 GMT</lastBuildDate>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Moderna becomes third Covid vaccine approved in the UK]]></title>
+            <description><![CDATA[Seventeen million doses have been ordered by the UK and are expected to arrive in spring.]]></description>
+            <link>https://www.bbc.co.uk/news/health-55586410</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-55586410</guid>
+            <pubDate>Fri, 08 Jan 2021 12:51:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus: 'Major incident' declared in London by Sadiq Khan]]></title>
+            <description><![CDATA[The mayor says one in 30 Londoners has Covid-19, as he declares a "major incident".]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-london-55588163</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-55588163</guid>
+            <pubDate>Fri, 08 Jan 2021 13:53:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Trump riots: Could the president be removed from power?]]></title>
+            <description><![CDATA[There are calls for Donald Trump to be removed from office. How likely is it - and could he pardon himself?]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-55586677</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-55586677</guid>
+            <pubDate>Fri, 08 Jan 2021 13:51:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid: Women on exercise trip 'surrounded by police']]></title>
+            <description><![CDATA[The two women were given £200 fixed penalty notices after driving five miles to go on a walk.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-derbyshire-55560814</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-derbyshire-55560814</guid>
+            <pubDate>Fri, 08 Jan 2021 13:22:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid-19: Travellers to UK will need to show negative test result]]></title>
+            <description><![CDATA[International travellers will have to take a Covid test up to 72 hours before departing.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-55582116</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-55582116</guid>
+            <pubDate>Fri, 08 Jan 2021 13:51:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Hunt for fake vaccine fraudster who injected woman, 92, in Surbiton]]></title>
+            <description><![CDATA[The man charged the 92-year-old £160 and came back a week later asking for a further £100.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-london-55577426</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-55577426</guid>
+            <pubDate>Fri, 08 Jan 2021 10:58:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid-19: Bereaved brother warns young not to ignore symptoms]]></title>
+            <description><![CDATA[James Jordan said if he had called NHS 111, his brother, 36, would "probably still be with us".]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-wiltshire-55584649</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-wiltshire-55584649</guid>
+            <pubDate>Fri, 08 Jan 2021 12:17:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Surge in pupils at school in lockdown sparks call for limit]]></title>
+            <description><![CDATA[With attendance as high as 50% in some areas, heads call for pupil limits in England's lockdown schools.]]></description>
+            <link>https://www.bbc.co.uk/news/education-55579711</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/education-55579711</guid>
+            <pubDate>Fri, 08 Jan 2021 13:39:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['Racist and sexist' Hampshire police unit officers dismissed]]></title>
+            <description><![CDATA[Secret recordings revealed "enough profanity, casual sexism and racism to last a lifetime".]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-hampshire-55586420</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-hampshire-55586420</guid>
+            <pubDate>Fri, 08 Jan 2021 12:49:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[IGCSE exams taken in private schools still going ahead]]></title>
+            <description><![CDATA[While GCSEs and A-levels are cancelled, IGCSEs, often used in independent schools, will continue.]]></description>
+            <link>https://www.bbc.co.uk/news/education-55581576</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/education-55581576</guid>
+            <pubDate>Fri, 08 Jan 2021 12:34:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Soaring house prices in 2020 likely to slow this year, says Halifax]]></title>
+            <description><![CDATA[The lender says it expects "downward pressure on house prices" in 2021 following annual rise of 6% last year.]]></description>
+            <link>https://www.bbc.co.uk/news/business-55586080</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-55586080</guid>
+            <pubDate>Fri, 08 Jan 2021 09:22:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Dry January: Will lockdown cause more people to give in?]]></title>
+            <description><![CDATA[People have been drinking more during the pandemic. Will the new lockdown foil our Dry January plans?]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-london-55575180</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-55575180</guid>
+            <pubDate>Fri, 08 Jan 2021 10:47:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid vaccine: How will the UK jab millions of people?]]></title>
+            <description><![CDATA[The logistics of delivering the biggest vaccination programme the country has ever seen.]]></description>
+            <link>https://www.bbc.co.uk/news/health-55274833</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-55274833</guid>
+            <pubDate>Fri, 08 Jan 2021 12:52:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Building frozen castles at China's Harbin Ice Festival]]></title>
+            <description><![CDATA[Towering ice structures feature at the Harbin International Ice and Snow Sculpture Festival.]]></description>
+            <link>https://www.bbc.co.uk/news/in-pictures-55529089</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/in-pictures-55529089</guid>
+            <pubDate>Fri, 08 Jan 2021 00:30:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['Human foot' in Gateshead field turns out to be potato]]></title>
+            <description><![CDATA[A worried dog walker alerted police but officers say she was right to remain vigilant.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-tyne-55585065</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-tyne-55585065</guid>
+            <pubDate>Fri, 08 Jan 2021 11:08:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['My new life with a stranger's face']]></title>
+            <description><![CDATA[Robert's face transplant was a medical miracle - his recovery since is a remarkable test of faith and identity.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-55578090</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-55578090</guid>
+            <pubDate>Thu, 07 Jan 2021 20:13:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid-19: What happens if hospitals are overwhelmed?]]></title>
+            <description><![CDATA[How do hospitals become overwhelmed and what can be done to stop it from happening.]]></description>
+            <link>https://www.bbc.co.uk/news/health-55581496</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-55581496</guid>
+            <pubDate>Fri, 08 Jan 2021 00:29:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['Why I quit my job after my home burned down']]></title>
+            <description><![CDATA[After surviving a bushfire that destroyed his house, Jack quit his job to become a climate activist.]]></description>
+            <link>https://www.bbc.co.uk/news/world-australia-55553242</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-australia-55553242</guid>
+            <pubDate>Fri, 08 Jan 2021 00:29:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid: 'I used to love coming to work but it's so scary']]></title>
+            <description><![CDATA[An intensive care nurse says the pressures of Covid mean they cannot give the same care as normal.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-norfolk-55578764</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-norfolk-55578764</guid>
+            <pubDate>Thu, 07 Jan 2021 16:13:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Greener planes of the future... or just pretty plans?]]></title>
+            <description><![CDATA[The aerospace industry is testing models of radical looking aircraft, but will they ever make it into production?]]></description>
+            <link>https://www.bbc.co.uk/news/business-51751984</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-51751984</guid>
+            <pubDate>Fri, 08 Jan 2021 00:06:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Food waste: 'I'll have to throw away £6,000-worth of milk']]></title>
+            <description><![CDATA[While restaurants and shops have been given tax breaks, firms that supply them fear for the future.]]></description>
+            <link>https://www.bbc.co.uk/news/business-55578654</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-55578654</guid>
+            <pubDate>Fri, 08 Jan 2021 00:01:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The airman from Sierra Leone who was shot down over Nazi Germany]]></title>
+            <description><![CDATA[The amazing life of Johnny Smythe - RAF officer, prisoner of war and a father of the Windrush generation.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-london-55286092</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-55286092</guid>
+            <pubDate>Fri, 08 Jan 2021 00:36:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid: How busy are hospitals in England?]]></title>
+            <description><![CDATA[Statistics seem to show hospitals are less busy than usual, but can we compare with previous years?]]></description>
+            <link>https://www.bbc.co.uk/news/55536762</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/55536762</guid>
+            <pubDate>Thu, 07 Jan 2021 15:14:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Were there hold-ups in first week after Brexit?]]></title>
+            <description><![CDATA[Low traffic at borders has meant there have been few problems in Kent, but there have been other issues.]]></description>
+            <link>https://www.bbc.co.uk/news/55573772</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/55573772</guid>
+            <pubDate>Fri, 08 Jan 2021 12:59:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid: The challenge in speeding up France's vaccination drive]]></title>
+            <description><![CDATA[As France seeks to speed up its coronavirus vaccination programme, it battles fear and distrust.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-55547518</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-55547518</guid>
+            <pubDate>Fri, 08 Jan 2021 03:06:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A Michael Jackson concert in India that's now tax-free]]></title>
+            <description><![CDATA[The government decision to waive tax for the 1996 concert led to a court battle that dragged on until now.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-india-55556526</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-india-55556526</guid>
+            <pubDate>Fri, 08 Jan 2021 00:23:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How six brothers - and their lions - terrorised a Libyan town]]></title>
+            <description><![CDATA[The Kani brothers presided over a reign of terror in the Libyan town of Tarhuna - now their crimes are being revealed.]]></description>
+            <link>https://www.bbc.co.uk/news/stories-55564933</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/stories-55564933</guid>
+            <pubDate>Thu, 07 Jan 2021 00:30:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Millionaire French hotel owner to testify in kidnap trial]]></title>
+            <description><![CDATA[Jacqueline Veyrac, 80, will give evidence in France over a botched attempt to kidnap her for ransom.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-55547514</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-55547514</guid>
+            <pubDate>Thu, 07 Jan 2021 00:47:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['Morally wrong' to keep playing amid increasing Covid outbreaks - Bruce]]></title>
+            <description><![CDATA[Newcastle boss Steve Bruce says it is "morally wrong" to continue with football amid increasing coronavirus outbreaks at clubs.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/55590296</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/55590296</guid>
+            <pubDate>Fri, 08 Jan 2021 13:46:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Villa v Liverpool FA Cup tie on despite Covid outbreak]]></title>
+            <description><![CDATA[Aston Villa's FA Cup third-round tie with Liverpool is to go ahead despite a Covid-19 outbreak at the host club.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/55574199</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/55574199</guid>
+            <pubDate>Fri, 08 Jan 2021 10:50:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Root finds form as Anderson misses out on hat-trick in England warm-up]]></title>
+            <description><![CDATA[Captain Joe Root hits an unbeaten 74 and Dan Lawrence 46 not out in England's first intra-squad match before the Test series in Sri Lanka.]]></description>
+            <link>https://www.bbc.co.uk/sport/cricket/55587666</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/cricket/55587666</guid>
+            <pubDate>Fri, 08 Jan 2021 12:35:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[West Ham sell record signing Haller to Ajax]]></title>
+            <description><![CDATA[West Ham's record signing Sebastien Haller joins Dutch side Ajax but the Hammers expect to bring in a replacement.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/55576847</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/55576847</guid>
+            <pubDate>Fri, 08 Jan 2021 09:21:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['You can't cage a lion for too long' - Smith ends 16-month wait for Test hundred]]></title>
+            <description><![CDATA[India reach 96-2 after Steve Smith's 131 helps Australia's post 338 on day two of the third Test in Sydney.]]></description>
+            <link>https://www.bbc.co.uk/sport/cricket/55584297</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/cricket/55584297</guid>
+            <pubDate>Fri, 08 Jan 2021 10:27:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[European tournaments in doubt over French government's Covid-19 concerns]]></title>
+            <description><![CDATA[The future of this season's European cup competitions is in doubt as the French government debates whether their clubs can finish group games.]]></description>
+            <link>https://www.bbc.co.uk/sport/rugby-union/55587044</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/rugby-union/55587044</guid>
+            <pubDate>Fri, 08 Jan 2021 10:25:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Capitol riots: Panel of Americans ‘shocked’ and ‘disgusted’]]></title>
+            <description><![CDATA[We asked people around the US how they responded to the chaotic scenes from the US Capitol.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-55582166</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-55582166</guid>
+            <pubDate>Thu, 07 Jan 2021 22:45:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Phone footage reveals chaotic scenes inside US Capitol]]></title>
+            <description><![CDATA[When Trump supporters stormed the Capitol they took out their cameras to record the chaos inside.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-55582886</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-55582886</guid>
+            <pubDate>Thu, 07 Jan 2021 23:29:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Capitol riots: Questions mount over security failure]]></title>
+            <description><![CDATA[The violent breach has sparked serious concerns in Washington and beyond.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-55577362</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-55577362</guid>
+            <pubDate>Fri, 08 Jan 2021 12:07:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Capitol riots: A visual guide to the storming of Congress]]></title>
+            <description><![CDATA[Breakdown of what happened when Trump supporters stormed the Capitol amid a key Senate vote.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-55575260</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-55575260</guid>
+            <pubDate>Thu, 07 Jan 2021 15:33:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Capitol riots: Who broke into the building?]]></title>
+            <description><![CDATA[There's speculation over who was involved in the protests and whether they belong to organised groups.]]></description>
+            <link>https://www.bbc.co.uk/news/55572805</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/55572805</guid>
+            <pubDate>Thu, 07 Jan 2021 17:57:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[US Capitol riot: 'It was like a zombie movie']]></title>
+            <description><![CDATA[Photographer Jim Lo Scalzo captured the chaos when a mob of President Trump supporters stormed the US Capitol.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-55581269</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-55581269</guid>
+            <pubDate>Fri, 08 Jan 2021 00:29:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ashli Babbitt: The US vet shot dead breaking into the Capitol]]></title>
+            <description><![CDATA[The 35-year-old is one of five people who died amid an armed insurrection at the US Capitol.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-55581206</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-55581206</guid>
+            <pubDate>Fri, 08 Jan 2021 10:03:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Capitol riot: Five startling images from the siege]]></title>
+            <description><![CDATA[News photographers captured extraordinary scenes as Trump supporters stormed the building.]]></description>
+            <link>https://www.bbc.co.uk/news/in-pictures-55577824</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/in-pictures-55577824</guid>
+            <pubDate>Thu, 07 Jan 2021 17:13:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Capitol riots: Has the US legislature been attacked before?]]></title>
+            <description><![CDATA[The heart of US democracy has seen violent scenes in the past - from bombs to attempts to burn it down.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-55572825</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-55572825</guid>
+            <pubDate>Thu, 07 Jan 2021 11:51:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Trump presidency and Capitol siege: What is the 25th Amendment?]]></title>
+            <description><![CDATA[There are calls to remove US President Donald Trump from office, just 13 days before his term ends.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-55571964</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-55571964</guid>
+            <pubDate>Thu, 07 Jan 2021 17:05:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The words lawmakers used to describe Capitol riot]]></title>
+            <description><![CDATA[Words matter. So how did Republican and Democratic lawmakers choose to describe the chaos on Capitol Hill?]]></description>
+            <link>https://www.bbc.co.uk/news/election-us-2020-55583018</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/election-us-2020-55583018</guid>
+            <pubDate>Thu, 07 Jan 2021 23:31:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Capitol riots: How a Trump rally turned deadly]]></title>
+            <description><![CDATA[A ceremony meant to showcase a peaceful power transfer turns into a dark day. Here are the key moments.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-55569495</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-55569495</guid>
+            <pubDate>Thu, 07 Jan 2021 02:33:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid vaccine update: When will others be ready?]]></title>
+            <description><![CDATA[The Oxford vaccine been approved in the UK. How are the others doing?]]></description>
+            <link>https://www.bbc.co.uk/news/health-51665497</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-51665497</guid>
+            <pubDate>Fri, 08 Jan 2021 13:17:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid: What are the new UK travel rules?]]></title>
+            <description><![CDATA[Most travellers must self-isolate on arrival and an advance coronavirus test will soon be required.]]></description>
+            <link>https://www.bbc.co.uk/news/explainers-52544307</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-52544307</guid>
+            <pubDate>Fri, 08 Jan 2021 09:29:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid: What are the lockdown rules across the UK?]]></title>
+            <description><![CDATA[People in most parts of the UK are being told to stay at home due to coronavirus.]]></description>
+            <link>https://www.bbc.co.uk/news/explainers-52530518</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-52530518</guid>
+            <pubDate>Wed, 06 Jan 2021 11:44:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus: What are the social distancing rules?]]></title>
+            <description><![CDATA[Keeping a certain distance away from other people cuts the risk of passing on - or catching - coronavirus.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-51506729</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-51506729</guid>
+            <pubDate>Thu, 07 Jan 2021 09:33:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[South Africa coronavirus variant: What is the risk?]]></title>
+            <description><![CDATA[Why experts are concerned about the emergence of this particular new version of coronavirus.]]></description>
+            <link>https://www.bbc.co.uk/news/health-55534727</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-55534727</guid>
+            <pubDate>Fri, 08 Jan 2021 08:57:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus: What powers do police have if people break Covid rules?]]></title>
+            <description><![CDATA[Coronavirus lockdown rules are changing across the UK, but who is responsible for enforcing them?]]></description>
+            <link>https://www.bbc.co.uk/news/explainers-52106843</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-52106843</guid>
+            <pubDate>Fri, 08 Jan 2021 13:36:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid: Can my boss force me to go to work?]]></title>
+            <description><![CDATA[As England and Scotland enter new coronavirus lockdowns, what are the rules about going to work?]]></description>
+            <link>https://www.bbc.co.uk/news/business-52567567</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-52567567</guid>
+            <pubDate>Tue, 05 Jan 2021 15:08:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Lockdown rules: What Covid tier is your area in and what are the restrictions?]]></title>
+            <description><![CDATA[Use our search tool to find out about coronavirus rules and restrictions where you live.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-54373904</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-54373904</guid>
+            <pubDate>Wed, 06 Jan 2021 11:27:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Can you get a takeaway beer from your local pub?]]></title>
+            <description><![CDATA[Pubs and restaurants across the UK are currently closed, but can offer some takeaways.]]></description>
+            <link>https://www.bbc.co.uk/news/business-52977388</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-52977388</guid>
+            <pubDate>Wed, 06 Jan 2021 13:48:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Support bubbles: How do they work and who is in yours?]]></title>
+            <description><![CDATA[Some people across the UK have been able to form "support bubbles" or "extended households".]]></description>
+            <link>https://www.bbc.co.uk/news/health-52637354</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-52637354</guid>
+            <pubDate>Wed, 06 Jan 2021 10:41:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid-19 in the UK: How many coronavirus cases are there in your area?]]></title>
+            <description><![CDATA[Explore the data on coronavirus in the UK and find out how many cases there are in your area.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-51768274</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-51768274</guid>
+            <pubDate>Thu, 07 Jan 2021 17:45:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Jimmy Carter: The story behind the Premier League's first British Asian player]]></title>
+            <description><![CDATA[Jimmy Carter was the first British Asian to play in the Premier League, but almost nobody realised and 11 years passed before another followed.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/55536025</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/55536025</guid>
+            <pubDate>Wed, 06 Jan 2021 00:00:03 GMT</pubDate>
+        </item>
+    </channel>
+</rss>

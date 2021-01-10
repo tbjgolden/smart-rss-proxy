@@ -1,0 +1,992 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:nyt="http://www.nytimes.com/namespaces/rss/2.0" version="2.0">
+  <channel>
+    <title>NYT &gt; Top Stories</title>
+    <link>https://www.nytimes.com</link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml" rel="self" type="application/rss+xml"></atom:link>
+    <description></description>
+    <language>en-us</language>
+    <copyright>Copyright 2020 The New York Times Company</copyright>
+    <lastBuildDate>Sun, 06 Dec 2020 18:03:16 +0000</lastBuildDate>
+    <pubDate>Sun, 06 Dec 2020 18:03:16 +0000</pubDate>
+    <image>
+      <title>NYT &gt; Top Stories</title>
+      <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
+      <link>https://www.nytimes.com</link>
+    </image>
+    <item>
+      <title>Nursing Home Residents Could Get Vaccine by End of Year, Official Says</title>
+      <link>https://www.nytimes.com/live/2020/12/06/world/covid-19-coronavirus/</link>
+      <guid isPermaLink="true">https://www.nytimes.com/live/2020/12/06/world/covid-19-coronavirus/</guid>
+      <atom:link href="https://www.nytimes.com/live/2020/12/06/world/covid-19-coronavirus/" rel="standout"></atom:link>
+      <description>The chief of Operation Warp Speed set an ambitious timetable for U.S. vaccinations. California has ordered many residents to stay home. Here’s the latest.</description>
+      <dc:creator>The New York Times</dc:creator>
+      <pubDate>Sun, 06 Dec 2020 17:31:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>Public Transit Faces Huge Service Cuts Across U.S.</title>
+      <link>https://www.nytimes.com/2020/12/06/nyregion/mass-transit-service-cuts-covid.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/12/06/nyregion/mass-transit-service-cuts-covid.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/12/06/nyregion/mass-transit-service-cuts-covid.html" rel="standout"></atom:link>
+      <description>Reeling from the pandemic, transit agencies are grappling with drastic reductions in ridership and pleading for help from Washington.</description>
+      <dc:creator>Christina Goldbaum and Will Wright</dc:creator>
+      <pubDate>Sun, 06 Dec 2020 13:22:37 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Transit Systems</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Subways</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Commuting</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus Aid, Relief, and Economic Security Act (2020)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Stimulus (Economic)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">American Public Transportation Assn</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Massachusetts Bay Transportation Authority</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Metropolitan Transportation Authority</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Tri-State Transportation Campaign</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Foye, Patrick J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Schumer, Charles E</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/12/04/nyregion/00virus-transit4/00virus-transit4-moth.jpg" width="151"></media:content>
+      <media:credit>Jonah Markowitz for The New York Times</media:credit>
+      <media:description>The Metropolitan Transportation Authority, which runs New York City’s subway and buses and two commuter rail lines, is threatening drastic service cuts.</media:description>
+    </item>
+    <item>
+      <title>Some Colleges Plan to Bring Back More Students in the Spring</title>
+      <link>https://www.nytimes.com/2020/12/06/us/colleges-covid-spring-semester.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/12/06/us/colleges-covid-spring-semester.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/12/06/us/colleges-covid-spring-semester.html" rel="standout"></atom:link>
+      <description>College officials say they have learned important lessons about managing the pandemic on their campuses. Not everyone is so confident.</description>
+      <dc:creator>Anemona Hartocollis and Shawn Hubler</dc:creator>
+      <pubDate>Sun, 06 Dec 2020 10:00:15 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus Reopenings</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Colleges and Universities</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fraternities and Sororities</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Tests (Medical)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vaccination and Immunization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">University of California, San Diego</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Colby College</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">University of Florida</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">University of North Carolina</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/12/06/us/06virus-collegespring2/06virus-collegespring2-moth.jpg" width="151"></media:content>
+      <media:credit>Charlotte Kesl for The New York Times</media:credit>
+      <media:description>Students on campus on Friday at the University of Florida in Gainesville, Fla.</media:description>
+    </item>
+    <item>
+      <title>The Epicenter</title>
+      <link>https://www.nytimes.com/2020/12/03/nyregion/coronavirus-new-york.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/12/03/nyregion/coronavirus-new-york.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/12/03/nyregion/coronavirus-new-york.html" rel="standout"></atom:link>
+      <description>Thousands were sick. Hundreds were lost. This is how the coronavirus ravaged a vibrant corner of New York.</description>
+      <dc:creator>Dan Barry, Annie Correal and Todd Heisler</dc:creator>
+      <pubDate>Fri, 04 Dec 2020 03:38:50 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Shutdowns (Institutional)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Queens (NYC)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Quarantines</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Elmhurst Hospital Center</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hospitals</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Disease Rates</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/11/23/nyregion/nyvirus-queensPROMOstill/nyvirus-queensPROMOstill-moth-v7.jpg" width="151"></media:content>
+    </item>
+    <item>
+      <title>El epicentro</title>
+      <link>https://www.nytimes.com/es/2020/12/03/espanol/coronavirus-queens.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/es/2020/12/03/espanol/coronavirus-queens.html</guid>
+      <atom:link href="https://www.nytimes.com/es/2020/12/03/espanol/coronavirus-queens.html" rel="standout"></atom:link>
+      <description>Miles enfermaron. Cientos murieron. Así fue que el virus arrasó con un vibrante rincón de Nueva York.</description>
+      <dc:creator>Dan Barry, Annie Correal and Photographs By Todd Heisler</dc:creator>
+      <pubDate>Thu, 03 Dec 2020 11:49:19 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Shutdowns (Institutional)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Queens (NYC)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Quarantines</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Elmhurst Hospital Center</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hospitals</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/11/23/nyregion/nyvirus-queensPROMOstill/nyvirus-queensPROMOstill-moth-v7.jpg" width="151"></media:content>
+    </item>
+    <item>
+      <title>A Painstaking Portrait of Some of New York’s Darkest Days</title>
+      <link>https://www.nytimes.com/2020/12/03/insider/coronavirus-queens-reporting.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/12/03/insider/coronavirus-queens-reporting.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/12/03/insider/coronavirus-queens-reporting.html" rel="standout"></atom:link>
+      <description>Few places have been hit by the coronavirus the way a stretch of Queens was last spring. A group of Times journalists built something to help us remember that.</description>
+      <dc:creator>Julia Carmel</dc:creator>
+      <pubDate>Fri, 04 Dec 2020 03:36:31 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">New York Times</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Photography</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/12/06/nyregion/06insider-queens1/06insider-queens1-moth.jpg" width="151"></media:content>
+      <media:credit>Todd Heisler/The New York Times</media:credit>
+      <media:description>A global community brims beneath the 7 train on Roosevelt Avenue in Queens.</media:description>
+    </item>
+    <item>
+      <title>Trump’s Final Days of Rage and Denial</title>
+      <link>https://www.nytimes.com/2020/12/05/us/politics/trump-presidency-election-loss.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/12/05/us/politics/trump-presidency-election-loss.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/12/05/us/politics/trump-presidency-election-loss.html" rel="standout"></atom:link>
+      <description>The last act of the Trump presidency has taken on the stormy elements of a drama more common to history or literature than a modern White House.</description>
+      <dc:creator>Peter Baker</dc:creator>
+      <pubDate>Sun, 06 Dec 2020 04:09:06 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2020</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Inaugurations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Voter Fraud (Election Fraud)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/12/06/us/politics/06dc-president-print1/05dc-president-moth.jpg" width="151"></media:content>
+      <media:credit>Doug Mills/The New York Times</media:credit>
+      <media:description>President Trump in the Oval Office on Thursday. He has continued to denounce the results of the election.</media:description>
+    </item>
+    <item>
+      <title>Trump Calls Georgia’s Governor in Bid to Overturn Results</title>
+      <link>https://www.nytimes.com/live/2020/12/06/us/joe-biden-trump/</link>
+      <guid isPermaLink="true">https://www.nytimes.com/live/2020/12/06/us/joe-biden-trump/</guid>
+      <atom:link href="https://www.nytimes.com/live/2020/12/06/us/joe-biden-trump/" rel="standout"></atom:link>
+      <description>Before going to a rally for Republican senators, President Trump urged Gov. Brian Kemp to help him subvert the state’s election results. Here’s the latest.</description>
+      <dc:creator>The New York Times</dc:creator>
+      <pubDate>Sun, 06 Dec 2020 17:31:24 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/12/06/us/politics/06transition-briefing-promo1/06transition-briefing-promo1-moth.jpg" width="151"></media:content>
+      <media:credit>Doug Mills/The New York Times</media:credit>
+      <media:description>President Trump at a rally in Valdosta, Ga., on Saturday.</media:description>
+    </item>
+    <item>
+      <title>How Joe Biden’s Digital Team Tamed the MAGA Internet</title>
+      <link>https://www.nytimes.com/2020/12/06/technology/joe-biden-internet-election.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/12/06/technology/joe-biden-internet-election.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/12/06/technology/joe-biden-internet-election.html" rel="standout"></atom:link>
+      <description>The campaign’s empathetic digital strategy held up surprisingly well against President Trump’s passionate digital following.</description>
+      <dc:creator>Kevin Roose</dc:creator>
+      <pubDate>Sun, 06 Dec 2020 10:00:14 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2020</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rumors and Misinformation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">News and News Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Voting and Voters</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Facebook Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/12/03/business/00roose3/merlin_168733392_16c1ea80-610a-432f-b94e-c320eeba195b-moth.jpg" width="151"></media:content>
+      <media:credit>Elizabeth Frantz for The New York Times</media:credit>
+      <media:description>Joseph R. Biden Jr. with Brayden Harrington in February in Gilford, N.H. A video showing them meeting each other was viewed millions of times.</media:description>
+    </item>
+    <item>
+      <title>He Escaped Death as a Kamikaze Pilot. 70 Years Later, He Told His Story.</title>
+      <link>https://www.nytimes.com/2020/12/03/world/asia/japan-kamikaze.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/12/03/world/asia/japan-kamikaze.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/12/03/world/asia/japan-kamikaze.html" rel="standout"></atom:link>
+      <description>Kazuo Odachi is one of the last living members of a group never meant to survive. He wants to remind Japan that before its modern success came the sacrifices of the young pilots who gave their lives.</description>
+      <dc:creator>Ben Dooley</dc:creator>
+      <pubDate>Fri, 04 Dec 2020 04:27:35 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Japan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Odachi, Kazuo (1926- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pilots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Airlines and Airplanes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">World War II (1939-45)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/12/04/world/00japan-kamikaze01/00japan-kamikaze01-moth-v2.jpg" width="151"></media:content>
+      <media:credit>Noriko Hayashi for The New York Times</media:credit>
+      <media:description>Kazuo Odachi at his home in Tokyo. He has written a book about his time as a Japanese Navy pilot, “Memoirs of a Kamikaze.”</media:description>
+    </item>
+    <item>
+      <title>Barbra Streisand Is, as Ever, Firmly in Control</title>
+      <link>https://www.nytimes.com/2020/11/30/t-magazine/barbra-streisand.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/11/30/t-magazine/barbra-streisand.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/11/30/t-magazine/barbra-streisand.html" rel="standout"></atom:link>
+      <description>Since her breakout in the 1960s, she’s been able to convince the world around her to listen — not by chasing trends but by remaining always and fully herself.</description>
+      <dc:creator>James B. Stewart, Collier Schorr and Mel Ottenberg</dc:creator>
+      <pubDate>Wed, 02 Dec 2020 12:54:48 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Streisand, Barbra</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sondheim, Stephen</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Music</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Movies</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">A Star Is Born (Movie)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Funny Girl (Play)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Gypsy (Play)</category>
+    </item>
+    <item>
+      <title>Coronavirus Surge, Georgia, Candice Bergen: Your Weekend Briefing</title>
+      <link>https://www.nytimes.com/2020/12/06/briefing/coronavirus-surge-georgia-candice-bergen.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/12/06/briefing/coronavirus-surge-georgia-candice-bergen.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/12/06/briefing/coronavirus-surge-georgia-candice-bergen.html" rel="standout"></atom:link>
+      <description>Here’s what you need to know about the week’s top stories.</description>
+      <dc:creator>Remy Tumin and Jeremiah M. Bogert, Jr.</dc:creator>
+      <pubDate>Sun, 06 Dec 2020 11:29:12 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/12/04/us/06weekend-briefing-promo/merlin_180791688_8e78bad0-5e88-4882-b621-56c36e641830-moth.jpg" width="151"></media:content>
+      <media:credit>Ramsay de Give for The New York Times</media:credit>
+    </item>
+    <item>
+      <title>The Sunday Read: ‘The Social Life of Forests’</title>
+      <link>https://www.nytimes.com/2020/12/06/podcasts/the-daily/tree-communication-suzanne-simard.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/12/06/podcasts/the-daily/tree-communication-suzanne-simard.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/12/06/podcasts/the-daily/tree-communication-suzanne-simard.html" rel="standout"></atom:link>
+      <description>Trees appear to communicate and cooperate through subterranean networks of fungi. What are they sharing with one another?</description>
+      <pubDate>Sun, 06 Dec 2020 14:00:11 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Podcasts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Trees and Shrubs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Simard, Suzanne</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fungi</category>
+      <category domain="">narrated</category>
+      <category domain="">The Sunday Read</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/12/03/magazine/06daily-audm-2/03mag-treecommunication-02-moth.jpg" width="151"></media:content>
+      <media:credit>Brendan George Ko for The New York Times</media:credit>
+      <media:description>Suzanne Simard is studying whether preserving some older trees in plots that are logged will improve the health of future saplings. Here, 60 percent of veteran trees in the foreground have been retained, while behind them a vast majority have been cut.</media:description>
+    </item>
+    <item>
+      <title>They Made the ‘Pfizer Vaccine’</title>
+      <link>https://www.nytimes.com/2020/12/03/opinion/sway-kara-swisher-sahin-tureci.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/12/03/opinion/sway-kara-swisher-sahin-tureci.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/12/03/opinion/sway-kara-swisher-sahin-tureci.html" rel="standout"></atom:link>
+      <description>While you’re waiting for a coronavirus vaccine, get to know the German power couple and co-founders of BioNTech who are behind the vaccine that Britain has just approved.</description>
+      <pubDate>Fri, 04 Dec 2020 19:59:49 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Pfizer Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sahin, Ugur</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">BioNTech SE</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Tureci, Ozlem</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/12/03/opinion/03sway-sahin-tureci-image/03sway-sahin-tureci-image-moth.png" width="151"></media:content>
+      <media:credit>Illustration by The New York Times; photographs by Felix Schmitt/Contact Press Images-Focus</media:credit>
+      <media:description>Dr. Ozlem Tureci, left, and Dr. Ugur Sahin.</media:description>
+    </item>
+    <item>
+      <title>Modern Love Podcast: Becoming Widowed on the Eve of a Pandemic </title>
+      <link>https://www.nytimes.com/2020/12/02/style/modern-love-podcast-a-lifetime-of-good-loving.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/12/02/style/modern-love-podcast-a-lifetime-of-good-loving.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/12/02/style/modern-love-podcast-a-lifetime-of-good-loving.html" rel="standout"></atom:link>
+      <description>“Weren’t casseroles invented for giving to widows to heat as their solitary dinners?”</description>
+      <pubDate>Wed, 02 Dec 2020 21:05:20 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Love (Emotion)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Widows and Widowers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Quarantines</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Marriages</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/12/04/fashion/02modern-podcast-3/12VIRUS-MODERN-WIDOW-moth.jpg" width="151"></media:content>
+      <media:credit>Brian Rea</media:credit>
+    </item>
+    <item>
+      <title>The Sacklers’ Last Poison Pill</title>
+      <link>https://www.nytimes.com/2020/12/05/opinion/sackler-purdue-pharma-doj.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/12/05/opinion/sackler-purdue-pharma-doj.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/12/05/opinion/sackler-purdue-pharma-doj.html" rel="standout"></atom:link>
+      <description>A trapdoor in the Justice Department deal with the family’s company might enable them to escape a full accounting of their part in the opioid epidemic.</description>
+      <dc:creator>Jonathan C. Lipson and Gerald Posner</dc:creator>
+      <pubDate>Sat, 05 Dec 2020 20:57:37 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Opioids and Opiates</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Purdue Pharma</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sackler Family</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Justice Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">OxyContin (Drug)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/12/07/opinion/07lipsonposner-01/07lipsonposner-01-moth.jpg" width="151"></media:content>
+      <media:credit>Jane Rosenberg/Reuters</media:credit>
+      <media:description>A sketch of a hearing held remotely last month shows Purdue Pharma’s chairman, Steve Miller, raising his hand to plead guilty to criminal charges on the company’s behalf.</media:description>
+    </item>
+    <item>
+      <title>Biden Should Go Big, and Then Brag About It</title>
+      <link>https://www.nytimes.com/2020/12/03/opinion/sunday/biden-economy-minimum-wage.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/12/03/opinion/sunday/biden-economy-minimum-wage.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/12/03/opinion/sunday/biden-economy-minimum-wage.html" rel="standout"></atom:link>
+      <description>Voters in both red and blue states have revealed what they want from government.</description>
+      <dc:creator>Bryce Covert</dc:creator>
+      <pubDate>Thu, 03 Dec 2020 16:09:54 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2020</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Minimum Wage</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Voting and Voters</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Education (K-12)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Education (Pre-School)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Referendums</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Family Leaves</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/12/06/opinion/03covert-01/03covert-01-moth.jpg" width="151"></media:content>
+      <media:credit>Damon Winter/The New York Times</media:credit>
+      <media:description>Biden supporters the day he was projected as the winner of the presidential election.</media:description>
+    </item>
+    <item>
+      <title>The Children of Pornhub</title>
+      <link>https://www.nytimes.com/2020/12/04/opinion/sunday/pornhub-rape-trafficking.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/12/04/opinion/sunday/pornhub-rape-trafficking.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/12/04/opinion/sunday/pornhub-rape-trafficking.html" rel="standout"></atom:link>
+      <description>Why does Canada allow this company to profit off videos of exploitation and assault?</description>
+      <dc:creator>Nicholas Kristof</dc:creator>
+      <pubDate>Sat, 05 Dec 2020 19:40:24 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Child Abuse and Neglect</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sex Crimes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Child Pornography</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Video Recordings, Downloads and Streaming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Pornhub</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">MindGeek Sarl</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Women and Girls</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pornography</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Human Trafficking</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/12/06/opinion/04kristof-2-R/04kristof-2-moth-v2.jpg" width="151"></media:content>
+      <media:credit>Rachel Bujalski for The New York Times</media:credit>
+      <media:description>Serena K. Fleites, 19, was 14 when a boy she had a crush on asked her to make a naked video and send it to him. She did, and it ended up on Pornhub.</media:description>
+    </item>
+    <item>
+      <title>Why Did Racial Progress Stall in America?</title>
+      <link>https://www.nytimes.com/2020/12/04/opinion/race-american-history.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/12/04/opinion/race-american-history.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/12/04/opinion/race-american-history.html" rel="standout"></atom:link>
+      <description>The answer may show us the path out of our fractured and polarized present.</description>
+      <dc:creator>Shaylyn Romney Garrett and Robert D. Putnam</dc:creator>
+      <pubDate>Sat, 05 Dec 2020 01:16:54 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Black People</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Race and Ethnicity</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Civil Rights Movement (1954-68)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Reconstruction Era</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Income Inequality</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">The Upswing: How America Came Together a Century Ago and How We Can Do It Again (Book)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Books and Literature</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/12/06/opinion/04putnam-02/04putnam-02-moth.jpg" width="151"></media:content>
+      <media:credit>Fred Baldwin</media:credit>
+      <media:description>Students registering to vote, Chatham County Courthouse in Savannah, Ga., 1963.</media:description>
+    </item>
+    <item>
+      <title>Joe Biden and the Decency Agenda</title>
+      <link>https://www.nytimes.com/2020/12/05/opinion/sunday/joe-biden-presidency-style.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/12/05/opinion/sunday/joe-biden-presidency-style.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/12/05/opinion/sunday/joe-biden-presidency-style.html" rel="standout"></atom:link>
+      <description>Joe Biden promised to be a president for all Americans. Here’s a way to start.</description>
+      <dc:creator>The Editorial Board</dc:creator>
+      <pubDate>Sat, 05 Dec 2020 19:30:07 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2020</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States National Anthem Protests (2016- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Budgets and Budgeting</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Speeches and Statements</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/12/05/opinion/05BIDEN-EDITORIAL-COMBO/05BIDEN-EDITORIAL-COMBO-moth.jpg" width="151"></media:content>
+      <media:credit>Photographs by Damon Winter/The New York Times</media:credit>
+    </item>
+    <item>
+      <title>And Play Like a Girl She Did</title>
+      <link>https://www.nytimes.com/2020/12/05/opinion/sunday/sarah-fuller-vanderbilt-women-college-football.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/12/05/opinion/sunday/sarah-fuller-vanderbilt-women-college-football.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/12/05/opinion/sunday/sarah-fuller-vanderbilt-women-college-football.html" rel="standout"></atom:link>
+      <description>Vanderbilt’s Sarah Fuller is the first woman to play Power 5 football. She’s been a long time coming.</description>
+      <dc:creator>Margaret Renkl</dc:creator>
+      <pubDate>Sat, 05 Dec 2020 20:50:26 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Football (College)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Title IX (Gender Discrimination Legislation)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Fuller, Sarah (Athlete)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Vanderbilt University</category>
+    </item>
+    <item>
+      <title>Covid-19 Came for the Dakotas</title>
+      <link>https://www.nytimes.com/2020/12/05/opinion/sunday/covid-north-south-dakota.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/12/05/opinion/sunday/covid-north-south-dakota.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/12/05/opinion/sunday/covid-north-south-dakota.html" rel="standout"></atom:link>
+      <description>In terms of the coronavirus, they’re a theater of American disgrace.</description>
+      <dc:creator>Frank Bruni</dc:creator>
+      <pubDate>Sun, 06 Dec 2020 14:32:17 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Disease Rates</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">North Dakota</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Dakota</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/12/06/opinion/05bruni-3/05bruni-3-moth.jpg" width="151"></media:content>
+      <media:credit>Terry Ratzlaff for The New York Times</media:credit>
+      <media:description>Downtown Vermillion, S.D. There has been a surge in Covid-19 deaths in South Dakota, whose governor has resisted a mask mandate. </media:description>
+    </item>
+    <item>
+      <title>Why Do So Many Americans Think the Election Was Stolen?</title>
+      <link>https://www.nytimes.com/2020/12/05/opinion/sunday/trump-election-fraud.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/12/05/opinion/sunday/trump-election-fraud.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/12/05/opinion/sunday/trump-election-fraud.html" rel="standout"></atom:link>
+      <description>Looking for the reasons behind a seemingly unreasonable belief.</description>
+      <dc:creator>Ross Douthat</dc:creator>
+      <pubDate>Sat, 05 Dec 2020 20:04:52 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2020</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Frauds and Swindling</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Conservatism (US Politics)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Conspiracy Theories</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Fox News Channel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Newsmax Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">One America</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/12/06/opinion/sunday/05Douthat/05Douthat-moth.jpg" width="151"></media:content>
+      <media:credit>Illustration by Rob Dobi; photographs by Getty Images</media:credit>
+    </item>
+    <item>
+      <title>They Offered Us Comfort and Normalcy. Now They Need Our Help.</title>
+      <link>https://www.nytimes.com/2020/12/05/opinion/nyc-small-businesses-covid.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/12/05/opinion/nyc-small-businesses-covid.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/12/05/opinion/nyc-small-businesses-covid.html" rel="standout"></atom:link>
+      <description>The city’s mom-and-pop establishments need help now.</description>
+      <dc:creator>The Editorial Board</dc:creator>
+      <pubDate>Sun, 06 Dec 2020 17:49:10 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Essex Crossing (Manhattan, NY)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Stringer, Scott M</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Queens (NYC)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Brooklyn (NYC)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/12/07/opinion/07ny_editorial_print/05ny-3-moth.jpg" width="151"></media:content>
+      <media:credit>Lanna Apisukh for The New York Times</media:credit>
+      <media:description>E-Z Cleaners owner David Kim and his wife have provided dry cleaning and expert tailoring services in Bushwick, Brooklyn, for over a decade. </media:description>
+    </item>
+    <item>
+      <title>I’m Autistic. I Didn’t Know Until I Was 27.</title>
+      <link>https://www.nytimes.com/2020/12/05/opinion/autism-adult-diagnosis-women.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/12/05/opinion/autism-adult-diagnosis-women.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/12/05/opinion/autism-adult-diagnosis-women.html" rel="standout"></atom:link>
+      <description>Autism spectrum disorder is inseparable from who I am. I wish only that it hadn’t taken so long to find out.</description>
+      <dc:creator>Marianne Eloise</dc:creator>
+      <pubDate>Sat, 05 Dec 2020 16:00:07 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Autism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Women and Girls</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Medicine and Health</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Attention Deficit Hyperactivity Disorder</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Health Service</category>
+    </item>
+    <item>
+      <title>The Long and Tortured History of Cancel Culture</title>
+      <link>https://www.nytimes.com/2020/12/03/t-magazine/cancel-culture-history.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/12/03/t-magazine/cancel-culture-history.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/12/03/t-magazine/cancel-culture-history.html" rel="standout"></atom:link>
+      <description>The public shaming of those deemed moral transgressors has been around for ages. As practiced today, though, is the custom a radical form of citizen justice or merely a handmaiden to capitalism?</description>
+      <dc:creator>Ligaya Mishan</dc:creator>
+      <pubDate>Thu, 03 Dec 2020 14:00:15 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cyberharassment</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Race and Ethnicity</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">News and News Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">#MeToo Movement</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Black Lives Matter Movement</category>
+    </item>
+    <item>
+      <title>‘S.N.L.’ Parodies Rudy Giuliani and Melissa Carone’s Disastrous Hearing</title>
+      <link>https://www.nytimes.com/2020/12/06/arts/television/snl-cecily-strong-melissa-carone-morgan-wallen.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/12/06/arts/television/snl-cecily-strong-melissa-carone-morgan-wallen.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/12/06/arts/television/snl-cecily-strong-melissa-carone-morgan-wallen.html" rel="standout"></atom:link>
+      <description>Cecily Strong took center stage in a “Saturday Night Live” sketch playing a real-life figure who had already reminded viewers of one of her best-known characters.</description>
+      <dc:creator>Dave Itzkoff</dc:creator>
+      <pubDate>Sun, 06 Dec 2020 09:27:47 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Television</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Saturday Night Live (TV Program)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bateman, Jason</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Wallen, Morgan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Strong, Cecily</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Melissa Carone</category>
+    </item>
+    <item>
+      <title>Report Points to Microwave ‘Attack’ as Likely Source of Mystery Illnesses That Hit Diplomats and Spies</title>
+      <link>https://www.nytimes.com/2020/12/05/business/economy/havana-syndrome-microwave-attack.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/12/05/business/economy/havana-syndrome-microwave-attack.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/12/05/business/economy/havana-syndrome-microwave-attack.html" rel="standout"></atom:link>
+      <description>A government-commissioned report provides the most definitive explanation yet for “Havana syndrome,” which struck scores of American employees, first in Cuba and then in China, Russia and other countries.</description>
+      <dc:creator>Ana Swanson and Edward Wong</dc:creator>
+      <pubDate>Sat, 05 Dec 2020 22:59:48 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Diplomatic Service, Embassies and Consulates</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Espionage and Intelligence Services</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Microwaves (Electromagnetic Waves)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Central Intelligence Agency</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Cuba</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">State Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/12/05/us/politics/00DC-HAVANAREPORT-1/merlin_133950497_9c30ac7e-a2f1-48c2-a025-0c4d477345d3-moth.jpg" width="151"></media:content>
+      <media:credit>Meridith Kohut for The New York Times</media:credit>
+      <media:description>Many government employees afflicted by the illness, which was first disclosed in Havana, suffered from dizziness, fatigue, headaches, and loss of hearing, memory and balance.</media:description>
+    </item>
+    <item>
+      <title>Jupiter and Saturn Head for Closest Visible Alignment in 800 Years</title>
+      <link>https://www.nytimes.com/2020/12/06/science/space/jupiter-saturn-align-christmas-star.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/12/06/science/space/jupiter-saturn-align-christmas-star.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/12/06/science/space/jupiter-saturn-align-christmas-star.html" rel="standout"></atom:link>
+      <description>On Dec. 21, Jupiter and Saturn will appear to be no more than a dime’s width apart in the night sky. The last time that could be seen was in 1226.</description>
+      <dc:creator>Michael Levenson</dc:creator>
+      <pubDate>Sun, 06 Dec 2020 12:39:23 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Jupiter (Planet)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Space and Astronomy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Solar System</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Planets</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Batygin, Konstantin (1986- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Saturn (Planet)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/12/06/lens/06xp-greatalignment-photo/06xp-greatalignment-photo-moth.jpg" width="151"></media:content>
+      <media:credit>Ted S. Warren/Associated Press</media:credit>
+      <media:description>Saturn, left center left, and Jupiter, right center, will appear to be at their closest point in nearly 800 years  later this month.</media:description>
+    </item>
+    <item>
+      <title>Roald Dahl’s Family Apologizes for His Anti-Semitism</title>
+      <link>https://www.nytimes.com/2020/12/06/world/europe/roald-dahl-apology-anti-semitism.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/12/06/world/europe/roald-dahl-apology-anti-semitism.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/12/06/world/europe/roald-dahl-apology-anti-semitism.html" rel="standout"></atom:link>
+      <description>The author, who died in 1990, made several disparaging comments about Jews during his lifetime. “Those prejudiced remarks are incomprehensible to us,” the family said in a statement online.</description>
+      <dc:creator>Isabella Kwai</dc:creator>
+      <pubDate>Sun, 06 Dec 2020 17:22:04 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Books and Literature</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Anti-Semitism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Dahl, Roald</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Jews and Judaism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Writing and Writers</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/12/06/world/06dahl/merlin_127360412_641cd6da-f3c5-4cba-b35f-ff18422bcd73-moth.jpg" width="151"></media:content>
+      <media:credit>Ronald Dumont/Hulton Archive, via Getty Images</media:credit>
+      <media:description>Roald Dahl in 1971. “We hope that, just as he did at his best, at his absolute worst, Roald Dahl can help remind us of the lasting impact of words,” the family said in its statement.</media:description>
+    </item>
+    <item>
+      <title>No Charges Against Man Who Struck Horse-Drawn Buggy, Killing 3 Children</title>
+      <link>https://www.nytimes.com/2020/12/03/us/amish-buggy-accident-charges.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/12/03/us/amish-buggy-accident-charges.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/12/03/us/amish-buggy-accident-charges.html" rel="standout"></atom:link>
+      <description>The decision not to charge Ronald Ramsey, who was 83 at the time of the crash, was made in consultation with the family of the children, officials in Michigan said.</description>
+      <dc:creator>Derrick Bryson Taylor</dc:creator>
+      <pubDate>Thu, 03 Dec 2020 15:20:08 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Amish</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Traffic Accidents and Safety</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Horses</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Michigan</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2019/09/19/multimedia/03xp-buggy-image/19xp-buggy-moth.jpg" width="151"></media:content>
+      <media:credit>Nick King/Lansing State Journal, via Associated Press</media:credit>
+      <media:description>No charges will be filed against a man who rear ended a horse-drawn buggy in Eaton County, Mich., in September 2019. Three children were killed and a fourth was injured in the incident.</media:description>
+    </item>
+    <item>
+      <title>Nor&#39;easter Knocks Out Power to More Than 200,000 in New England</title>
+      <link>https://www.nytimes.com/2020/12/05/us/winter-storm-noreaster.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/12/05/us/winter-storm-noreaster.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/12/05/us/winter-storm-noreaster.html" rel="standout"></atom:link>
+      <description>About 200,000 customers in Maine alone lost electricity after a nor’easter brought high winds and heavy snow.</description>
+      <dc:creator>Bryan Pietsch</dc:creator>
+      <pubDate>Sun, 06 Dec 2020 16:06:31 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Power Failures and Blackouts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Weather</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Snow and Snowstorms</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Maine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New England States (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wind</category>
+      <category domain="">noreaster</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New Hampshire</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Connecticut</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Massachusetts</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2021/01/05/business/05xp-winter-storm2/05xp-winter-storm2-moth.jpg" width="151"></media:content>
+      <media:credit>Bill Sikes/Associated Press</media:credit>
+      <media:description>Two people in Marlborough, Mass. In Massachusetts on Sunday, about 6,000 customers were without electricity as a powerful nor’easter battered New England.</media:description>
+    </item>
+    <item>
+      <title>New Jersey’s American Dream Mall Is Still Waiting to Fully Open</title>
+      <link>https://www.nytimes.com/2020/11/26/business/american-dream-mall.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/11/26/business/american-dream-mall.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/11/26/business/american-dream-mall.html" rel="standout"></atom:link>
+      <description>After more than 15 years, the Meadowlands complex began a phased opening in late 2019, but before customers could shop at its stores the pandemic hit and completely upended the retail industry.</description>
+      <dc:creator>Sapna Maheshwari and Michael Corkery</dc:creator>
+      <pubDate>Thu, 26 Nov 2020 10:00:25 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">American Dream Meadowlands (East Rutherford, NJ)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Shopping Centers and Malls</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Amusement and Theme Parks</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus Reopenings</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Meadowlands (NJ)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">East Rutherford (NJ)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Triple Five Group</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/11/27/business/25americandream-print/25americandream-print-moth-v2.jpg" width="151"></media:content>
+      <media:credit>Amr Alfiky/The New York Times</media:credit>
+    </item>
+    <item>
+      <title>In Last-Ditch Bid for Brexit Deal, Leaders’ Theatrics Show the Stakes</title>
+      <link>https://www.nytimes.com/2020/12/06/world/brexit-boris-johnson-european-union.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/12/06/world/brexit-boris-johnson-european-union.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/12/06/world/brexit-boris-johnson-european-union.html" rel="standout"></atom:link>
+      <description>Boris Johnson and the European Union’s president are preparing their domestic audiences for either a landmark accord requiring compromise or a breakdown that will disrupt cross-channel trade.</description>
+      <dc:creator>Mark Landler and Stephen Castle</dc:creator>
+      <pubDate>Sun, 06 Dec 2020 17:57:06 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Great Britain Withdrawal from EU (Brexit)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fishing, Commercial</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">European Commission</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">European Union</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">House of Commons (Great Britain)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Castex, Jean</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Johnson, Boris</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Macron, Emmanuel (1977- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">von der Leyen, Ursula</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/12/06/world/06brexit/merlin_180845520_6e7ff2f5-1ab0-406f-8a3d-81168de2efea-moth.jpg" width="151"></media:content>
+      <media:credit>Pool photo by Julien Warnand</media:credit>
+      <media:description>Ursula von der Leyen, the European Commission’s president, at a news conference this weekend after a phone call with Britain’s prime minister, Boris Johnson.</media:description>
+    </item>
+    <item>
+      <title>China Peddles Falsehoods to Obscure Origin of Covid Pandemic</title>
+      <link>https://www.nytimes.com/2020/12/06/world/asia/china-covid-origin-falsehoods.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/12/06/world/asia/china-covid-origin-falsehoods.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/12/06/world/asia/china-covid-origin-falsehoods.html" rel="standout"></atom:link>
+      <description>To push the idea that the virus didn’t come from China, the government has misrepresented experts’ remarks and given dubious theories the veneer of science.</description>
+      <dc:creator>Javier C. Hernández</dc:creator>
+      <pubDate>Sun, 06 Dec 2020 10:00:15 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Science and Technology</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rumors and Misinformation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Propaganda</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Chinese Academy of Sciences</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Communist Party of China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/12/04/world/00virus-china-origins01/00virus-china-origins01-moth.jpg" width="151"></media:content>
+      <media:credit>Noel Celis/Agence France-Presse — Getty Images</media:credit>
+      <media:description>A barricade in April in Wuhan, China, where the coronavirus emerged, meant to keep people out of a residential compound.</media:description>
+    </item>
+    <item>
+      <title>Lamar Alexander and Tom Udall Agree to Disagree on How to Fix a Split Senate</title>
+      <link>https://www.nytimes.com/2020/12/05/us/senate-lamar-alexander-tom-udall.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/12/05/us/senate-lamar-alexander-tom-udall.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/12/05/us/senate-lamar-alexander-tom-udall.html" rel="standout"></atom:link>
+      <description>Senators Lamar Alexander, a Republican, and Tom Udall, a Democrat, agree the institution needs fixing but differ on what the solution is.</description>
+      <dc:creator>Carl Hulse</dc:creator>
+      <pubDate>Sat, 05 Dec 2020 10:00:15 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Law and Legislation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Alexander, Lamar</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Udall, Tom</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">McConnell, Mitch</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Obama, Barack</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/12/06/us/politics/06dc-hulse-print2/merlin_180728304_419bc236-039d-4c8d-b1f3-4409f144e2c0-moth.jpg" width="151"></media:content>
+      <media:credit>Al Drago for The New York Times</media:credit>
+      <media:description>Senator Lamar Alexander said that senators would be making a fatal mistake if they eliminated the filibuster, which he sees as the essence of the chamber.</media:description>
+    </item>
+    <item>
+      <title>Powerfully Flavored Pasta</title>
+      <link>https://www.nytimes.com/2020/12/04/dining/weeknight-pasta.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/12/04/dining/weeknight-pasta.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/12/04/dining/weeknight-pasta.html" rel="standout"></atom:link>
+      <description>Mark Bittman’s puttanesca is as easy and satisfying as anything you’ll make all month.</description>
+      <dc:creator>Emily Weinstein</dc:creator>
+      <pubDate>Fri, 04 Dec 2020 18:51:32 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cooking and Cookbooks</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Service</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/12/06/dining/15COOKING-PASTA/15COOKING-PASTA-moth-v2.jpg" width="151"></media:content>
+      <media:credit>Jim Wilson/The New York Times</media:credit>
+    </item>
+    <item>
+      <title>Santa Claus and Covid-19: Christmas Will Be Different This Year</title>
+      <link>https://www.nytimes.com/2020/12/04/style/santa-christmas-performers-covid.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/12/04/style/santa-christmas-performers-covid.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/12/04/style/santa-christmas-performers-covid.html" rel="standout"></atom:link>
+      <description>After a brush with the U.S. Department of Health and Human Services, professional Santa Clauses are just trying to get through this holiday season safely.</description>
+      <dc:creator>Sandra E. Garcia and Sapna Maheshwari</dc:creator>
+      <pubDate>Fri, 04 Dec 2020 19:47:49 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Santa Claus</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Quarantine (Life and Culture)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Caputo, Michael R</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Advisory Committee on Immunization Practices</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Health and Human Services Department</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/12/06/fashion/04SANTAS1/merlin_180703248_6a5fc2c6-f69d-4d2d-8ffc-c9188f637811-moth.jpg" width="151"></media:content>
+      <media:credit>Julien Sage for The New York Times</media:credit>
+      <media:description>Ric Erwin is the chairman of the board of the Fraternal Order of Real Bearded Santas, a national association for Santa Claus performers.</media:description>
+    </item>
+    <item>
+      <title>How 700 Epidemiologists Are Living Now, and What They Think Is Next</title>
+      <link>https://www.nytimes.com/2020/12/04/upshot/epidemiologists-virus-survey-.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/12/04/upshot/epidemiologists-virus-survey-.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/12/04/upshot/epidemiologists-virus-survey-.html" rel="standout"></atom:link>
+      <description>They are going to the grocery store again, but don’t see vaccines making life normal right away.</description>
+      <dc:creator>Margot Sanger-Katz, Claire Cain Miller and Quoctrung Bui</dc:creator>
+      <pubDate>Fri, 04 Dec 2020 18:59:45 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus Risks and Safety Concerns</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Quarantine (Life and Culture)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vaccination and Immunization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Service</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/12/04/upshot/04up-epidemiologists/04up-epidemiologists-moth.jpg" width="151"></media:content>
+      <media:credit>Mark Lennihan/Associated Press</media:credit>
+      <media:description>Under elevated subway tracks in Brooklyn in April. The pandemic has been a long slog, and experts don’t see a quick end to it, despite optimism about vaccines.</media:description>
+    </item>
+    <item>
+      <title>August Wilson, American Bard</title>
+      <link>https://www.nytimes.com/2020/12/03/t-magazine/august-wilson-ma-rainey.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/12/03/t-magazine/august-wilson-ma-rainey.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/12/03/t-magazine/august-wilson-ma-rainey.html" rel="standout"></atom:link>
+      <description>Perhaps no playwright has asserted the richness and complexity of everyday Black lives and language so deeply. Now, two screen projects affirm his legacy for new audiences.</description>
+      <dc:creator>Maya Phillips</dc:creator>
+      <pubDate>Fri, 04 Dec 2020 21:54:43 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Wilson, August</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Jitney (Play)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Ma Rainey&#39;s Black Bottom (Play)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Radio Golf (Play)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">The Piano Lesson (Play)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Black People</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Race and Ethnicity</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Writing and Writers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Movies</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Theater</category>
+    </item>
+    <item>
+      <title>Interabled YouTubers, ‘Cole and Charisma,’ Celebrate Wedding</title>
+      <link>https://www.nytimes.com/2020/12/04/style/interabled-youtubers-cole-and-charisma-celebrate-wedding.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/12/04/style/interabled-youtubers-cole-and-charisma-celebrate-wedding.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/12/04/style/interabled-youtubers-cole-and-charisma-celebrate-wedding.html" rel="standout"></atom:link>
+      <description>Charisma Jamison and Cole Sydnor, who have grown accustomed to sharing the joys and trials of their relationship with thousands of viewers on their show, “Roll With Cole &amp; Charisma,” marry in Virginia.</description>
+      <dc:creator>Robbie Spencer</dc:creator>
+      <pubDate>Sun, 06 Dec 2020 16:20:59 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Love (Emotion)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Marriages</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Disabilities</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/12/04/fashion/04Vows-InterabledCouple1/04Vows-InterabledCouple1-moth.jpg" width="151"></media:content>
+      <media:credit>Carlos Bernate for The New York Times</media:credit>
+      <media:description>Cole Sydnor and Charisma Jamison married Nov. 7 at the Virginia House in Richmond, Va. The couple have a popular YouTube channel meant to answer common questions about interabled couples.</media:description>
+    </item>
+    <item>
+      <title>How a Home Health Aide Spends Her Sundays</title>
+      <link>https://www.nytimes.com/2020/12/04/nyregion/coronavirus-nyc-home-health-aide.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/12/04/nyregion/coronavirus-nyc-home-health-aide.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/12/04/nyregion/coronavirus-nyc-home-health-aide.html" rel="standout"></atom:link>
+      <description>Multiple showers, multiple buses, multiple patients, multiple masks and gloves.</description>
+      <dc:creator>Alix Strauss</dc:creator>
+      <pubDate>Fri, 04 Dec 2020 10:00:24 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elderly</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nursing Homes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mill Basin (Brooklyn, NY)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Keisha Gourdet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Quarantine (Life and Culture)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Home Health Care</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/12/06/nyregion/06keisharoutine01/06keisharoutine01-moth-v2.jpg" width="151"></media:content>
+      <media:credit>Elizabeth D. Herman for The New York Times</media:credit>
+      <media:description>This is a very busy time for Keisha Gourdet, a certified nursing assistant, who has picked up extra shifts since the pandemic began.</media:description>
+    </item>
+    <item>
+      <title>Review: In ‘Your Honor,’ a Dark Cable Premise Breaks Worse</title>
+      <link>https://www.nytimes.com/2020/12/03/arts/television/review-your-honor.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/12/03/arts/television/review-your-honor.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/12/03/arts/television/review-your-honor.html" rel="standout"></atom:link>
+      <description>Bryan Cranston stars in a role that recalls his most famous series. The comparison is not flattering.</description>
+      <dc:creator>James Poniewozik</dc:creator>
+      <pubDate>Thu, 03 Dec 2020 13:00:05 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Television</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Your Honor (TV Program)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Showtime</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Cranston, Bryan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Davis, Hope</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Stuhlbarg, Michael</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Doohan, Hunter</category>
+    </item>
+    <item>
+      <title>The Best Children’s Books of 2020</title>
+      <link>https://www.nytimes.com/2020/12/02/books/review/best-childrens-books.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/12/02/books/review/best-childrens-books.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/12/02/books/review/best-childrens-books.html" rel="standout"></atom:link>
+      <description>The most notable picture, middle grade and young adult books of the year, selected by The Times’s children’s books editor.</description>
+      <pubDate>Wed, 02 Dec 2020 21:14:30 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Books and Literature</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Two Thousand Twenty</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">A Story About Afiya (Book)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Becoming Muhammad Ali (Book)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Before the Ever After (Book)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Chance: Escape From the Holocaust (Book)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Class Act (Book)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Dragon Hoops (Book)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Everything Sad Is Untrue: (A True Story) (Book)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">You Matter (Book)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">When You Look Up (Book)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">When Stars Are Scattered (Book)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">We Dream of Space (Book)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Ways to Make Sunshine (Book)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">They Went Left (Book)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">The Wanderer (Book)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">I Talk Like a River (Book)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">If You Come to Earth (Book)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Loretta Little Looks Back: Three Voices Go Tell It (Book)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Mananaland (Book)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Our Little Kitchen (Book)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Outside In (Book)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">The Little Mermaid (Book)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">The Magicians (TV Program)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">The Silver Arrow (Book)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">The Strange Birds of Flannery O&#39;Connor: A Life (Book)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">The Talk: Conversations about Race, Love &amp; Truth (Book)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/12/06/books/review/06NotableChildrens-KRAUSS/06NotableChildrens-KRAUSS-moth.jpg" width="151"></media:content>
+      <media:credit>Roberts Rurans</media:credit>
+    </item>
+    <item>
+      <title>The Elderly vs. Essential Workers: Who Should Get the Coronavirus Vaccine First?</title>
+      <link>https://www.nytimes.com/2020/12/05/health/covid-vaccine-first.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/12/05/health/covid-vaccine-first.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/12/05/health/covid-vaccine-first.html" rel="standout"></atom:link>
+      <description>The C.D.C. will soon decide which group to recommend next, and the debate over the trade-offs is growing heated. Ultimately, states will determine whom to include.</description>
+      <dc:creator>Abby Goodnough and Jan Hoffman</dc:creator>
+      <pubDate>Sat, 05 Dec 2020 18:58:34 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vaccination and Immunization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Medicine and Health</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elderly</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Labor and Jobs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">States (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Centers for Disease Control and Prevention</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Income Inequality</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Race and Ethnicity</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-healthcare</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/12/04/science/00VIRUS-ESSENTIAL1/00VIRUS-ESSENTIAL1-moth.jpg" width="151"></media:content>
+      <media:credit>Juan Arredondo for The New York Times</media:credit>
+      <media:description>The Department of Homeland Security’s list of essential workers is long and varied, including jobs such as tugboat operators and these grocery store clerks in Brooklyn.</media:description>
+    </item>
+    <item>
+      <title>Youth Sports After Covid-19: New Pediatric Guidelines</title>
+      <link>https://www.nytimes.com/2020/12/04/well/family/youth-sports-covid.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/12/04/well/family/youth-sports-covid.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/12/04/well/family/youth-sports-covid.html" rel="standout"></atom:link>
+      <description>Children and adolescents who want to return to sports after having the coronavirus should be cleared by a doctor for heart risks.</description>
+      <dc:creator>Perri Klass, M.D.</dc:creator>
+      <pubDate>Fri, 04 Dec 2020 15:11:04 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Athletics and Sports</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">American Academy of Pediatrics</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pediatric Inflammatory Multisystem Syndrome (PIMS)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heart</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Service</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sports Medicine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Exercise</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Children and Childhood</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/12/04/well/04klass-sports/04klass-sports-moth.jpg" width="151"></media:content>
+      <media:credit>Stan Grossfeld/The Boston Globe, via Getty Images</media:credit>
+      <media:description>Members of the Lowell High School girls soccer team in Lowell, Mass., before a game last month. New guidelines from the American Academy of Pediatrics recommend mask-wearing for young athletes in games, team practices and on the sidelines.</media:description>
+    </item>
+    <item>
+      <title>Hawaii’s Fresh Water Leaks to the Ocean Through Underground Rivers</title>
+      <link>https://www.nytimes.com/2020/11/25/science/hawaii-water-aquifer.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/11/25/science/hawaii-water-aquifer.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/11/25/science/hawaii-water-aquifer.html" rel="standout"></atom:link>
+      <description>If the water could be pumped to the surface, it could help alleviate shortages on the island.</description>
+      <dc:creator>Matt Kaplan</dc:creator>
+      <pubDate>Wed, 25 Nov 2020 20:56:10 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Hawaii (The Big Island)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Water</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rivers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Geology</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Aquifers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Islands</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oceans and Seas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Science Advances (Journal)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-science</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/11/25/science/25TB-HAWAII1/25TB-HAWAII1-moth-v2.jpg" width="151"></media:content>
+      <media:credit>Bryan Lowry/Alamy</media:credit>
+      <media:description>Deep underneath Mount Hualalai on Hawaii’s Big Island flow underground rivers of fresh water.</media:description>
+    </item>
+    <item>
+      <title>Do You Have a Conflict of Interest? This Robotic Assistant May Find It First</title>
+      <link>https://www.nytimes.com/2020/11/23/science/conflict-of-interest-ai.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/11/23/science/conflict-of-interest-ai.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/11/23/science/conflict-of-interest-ai.html" rel="standout"></atom:link>
+      <description>They can’t detect all conflicts, but new computer programs serve as guard rails when scientists and publishers fail to self-police.</description>
+      <dc:creator>Dalmeet Singh Chawla</dc:creator>
+      <pubDate>Mon, 23 Nov 2020 21:51:12 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Conflicts of Interest</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Academic and Scientific Journals</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ethics and Official Misconduct</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Writing and Writers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-science</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/11/24/science/24SCI-CONFLICTSCOLOR/24SCI-CONFLICTSCOLOR-moth.jpg" width="151"></media:content>
+      <media:credit>Cristina Spanò</media:credit>
+    </item>
+    <item>
+      <title>Weeks Late, Biden Gets His Briefings</title>
+      <link>https://www.nytimes.com/2020/12/01/us/politics/biden-intelligence-briefings.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/12/01/us/politics/biden-intelligence-briefings.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/12/01/us/politics/biden-intelligence-briefings.html" rel="standout"></atom:link>
+      <description>Planning for a Covid-era inauguration intensifies: This is your morning tip sheet.</description>
+      <dc:creator>Giovanni Russonello</dc:creator>
+      <pubDate>Tue, 01 Dec 2020 12:00:10 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Harris, Kamala D</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Transition (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+    </item>
+    <item>
+      <title>After 4 Years of Trump, Medicare and Medicaid Badly Need Attention</title>
+      <link>https://www.nytimes.com/2020/12/01/opinion/trump-medicare-medicaid.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/12/01/opinion/trump-medicare-medicaid.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/12/01/opinion/trump-medicare-medicaid.html" rel="standout"></atom:link>
+      <description>Science and objective analysis need to be revived.</description>
+      <dc:creator>Peter B. Bach</dc:creator>
+      <pubDate>Tue, 01 Dec 2020 10:00:13 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drugs (Pharmaceuticals)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Health Insurance and Managed Care</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elderly</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Medicare</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Medicaid</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2020</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Centers for Disease Control and Prevention</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Centers for Medicare and Medicaid Services</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Food and Drug Administration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/12/02/opinion/01bach-02/01bach-02-moth.jpg" width="151"></media:content>
+      <media:credit>Erin Schaff/The New York Times</media:credit>
+      <media:description>Seema Verma, administrator of the Centers for Medicare &amp;amp; Medicaid Services, with President Trump last month.</media:description>
+    </item>
+    <item>
+      <title>Meryl Streep Isn’t on Our List of Greatest Actors. Here’s Why.</title>
+      <link>https://www.nytimes.com/2020/12/04/insider/best-actors-list.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/12/04/insider/best-actors-list.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/12/04/insider/best-actors-list.html" rel="standout"></atom:link>
+      <description>The Times’s co-chief film critics explain their rationale for some surprising inclusions, and exclusions, on their list of the greatest actors of the 21st century (so far).</description>
+      <dc:creator>Sarah Bahr</dc:creator>
+      <pubDate>Fri, 04 Dec 2020 10:00:22 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Actors and Actresses</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Streep, Meryl</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Dargis, Manohla</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Movies</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Washington, Denzel</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/11/29/arts/04Insider_art/29great-actors-promo-moth-v2.jpg" width="151"></media:content>
+      <media:credit>Clockwise from top left: David Lee/Lionsgate; Paramount Pictures; Focus Features</media:credit>
+      <media:description>Keanu Reeves as John Wick. Viola Davis in “Fences.” Julianne Moore in ‘’Far From Heaven,.’</media:description>
+    </item>
+    <item>
+      <title>Letter Boxed</title>
+      <link>https://www.nytimes.com/puzzles/letter-boxed</link>
+      <guid isPermaLink="true">https://www.nytimes.com/puzzles/letter-boxed</guid>
+      <atom:link href="https://www.nytimes.com/puzzles/letter-boxed" rel="standout"></atom:link>
+      <description>Solve this puzzle in less than 6 words.</description>
+      <dc:creator>The New York Times</dc:creator>
+      <pubDate>Tue, 01 Dec 2020 22:56:05 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/03/24/crosswords/letter-boxed-nytgames-hi-res/letter-boxed-nytgames-hi-res-moth-v2.png" width="151"></media:content>
+      <media:credit>The New York Times</media:credit>
+    </item>
+    <item>
+      <title>The Crossword, Spelling Bee and More</title>
+      <link>https://www.nytimes.com/crosswords</link>
+      <guid isPermaLink="true">https://www.nytimes.com/crosswords</guid>
+      <atom:link href="https://www.nytimes.com/crosswords" rel="standout"></atom:link>
+      <description>Solve the daily puzzle edited by Will Shortz, or try out other games like the Mini and Vertex.</description>
+      <dc:creator>The New York Times</dc:creator>
+      <pubDate>Tue, 01 Dec 2020 22:56:05 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/03/23/crosswords/crossword-logo-nytgames-hires/crossword-logo-nytgames-hires-moth-v2.png" width="151"></media:content>
+      <media:credit>The New York Times</media:credit>
+    </item>
+    <item>
+      <title>Tiles</title>
+      <link>https://www.nytimes.com/puzzles/tiles</link>
+      <guid isPermaLink="true">https://www.nytimes.com/puzzles/tiles</guid>
+      <atom:link href="https://www.nytimes.com/puzzles/tiles" rel="standout"></atom:link>
+      <description>Our soothing matching game may help you de-stress.</description>
+      <dc:creator>The New York Times</dc:creator>
+      <pubDate>Tue, 01 Dec 2020 22:56:05 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/03/23/crosswords/tiles-logo-nytgames-hi-res/tiles-logo-nytgames-hi-res-moth-v2.png" width="151"></media:content>
+      <media:credit>The New York Times</media:credit>
+    </item>
+  </channel>
+</rss>

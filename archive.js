@@ -4,11 +4,12 @@ const fetch = require('node-fetch');
 const Parser = require('rss-parser');
 
 const calculateFrequencies = require("./frequencies");
+const score = require("./score");
 
 const parser = new Parser();
 
-const cacheDirName = "cnn";
-const rssFeedUrl = "http://rss.cnn.com/rss/cnn_topstories.rss";
+const cacheDirName = "bbcworld";
+const rssFeedUrl = "http://feeds.bbci.co.uk/news/world/rss.xml";
 const cdxUrl = `http://web.archive.org/cdx/search/cdx?url=${rssFeedUrl.split("://")[1]}`;
 const now = Date.now();
 const sixMonthsAgo = now - (183 * 24 * 60 * 60 * 1000);
@@ -25,7 +26,7 @@ const cachedFetch = async (uid, ...args) => {
       fetch(...args)
         .then(res => res.text())
         .then(text => {
-          if (text.includes("This snapshot cannot be displayed due to an internal error.")) {
+          if (!text.includes("<rss") || !text.includes("</rss>")) {
             return null;
           } else {
             fs.writeFileSync(filePath, text);
@@ -56,10 +57,13 @@ const cachedFetch = async (uid, ...args) => {
     }
   }
 
-  // Simple safe sequential fetch
-  for (const line of selectedLines) {
-    const result = await cachedFetch(line[1], `https://web.archive.org/web/${line[1]}/${line[2]}`);
-  }
+  const PARALLEL = 4;
+  await Promise.all(new Array(PARALLEL).fill(0).map(async (_, j) => {
+    for (let i = j; i < selectedLines.length; i += PARALLEL) {
+      const line = selectedLines[i];
+      await cachedFetch(line[1], `https://web.archive.org/web/${line[1]}/${line[2]}`);
+    }
+  }))
 
   // Then get the cached data
   let allPages = await Promise.all(selectedLines.map((line) => cachedFetch(line[1], `https://web.archive.org/web/${line[1]}/${line[2]}`)));
@@ -67,7 +71,11 @@ const cachedFetch = async (uid, ...args) => {
   const fetches = allPages.length;
   console.log(successes, '/', fetches, 'successful');
 
-  if (successes === fetches) {
+  const runAnyway = process.argv.includes('--force');
+
+  if (successes === fetches || runAnyway) {
+    if (runAnyway) allPages = allPages.filter(Boolean);
+
     const map = new Map();
     for (let i = 0; i < allPages.length; i++) {
       allPages[i] = allPages[i].slice(allPages[i].indexOf("<rss"), allPages[i].lastIndexOf("</rss>") + 6);
@@ -78,9 +86,26 @@ const cachedFetch = async (uid, ...args) => {
         }
       });
     }
+
     console.log(map.size, 'articles processed');
-    const frequencyMap = calculateFrequencies([...map.values()].join(" "));
-    console.log([...frequencyMap.entries()].sort(([, a], [, b]) => b - a).slice(0, 1000).join("\n"));
+
+    const articles = [...map.values()];
+
+    const totalFrequencies = articles.reduce((counts, article) => {
+      const map = calculateFrequencies(article);
+      for (const word of map.keys()) {
+        counts.set(word, (counts.get(word) || 0) + 1);
+      }
+      return counts;
+    }, new Map());
+
+    const list = (await Promise.all([...totalFrequencies.entries()]
+      .map(async ([word, count]) => [word, count, await score(word, count, "the", totalFrequencies.get("the"))])))
+      .sort(([,, a], [,, b]) => b - a);
+
+    console.log(list.slice(0, 100).map(a => `| ${a[0].padEnd(24, " ")} | ${a[1].toString().padStart(6, " ")} | ${a[2].toFixed(1).padStart(7, " ")} |`).join("\n"));
   }
+
+  process.exit(1);
 })();
 

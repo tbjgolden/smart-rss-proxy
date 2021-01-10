@@ -1,0 +1,369 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet title="XSL_formatting" type="text/xsl" href="/shared/bsp/xsl/rss/nolsol.xsl"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News - Home]]></title>
+        <description><![CDATA[BBC News - Home]]></description>
+        <link>https://www.bbc.co.uk/news/</link>
+        <image>
+            <url>https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News - Home</title>
+            <link>https://www.bbc.co.uk/news/</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Fri, 30 Oct 2020 19:11:14 GMT</lastBuildDate>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Covid spreading faster in England than 'worst-case scenario', documents show]]></title>
+            <description><![CDATA[Infection levels in England are about four times higher than the government's worst-case winter plan.]]></description>
+            <link>https://www.bbc.co.uk/news/health-54750775</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-54750775</guid>
+            <pubDate>Fri, 30 Oct 2020 19:09:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Earthquake hits Greece and Turkey, bringing deaths and floods]]></title>
+            <description><![CDATA[Fourteen die in Turkey's Izmir city and on Greece's Samos island, with a mini-tsunami triggered.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-54749509</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-54749509</guid>
+            <pubDate>Fri, 30 Oct 2020 18:34:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Nobby Stiles: World Cup winner and former Man Utd midfielder dies aged 78]]></title>
+            <description><![CDATA[Nobby Stiles, a key member of England's 1966 World Cup-winning team, dies aged 78 after a long illness.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/36963874</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/36963874</guid>
+            <pubDate>Fri, 30 Oct 2020 18:46:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Nice attack: 'Such friendly faces' - city in shock after murders]]></title>
+            <description><![CDATA[Colleagues and neighbours pay tribute to the three victims of Thursday's attack at Notre-Dame basilica.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-54747020</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-54747020</guid>
+            <pubDate>Fri, 30 Oct 2020 12:55:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid-19: Virus spreading faster than 'worst-case scenario', and Paris streets empty]]></title>
+            <description><![CDATA[Five things you need to know about the coronavirus pandemic this Friday evening.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-54747476</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-54747476</guid>
+            <pubDate>Fri, 30 Oct 2020 17:05:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Breonna Taylor: Police officer sues shot black woman's boyfriend]]></title>
+            <description><![CDATA[Jonathan Mattingly was injured in the raid in Kentucky in which police shot dead the black woman.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-54752228</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-54752228</guid>
+            <pubDate>Fri, 30 Oct 2020 15:59:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Anti-France protests: Muslims hold rallies worldwide as tensions rise]]></title>
+            <description><![CDATA[Marchers vent their fury at President Macron over his defence of cartoons of the Prophet Muhammad.]]></description>
+            <link>https://www.bbc.co.uk/news/world-54751920</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-54751920</guid>
+            <pubDate>Fri, 30 Oct 2020 16:32:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Chop: Sky TV carpentry show cancelled over contestant's tattoos]]></title>
+            <description><![CDATA[An investigation into a contestant's tattoos says they "could be connected to far-right ideologies".]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-54747089</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-54747089</guid>
+            <pubDate>Fri, 30 Oct 2020 10:42:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Corbyn anti-Semitism row: Len McCluskey urges angry members to stay in Labour]]></title>
+            <description><![CDATA[Union leader Len McCluskey says Jeremy Corbyn's suspension was "unjust" but he hopes it can be resolved.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-politics-54748713</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-54748713</guid>
+            <pubDate>Fri, 30 Oct 2020 16:43:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid: UK-wide Christmas rules meeting 'expected', says Drakeford]]></title>
+            <description><![CDATA[The UK government wants a meeting to find a "common" approach, the Welsh first minister says.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-politics-54750714</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-54750714</guid>
+            <pubDate>Fri, 30 Oct 2020 14:47:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Nottinghamshire tier 3: Crowds gather ahead of new restrictions]]></title>
+            <description><![CDATA[The city moved into the top tier of Covid-19 restrictions at midnight after an overall rise in infection rates.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-nottinghamshire-54746814</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-nottinghamshire-54746814</guid>
+            <pubDate>Fri, 30 Oct 2020 12:13:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Borat's Sacha Baron Cohen donates $100,000 to Jeanise Jones' church]]></title>
+            <description><![CDATA[Sacha Baron Cohen reportedly donates to the church attended by one of Borat 2's unwitting stars.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-54746397</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-54746397</guid>
+            <pubDate>Fri, 30 Oct 2020 12:39:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid: Clive Myrie visits the Navajo Nation]]></title>
+            <description><![CDATA[Clive Myrie has visited the Navajo Nation in Arizona where the death rate is the highest in the US.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-54745441</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-54745441</guid>
+            <pubDate>Fri, 30 Oct 2020 15:18:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ariana Grande's Positions: Album 'solid but doesn't sparkle' say critics]]></title>
+            <description><![CDATA[Positions gets a lukewarm reception from critics, who say it does not break any new ground.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-54751598</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-54751598</guid>
+            <pubDate>Fri, 30 Oct 2020 17:10:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A summer evening and other award-winning photos]]></title>
+            <description><![CDATA[Winning images by professional and non-professional photographers, from around the world.]]></description>
+            <link>https://www.bbc.co.uk/news/in-pictures-54735147</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/in-pictures-54735147</guid>
+            <pubDate>Fri, 30 Oct 2020 08:40:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[New lockdown drains Paris streets of life]]></title>
+            <description><![CDATA[The first day of a new month-long lockdown in France left some Paris streets looking deserted.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-54746763</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-54746763</guid>
+            <pubDate>Fri, 30 Oct 2020 12:55:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Stockport holiday club supports families struggling during half term]]></title>
+            <description><![CDATA[The R Time project in Stockport has been handing out lunches to all its children.]]></description>
+            <link>https://www.bbc.co.uk/news/education-54748710</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/education-54748710</guid>
+            <pubDate>Fri, 30 Oct 2020 17:11:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Armenians on the front line in Nagorno-Karabakh]]></title>
+            <description><![CDATA[Armenian mothers fear for sons on the front line in Nagorno-Karabakh as both sides suffer heavy casualties.]]></description>
+            <link>https://www.bbc.co.uk/news/health-54712940</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-54712940</guid>
+            <pubDate>Fri, 30 Oct 2020 00:48:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Rebecca Adlington: Former Olympic champion on online abuse and body image problems]]></title>
+            <description><![CDATA[Double Olympic gold medallist Rebecca Adlington's memories of landmark moments in her life have been "tainted" by online trolls.]]></description>
+            <link>https://www.bbc.co.uk/sport/swimming/54721960</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/swimming/54721960</guid>
+            <pubDate>Fri, 30 Oct 2020 09:36:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Quiz of the week: Which Borat slogan did Kazakhstan embrace?]]></title>
+            <description><![CDATA[How closely have you been paying attention to what's been going on during the past seven days?]]></description>
+            <link>https://www.bbc.co.uk/news/world-54703051</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-54703051</guid>
+            <pubDate>Fri, 30 Oct 2020 01:02:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid-19 evictions: 'Where will I go with my children?']]></title>
+            <description><![CDATA[Three people from around the world who lost their jobs during the pandemic explain how it has affected their lives.]]></description>
+            <link>https://www.bbc.co.uk/news/world-54734073</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-54734073</guid>
+            <pubDate>Fri, 30 Oct 2020 00:02:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Guy Davies spots gap in film market for his first feature]]></title>
+            <description><![CDATA[How one independent film-maker spotted a gap in the movie market left by the coronavirus pandemic.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-54737089</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-54737089</guid>
+            <pubDate>Fri, 30 Oct 2020 00:02:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Nobby Stiles: The 'toothless fella' who meant so much to fans]]></title>
+            <description><![CDATA[Nobby Stiles, who has died aged 78, will be remembered for his World Cup celebrations - but it should not be the only reason.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/36945085</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/36945085</guid>
+            <pubDate>Fri, 30 Oct 2020 16:13:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[NHS paramedics: 'The suicide callouts stay with you']]></title>
+            <description><![CDATA[Paramedics tell Radio 1 Newsbeat how they cope with suicide-related 999 calls.]]></description>
+            <link>https://www.bbc.co.uk/news/newsbeat-54740033</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/newsbeat-54740033</guid>
+            <pubDate>Fri, 30 Oct 2020 10:42:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Carrie Hope Fletcher on how Cinderella went 'bad']]></title>
+            <description><![CDATA[The singer, who will star in Andrew Lloyd Webber's new musical, reveals some of the show's secrets.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-54696550</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-54696550</guid>
+            <pubDate>Fri, 30 Oct 2020 00:38:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A simple guide: Why was Jeremy Corbyn suspended from Labour?]]></title>
+            <description><![CDATA[The events that led to Mr Corbyn's suspension from the party he joined as a teenager and what happens next.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-politics-54746452</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-54746452</guid>
+            <pubDate>Fri, 30 Oct 2020 12:14:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Oil firm whistleblower trapped in Croatian holiday hell]]></title>
+            <description><![CDATA[A British lawyer exposed huge oil industry corruption - and now Monaco wants him extradited.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-54734371</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-54734371</guid>
+            <pubDate>Fri, 30 Oct 2020 01:27:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Prince Monolulu: The truth behind horse racing's original showman tipster]]></title>
+            <description><![CDATA[The fantastical life story of a forgotten national star. But who was the real man behind the Prince Monolulu mythology?]]></description>
+            <link>https://www.bbc.co.uk/sport/horse-racing/54695641</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/horse-racing/54695641</guid>
+            <pubDate>Fri, 30 Oct 2020 06:14:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus doctor's diary: 'Our hospital could soon be overwhelmed']]></title>
+            <description><![CDATA[Dr John Wright and two consultants describe the immense pressure Bradford Royal Infirmary is coming under.]]></description>
+            <link>https://www.bbc.co.uk/news/health-54718318</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-54718318</guid>
+            <pubDate>Thu, 29 Oct 2020 15:16:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid: Sir Rocco Forte's claims fact-checked]]></title>
+            <description><![CDATA[The hotelier says the government "overreacted" and "panicked" in its response to the pandemic.]]></description>
+            <link>https://www.bbc.co.uk/news/54735702</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/54735702</guid>
+            <pubDate>Thu, 29 Oct 2020 18:04:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How do 'Blue Wall' voters rate the Tories one year on?]]></title>
+            <description><![CDATA[People in Great Grimsby and Redcar reflect on the government, one year after 2019's general election was called.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-politics-54721183</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-54721183</guid>
+            <pubDate>Thu, 29 Oct 2020 01:09:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why the humble text message is a key campaign tool]]></title>
+            <description><![CDATA[Every election campaign uses more sophisticated tech, but the text message still cuts through.]]></description>
+            <link>https://www.bbc.co.uk/news/business-54688474</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-54688474</guid>
+            <pubDate>Fri, 30 Oct 2020 09:44:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[England take lessons from 2015 try-fest as they bid to get tactics right in Rome]]></title>
+            <description><![CDATA[Billy Vunipola says England must not "become too frantic" in pursuit of tries when they bid for the Six Nations title against Italy on Saturday.]]></description>
+            <link>https://www.bbc.co.uk/sport/rugby-union/54752583</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/rugby-union/54752583</guid>
+            <pubDate>Fri, 30 Oct 2020 19:09:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Roglic punches clear to win stage and retake Vuelta a Espana lead]]></title>
+            <description><![CDATA[Primoz Roglic retakes the overall lead in the Vuelta a Espana from Richard Carapaz with victory on stage 10.]]></description>
+            <link>https://www.bbc.co.uk/sport/cycling/54753795</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/cycling/54753795</guid>
+            <pubDate>Fri, 30 Oct 2020 17:31:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Stokes flays fifty to keep Rajasthan in IPL hunt]]></title>
+            <description><![CDATA[Ben Stokes propels Rajasthan Royals to a seven-wicket victory over Kings XI Punjab to keep the Royals in the Indian Premier League.]]></description>
+            <link>https://www.bbc.co.uk/sport/cricket/54755112</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/cricket/54755112</guid>
+            <pubDate>Fri, 30 Oct 2020 17:54:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Nobby Stiles the unlikely hero - World Cup winner dies aged 78]]></title>
+            <description><![CDATA[BBC Sport looks back at the life of World Cup-winning England midfielder Nobby Stiles who has died, aged 78, after a long illness.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/football/54754645</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/football/54754645</guid>
+            <pubDate>Fri, 30 Oct 2020 18:30:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Countdown: Lil Wayne, Paul Rudd and the fight for the last votes]]></title>
+            <description><![CDATA[Lil Wayne met with Donald Trump and everybody had views about the black vote.]]></description>
+            <link>https://www.bbc.co.uk/news/election-us-2020-54746989</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/election-us-2020-54746989</guid>
+            <pubDate>Fri, 30 Oct 2020 15:25:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[US election: The women who hold the key to Trump's survival]]></title>
+            <description><![CDATA[Suburban women are a key voting bloc this election - but can Trump still count on their support?]]></description>
+            <link>https://www.bbc.co.uk/news/election-us-2020-54678704</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/election-us-2020-54678704</guid>
+            <pubDate>Thu, 29 Oct 2020 22:31:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[US election 2020 polls: Who is ahead - Trump or Biden?]]></title>
+            <description><![CDATA[An in-depth look at the polls and what they can and can’t tell us about who will win the White House.]]></description>
+            <link>https://www.bbc.co.uk/news/election-us-2020-53657174</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/election-us-2020-53657174</guid>
+            <pubDate>Fri, 30 Oct 2020 11:25:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Trump v Biden: A tale of two rallies]]></title>
+            <description><![CDATA[Donald Trump and Joe Biden slug it out in Florida, with very different campaign styles.]]></description>
+            <link>https://www.bbc.co.uk/news/election-us-2020-54742426</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/election-us-2020-54742426</guid>
+            <pubDate>Fri, 30 Oct 2020 03:20:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Predict the president 2020: Will Trump or Biden win the US election? You decide]]></title>
+            <description><![CDATA[Play our game to predict whether Donald Trump or Joe Biden will win the key states in the election.]]></description>
+            <link>https://www.bbc.co.uk/news/election-us-2020-54286528</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/election-us-2020-54286528</guid>
+            <pubDate>Fri, 25 Sep 2020 16:35:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[US election 2020: Why racism is still a problem for the world's most powerful country]]></title>
+            <description><![CDATA[The stories of police brutality against African Americans are similar to those of 20 years ago, writes the BBC's Clive Myrie.]]></description>
+            <link>https://www.bbc.co.uk/news/election-us-2020-54738922</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/election-us-2020-54738922</guid>
+            <pubDate>Fri, 30 Oct 2020 01:55:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Countdown: Kellyanne Conway, Miles Taylor and the speculation game]]></title>
+            <description><![CDATA[The latest election drama, and what speculation about who wrote the book Anonymous really tells us.]]></description>
+            <link>https://www.bbc.co.uk/news/election-us-2020-54730319</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/election-us-2020-54730319</guid>
+            <pubDate>Thu, 29 Oct 2020 18:33:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[US election 2020: The 750,000 people you didn’t know could vote]]></title>
+            <description><![CDATA[Hundreds of thousands of people in US jails are entitled to vote in 2020 - but most have no idea.]]></description>
+            <link>https://www.bbc.co.uk/news/election-us-2020-54731172</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/election-us-2020-54731172</guid>
+            <pubDate>Thu, 29 Oct 2020 21:28:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Furlough: ‘In limbo’ or ‘one long garden party'?]]></title>
+            <description><![CDATA[Furlough was a welcome holiday for some but for others it was a long and anxious waiting game.]]></description>
+            <link>https://www.bbc.co.uk/news/business-54716497</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-54716497</guid>
+            <pubDate>Fri, 30 Oct 2020 00:03:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid: What impact has the furlough scheme had?]]></title>
+            <description><![CDATA[As the furlough scheme draws to a close, how much did it cost and did it achieve its aims?]]></description>
+            <link>https://www.bbc.co.uk/news/business-54601117</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-54601117</guid>
+            <pubDate>Fri, 30 Oct 2020 00:00:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['Furlough pay should be kept at 80% of our salaries']]></title>
+            <description><![CDATA[Workers facing new lockdowns: "We need furlough pay to be kept at 80% of our salaries."]]></description>
+            <link>https://www.bbc.co.uk/news/business-54725590</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-54725590</guid>
+            <pubDate>Thu, 29 Oct 2020 00:01:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Job Support Scheme: How do new post-furlough changes work?]]></title>
+            <description><![CDATA[The government has expanded its Job Support Scheme, which replaces furlough from November.]]></description>
+            <link>https://www.bbc.co.uk/news/explainers-52135342</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-52135342</guid>
+            <pubDate>Thu, 29 Oct 2020 18:26:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[‘It’s all about survival’ as furlough scheme ends]]></title>
+            <description><![CDATA[How are Tottenham residents coping after the area had one of the highest furlough rates in London?]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-london-54697955</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-54697955</guid>
+            <pubDate>Tue, 27 Oct 2020 10:41:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How do I find a new job during Covid and which sectors are hiring?]]></title>
+            <description><![CDATA[Jobseekers are having a tough time at the moment, but support is available.]]></description>
+            <link>https://www.bbc.co.uk/news/explainers-53685650</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-53685650</guid>
+            <pubDate>Thu, 29 Oct 2020 18:57:27 GMT</pubDate>
+        </item>
+    </channel>
+</rss>

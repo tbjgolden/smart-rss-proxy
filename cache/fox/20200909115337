@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" media="screen" href="/~d/styles/rss2full.xsl"?><?xml-stylesheet type="text/css" media="screen" href="http://feeds.foxnews.com/~d/styles/itemcontent.css"?><rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+                    <title>FOX News</title>
+    <link>http://www.foxnews.com/</link>
+    <description><![CDATA[FOXNews.com - Breaking news and video. Latest Current News: U.S., World, Entertainment, Health, Business, Technology, Politics, Sports.]]></description>
+        <image>
+    	<url>http://tools.foxnews.com/sites/tools.foxnews.com/files/images/fox-news-logo.png</url>
+    	<title>FOX News</title>
+    	<link>http://www.foxnews.com/</link>
+    </image>
+            <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feeds.foxnews.com/foxnews/latest" /><feedburner:info xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" uri="foxnews/latest" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /><item>
+                  <guid isPermaLink="true">https://www.foxnews.com/science/400-million-year-old-armored-fish-change-history-of-sharks</guid>
+      <link>https://www.foxnews.com/science/400-million-year-old-armored-fish-change-history-of-sharks</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2019/02/megalodon.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/megalodon.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/megalodon.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">543105c7-82f9-5b18-b5b3-f2d2a6534f36</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/science/wild-nature/sharks</category>
+            <category domain="foxnews.com/taxonomy">fox-news/science/archaeology/fossils</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/science</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>400M-year-old 'armored' fish may change the history of sharks as we know it</title>
+      <description>A 410-million-year-old fossil of an armored fish has completely changed the history of sharks, according to a newly published study.</description>
+                  <dc:creator>Chris Ciaccia</dc:creator>
+                         <pubDate>Wed, 09 Sep 2020 11:45:12 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Chris Ciaccia</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/sports/nfl-power-rankings-2020-season</guid>
+      <link>https://www.foxnews.com/sports/nfl-power-rankings-2020-season</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/01/11_AP20019772952764.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/11_AP20019772952764.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/11_AP20019772952764.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">89ef14e6-3f9a-5acc-930e-169ed36d8e18</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/sports/nfl</category>
+            <category domain="foxnews.com/taxonomy">fox-news/sports/nfl/buffalo-bills</category>
+            <category domain="foxnews.com/taxonomy">fox-news/sports/nfl/miami-dolphins</category>
+            <category domain="foxnews.com/taxonomy">fox-news/sports/nfl/new-york-jets</category>
+            <category domain="foxnews.com/taxonomy">fox-news/sports/nfl/new-england-patriots</category>
+            <category domain="foxnews.com/taxonomy">fox-news/sports/nfl/new-york-giants</category>
+            <category domain="foxnews.com/taxonomy">fox-news/sports/nfl/dallas-cowboys</category>
+            <category domain="foxnews.com/taxonomy">fox-news/sports/nfl/washington-nfl</category>
+            <category domain="foxnews.com/taxonomy">fox-news/sports/nfl/philadelphia-eagles</category>
+            <category domain="foxnews.com/taxonomy">fox-news/sports/nfl/indianapolis-colts</category>
+            <category domain="foxnews.com/taxonomy">fox-news/sports/nfl/houston-texans</category>
+            <category domain="foxnews.com/taxonomy">fox-news/sports/nfl/jacksonville-jaguars</category>
+            <category domain="foxnews.com/taxonomy">fox-news/sports/nfl/tennessee-titans</category>
+            <category domain="foxnews.com/taxonomy">fox-news/sports/nfl/tampa-bay-buccaneers</category>
+            <category domain="foxnews.com/taxonomy">fox-news/sports/nfl/new-orleans-saints</category>
+            <category domain="foxnews.com/taxonomy">fox-news/sports/nfl/carolina-panthers</category>
+            <category domain="foxnews.com/taxonomy">fox-news/sports/nfl/atlanta-falcons</category>
+            <category domain="foxnews.com/taxonomy">fox-news/sports/nfl/pittsburgh-steelers</category>
+            <category domain="foxnews.com/taxonomy">fox-news/sports/nfl/cleveland-browns</category>
+            <category domain="foxnews.com/taxonomy">fox-news/sports/nfl/baltimore-ravens</category>
+            <category domain="foxnews.com/taxonomy">fox-news/sports/nfl/cincinnati-bengals</category>
+            <category domain="foxnews.com/taxonomy">fox-news/sports/nfl/detroit-lions</category>
+            <category domain="foxnews.com/taxonomy">fox-news/sports/nfl/green-bay-packers</category>
+            <category domain="foxnews.com/taxonomy">fox-news/sports/nfl/minnesota-vikings</category>
+            <category domain="foxnews.com/taxonomy">fox-news/sports/nfl/chicago-bears</category>
+            <category domain="foxnews.com/taxonomy">fox-news/sports/nfl/seattle-seahawks</category>
+            <category domain="foxnews.com/taxonomy">fox-news/sports/nfl/san-francisco-49ers</category>
+            <category domain="foxnews.com/taxonomy">fox-news/sports/nfl/arizona-cardinals</category>
+            <category domain="foxnews.com/taxonomy">fox-news/sports/nfl/los-angeles-rams</category>
+            <category domain="foxnews.com/taxonomy">fox-news/sports/nfl/las-vegas-raiders</category>
+            <category domain="foxnews.com/taxonomy">fox-news/sports/nfl/kansas-city-chiefs</category>
+            <category domain="foxnews.com/taxonomy">fox-news/sports/nfl/denver-broncos</category>
+            <category domain="foxnews.com/taxonomy">fox-news/sports/nfl/los-angeles-chargers</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/sports</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>NFL Week 1 Power Rankings: Super Bowl champs claim top spot</title>
+      <description>The start of the 2020 NFL season is finally here.</description>
+                  <dc:creator>Daniel Canova</dc:creator>
+                         <pubDate>Wed, 09 Sep 2020 11:42:10 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Daniel Canova</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/us/firefighters-overtaken-by-flames-in-california-mountains</guid>
+      <link>https://www.foxnews.com/us/firefighters-overtaken-by-flames-in-california-mountains</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/09/wildfire-ap5.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/wildfire-ap5.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/wildfire-ap5.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">ac11ec4e-d3a3-592d-8985-95f8d04de908</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/news-events</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/us</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>California firefighters overtaken by flames, high winds fan wildfires throughout the Northwest</title>
+      <description>California has already set a record with nearly 2.3 million acres burned this year, and the worst part of the wildfire season is just beginning.</description>
+                   <pubDate>Wed, 09 Sep 2020 11:17:13 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                              <category domain="foxnews.com/dateline" />
+                                  </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/auto/ford-proud-honor-military-charities</guid>
+      <link>https://www.foxnews.com/auto/ford-proud-honor-military-charities</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/09/gear-3.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/gear-3.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/gear-3.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">cf49e5ba-4e70-5b04-96c3-ea790291a2ef</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/us/personal-freedoms/proud-american</category>
+            <category domain="foxnews.com/taxonomy">fox-news/auto/make/ford</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us/military</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/auto</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Ford launches 'Proud to Honor' merchandise to raise money for military charities</title>
+      <description>The military-inspired shirts, hats and gear are being sold to raise money for DAV and Blue Star Families.</description>
+                  <dc:creator>Gary Gastelu</dc:creator>
+                         <pubDate>Wed, 09 Sep 2020 11:10:31 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Gary Gastelu</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/politics/josh-hawley-police-pay-bill-senate-protests</guid>
+      <link>https://www.foxnews.com/politics/josh-hawley-police-pay-bill-senate-protests</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2019/06/563137-sen-josh-hawley-photo-by-alex-wong-getty-images.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/563137-sen-josh-hawley-photo-by-alex-wong-getty-images.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/563137-sen-josh-hawley-photo-by-alex-wong-getty-images.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">15432ce0-cb9a-52ac-8aac-5979000ee0c5</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/us/crime/police-and-law-enforcement</category>
+            <category domain="foxnews.com/taxonomy">fox-news/politics/elections/republicans</category>
+            <category domain="foxnews.com/taxonomy">fox-news/politics/senate/republicans</category>
+            <category domain="foxnews.com/taxonomy">fox-news/politics/elections/democrats</category>
+            <category domain="foxnews.com/taxonomy">fox-news/politics/senate</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/politics</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Josh Hawley submitting Senate bill allowing DOJ to raise police salaries</title>
+      <description>Sen. Josh Hawley, R-Mo., is planning to submit a bill to Congress on Wednesday authorizing the Justice Department to raise the salaries of state and local police forces all across the country -- except in cities that have chosen to defund law enforcement in the wake of nationwide protests and riots. </description>
+                  <dc:creator>Nick Givas</dc:creator>
+                         <pubDate>Wed, 09 Sep 2020 11:03:26 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Nick Givas</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/opinion/biden-trump-china-mike-huckabee</guid>
+      <link>https://www.foxnews.com/opinion/biden-trump-china-mike-huckabee</link>
+                  <media:group>
+        <media:content url="https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cfa0b996-19cf-4706-9589-f00328ef12cc/33284151-78a5-45e9-bd30-0575a5c63e18/1280x720/match/image.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/image.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/image.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">58bee7d3-3337-5d70-814f-c6b1d537e68d</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/opinion</category>
+            <category domain="foxnews.com/taxonomy">fox-news/world</category>
+            <category domain="foxnews.com/taxonomy">fox-news/world/world-regions/asia</category>
+            <category domain="foxnews.com/taxonomy">fox-news/world/world-regions/china</category>
+            <category domain="foxnews.com/taxonomy">fox-news/person/joe-biden</category>
+            <category domain="foxnews.com/taxonomy">fox-news/person/donald-trump</category>
+            <category domain="foxnews.com/taxonomy">fox-news/politics/2020-presidential-election</category>
+            <category domain="foxnews.com/taxonomy">fox-news/politics/elections</category>
+            <category domain="foxnews.com/taxonomy">fox-news/politics</category>
+            <category domain="foxnews.com/taxonomy">fox-news/politics/foreign-policy</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/opinion</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Mike Huckabee: Biden is a weak appeaser in dealing with China — Trump stands up to China with strength</title>
+      <description>The liberal media want you to believe that former Vice President Joe Biden would challenge Beijing if he is elected as president — but no amount of media spin can transform a serial China appeaser into a bold American leader</description>
+                  <dc:creator>Mike Huckabee</dc:creator>
+                         <pubDate>Wed, 09 Sep 2020 11:00:59 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Mike Huckabee</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/us/utah-police-shooting-autistic-boy</guid>
+      <link>https://www.foxnews.com/us/utah-police-shooting-autistic-boy</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/09/AP20253130154403-e1599646631101.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/AP20253130154403-e1599646631101.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/AP20253130154403-e1599646631101.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">484fb65c-6c41-5a6e-8ba9-63910641ae59</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/us/us-regions/west/utah</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us/crime/police-and-law-enforcement</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us/crime</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/us</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Utah police vow to cooperate with investigations into shooting of autistic boy, 13</title>
+      <description>A police department vowed Tuesday to cooperate with multiple investigations of the shooting of a 13-year-old autistic boy by officers in the Salt Lake City area.</description>
+                   <pubDate>Wed, 09 Sep 2020 10:39:13 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Associated Press</category>
+                              <category domain="foxnews.com/dateline" />
+                                  </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/sports/los-angeles-chargers-what-to-know-about-the-teams-2020-season</guid>
+      <link>https://www.foxnews.com/sports/los-angeles-chargers-what-to-know-about-the-teams-2020-season</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/07/Joey-Bosa.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/Joey-Bosa.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/Joey-Bosa.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">e96b54ea-8819-5810-8b0d-b8dc7baf2779</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/sports/nfl/los-angeles-chargers</category>
+            <category domain="foxnews.com/taxonomy">fox-news/sports/nfl</category>
+            <category domain="foxnews.com/taxonomy">fox-news/person/mike-williams</category>
+            <category domain="foxnews.com/taxonomy">fox-news/person/keenan-allen</category>
+            <category domain="foxnews.com/taxonomy">fox-news/person/austin-ekeler</category>
+            <category domain="foxnews.com/taxonomy">fox-news/person/kenneth-murray</category>
+            <category domain="foxnews.com/taxonomy">fox-news/person/justin-herbert</category>
+            <category domain="foxnews.com/taxonomy">fox-news/person/joey-bosa</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/sports</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Los Angeles Chargers: What to know about the team's 2020 season</title>
+      <description>The Los Angeles Chargers parted ways with longtime quarterback Philip Rivers in the offseason and decided to go down the path of selecting a potential young, franchise quarterback in the 2020 NFL Draft.</description>
+                  <dc:creator>Daniel Canova</dc:creator>
+                         <pubDate>Wed, 09 Sep 2020 10:21:03 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Daniel Canova</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/sports/las-vegas-raiders-what-to-know-about-the-teams-2020-season</guid>
+      <link>https://www.foxnews.com/sports/las-vegas-raiders-what-to-know-about-the-teams-2020-season</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2019/12/Derek-Carr.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/Derek-Carr.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/Derek-Carr.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">3a057f2c-0797-5343-a7c4-b5ba7f6db083</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/sports/nfl/las-vegas-raiders</category>
+            <category domain="foxnews.com/taxonomy">fox-news/sports/nfl</category>
+            <category domain="foxnews.com/taxonomy">fox-news/person/derek-carr</category>
+            <category domain="foxnews.com/taxonomy">fox-news/person/henry-ruggs</category>
+            <category domain="foxnews.com/taxonomy">fox-news/person/darren-waller</category>
+            <category domain="foxnews.com/taxonomy">fox-news/person/cory-littleton</category>
+            <category domain="foxnews.com/taxonomy">fox-news/person/maxx-crosby</category>
+            <category domain="foxnews.com/taxonomy">fox-news/person/erik-harris</category>
+            <category domain="foxnews.com/taxonomy">fox-news/person/josh-jacobs</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/sports</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Las Vegas Raiders: What to know about the team's 2020 season</title>
+      <description>For quarterback Derek Carr and the Las Vegas Raiders, it's do or die. Head coach Jon Gruden is entering his third year in charge, and if the marriage between the quarterback and coach doesn't work in 2020, the two could be headed for a divorce before the start of next season.</description>
+                  <dc:creator>Daniel Canova</dc:creator>
+                         <pubDate>Wed, 09 Sep 2020 10:21:02 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Daniel Canova</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/sports/denver-broncos-what-to-know-about-the-teams-2020-season</guid>
+      <link>https://www.foxnews.com/sports/denver-broncos-what-to-know-about-the-teams-2020-season</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2019/12/a9bdcbd7-Drew-Lock.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/a9bdcbd7-Drew-Lock.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/a9bdcbd7-Drew-Lock.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">3f64a315-9a44-5ae9-979c-bc551f5eb419</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/sports/nfl/denver-broncos</category>
+            <category domain="foxnews.com/taxonomy">fox-news/sports/nfl</category>
+            <category domain="foxnews.com/taxonomy">fox-news/person/drew-lock</category>
+            <category domain="foxnews.com/taxonomy">fox-news/person/von-miller</category>
+            <category domain="foxnews.com/taxonomy">fox-news/person/jerry-jeudy</category>
+            <category domain="foxnews.com/taxonomy">fox-news/person/courtland-sutton</category>
+            <category domain="foxnews.com/taxonomy">fox-news/person/phillip-lindsay</category>
+            <category domain="foxnews.com/taxonomy">fox-news/person/melvin-gordon</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/sports</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Denver Broncos: What to know about the team's 2020 season</title>
+      <description>The Drew Lock era is set to begin in Denver. And to make sure that he reaches his highest potential as the team's starting quarterback, general manager and NFL legend John Elway handed him the keys to a Ferrari.</description>
+                  <dc:creator>Daniel Canova</dc:creator>
+                         <pubDate>Wed, 09 Sep 2020 10:18:48 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Daniel Canova</category>
+                            </item>
+      </channel>
+</rss>

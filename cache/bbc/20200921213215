@@ -1,0 +1,411 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet title="XSL_formatting" type="text/xsl" href="/shared/bsp/xsl/rss/nolsol.xsl"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News - Home]]></title>
+        <description><![CDATA[BBC News - Home]]></description>
+        <link>https://www.bbc.co.uk/news/</link>
+        <image>
+            <url>https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News - Home</title>
+            <link>https://www.bbc.co.uk/news/</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Mon, 21 Sep 2020 21:25:05 GMT</lastBuildDate>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Covid: UK coronavirus alert level moving to 4]]></title>
+            <description><![CDATA[The move, ahead of a statement from the PM, reflects that transmission is "high or rising exponentially".]]></description>
+            <link>https://www.bbc.co.uk/news/uk-54241580</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-54241580</guid>
+            <pubDate>Mon, 21 Sep 2020 20:37:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus restrictions are extended across NI]]></title>
+            <description><![CDATA[In the last seven days, 1,014 people have tested positive for coronavirus in Northern Ireland.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-54228579</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-54228579</guid>
+            <pubDate>Mon, 21 Sep 2020 16:49:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid lockdown for Newport, Bridgend, Merthyr Tydfil and Blaenau Gwent]]></title>
+            <description><![CDATA[Newport, Bridgend, Merthyr Tydfil and Blaenau Gwent face new restrictions from 18:00 BST on Tuesday.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-wales-54234993</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-54234993</guid>
+            <pubDate>Mon, 21 Sep 2020 18:26:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[FinCEN Files: Roman Abramovich had secret stakes in rival players]]></title>
+            <description><![CDATA[The Chelsea owner held ownership rights on footballers through an offshore company, leaked files show.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-54229269</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-54229269</guid>
+            <pubDate>Mon, 21 Sep 2020 16:00:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Theresa May 'cannot support' government's Brexit bill]]></title>
+            <description><![CDATA[The former PM argues the legislation will "damage trust", but ministers say it will protect the UK.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-politics-54242235</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-54242235</guid>
+            <pubDate>Mon, 21 Sep 2020 20:33:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ellen DeGeneres: Humbled host returns to TV with apology and admission]]></title>
+            <description><![CDATA[The TV host opens the new series of her talk show by addressing allegations of a toxic workplace.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-54235307</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-54235307</guid>
+            <pubDate>Mon, 21 Sep 2020 15:20:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus: Childcare exemption added to new restrictions in England]]></title>
+            <description><![CDATA[People in affected areas will be allowed to look after children from outside their households.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-54240681</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-54240681</guid>
+            <pubDate>Mon, 21 Sep 2020 16:16:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid-19: Public gives mixed reactions to increase in Covid cases]]></title>
+            <description><![CDATA[As Covid-19 cases rise, the public reacts to Sir Patrick Vallance's warning that restrictions need to change.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-54236271</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-54236271</guid>
+            <pubDate>Mon, 21 Sep 2020 15:27:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Arctic sea-ice shrinks to near record low extent]]></title>
+            <description><![CDATA[Only in 2012 have satellites seen the summer floes in the polar north more withdrawn than in 2020.]]></description>
+            <link>https://www.bbc.co.uk/news/science-environment-54211760</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-54211760</guid>
+            <pubDate>Mon, 21 Sep 2020 17:06:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus: Sports bodies warn Covid-19 crisis could cause 'lost generation of activity']]></title>
+            <description><![CDATA[More than 100 sports bodies write to the prime minister to ask for emergency funding amid the Covid-19 crisis, warning of "a lost generation of activity".]]></description>
+            <link>https://www.bbc.co.uk/sport/54241353</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/54241353</guid>
+            <pubDate>Mon, 21 Sep 2020 21:00:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Botswana: Mystery elephant deaths caused by cyanobacteria]]></title>
+            <description><![CDATA[Toxins made by algae in water holes caused 330 elephant deaths in Botswana earlier this year.]]></description>
+            <link>https://www.bbc.co.uk/news/world-africa-54234396</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-54234396</guid>
+            <pubDate>Mon, 21 Sep 2020 14:50:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Airbus looks to the future with hydrogen planes]]></title>
+            <description><![CDATA[The aerospace giant said its hydrogen-fuelled passenger planes could be in service by 2035.]]></description>
+            <link>https://www.bbc.co.uk/news/business-54242176</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-54242176</guid>
+            <pubDate>Mon, 21 Sep 2020 18:39:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Sam McBratney: Guess How Much I Love You author dies]]></title>
+            <description><![CDATA[The Belfast-born author is best known for the children's classic book about two nutbrown hares.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-northern-ireland-54242729</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-northern-ireland-54242729</guid>
+            <pubDate>Mon, 21 Sep 2020 19:56:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Emmy Awards 2020: Seven highlights from the ceremony]]></title>
+            <description><![CDATA[Monica, Rachel and Phoebe's reunion delighted fans during the virtual Emmys ceremony.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-54146614</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-54146614</guid>
+            <pubDate>Mon, 21 Sep 2020 05:16:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Schitt's Creek 'normalises LGBTQ relationships']]></title>
+            <description><![CDATA[The Canadian show won nine Emmys, but for its fans, it's special for more than its awards.]]></description>
+            <link>https://www.bbc.co.uk/news/newsbeat-54240141</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/newsbeat-54240141</guid>
+            <pubDate>Mon, 21 Sep 2020 16:22:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Social media 'a blessing and a curse' for Little Mix]]></title>
+            <description><![CDATA[The band say the pressures associated with an online presence can be harmful to young people's mental health.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-54235022</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-54235022</guid>
+            <pubDate>Mon, 21 Sep 2020 10:51:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Pitch-invading alpaca 'absolutely adores football']]></title>
+            <description><![CDATA[Oscar the alpaca forced a football match to pause for 15 minutes after he stormed onto the pitch.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-54236269</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-54236269</guid>
+            <pubDate>Mon, 21 Sep 2020 13:39:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus: Six challenging months for undertakers]]></title>
+            <description><![CDATA[A profession that used to give grieving families whatever they needed but now has to "say no."]]></description>
+            <link>https://www.bbc.co.uk/news/newsbeat-54234511</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/newsbeat-54234511</guid>
+            <pubDate>Mon, 21 Sep 2020 11:39:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Jogging when you're black - the calculations you have to make]]></title>
+            <description><![CDATA[A law enforcement expert and a black runner analyse a police encounter that went wrong.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-54210412</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-54210412</guid>
+            <pubDate>Sun, 20 Sep 2020 23:08:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['Mythical' Aston Martin Bulldog supercar being restored]]></title>
+            <description><![CDATA[Only one Bulldog was ever built but it was sold by the company 40 years ago to raise cash.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-shropshire-54103467</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-shropshire-54103467</guid>
+            <pubDate>Sun, 20 Sep 2020 23:34:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Moths: Intricacies of UK's under-threat insects]]></title>
+            <description><![CDATA[Sarah Gillespie's detailed prints highlight the declining numbers of moths in the UK.]]></description>
+            <link>https://www.bbc.co.uk/news/in-pictures-54167602</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/in-pictures-54167602</guid>
+            <pubDate>Mon, 21 Sep 2020 00:45:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Music boosts memories for ethnic minority dementia patients]]></title>
+            <description><![CDATA[Charities are using tailored music to bring back memories for dementia patients from ethnic minorities.]]></description>
+            <link>https://www.bbc.co.uk/news/health-54211802</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-54211802</guid>
+            <pubDate>Sun, 20 Sep 2020 23:05:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Lagos Inferno: What caused the blast that destroyed a Nigerian girls' school]]></title>
+            <description><![CDATA[An explosion in Lagos, Nigeria killed 23 people and destroys a girls’ boarding school. But what caused it?]]></description>
+            <link>https://www.bbc.co.uk/news/world-africa-54208394</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-54208394</guid>
+            <pubDate>Sun, 20 Sep 2020 23:02:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Alpaca pitch invader disrupts Carlton Athletic football match]]></title>
+            <description><![CDATA[Play was stopped for 15 minutes while attempts were made to remove "man of the match" Oscar.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-leeds-54224681</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-leeds-54224681</guid>
+            <pubDate>Sun, 20 Sep 2020 12:14:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Israeli settlers' Chelsea boss backer]]></title>
+            <description><![CDATA[An investigation by BBC News Arabic has found that Russian oligarch, Roman Abramovich, controls companies that have donated $100m to an Israeli settler organisation.]]></description>
+            <link>https://www.bbc.co.uk/news/world-middle-east-54237970</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-middle-east-54237970</guid>
+            <pubDate>Mon, 21 Sep 2020 16:42:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[FinCEN Files: One of the world's 'dodgiest addresses' is in leafy Hertfordshire]]></title>
+            <description><![CDATA[Suite 2B on the second floor of this building is a virtual thoroughfare for global financial crime.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-54204053</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-54204053</guid>
+            <pubDate>Mon, 21 Sep 2020 09:01:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Inside Poland’s 'LGBT-free zones']]></title>
+            <description><![CDATA[Dozens of Polish towns have declared themselves free of "LGBT ideology". It means difficult choices for gay people living in them.]]></description>
+            <link>https://www.bbc.co.uk/news/stories-54191344</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/stories-54191344</guid>
+            <pubDate>Sun, 20 Sep 2020 23:02:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The black-owned coffee firm that became a bestseller]]></title>
+            <description><![CDATA[US firm Blk & Bold has seen sales surge this year on the back of the Black Lives Matter movement.]]></description>
+            <link>https://www.bbc.co.uk/news/business-54146695</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-54146695</guid>
+            <pubDate>Sun, 20 Sep 2020 23:07:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Succession: What's the big deal about the Emmy-winning drama?]]></title>
+            <description><![CDATA[The HBO drama is loved by critics and viewers, and won big at the Emmy Awards on Sunday.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-54031647</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-54031647</guid>
+            <pubDate>Mon, 21 Sep 2020 03:07:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus: Party conferences in a Covid world]]></title>
+            <description><![CDATA[They can't meet up in person this year, so what are the political parties doing instead?]]></description>
+            <link>https://www.bbc.co.uk/news/uk-politics-54150015</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-54150015</guid>
+            <pubDate>Sat, 19 Sep 2020 23:43:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The National Trust homes where colonial links are 'umbilical']]></title>
+            <description><![CDATA[Up to a third of the National Trust's 300 UK houses have links to colonialism, a project found.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-leicestershire-54018340</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-leicestershire-54018340</guid>
+            <pubDate>Sun, 20 Sep 2020 00:12:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[New coronavirus rules 'inevitable': The view near No 10]]></title>
+            <description><![CDATA[People enjoying the sun yards from No 10 say there's a feeling of resignation about new virus measures.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-54220065</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-54220065</guid>
+            <pubDate>Sat, 19 Sep 2020 16:57:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[‘Our foster child asked us to adopt him – by drawing himself on to a family photo’]]></title>
+            <description><![CDATA[George was neglected by his parents, then an adoption went wrong. There was only one family that he felt loved by.]]></description>
+            <link>https://www.bbc.co.uk/news/stories-54071599</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/stories-54071599</guid>
+            <pubDate>Sat, 19 Sep 2020 23:24:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid: How should I talk to neighbours who break the rules?]]></title>
+            <description><![CDATA[With new restrictions on social gatherings how can you raise concerns without causing arguments?]]></description>
+            <link>https://www.bbc.co.uk/news/uk-54191776</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-54191776</guid>
+            <pubDate>Fri, 18 Sep 2020 23:35:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Man City hold off Wolves fightback to make winning start]]></title>
+            <description><![CDATA[Manchester City hold off a second-half Wolves comeback to begin their quest to regain the Premier League title with a win at Molineux.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/54142831</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/54142831</guid>
+            <pubDate>Mon, 21 Sep 2020 21:12:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Beaumont stars as England beat West Indies - videos & report]]></title>
+            <description><![CDATA[Tammy Beaumont's half-century helps England to a 47-run win and a 1-0 series lead over West Indies in their first international since March.]]></description>
+            <link>https://www.bbc.co.uk/sport/cricket/54240801</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/cricket/54240801</guid>
+            <pubDate>Mon, 21 Sep 2020 20:28:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['I wouldn't come out and mug myself off' - decisions anger Wilder as Villa beat 10-man Sheff Utd]]></title>
+            <description><![CDATA[Ezri Konsa's second-half header proves decisive as Aston Villa break down a resilient 10-man Sheffield United at Villa Park.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/54142832</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/54142832</guid>
+            <pubDate>Mon, 21 Sep 2020 21:10:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Change the rules and Bryson will still win - US Open champion's coach]]></title>
+            <description><![CDATA[The coach of US Open winner Bryson DeChambeau says attempts to tame his power off the tee will not prevent him from winning.]]></description>
+            <link>https://www.bbc.co.uk/sport/golf/54241284</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/golf/54241284</guid>
+            <pubDate>Mon, 21 Sep 2020 18:34:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Brazil womens' national team training session invaded by parrot]]></title>
+            <description><![CDATA[A macaw interrupts Brazil's women's national team's practice at their training ground, landing on the head of defender Bruna Benites, before flying to one of the goals.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/football/54241473</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/football/54241473</guid>
+            <pubDate>Mon, 21 Sep 2020 16:23:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Patrick Mahomes, Raheem Mostert and Russell Wilson in NFL plays of the week]]></title>
+            <description><![CDATA[Patrick Mahomes, Raheem Mostert and Russell Wilson all make it into NFL plays of the week from the second round of the season.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/american-football/54236046</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/american-football/54236046</guid>
+            <pubDate>Mon, 21 Sep 2020 10:57:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus: How does the Covid-19 alert level system work?]]></title>
+            <description><![CDATA[The threat of Covid-19 in England is being ranked through a five-level, colour-coded alert system.]]></description>
+            <link>https://www.bbc.co.uk/news/explainers-52634739</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-52634739</guid>
+            <pubDate>Mon, 21 Sep 2020 16:55:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid: What is self-isolation and who has to do it?]]></title>
+            <description><![CDATA[If you are told to self-isolate, how long must you do it for, and what are the rules?]]></description>
+            <link>https://www.bbc.co.uk/news/explainers-54239922</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-54239922</guid>
+            <pubDate>Mon, 21 Sep 2020 17:17:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid rules: Which areas are under new coronavirus restrictions?]]></title>
+            <description><![CDATA[Parts of north-west England, West Yorkshire and the Midlands are now facing extra restrictions.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-52934822</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-52934822</guid>
+            <pubDate>Mon, 21 Sep 2020 16:34:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus vaccine: When will we have one?]]></title>
+            <description><![CDATA[About 200 groups of medical researchers around the world are working on a vaccine for Covid-19.]]></description>
+            <link>https://www.bbc.co.uk/news/health-51665497</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-51665497</guid>
+            <pubDate>Mon, 21 Sep 2020 11:38:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A cold, flu or coronavirus - which one do I have?]]></title>
+            <description><![CDATA[A blocked or runny nose, a sore throat and a cough are common, especially in the winter. But how do you know if you have coronavirus?]]></description>
+            <link>https://www.bbc.co.uk/news/health-54182329</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-54182329</guid>
+            <pubDate>Wed, 16 Sep 2020 23:04:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus: How to get a Covid test]]></title>
+            <description><![CDATA[What are the tests for coronavirus, who are they for and how do they work?]]></description>
+            <link>https://www.bbc.co.uk/news/health-51943612</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-51943612</guid>
+            <pubDate>Thu, 17 Sep 2020 11:09:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus: What are social distancing and self-isolation rules?]]></title>
+            <description><![CDATA[Coronavirus cases are increasing, so what are the rules on social distancing?]]></description>
+            <link>https://www.bbc.co.uk/news/uk-51506729</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-51506729</guid>
+            <pubDate>Tue, 15 Sep 2020 16:21:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus: What is the R number and how is it calculated?]]></title>
+            <description><![CDATA[The simple but crucial number at the heart of lockdown decisions across the UK.]]></description>
+            <link>https://www.bbc.co.uk/news/health-52473523</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-52473523</guid>
+            <pubDate>Mon, 21 Sep 2020 09:16:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid: What can I expect when I go to university this year?]]></title>
+            <description><![CDATA[Many things will be different this year, so what it will be like for students across the UK?]]></description>
+            <link>https://www.bbc.co.uk/news/explainers-54195756</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-54195756</guid>
+            <pubDate>Fri, 18 Sep 2020 16:40:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[FinCEN Files: HSBC moved Ponzi scheme millions despite warning]]></title>
+            <description><![CDATA[The transfers took place after officials were told of the $80m fraud, the secret files reveal.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-54225572</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-54225572</guid>
+            <pubDate>Sun, 20 Sep 2020 17:00:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[HSBC's shares dive to lowest level since 1995]]></title>
+            <description><![CDATA[The UK bank is suffering a series of setbacks and now faces money laundering allegations.]]></description>
+            <link>https://www.bbc.co.uk/news/business-54230733</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-54230733</guid>
+            <pubDate>Mon, 21 Sep 2020 14:59:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[FinCEN Files: All you need to know about the documents leak]]></title>
+            <description><![CDATA[Revelations in secret files shows how major banks have helped move dirty money around the world.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-54226107</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-54226107</guid>
+            <pubDate>Mon, 21 Sep 2020 16:09:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[FinCEN Files: Sanctioned Putin associate ‘laundered millions’ through Barclays]]></title>
+            <description><![CDATA[The account was used to avoid US financial restrictions, a leak of bank documents suggest.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-54225577</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-54225577</guid>
+            <pubDate>Sun, 20 Sep 2020 17:01:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The FinCEN Files: Your guide to eight years of finance leaks]]></title>
+            <description><![CDATA[What have been the major financial disclosures and what action has been taken?]]></description>
+            <link>https://www.bbc.co.uk/news/business-41877932</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-41877932</guid>
+            <pubDate>Sun, 20 Sep 2020 17:01:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Fincen files: How British companies use banks to money launder]]></title>
+            <description><![CDATA[The office in Potters Bar has registered more than 100 companies that are named in the Fincen files – a leak of suspicious activity reports filed by banks.]]></description>
+            <link>https://www.bbc.co.uk/news/business-54227988</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-54227988</guid>
+            <pubDate>Sun, 20 Sep 2020 17:01:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[FinCEN Files: UAE central bank failed to prevent Iran sanctions evasion]]></title>
+            <description><![CDATA[The bank failed to act on warnings about a local firm which was helping Iran, leaked documents show.]]></description>
+            <link>https://www.bbc.co.uk/news/world-middle-east-54176127</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-middle-east-54176127</guid>
+            <pubDate>Sun, 20 Sep 2020 17:02:16 GMT</pubDate>
+        </item>
+    </channel>
+</rss>

@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet title="XSL_formatting" type="text/xsl" href="/shared/bsp/xsl/rss/nolsol.xsl"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News - Home]]></title>
+        <description><![CDATA[BBC News - Home]]></description>
+        <link>https://www.bbc.co.uk/news/</link>
+        <image>
+            <url>https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News - Home</title>
+            <link>https://www.bbc.co.uk/news/</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Sun, 22 Nov 2020 11:24:13 GMT</lastBuildDate>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Covid-19: Strengthened tier system for England after lockdown]]></title>
+            <description><![CDATA[More areas will be in higher tiers, and the tiers will have tougher rules - but the 10pm pub curfew will ease.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-55029401</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-55029401</guid>
+            <pubDate>Sun, 22 Nov 2020 10:24:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus: £3bn for NHS but Sunak warns of 'economic shock' to come]]></title>
+            <description><![CDATA[Borrowing - which hit a record £22.3bn in October - cannot go on indefinitely, chancellor says.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-55032782</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-55032782</guid>
+            <pubDate>Sun, 22 Nov 2020 10:55:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[US election: Trump camp's lawsuit struck down in Pennsylvania]]></title>
+            <description><![CDATA[The judge said the efforts to invalidate millions of mail-in votes were "without merit".]]></description>
+            <link>https://www.bbc.co.uk/news/election-us-2020-55030617</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/election-us-2020-55030617</guid>
+            <pubDate>Sun, 22 Nov 2020 07:13:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[One couple's six years on the road (and counting)]]></title>
+            <description><![CDATA[After Dan Colegate nearly died, he and his partner Esther left their careers for the open road.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-tyne-54842438</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-tyne-54842438</guid>
+            <pubDate>Sun, 22 Nov 2020 00:36:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid-19: Tougher three-tier system post-lockdown, and £3bn NHS package]]></title>
+            <description><![CDATA[Five things you need to know about the coronavirus pandemic on Sunday.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-55032195</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-55032195</guid>
+            <pubDate>Sun, 22 Nov 2020 08:05:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Elephant rescued from deep well in a 14-hour operation]]></title>
+            <description><![CDATA[It took a team of 50 people to carefully hoist the animal out, upside down.]]></description>
+            <link>https://www.bbc.co.uk/news/world-55034537</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-55034537</guid>
+            <pubDate>Sun, 22 Nov 2020 10:25:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Cardiff violence: Six hurt in disorder and stabbings]]></title>
+            <description><![CDATA[One person has serious head injuries and three others are thought to have been stabbed, police say.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-wales-55032502</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-55032502</guid>
+            <pubDate>Sun, 22 Nov 2020 11:14:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Archbishop of Canterbury: Justin Welby warns against foreign aid cut]]></title>
+            <description><![CDATA[He joins Microsoft founder Bill Gates in urging the UK to think global in its post-Covid recovery plans]]></description>
+            <link>https://www.bbc.co.uk/news/uk-55032781</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-55032781</guid>
+            <pubDate>Sun, 22 Nov 2020 09:29:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Missing fishermen: Search off Sussex coast resumes]]></title>
+            <description><![CDATA[Two crewmen have not been seen since their fishing boat sank off the Sussex coast on Saturday.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-sussex-55032499</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-sussex-55032499</guid>
+            <pubDate>Sun, 22 Nov 2020 11:23:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid: Call to expand £500 grant for Covid self-isolaters]]></title>
+            <description><![CDATA[People on low incomes told to isolate by the app miss out on support under current rules.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-55032033</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-55032033</guid>
+            <pubDate>Sun, 22 Nov 2020 04:29:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[California's Covid curfew to begin, as US cases hit 12-million mark]]></title>
+            <description><![CDATA[Millions face stay-at-home orders as the US faces a surge in coronavirus infections.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-55030611</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-55030611</guid>
+            <pubDate>Sat, 21 Nov 2020 22:53:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Labour anti-Semitism row: Starmer has 'no vendetta' against Corbyn]]></title>
+            <description><![CDATA[Shadow Chancellor Anneliese Dodds tells the BBC's Andrew Marr the Labour leader is acting "robustly."]]></description>
+            <link>https://www.bbc.co.uk/news/uk-politics-55034235</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-55034235</guid>
+            <pubDate>Sun, 22 Nov 2020 10:25:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Top two men's tennis players out of ATP Finals]]></title>
+            <description><![CDATA[Rafael Nadal and Novak Djokovic are knocked out of the ATP Finals as Daniil Medvedev and Dominic Thiem set up a title decider.]]></description>
+            <link>https://www.bbc.co.uk/sport/tennis/55029492</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/tennis/55029492</guid>
+            <pubDate>Sat, 21 Nov 2020 23:41:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Newspaper headlines: 'Stricter' tiers loom, and PM faces legal action]]></title>
+            <description><![CDATA[Many of Sunday's papers lead with news England is set to enter a tougher tier system post-lockdown.]]></description>
+            <link>https://www.bbc.co.uk/news/blogs-the-papers-55032180</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/blogs-the-papers-55032180</guid>
+            <pubDate>Sun, 22 Nov 2020 06:01:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid makes Brazil's president Bolsonaro a hero to some]]></title>
+            <description><![CDATA[President Jair Bolsonaro is seeing his approval ratings rise in the north-east of Brazil.]]></description>
+            <link>https://www.bbc.co.uk/news/world-54989189</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-54989189</guid>
+            <pubDate>Sun, 22 Nov 2020 00:02:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Horse racing: 'It doesn't matter what colour you are']]></title>
+            <description><![CDATA[Kanane Francis says he wants to encourage young black riders to get into horse racing.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-leicestershire-55007262</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-leicestershire-55007262</guid>
+            <pubDate>Sun, 22 Nov 2020 00:47:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Cambridge paralysed dancer's hopes for wedding day 'slow dance']]></title>
+            <description><![CDATA[Alex Collins became partially paralysed after diving into a shallow river to retrieve a plastic ring.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-cambridgeshire-55016302</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-cambridgeshire-55016302</guid>
+            <pubDate>Sun, 22 Nov 2020 00:04:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How a new type of glove can reduce environmental damage]]></title>
+            <description><![CDATA[Scientists at Cranfield University in Bedfordshire have developed a new type of latex.]]></description>
+            <link>https://www.bbc.co.uk/news/health-55023413</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-55023413</guid>
+            <pubDate>Sun, 22 Nov 2020 00:05:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[iPhone 12, Pixel 5 and Mate 40 Pro cameras put to the test]]></title>
+            <description><![CDATA[BBC Click puts four of the latest phones - including the iPhone 12 and Pixel 5 - to the test.]]></description>
+            <link>https://www.bbc.co.uk/news/technology-55004696</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-55004696</guid>
+            <pubDate>Sun, 22 Nov 2020 07:39:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Pompeii: Dig uncovers remains of rich man and slave killed by Vesuvius]]></title>
+            <description><![CDATA[The remains of two men are uncovered at a villa on the outskirts of the ancient Roman city.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-55029538</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-55029538</guid>
+            <pubDate>Sat, 21 Nov 2020 15:29:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Dutch journalist gatecrashes EU defence video conference]]></title>
+            <description><![CDATA[Daniel Verlaan joined the meeting after the Dutch defence minister posted login details on Twitter.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-55027641</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-55027641</guid>
+            <pubDate>Sat, 21 Nov 2020 10:21:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[China gives musical talent show a virtual makeover]]></title>
+            <description><![CDATA[Dimension Nova shakes up reality TV with computer-animated contestants performing to real judges.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-54967096</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-54967096</guid>
+            <pubDate>Sun, 22 Nov 2020 00:49:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[US election 2020: Why Trump gained support among minorities]]></title>
+            <description><![CDATA[Joe Biden won the election, but support for Donald Trump increased among black and Latino voters. Why?]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-54972389</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-54972389</guid>
+            <pubDate>Sun, 22 Nov 2020 01:09:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Indonesian meteorite which didn't sell for $1.8m]]></title>
+            <description><![CDATA[You saw the headlines of a $1.8m meteorite? Here's the real story and it's just as fascinating.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-55013725</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-55013725</guid>
+            <pubDate>Sun, 22 Nov 2020 00:56:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The coronavirus pandemic 'great reset' theory and a false vaccine claim debunked]]></title>
+            <description><![CDATA[We unpick some of this week's misleading claims about the pandemic and the coronavirus vaccine.]]></description>
+            <link>https://www.bbc.co.uk/news/55017002</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/55017002</guid>
+            <pubDate>Sun, 22 Nov 2020 00:50:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Lauren Aquilina: The pop star who gave up singing]]></title>
+            <description><![CDATA[After quitting her record deal, singer Lauren Aquilina found herself learning to love music again.]]></description>
+            <link>https://www.bbc.co.uk/news/newsbeat-54994332</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/newsbeat-54994332</guid>
+            <pubDate>Sun, 22 Nov 2020 00:51:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Four reasons Topshop is not the brand it once was]]></title>
+            <description><![CDATA[The chain's parent company is understood to be seeking emergency funding after being hit hard by coronavirus lockdowns.]]></description>
+            <link>https://www.bbc.co.uk/news/business-54959881</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-54959881</guid>
+            <pubDate>Sun, 22 Nov 2020 00:51:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['Fans felt we were doing a deal with the devil' - so has Mourinho won over Tottenham support?]]></title>
+            <description><![CDATA[He was not a popular appointment, but has Jose Mourinho's performance during his first year won over the Spurs support?]]></description>
+            <link>https://www.bbc.co.uk/sport/football/55001368</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/55001368</guid>
+            <pubDate>Sat, 21 Nov 2020 21:10:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[England rugby teams lay on a Twickenham feast against Ireland and France]]></title>
+            <description><![CDATA[With rugby fans and players deprived of their usual Saturday routine, England's men and women provide a welcome distraction.]]></description>
+            <link>https://www.bbc.co.uk/sport/rugby-union/55031221</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/rugby-union/55031221</guid>
+            <pubDate>Sat, 21 Nov 2020 21:36:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['I don't know the rules any more' - are new laws and technology creating more controversy?]]></title>
+            <description><![CDATA[New rules and technology were meant to cut the number of controversial incidents in the Premier League - but frustrations remain for players and managers.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/55031796</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/55031796</guid>
+            <pubDate>Sat, 21 Nov 2020 23:59:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Fulham v Everton: How to watch on BBC Sport, BBC One - TV and online]]></title>
+            <description><![CDATA[Live Premier League football returns to BBC One on Sunday with Fulham's game with Everton at 12:00 GMT.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/55029934</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/55029934</guid>
+            <pubDate>Sat, 21 Nov 2020 20:11:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Match of the Day: 'How 'impressive' Tottenham beat Manchester City]]></title>
+            <description><![CDATA[Match of the Day pundits Alan Shearer and Ian Wright believe Tottenham Hotspur are title contenders following their 'very impressive' 2-0 victory over Manchester City.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/football/55032411</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/football/55032411</guid>
+            <pubDate>Sun, 22 Nov 2020 00:00:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid: What is a circuit-breaker could one fight the virus?]]></title>
+            <description><![CDATA[Can a short burst of national restrictions change the course of the epidemic?]]></description>
+            <link>https://www.bbc.co.uk/news/health-54206582</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-54206582</guid>
+            <pubDate>Fri, 20 Nov 2020 15:58:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus: Where does the government borrow billions from?]]></title>
+            <description><![CDATA[How does it work when a government wants to borrow money, and when does it have to pay it back?]]></description>
+            <link>https://www.bbc.co.uk/news/business-50504151</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-50504151</guid>
+            <pubDate>Fri, 20 Nov 2020 14:25:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid-19 in the UK: How many coronavirus cases are there in your area?]]></title>
+            <description><![CDATA[Explore the data on coronavirus in the UK and find out how many cases there are in your area.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-51768274</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-51768274</guid>
+            <pubDate>Sat, 21 Nov 2020 16:54:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid: The new lockdown rules for England, Wales, Scotland and Northern Ireland]]></title>
+            <description><![CDATA[Northern Ireland will go into a two-week circuit-break lockdown from Friday 27 November.]]></description>
+            <link>https://www.bbc.co.uk/news/explainers-52530518</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-52530518</guid>
+            <pubDate>Fri, 20 Nov 2020 11:40:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus: What are the rules for face masks or face coverings?]]></title>
+            <description><![CDATA[People around the UK must now wear face coverings in many public places, but what are the rules?]]></description>
+            <link>https://www.bbc.co.uk/news/health-51205344</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-51205344</guid>
+            <pubDate>Fri, 30 Oct 2020 15:13:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Support bubbles: How do they work and who is in yours?]]></title>
+            <description><![CDATA[Some people across the UK have been able to form "support bubbles" or "extended households".]]></description>
+            <link>https://www.bbc.co.uk/news/health-52637354</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-52637354</guid>
+            <pubDate>Fri, 20 Nov 2020 10:47:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid: Seven things that may be different this Christmas]]></title>
+            <description><![CDATA[Restrictions on social gatherings may be eased so families can get together for the festive period.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-54099810</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-54099810</guid>
+            <pubDate>Thu, 19 Nov 2020 01:24:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Lockdown rules: What are the Covid regulations where you live?]]></title>
+            <description><![CDATA[Use our search tool to find out about coronavirus rules and restrictions where you live.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-54373904</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-54373904</guid>
+            <pubDate>Fri, 20 Nov 2020 11:31:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid: What help is available to pay my bills?]]></title>
+            <description><![CDATA[Mortgage and rent holidays, help with debts, and cutting energy and insurance bills are all possible.]]></description>
+            <link>https://www.bbc.co.uk/news/business-54800869</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-54800869</guid>
+            <pubDate>Wed, 18 Nov 2020 15:20:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The loyalty oath keeping Rwandans abroad in check]]></title>
+            <description><![CDATA[Leaked footage fuels allegations of an aggressive crackdown on Rwandan "critics" in the diaspora.]]></description>
+            <link>https://www.bbc.co.uk/news/world-africa-54801979</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-54801979</guid>
+            <pubDate>Wed, 18 Nov 2020 01:05:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Asia's forgotten musical gems rediscovered on vinyl]]></title>
+            <description><![CDATA[Long-lost classics are gaining a new audience on vinyl, as Asia's forgotten music is rediscovered.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-54904756</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-54904756</guid>
+            <pubDate>Wed, 18 Nov 2020 01:54:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['I can't let go of my remaining embryos']]></title>
+            <description><![CDATA[Two mothers describe the painful process of ending embryo storage.]]></description>
+            <link>https://www.bbc.co.uk/news/54890580</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/54890580</guid>
+            <pubDate>Wed, 18 Nov 2020 01:03:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Melania Trump's hometown in Slovenia hopes its fame will last]]></title>
+            <description><![CDATA[For four years this Slovenian town has enjoyed its link to the First Lady but an era is about to end.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-55004553</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-55004553</guid>
+            <pubDate>Fri, 20 Nov 2020 01:20:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[US election: How other incumbents left the White House after losing]]></title>
+            <description><![CDATA[Donald Trump joins a small group of US presidents who lost the election while in office.]]></description>
+            <link>https://www.bbc.co.uk/news/election-us-2020-55008827</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/election-us-2020-55008827</guid>
+            <pubDate>Fri, 20 Nov 2020 00:11:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Stuck inside? Our presenters offer their cultural picks]]></title>
+            <description><![CDATA[Some of the BBC's presenters tell us how they'll be entertaining themselves at home during lockdown.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-54888133</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-54888133</guid>
+            <pubDate>Sat, 14 Nov 2020 01:45:29 GMT</pubDate>
+        </item>
+    </channel>
+</rss>

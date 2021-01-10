@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet title="XSL_formatting" type="text/xsl" href="/shared/bsp/xsl/rss/nolsol.xsl"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News - World]]></title>
+        <description><![CDATA[BBC News - World]]></description>
+        <link>https://www.bbc.co.uk/news/</link>
+        <image>
+            <url>https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News - World</title>
+            <link>https://www.bbc.co.uk/news/</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Thu, 24 Sep 2020 11:29:47 GMT</lastBuildDate>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Breonna Taylor: Two officers shot during Louisville protests]]></title>
+            <description><![CDATA[Anger erupts in the US over a decision not to charge police who shot dead a black woman in her home.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-54275346</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-54275346</guid>
+            <pubDate>Thu, 24 Sep 2020 09:14:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[US election: Trump won't commit to peaceful transfer of power]]></title>
+            <description><![CDATA[The president also predicted the US election result would be determined before the Supreme Court.]]></description>
+            <link>https://www.bbc.co.uk/news/election-us-2020-54274115</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/election-us-2020-54274115</guid>
+            <pubDate>Thu, 24 Sep 2020 10:39:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[North Korea 'killed and burned South Korean official']]></title>
+            <description><![CDATA[The man, who disappeared from a patrol boat, was killed as an anti-coronavirus measure, Seoul says.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-54275649</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-54275649</guid>
+            <pubDate>Thu, 24 Sep 2020 09:21:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Xinjiang: Large numbers of new detention camps uncovered in report]]></title>
+            <description><![CDATA[China has a far bigger network of detention centres than was previously thought, a report says.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-china-54277430</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-china-54277430</guid>
+            <pubDate>Thu, 24 Sep 2020 09:12:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Dutch celebs get caught up in Covid rebellion]]></title>
+            <description><![CDATA[Young stars have been criticised after announcing they were abandoning efforts to combat the virus.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-54279008</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-54279008</guid>
+            <pubDate>Thu, 24 Sep 2020 11:04:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Indian grandmother makes Time's icon list]]></title>
+            <description><![CDATA[Bilkis, 82, is joined on the list by Prime Minister Narendra Modi and actor Ayushmann Khurana.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-india-54276129</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-india-54276129</guid>
+            <pubDate>Thu, 24 Sep 2020 05:50:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus: Israel tightens second lockdown to avoid 'abyss']]></title>
+            <description><![CDATA[Ministers approve new restrictions to try to combat a surging Covid-19 infection rate.]]></description>
+            <link>https://www.bbc.co.uk/news/world-middle-east-54278293</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-middle-east-54278293</guid>
+            <pubDate>Thu, 24 Sep 2020 11:22:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[China’s new richest person is a bottled water tycoon]]></title>
+            <description><![CDATA[Zhong Shanshan’s net worth reached $58.7bn thanks to his water and vaccine firms.]]></description>
+            <link>https://www.bbc.co.uk/news/business-54276902</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-54276902</guid>
+            <pubDate>Thu, 24 Sep 2020 08:51:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Belarus: Lukashenko's new mandate lacks democratic legitimacy, EU says]]></title>
+            <description><![CDATA[Alexander Lukashenko took the oath of office in secret after winning re-election in a disputed vote.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-54277228</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-54277228</guid>
+            <pubDate>Thu, 24 Sep 2020 08:35:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Man dies from eating more than a bag of liquorice a day]]></title>
+            <description><![CDATA[The 54-year-old construction worker ate a bag-and-a-half of black liquorice every day, doctors say.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-54269144</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-54269144</guid>
+            <pubDate>Thu, 24 Sep 2020 09:51:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Pilot whales Tasmania: Rescuing whales in Australia's worst stranding]]></title>
+            <description><![CDATA[Nearly 400 whales have died in Australia's worst stranding. Jools Farrell told the BBC how rescuers help those still alive.]]></description>
+            <link>https://www.bbc.co.uk/news/world-australia-54272637</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-australia-54272637</guid>
+            <pubDate>Thu, 24 Sep 2020 02:54:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Alexei Navalny: How his team found Novichok bottle evidence in Tomsk]]></title>
+            <description><![CDATA[Russia's top opposition figure has left hospital but it was his colleagues who gathered the evidence.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-54246004</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-54246004</guid>
+            <pubDate>Wed, 23 Sep 2020 23:01:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Heroes in Harm's Way: Covid-19 show sparks sexism debate in China]]></title>
+            <description><![CDATA[A new drama has China asking if women are being written out of its epidemic history.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-china-54241734</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-china-54241734</guid>
+            <pubDate>Wed, 23 Sep 2020 23:06:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How much gold is there left to mine in the world?]]></title>
+            <description><![CDATA[Some experts believe we may have hit "peak gold" production in our pursuit of the precious metal.]]></description>
+            <link>https://www.bbc.co.uk/news/business-54230737</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-54230737</guid>
+            <pubDate>Wed, 23 Sep 2020 02:52:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Rwandan genocide orphan's 'miracle' WhatsApp reunion]]></title>
+            <description><![CDATA[Grace Umutoni grew up not knowing her birth name, only that her parents had been killed in the Rwandan genocide.]]></description>
+            <link>https://www.bbc.co.uk/news/world-africa-54269118</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-54269118</guid>
+            <pubDate>Thu, 24 Sep 2020 09:05:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[US 2020 election: The economy under Trump in six charts]]></title>
+            <description><![CDATA[President Trump claims he has been responsible for the strongest US economy ever. What do the numbers show?]]></description>
+            <link>https://www.bbc.co.uk/news/world-45827430</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-45827430</guid>
+            <pubDate>Wed, 23 Sep 2020 16:38:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Gordi: The pop star doctor who answered the Covid call]]></title>
+            <description><![CDATA[Australian singer Gordi is "reaching people" through medical consultations, as well as her music.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-54179877</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-54179877</guid>
+            <pubDate>Tue, 22 Sep 2020 23:14:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Belarus: Video shows protester's 'taxi escape' from police]]></title>
+            <description><![CDATA[Demonstrations have continued in Belarus since the president declared victory in last month's election.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-54281304</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-54281304</guid>
+            <pubDate>Thu, 24 Sep 2020 11:19:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Breonna Taylor: Two officers shot during Louisville protests]]></title>
+            <description><![CDATA[Large crowds demonstrated in Louisville over the decision not to prosecute police for Breonna Taylor's killing.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-54277269</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-54277269</guid>
+            <pubDate>Thu, 24 Sep 2020 10:43:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Breonna Taylor: Protests in Louisville after grand jury decision]]></title>
+            <description><![CDATA[Demonstrators gather after the news that one police officer is being charged, but not over her death.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-54274704</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-54274704</guid>
+            <pubDate>Wed, 23 Sep 2020 20:49:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Breonna Taylor: Grand jury decision presented by Kentucky attorney general]]></title>
+            <description><![CDATA[Kentucky's attorney general says one police officer has been charged over the raid that led to the fatal shooting.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-54273154</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-54273154</guid>
+            <pubDate>Wed, 23 Sep 2020 19:32:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Trump on Meghan Markle: 'I'm not a fan of hers']]></title>
+            <description><![CDATA[The US president spoke out after Prince Harry commented alongside his wife on the looming election.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-54274121</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-54274121</guid>
+            <pubDate>Thu, 24 Sep 2020 02:01:19 GMT</pubDate>
+        </item>
+    </channel>
+</rss>

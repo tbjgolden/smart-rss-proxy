@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" media="screen" href="/~d/styles/rss2full.xsl"?><?xml-stylesheet type="text/css" media="screen" href="http://feeds.foxnews.com/~d/styles/itemcontent.css"?><rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+                    <title>FOX News</title>
+    <link>http://www.foxnews.com/</link>
+    <description><![CDATA[FOXNews.com - Breaking news and video. Latest Current News: U.S., World, Entertainment, Health, Business, Technology, Politics, Sports.]]></description>
+        <image>
+    	<url>http://tools.foxnews.com/sites/tools.foxnews.com/files/images/fox-news-logo.png</url>
+    	<title>FOX News</title>
+    	<link>http://www.foxnews.com/</link>
+    </image>
+            <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feeds.foxnews.com/foxnews/latest" /><feedburner:info xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" uri="foxnews/latest" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /><item>
+                  <guid isPermaLink="true">https://www.foxnews.com/auto/four-wheel-drive-ford-mustang</guid>
+      <link>https://www.foxnews.com/auto/four-wheel-drive-ford-mustang</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/11/mustang-2.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/mustang-2.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/mustang-2.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">60582281-833f-5dfe-b246-f066234425f2</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/auto/make/ford</category>
+            <category domain="foxnews.com/taxonomy">fox-news/auto/attributes/performance</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/auto</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Snow pony? An AWD Ford Mustang might happen, here's how</title>
+      <description>Ford hasn't written off the idea of adding an all-wheel-drive Ford Mustang coupe to the lineup. Mustang brand manager Jim Owens told Ford Authority the company is "always looking at different kinds of performance."</description>
+                  <dc:creator>Gary Gastelu</dc:creator>
+                         <pubDate>Mon, 30 Nov 2020 17:57:58 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Gary Gastelu</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/us/south-carolina-drugs-friday-execution</guid>
+      <link>https://www.foxnews.com/us/south-carolina-drugs-friday-execution</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/11/AP20335617549829.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/AP20335617549829.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/AP20335617549829.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">3073c7b8-37ca-5e9b-b323-dfaa3f57729b</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/us/us-regions/southeast/south-carolina</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us/crime</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/us</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>South Carolina officials say they can't get drugs for man's Friday execution</title>
+      <description>South Carolina prison officials say they have to delay an execution scheduled for Friday because they won't be able to obtain the necessary lethal injection drugs.</description>
+                   <pubDate>Mon, 30 Nov 2020 17:54:33 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Associated Press</category>
+                              <category domain="foxnews.com/dateline" />
+                                  </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/sports/colts-punter-rigoberto-sanchez-surgery-cancerous-tumor</guid>
+      <link>https://www.foxnews.com/sports/colts-punter-rigoberto-sanchez-surgery-cancerous-tumor</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/11/Rigoberto-Sanchez.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/Rigoberto-Sanchez.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/Rigoberto-Sanchez.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">708bcb02-a314-59a4-b2f6-51e990092c1c</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/sports/nfl/indianapolis-colts</category>
+            <category domain="foxnews.com/taxonomy">fox-news/sports/nfl</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/sports</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Colts punter Rigoberto Sanchez to have surgery to remove cancerous tumor</title>
+      <description>Indianapolis Colts punter Rigoberto Sanchez revealed Monday he will undergo surgery to have a cancerous tumor removed.</description>
+                  <dc:creator>Ryan Gaydos</dc:creator>
+                         <pubDate>Mon, 30 Nov 2020 17:53:44 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Ryan Gaydos</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/sports/bears-matt-nagy-job-security-nfl-firings</guid>
+      <link>https://www.foxnews.com/sports/bears-matt-nagy-job-security-nfl-firings</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/09/Matt-Nagy2.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/Matt-Nagy2.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/Matt-Nagy2.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">2bf23362-8066-56e0-894a-af6b5869c510</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/sports/nfl/chicago-bears</category>
+            <category domain="foxnews.com/taxonomy">fox-news/sports/nfl</category>
+            <category domain="foxnews.com/taxonomy">fox-news/sports</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/sports</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Bears' Matt Nagy addresses job security following several NFL firings</title>
+      <description>This season has been plagued by a number of head coach and general manager firings, but Chicago Bears head coach Matt Nagy doesn’t consider himself in the hot seat. </description>
+                  <dc:creator>Paulina Dedaj</dc:creator>
+                         <pubDate>Mon, 30 Nov 2020 17:48:26 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Paulina Dedaj</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/politics/groups-trying-to-register-out-of-state-voters-georgia-senate-runoffs</guid>
+      <link>https://www.foxnews.com/politics/groups-trying-to-register-out-of-state-voters-georgia-senate-runoffs</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/11/AP20316600838666.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/AP20316600838666.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/AP20316600838666.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">b2a838d1-400e-58d1-b75d-b8c55d672d4b</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/us/us-regions/southeast/georgia</category>
+            <category domain="foxnews.com/taxonomy">fox-news/politics/elections</category>
+            <category domain="foxnews.com/taxonomy">fox-news/politics/2020-senate-races</category>
+            <category domain="foxnews.com/taxonomy">fox-news/politics</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/politics</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Georgia Senate runoff spurs election probe of groups trying to register out-of-state voters</title>
+      <description>Georgia's top election official says he is opening an investigation into whether third-party groups are trying to register people from other states to illegally vote in Georgia's twin Jan. 5 Senate runoff elections, when the GOP's majority in the chamber is at stake.</description>
+                  <dc:creator>Paul Conner</dc:creator>
+                         <pubDate>Mon, 30 Nov 2020 17:38:53 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Paul Conner</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/us/utah-police-officer-thanksgiving-abducted-kidnapped-family</guid>
+      <link>https://www.foxnews.com/us/utah-police-officer-thanksgiving-abducted-kidnapped-family</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/05/Man-in-handcuffs.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/Man-in-handcuffs.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/Man-in-handcuffs.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">e3741c1c-ff83-5cf7-ab68-97d93f9722b6</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/us/us-regions/west/utah</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us/crime</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us/crime/police-and-law-enforcement</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/us</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Utah police officer allegedly abducted relative, feared he was 'being watched by an unknown organization'</title>
+      <description>A Utah police officer is accused of abducting a family member on Thanksgiving amid a bizarre outburst in which the officer allegedly believed he was “being watched by an unknown organization,” according to recent reports.</description>
+                  <dc:creator>Stephanie Pagones</dc:creator>
+                         <pubDate>Mon, 30 Nov 2020 17:36:36 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Stephanie Pagones</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/media/cnn-darcy-twitter-censorship-trump-misinformation</guid>
+      <link>https://www.foxnews.com/media/cnn-darcy-twitter-censorship-trump-misinformation</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/06/Donald-Trump-Twitter-AP-iStock.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/Donald-Trump-Twitter-AP-iStock.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/Donald-Trump-Twitter-AP-iStock.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">a3d9653e-6033-5491-ad91-a6d16236180d</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/tech/topics/big-tech-backlash</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/media</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>CNN reporter calls for Twitter to take censorship further, label Trump's account as disinformation</title>
+      <description>Big Tech has been widely criticized for censoring conservatives and an overall liberal bias, but a hyper-partisan CNN reporter wants the social media platform to take censorship even further and slap labels on specific accounts.</description>
+                  <dc:creator>Brian Flood</dc:creator>
+                         <pubDate>Mon, 30 Nov 2020 17:30:41 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Brian Flood</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/health/iowa-over-2000-new-coronavirus-cases</guid>
+      <link>https://www.foxnews.com/health/iowa-over-2000-new-coronavirus-cases</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/11/9064b1d3-coronavirus-.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/9064b1d3-coronavirus-.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/9064b1d3-coronavirus-.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">fc0f1d37-a46e-54af-9ee1-1a07e58fe364</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/health/infectious-disease/coronavirus</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us/us-regions/midwest/iowa</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/health</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Iowa sees more than 2,000 new coronavirus cases in 1 day</title>
+      <description>Iowa health officials over the weekend recorded more than 2,000 newly confirmed cases of the novel coronavirus. </description>
+                  <dc:creator>Madeline Farber</dc:creator>
+                         <pubDate>Mon, 30 Nov 2020 17:28:15 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Madeline Farber</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/politics/ben-domenech-total-failure-schools-open-rest-world</guid>
+      <link>https://www.foxnews.com/politics/ben-domenech-total-failure-schools-open-rest-world</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/11/school-covid-kids-.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/school-covid-kids-.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/school-covid-kids-.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">f252d9bb-20bb-585e-b792-954e5ff7b472</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/media/fox-news-flash</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us/atlanta</category>
+            <category domain="foxnews.com/taxonomy">fox-news/shows/fox-friends</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/politics</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Ben Domenech: 'Total failure to not have schools open' like rest of world</title>
+      <description>It is a "total failure" for schools to be closed while other countries have figured out how to keep them open safely amid the coronavirus pandemic, The Federalist Publisher Ben Domenech said on Monday.</description>
+                  <dc:creator>Joshua Nelson</dc:creator>
+                         <pubDate>Mon, 30 Nov 2020 17:28:07 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Joshua Nelson</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/us/mercenary-donor-access-millions-foreign-money</guid>
+      <link>https://www.foxnews.com/us/mercenary-donor-access-millions-foreign-money</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/11/Imaad-Zuberi.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/Imaad-Zuberi.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/Imaad-Zuberi.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">87995d5b-61b1-57ab-aaf5-457d8319afaf</category>
+                  <category domain="foxnews.com/taxonomy">fox-business/fox-business-politics</category>
+            <category domain="foxnews.com/taxonomy">fox-news/politics/house-of-representatives/democrats</category>
+            <category domain="foxnews.com/taxonomy">fox-news/politics/senate/republicans</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/us</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>'Mercenary' donor sold access for millions in foreign money</title>
+      <description>Imaad Zuberi had nearly unparalleled access to top politicians, with one CIA officer describing him as "the best connected person I know."</description>
+                   <pubDate>Mon, 30 Nov 2020 17:23:29 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Associated Press</category>
+                              <category domain="foxnews.com/dateline" />
+                                  </item>
+      </channel>
+</rss>

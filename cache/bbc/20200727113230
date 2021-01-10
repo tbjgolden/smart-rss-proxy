@@ -1,0 +1,432 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet title="XSL_formatting" type="text/xsl" href="/shared/bsp/xsl/rss/nolsol.xsl"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News - Home]]></title>
+        <description><![CDATA[BBC News - Home]]></description>
+        <link>https://www.bbc.co.uk/news/</link>
+        <image>
+            <url>https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News - Home</title>
+            <link>https://www.bbc.co.uk/news/</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Mon, 27 Jul 2020 11:25:46 GMT</lastBuildDate>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Coronavirus: UK had to act 'rapidly and decisively' on Spain quarantine]]></title>
+            <description><![CDATA[No 10 will also keep the quarantine policy for other countries under review, a minister says.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-53548893</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-53548893</guid>
+            <pubDate>Mon, 27 Jul 2020 11:24:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus: Spain races to save tourism as cases surge]]></title>
+            <description><![CDATA[The UK imposed a 14-day quarantine on all arrivals from Spain after a spike in infections.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-53551863</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-53551863</guid>
+            <pubDate>Mon, 27 Jul 2020 10:55:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Obesity: Unhealthy 'buy one get one free' deals targeted]]></title>
+            <description><![CDATA[Ministers will also legislate for calories to appear on menus as part of a strategy to tackle obesity.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-politics-53546151</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-53546151</guid>
+            <pubDate>Mon, 27 Jul 2020 11:14:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus: Vietnam coma pilot warns people 'not to be blasé']]></title>
+            <description><![CDATA[Scot Stephen Cameron spent more than two months in a coma in Vietnam after contracting coronavirus.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-53544345</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-53544345</guid>
+            <pubDate>Mon, 27 Jul 2020 08:08:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus: UK economy 'might not recover until 2024']]></title>
+            <description><![CDATA[Analysts say it will take longer than expected for the economy to return to its pre-coronavirus size.]]></description>
+            <link>https://www.bbc.co.uk/news/business-53552494</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-53552494</guid>
+            <pubDate>Mon, 27 Jul 2020 10:52:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The millions 'hanging by a thread' as coronavirus aid expires]]></title>
+            <description><![CDATA[A $600 boost to unemployment benefit is set to expire soon, leaving many people worried about money.]]></description>
+            <link>https://www.bbc.co.uk/news/business-53534435</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-53534435</guid>
+            <pubDate>Sun, 26 Jul 2020 23:06:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ed Sheeran: 'I'd binge eat until I was sick']]></title>
+            <description><![CDATA[The pop star opens up about his addictive personality, and why he's taking a break from music.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-53553951</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-53553951</guid>
+            <pubDate>Mon, 27 Jul 2020 10:44:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus: Vietnam alarm after first cases in months]]></title>
+            <description><![CDATA[The four locally transmitted cases in Da Nang prompt a tourism ban and renewed prevention measures.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-53549809</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-53549809</guid>
+            <pubDate>Mon, 27 Jul 2020 09:16:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Students back at uni - but with masks and no bars]]></title>
+            <description><![CDATA[Face-to-face teaching starts again at the University of Nottingham, with safety rules on campus.]]></description>
+            <link>https://www.bbc.co.uk/news/education-53532479</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/education-53532479</guid>
+            <pubDate>Sun, 26 Jul 2020 23:00:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus: Beauty salons and tattooists in Wales reopen]]></title>
+            <description><![CDATA[Beauty salons are reopening but people may have to wait longer for fillers and eyebrow treatments.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-wales-53531126</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-53531126</guid>
+            <pubDate>Mon, 27 Jul 2020 09:40:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Firms with more female executives 'perform better']]></title>
+            <description><![CDATA[Research suggests listed companies do better when women fill more than one in three executive roles.]]></description>
+            <link>https://www.bbc.co.uk/news/business-53548704</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-53548704</guid>
+            <pubDate>Mon, 27 Jul 2020 00:07:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Chinese students in Australia targeted in virtual kidnapping scam]]></title>
+            <description><![CDATA[Students in Australia are coerced into faking their own kidnappings in the extortion scheme.]]></description>
+            <link>https://www.bbc.co.uk/news/world-australia-53549933</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-australia-53549933</guid>
+            <pubDate>Mon, 27 Jul 2020 07:05:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Fortnite's British teenage millionaire: One year later]]></title>
+            <description><![CDATA[Jaden ‘Wolfiez’ Ashman from Essex is the youngest esports player ever to win a million dollars.]]></description>
+            <link>https://www.bbc.co.uk/news/newsbeat-53519098</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/newsbeat-53519098</guid>
+            <pubDate>Mon, 27 Jul 2020 06:58:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A Suitable Boy: Critics welcome first BBC drama with all-Asian cast]]></title>
+            <description><![CDATA[The critics have their say on the BBC's first historical drama not to feature any white characters.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-53550784</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-53550784</guid>
+            <pubDate>Mon, 27 Jul 2020 10:21:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coming out at 90 years old... to my gay daughter]]></title>
+            <description><![CDATA[While writing his memoirs in lockdown, Kenneth Felts opened up to his daughter about his first love.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-53521565</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-53521565</guid>
+            <pubDate>Sun, 26 Jul 2020 23:00:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The gravedigger’s truth: Hidden coronavirus deaths]]></title>
+            <description><![CDATA[Somalia has fewer than 100 official Covid-19 deaths. But its cemeteries tell a different story.]]></description>
+            <link>https://www.bbc.co.uk/news/world-africa-53521563</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-53521563</guid>
+            <pubDate>Sun, 26 Jul 2020 23:02:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[John Lewis: US civil rights icon's body crosses Selma bridge a final time]]></title>
+            <description><![CDATA[The late civil rights activist is taken over the historic Edmund Pettus Bridge for a final time.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-53548527</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-53548527</guid>
+            <pubDate>Sun, 26 Jul 2020 20:07:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Terry O'Neill: Capturing celebrity]]></title>
+            <description><![CDATA[An exhibition brings together the late photographer Terry O'Neill's memories behind his celebrity images.]]></description>
+            <link>https://www.bbc.co.uk/news/in-pictures-53476319</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/in-pictures-53476319</guid>
+            <pubDate>Sun, 26 Jul 2020 23:04:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The papers: 'Pain in Spain' and 'lose 5lbs to save NHS £100m']]></title>
+            <description><![CDATA[Monday's papers include travel chaos caused by the new quarantine rules, and the PM's war on obesity.]]></description>
+            <link>https://www.bbc.co.uk/news/blogs-the-papers-53548875</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/blogs-the-papers-53548875</guid>
+            <pubDate>Mon, 27 Jul 2020 04:54:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Iraq War: 'I am here today because another man died']]></title>
+            <description><![CDATA[A photographer's decision to capture an image during the Iraq War changed not only his life - but the lives of the marines with him.]]></description>
+            <link>https://www.bbc.co.uk/news/stories-53527164</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/stories-53527164</guid>
+            <pubDate>Sun, 26 Jul 2020 23:06:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Heathrow Airport brings in robots to fight coronavirus]]></title>
+            <description><![CDATA[The airport has installed a number of tech-based measures to help keep travellers safe.]]></description>
+            <link>https://www.bbc.co.uk/news/technology-53525018</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-53525018</guid>
+            <pubDate>Mon, 27 Jul 2020 00:12:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Breaching whale cheers Devon fishermen]]></title>
+            <description><![CDATA['It was a lovely sight,' said Devon skipper Cece Clarke after the sighting in Lyme Bay.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-devon-53543470</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-devon-53543470</guid>
+            <pubDate>Sun, 26 Jul 2020 13:28:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus: How bad will winter really be?]]></title>
+            <description><![CDATA[Could we be heading for a double whammy of flu and coronavirus?]]></description>
+            <link>https://www.bbc.co.uk/news/health-53515077</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-53515077</guid>
+            <pubDate>Mon, 27 Jul 2020 00:14:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus doctor's diary: Will vaccine sceptics make trials a headache?]]></title>
+            <description><![CDATA[The NHS soon needs to start flu vaccinations and Covid vaccine trials - but anti-vax attitudes seem to be spreading.]]></description>
+            <link>https://www.bbc.co.uk/news/health-53544405</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-53544405</guid>
+            <pubDate>Mon, 27 Jul 2020 00:15:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus in Scotland: What is known about care home deaths?]]></title>
+            <description><![CDATA[When the BBC's Marc Ellison set out to map Scotland's 1,950 care home deaths he found the task surprisingly difficult.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-scotland-politics-53502590</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-scotland-politics-53502590</guid>
+            <pubDate>Sun, 26 Jul 2020 23:14:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['I started a fashion business from two suitcases']]></title>
+            <description><![CDATA[From $800 of clothes in a suitcase to a ticket to Milan Fashion Week.]]></description>
+            <link>https://www.bbc.co.uk/news/business-53486191</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-53486191</guid>
+            <pubDate>Sun, 26 Jul 2020 23:10:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The children of Korean War prisoners who never came home]]></title>
+            <description><![CDATA[South Korea largely forgot its prisoners of war. Now their children are fighting for recognition.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-53511646</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-53511646</guid>
+            <pubDate>Sun, 26 Jul 2020 23:01:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Obituary: Olivia de Havilland, star of Hollywood's Golden Age]]></title>
+            <description><![CDATA[Star of Gone With the Wind was one of the last big names from Hollywood's golden era.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-12717233</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-12717233</guid>
+            <pubDate>Sun, 26 Jul 2020 16:08:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Willey & Topley recalled by England for Ireland ODIs]]></title>
+            <description><![CDATA[Left-arm seamers David Willey and Reece Topley are named in England's 14-man squad for the three one-day internationals against Ireland.]]></description>
+            <link>https://www.bbc.co.uk/sport/cricket/53553282</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/cricket/53553282</guid>
+            <pubDate>Mon, 27 Jul 2020 11:06:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Which defender is in the Maldini class? Find out in Garth's team of the season]]></title>
+            <description><![CDATA[Which defender is in the Paolo Maldini class? Find out in Garth Crooks' team of the season.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/53546051</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/53546051</guid>
+            <pubDate>Mon, 27 Jul 2020 06:09:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['I had to work on my weaknesses, my pace, my mentality' - self-criticism a winning strategy for Norris]]></title>
+            <description><![CDATA[Lando Norris says his self-critical nature is behind the starring performances with which he has started the new Formula 1 season.]]></description>
+            <link>https://www.bbc.co.uk/sport/formula1/53537593</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/formula1/53537593</guid>
+            <pubDate>Mon, 27 Jul 2020 07:46:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Spain travel rules: Should I still go?]]></title>
+            <description><![CDATA[The 14-day quarantine on travellers arriving from Spain has caused "uncertainty and confusion".]]></description>
+            <link>https://www.bbc.co.uk/news/business-53545222</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-53545222</guid>
+            <pubDate>Mon, 27 Jul 2020 11:08:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus: What are the UK's travel rules and which countries can you visit?]]></title>
+            <description><![CDATA[New agreements mean people entering the UK from certain countries will not have to quarantine.]]></description>
+            <link>https://www.bbc.co.uk/news/explainers-53221896</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-53221896</guid>
+            <pubDate>Mon, 27 Jul 2020 08:40:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Step-by-step guide to making your own face mask]]></title>
+            <description><![CDATA[Our guide to different types of face coverings and step-by-step instructions on how to make them.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-52609777</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-52609777</guid>
+            <pubDate>Thu, 23 Jul 2020 23:47:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus pandemic: Tracking the global outbreak]]></title>
+            <description><![CDATA[Key maps and charts explaining how the respiratory virus has spread around the world and how it is being dealt with.]]></description>
+            <link>https://www.bbc.co.uk/news/world-51235105</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-51235105</guid>
+            <pubDate>Sun, 26 Jul 2020 11:09:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus vaccine: Might it have side-effects?]]></title>
+            <description><![CDATA[Questions about how a vaccine might work and other coronavirus topics.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-china-51176409</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-china-51176409</guid>
+            <pubDate>Wed, 22 Jul 2020 15:29:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus: What are the UK travel quarantine rules?]]></title>
+            <description><![CDATA[What do you need to know if you're planning to fly during the Covid-19 pandemic?]]></description>
+            <link>https://www.bbc.co.uk/news/explainers-52544307</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-52544307</guid>
+            <pubDate>Sun, 26 Jul 2020 13:49:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus: What powers do the police have?]]></title>
+            <description><![CDATA[Coronavirus lockdown rules are changing across the UK, but who is responsible for enforcing them?]]></description>
+            <link>https://www.bbc.co.uk/news/explainers-52106843</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-52106843</guid>
+            <pubDate>Thu, 23 Jul 2020 23:54:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus: How many confirmed cases are there in your area?]]></title>
+            <description><![CDATA[Key graphics explaining how coronavirus has spread in the UK and the government's response.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-51768274</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-51768274</guid>
+            <pubDate>Sun, 26 Jul 2020 16:10:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus: False and misleading claims about vaccines debunked]]></title>
+            <description><![CDATA[Misinformation about coronavirus vaccine trials has been spreading on social media.]]></description>
+            <link>https://www.bbc.co.uk/news/53525002</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/53525002</guid>
+            <pubDate>Sat, 25 Jul 2020 23:16:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus: How are indoor gyms and pools going to open?]]></title>
+            <description><![CDATA[As lockdown eases in England, more activities are being allowed but how are customers being kept safe?]]></description>
+            <link>https://www.bbc.co.uk/news/explainers-53349989</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-53349989</guid>
+            <pubDate>Fri, 24 Jul 2020 14:59:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Working from home: How to cut your tax bill]]></title>
+            <description><![CDATA[Home workers can claim tax allowances for their lighting, heating and other expenses.]]></description>
+            <link>https://www.bbc.co.uk/news/business-52982988</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-52982988</guid>
+            <pubDate>Sat, 25 Jul 2020 00:44:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus: What are the rules for face masks or face coverings?]]></title>
+            <description><![CDATA[England will follow Scotland by making face coverings compulsory in shops.]]></description>
+            <link>https://www.bbc.co.uk/news/health-51205344</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-51205344</guid>
+            <pubDate>Thu, 23 Jul 2020 15:48:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus vaccine: When will we have one?]]></title>
+            <description><![CDATA[About 200 groups of medical researchers around the world are working on a vaccine for Covid-19.]]></description>
+            <link>https://www.bbc.co.uk/news/health-51665497</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-51665497</guid>
+            <pubDate>Tue, 21 Jul 2020 13:38:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus: Which restaurants are offering cheap meals in August?]]></title>
+            <description><![CDATA[Thousands of venues will take part in a discounting scheme to help boost the hospitality industry.]]></description>
+            <link>https://www.bbc.co.uk/news/explainers-53431026</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-53431026</guid>
+            <pubDate>Mon, 27 Jul 2020 10:16:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus: 'Deadly masks' claims debunked]]></title>
+            <description><![CDATA[The BBC's anti-disinformation team has been investigating misleading health claims about wearing face coverings.]]></description>
+            <link>https://www.bbc.co.uk/news/53108405</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/53108405</guid>
+            <pubDate>Fri, 24 Jul 2020 11:16:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How not to wear a face mask]]></title>
+            <description><![CDATA[New rules mean face coverings are now mandatory in England in all shops.]]></description>
+            <link>https://www.bbc.co.uk/news/explainers-53517968</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-53517968</guid>
+            <pubDate>Thu, 23 Jul 2020 23:01:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What is redundancy, who can be made redundant and what are my rights?]]></title>
+            <description><![CDATA[As thousands of job losses owing to coronavirus are announced, here is a guide to your financial entitlements.]]></description>
+            <link>https://www.bbc.co.uk/news/business-53501506</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-53501506</guid>
+            <pubDate>Thu, 23 Jul 2020 23:44:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus cure: What progress are we making on treatments?]]></title>
+            <description><![CDATA[Teams around the world are looking into medicines for Covid-19 and scientists are starting to discover what works.]]></description>
+            <link>https://www.bbc.co.uk/news/health-52354520</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-52354520</guid>
+            <pubDate>Wed, 22 Jul 2020 16:37:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus: A user's guide to wearing a face mask to the shops]]></title>
+            <description><![CDATA[From stopping your glasses fogging up to washing techniques, here's what you need to know.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-53395513</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-53395513</guid>
+            <pubDate>Wed, 15 Jul 2020 00:28:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How to stop your glasses steaming up with a face mask on]]></title>
+            <description><![CDATA[Three simple tips to stop your glasses fogging up while you shop with a mask or face covering on.]]></description>
+            <link>https://www.bbc.co.uk/news/newsbeat-53406105</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/newsbeat-53406105</guid>
+            <pubDate>Tue, 14 Jul 2020 16:36:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus: What are the care home visiting rules in England?]]></title>
+            <description><![CDATA[New guidance gives hope to relatives wanting to visit care homes.]]></description>
+            <link>https://www.bbc.co.uk/news/explainers-53503712</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-53503712</guid>
+            <pubDate>Wed, 22 Jul 2020 16:34:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus: Where can I go on holiday? A guide to destinations]]></title>
+            <description><![CDATA[As people in the UK get the green light to go abroad again, here's a look at what's in store for travellers.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-53249747</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-53249747</guid>
+            <pubDate>Mon, 27 Jul 2020 10:13:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus: Young people on benefits double in lockdown]]></title>
+            <description><![CDATA[Experts fear it may take up to four years for youth unemployment to recover from the pandemic.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-53430775</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-53430775</guid>
+            <pubDate>Mon, 20 Jul 2020 08:54:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus: What closes in a local lockdown?]]></title>
+            <description><![CDATA[Local authorities will be given the power to take action on coronavirus outbreaks in their area.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-52934822</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-52934822</guid>
+            <pubDate>Fri, 17 Jul 2020 11:44:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Does getting coronavirus make you immune?]]></title>
+            <description><![CDATA[What you need to know about how the immune system works.]]></description>
+            <link>https://www.bbc.co.uk/news/53319735</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/53319735</guid>
+            <pubDate>Tue, 07 Jul 2020 23:00:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus: What are social distancing and self-isolation rules?]]></title>
+            <description><![CDATA[Social distancing and lockdown rules are changing in England - but what can you now do?]]></description>
+            <link>https://www.bbc.co.uk/news/uk-51506729</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-51506729</guid>
+            <pubDate>Tue, 14 Jul 2020 08:17:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus: What's the risk on transport?]]></title>
+            <description><![CDATA[People are being asked to return to work, meaning public transport could become more crowded.]]></description>
+            <link>https://www.bbc.co.uk/news/health-51736185</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-51736185</guid>
+            <pubDate>Sun, 19 Jul 2020 15:32:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The dying teenager who wanted world peace (and love)]]></title>
+            <description><![CDATA[An American teen with cancer went to Moscow in 1988 hoping to meet Gorbachev and rid the world of nukes.]]></description>
+            <link>https://www.bbc.co.uk/news/stories-52763560</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/stories-52763560</guid>
+            <pubDate>Sat, 25 Jul 2020 23:01:32 GMT</pubDate>
+        </item>
+    </channel>
+</rss>

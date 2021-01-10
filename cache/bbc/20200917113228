@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet title="XSL_formatting" type="text/xsl" href="/shared/bsp/xsl/rss/nolsol.xsl"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News - Home]]></title>
+        <description><![CDATA[BBC News - Home]]></description>
+        <link>https://www.bbc.co.uk/news/</link>
+        <image>
+            <url>https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News - Home</title>
+            <link>https://www.bbc.co.uk/news/</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Thu, 17 Sep 2020 11:29:18 GMT</lastBuildDate>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Coronavirus: New restrictions in north-east England]]></title>
+            <description><![CDATA[Measures to stop households mixing and early pub closures will come into effect from midnight.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-tyne-54188766</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-tyne-54188766</guid>
+            <pubDate>Thu, 17 Sep 2020 11:21:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus: Test turnaround times getting longer in England]]></title>
+            <description><![CDATA[Only 1 in 3 tests carried out in community testing centres in England are processed within 24 hours.]]></description>
+            <link>https://www.bbc.co.uk/news/health-54191745</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-54191745</guid>
+            <pubDate>Thu, 17 Sep 2020 11:27:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus: Rhondda Cynon Taf lockdown 'frustration']]></title>
+            <description><![CDATA[Residents express concerns and frustrations as lockdown is re-imposed in Rhondda Cynon Taf.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-wales-54180450</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-54180450</guid>
+            <pubDate>Thu, 17 Sep 2020 08:08:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[John Lewis scraps bonus for first time since 1953]]></title>
+            <description><![CDATA[The partnership posted a huge £635m loss in the six months to July as costs soared during the pandemic.]]></description>
+            <link>https://www.bbc.co.uk/news/business-54187674</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-54187674</guid>
+            <pubDate>Thu, 17 Sep 2020 10:53:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Heat ray 'was sought' against protest in Washington's Lafayette Square]]></title>
+            <description><![CDATA[Military police requested a heat ray before clearing a Washington DC square in June, a major says.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-54187961</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-54187961</guid>
+            <pubDate>Thu, 17 Sep 2020 11:25:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Biden says US trade deal hinges on UK 'respect' for Good Friday Agreement]]></title>
+            <description><![CDATA[The presidential candidate says peace in Northern Ireland cannot become a "casualty of Brexit".]]></description>
+            <link>https://www.bbc.co.uk/news/uk-politics-54171571</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-54171571</guid>
+            <pubDate>Thu, 17 Sep 2020 11:08:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Migrant crisis 2015: What happened to Nujeen Mustafa?]]></title>
+            <description><![CDATA[Nujeen fled war in Syria, and crossed Europe in her wheelchair in 2015, but where is she now?]]></description>
+            <link>https://www.bbc.co.uk/news/world-54165869</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-54165869</guid>
+            <pubDate>Thu, 17 Sep 2020 00:04:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus: Care homes in England to get £546m extra funding]]></title>
+            <description><![CDATA[The money will help to reduce the transmission of coronavirus during the winter, ministers say.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-54186355</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-54186355</guid>
+            <pubDate>Thu, 17 Sep 2020 11:22:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid court delays: Weeds, leaks, and four-year waits for justice]]></title>
+            <description><![CDATA[People accused of crimes in England and Wales - and alleged victims - wait years for a resolution.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-54173891</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-54173891</guid>
+            <pubDate>Wed, 16 Sep 2020 23:52:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid pushes New Zealand into worst recession in years]]></title>
+            <description><![CDATA[The country saw early success in keeping out the virus, but strict measures have taken a toll.]]></description>
+            <link>https://www.bbc.co.uk/news/business-54186359</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-54186359</guid>
+            <pubDate>Thu, 17 Sep 2020 09:47:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Next: Staff working from home 'miss out on camaraderie']]></title>
+            <description><![CDATA[The retailer says staff working from home were "stultified" by boring presentations and missed office life.]]></description>
+            <link>https://www.bbc.co.uk/news/business-54187614</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-54187614</guid>
+            <pubDate>Thu, 17 Sep 2020 09:35:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Teens with mental disabilities locked out of savings]]></title>
+            <description><![CDATA[Tens of thousands of children with mental disabilities are unable to access their savings when they turn 18.]]></description>
+            <link>https://www.bbc.co.uk/news/business-54129358</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-54129358</guid>
+            <pubDate>Wed, 16 Sep 2020 23:12:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Papers: 'Embarrassing' test admission and schools warning]]></title>
+            <description><![CDATA[The problems with testing continue to dominate the newspaper front pages for another day.]]></description>
+            <link>https://www.bbc.co.uk/news/blogs-the-papers-54185596</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/blogs-the-papers-54185596</guid>
+            <pubDate>Thu, 17 Sep 2020 04:19:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[PlayStation 5 matches the price of the Xbox Series X]]></title>
+            <description><![CDATA[Sony opts not to undercut its rival this time round but instead will rely on exclusives to woo gamers.]]></description>
+            <link>https://www.bbc.co.uk/news/technology-54178375</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-54178375</guid>
+            <pubDate>Wed, 16 Sep 2020 21:10:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Being a fresher during coronavirus]]></title>
+            <description><![CDATA[First year students describe their first impressions of university life, with Covid restrictions in place.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-54165870</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-54165870</guid>
+            <pubDate>Wed, 16 Sep 2020 23:11:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Australian family that travels 1,800km to run an outback pub]]></title>
+            <description><![CDATA[The Ellis family in Australia make frequent trips on a small plane, fulfilling what they call "a dream".]]></description>
+            <link>https://www.bbc.co.uk/news/world-australia-54173968</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-australia-54173968</guid>
+            <pubDate>Wed, 16 Sep 2020 23:04:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Environment activists: 'I got death and rape threats’]]></title>
+            <description><![CDATA[Last year was the worst on record since the charity, Global witness, started tracking deaths in 2012.]]></description>
+            <link>https://www.bbc.co.uk/news/science-environment-54165868</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-54165868</guid>
+            <pubDate>Wed, 16 Sep 2020 23:04:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[In pictures: Seaside photos taken 800 miles apart]]></title>
+            <description><![CDATA[Photographers in Scotland and Iceland paired up to capture their local areas.]]></description>
+            <link>https://www.bbc.co.uk/news/in-pictures-54153086</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/in-pictures-54153086</guid>
+            <pubDate>Thu, 17 Sep 2020 00:50:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus: 'Booking a test is like getting Harry Potter tickets']]></title>
+            <description><![CDATA[Facing "unsustainable" absences, teachers say the government has not kept its promises on testing.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-54180219</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-54180219</guid>
+            <pubDate>Wed, 16 Sep 2020 15:16:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Full circuit: Round-Britain photographer Quintin Lake's epic journey]]></title>
+            <description><![CDATA[Photographer Quintin Lake completes his walk, five years and 10,000km on.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-54165866</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-54165866</guid>
+            <pubDate>Tue, 15 Sep 2020 23:00:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[US election 2020: When will we get a result for the US election?]]></title>
+            <description><![CDATA[Lots of postal ballots, legal disputes and stubborn candidates could delay the results.]]></description>
+            <link>https://www.bbc.co.uk/news/election-us-2020-54096399</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/election-us-2020-54096399</guid>
+            <pubDate>Wed, 16 Sep 2020 18:35:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus: 'I cut a carrot for the first time, aged 41']]></title>
+            <description><![CDATA[Diagnosed with ADHD just before she turned 40, Alia used lockdown to face her fear - cooking.]]></description>
+            <link>https://www.bbc.co.uk/news/disability-53863013</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/disability-53863013</guid>
+            <pubDate>Wed, 16 Sep 2020 23:12:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Unknown east London schoolgirl actresses on 'life-changing' film Rocks]]></title>
+            <description><![CDATA[The novice stars of this gritty tale of female friendship applaud its focus on diversity in film.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-54165659</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-54165659</guid>
+            <pubDate>Thu, 17 Sep 2020 00:03:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The student daring to challenge Thailand’s monarchy]]></title>
+            <description><![CDATA[Panusaya Sithijirawattanakul read out a 10-point manifesto calling for reform of the monarchy.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-54182002</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-54182002</guid>
+            <pubDate>Wed, 16 Sep 2020 23:24:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['For me whale meat is my childhood, my memories']]></title>
+            <description><![CDATA[Sales of whale meat rise in Norway, helped by more Norwegians going on staycations.]]></description>
+            <link>https://www.bbc.co.uk/news/business-54164399</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-54164399</guid>
+            <pubDate>Wed, 16 Sep 2020 23:22:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Body image in sport: Scotland's Rhona Lloyd did not train to avoid big muscles]]></title>
+            <description><![CDATA[At the age of 16, Rhona Lloyd thought about giving up rugby. Already taunted for being a "man", she avoided training because she did not want big muscles.]]></description>
+            <link>https://www.bbc.co.uk/sport/rugby-union/54131362</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/rugby-union/54131362</guid>
+            <pubDate>Wed, 16 Sep 2020 05:03:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bale set to arrive in England on Friday for Spurs return]]></title>
+            <description><![CDATA[Real Madrid forward Gareth Bale is set to fly to England on Friday to complete his return to Tottenham Hotspur.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/54192248</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/54192248</guid>
+            <pubDate>Thu, 17 Sep 2020 11:22:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Thiago Alcantara: Liverpool agree £25m deal for Bayern Munich midfielder]]></title>
+            <description><![CDATA[Liverpool agree a deal to sign Spain midfielder Thiago Alcantara from Bayern Munich for at least £20m, plus £5m in add-ons.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/54188430</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/54188430</guid>
+            <pubDate>Thu, 17 Sep 2020 10:28:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['Records, takeaways and the Shipping Forecast' - England's summer in a bio-secure bubble]]></title>
+            <description><![CDATA[As England men's summer comes to a close, BBC Sport looks at the winners and losers from the unique time in the bio-secure bubbles.]]></description>
+            <link>https://www.bbc.co.uk/sport/cricket/54161887</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/cricket/54161887</guid>
+            <pubDate>Thu, 17 Sep 2020 06:36:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[England v Australia: Glenn Maxwell & Alex Carey rescue amazing win and seal series win for Australia]]></title>
+            <description><![CDATA[Glenn Maxwell and Alex Carey's record-breaking 212-run partnership helps Australia recover from 73-5 to beat England by three wickets and seal a thrilling one-day series victory at Old Trafford.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/cricket/54186169</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/cricket/54186169</guid>
+            <pubDate>Wed, 16 Sep 2020 23:47:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid symptoms: Is it a cold, flu or coronavirus?]]></title>
+            <description><![CDATA[With similar symptoms, deciding whether or not you need to get tested for coronavirus can be tricky.]]></description>
+            <link>https://www.bbc.co.uk/news/health-54145299</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-54145299</guid>
+            <pubDate>Thu, 17 Sep 2020 09:39:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus: How to get a Covid test]]></title>
+            <description><![CDATA[What are the tests for coronavirus, who are they for and how do they work?]]></description>
+            <link>https://www.bbc.co.uk/news/health-51943612</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-51943612</guid>
+            <pubDate>Thu, 17 Sep 2020 11:09:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus symptoms: What are they and how do I protect myself?]]></title>
+            <description><![CDATA[A new continuous cough and fever are also symptoms but how do you know what to look for?]]></description>
+            <link>https://www.bbc.co.uk/news/health-51048366</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-51048366</guid>
+            <pubDate>Wed, 16 Sep 2020 07:49:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus: Can my child go to school with a cold?]]></title>
+            <description><![CDATA[Schools are adopting measures to reduce the spread of coronavirus and keep pupils safe.]]></description>
+            <link>https://www.bbc.co.uk/news/education-51643556</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/education-51643556</guid>
+            <pubDate>Wed, 16 Sep 2020 11:39:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus: Which areas are under local lockdown and what are the rules?]]></title>
+            <description><![CDATA[North-east areas such as Newcastle are the latest to face extra restrictions as coronavirus rates rise.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-52934822</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-52934822</guid>
+            <pubDate>Thu, 17 Sep 2020 11:27:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus testing: Government claims on test centres and international comparisons fact-checked]]></title>
+            <description><![CDATA[We examine government claims on testing capacity, international comparisons and the average distance travelled to a test centre.]]></description>
+            <link>https://www.bbc.co.uk/news/54165412</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/54165412</guid>
+            <pubDate>Wed, 16 Sep 2020 16:39:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus: What are social distancing and self-isolation rules?]]></title>
+            <description><![CDATA[Coronavirus cases are increasing, so what are the rules on social distancing?]]></description>
+            <link>https://www.bbc.co.uk/news/uk-51506729</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-51506729</guid>
+            <pubDate>Tue, 15 Sep 2020 16:21:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus: Can I attend gym classes of more than six? And other questions]]></title>
+            <description><![CDATA[New restrictions are coming in on how many people can meet up in England? We answer some of your questions.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-china-51176409</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-china-51176409</guid>
+            <pubDate>Tue, 15 Sep 2020 16:32:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Naomi Osaka: How a shy introvert has found her voice to become tennis' new leader]]></title>
+            <description><![CDATA[The softly spoken Naomi Osaka is finding her voice to become a leader on and off the tennis court, after her second US Open title.]]></description>
+            <link>https://www.bbc.co.uk/sport/tennis/53936569</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/tennis/53936569</guid>
+            <pubDate>Mon, 14 Sep 2020 05:24:20 GMT</pubDate>
+        </item>
+    </channel>
+</rss>

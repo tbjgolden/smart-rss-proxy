@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" media="screen" href="/~d/styles/rss2full.xsl"?><?xml-stylesheet type="text/css" media="screen" href="http://feeds.foxnews.com/~d/styles/itemcontent.css"?><rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+                    <title>FOX News</title>
+    <link>http://www.foxnews.com/</link>
+    <description><![CDATA[FOXNews.com - Breaking news and video. Latest Current News: U.S., World, Entertainment, Health, Business, Technology, Politics, Sports.]]></description>
+        <image>
+    	<url>http://tools.foxnews.com/sites/tools.foxnews.com/files/images/fox-news-logo.png</url>
+    	<title>FOX News</title>
+    	<link>http://www.foxnews.com/</link>
+    </image>
+            <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feeds.foxnews.com/foxnews/latest" /><feedburner:info xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" uri="foxnews/latest" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /><item>
+                  <guid isPermaLink="true">https://www.foxnews.com/politics/live-updates-georgia-senate-race-tightens-12-18-2020</guid>
+      <link>https://www.foxnews.com/politics/live-updates-georgia-senate-race-tightens-12-18-2020</link>
+                  <media:group>
+        <media:content url="https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1bd05925-09cd-4822-af7a-eefdb23f5b95/5d8cb22e-c8ff-4d41-8665-2c7a9a4e2e5e/1280x720/match/image.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/image.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/image.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">2d415c35-c75f-5203-9dee-d971c812e767</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/politics</category>
+            <category domain="foxnews.com/taxonomy">fox-news/news-events/live-coverage</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/politics</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>LIVE UPDATES: Georgia Senate race turns for final stretch</title>
+      <description>Loeffler has supported the first round of stimulus payments</description>
+                   <pubDate>Fri, 18 Dec 2020 05:28:19 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                              <category domain="foxnews.com/dateline" />
+                                  </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/us/this-day-in-history-dec-18</guid>
+      <link>https://www.foxnews.com/us/this-day-in-history-dec-18</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/12/TrumpImpeach.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/TrumpImpeach.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/TrumpImpeach.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">d14692a3-aa74-5901-9d0a-7244aaf5adda</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/us/this-day-in-history</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/us</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>This Day in History: Dec. 18</title>
+      <description>The House debates articles of impeachment against Clinton; Trump becomes the third president to be impeached.</description>
+                  <dc:creator>Bryan Robinson</dc:creator>
+                         <pubDate>Fri, 18 Dec 2020 05:00:51 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Bryan Robinson</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/sports/justin-herbert-rookie-passing-td-mark-chargers-raiders</guid>
+      <link>https://www.foxnews.com/sports/justin-herbert-rookie-passing-td-mark-chargers-raiders</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/12/Justin-Herbert.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/Justin-Herbert.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/Justin-Herbert.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">72145692-105e-5faf-b485-930b61f5459b</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/sports/nfl</category>
+            <category domain="foxnews.com/taxonomy">fox-news/sports/nfl/los-angeles-chargers</category>
+            <category domain="foxnews.com/taxonomy">fox-news/sports/nfl/las-vegas-raiders</category>
+            <category domain="foxnews.com/taxonomy">fox-news/person/justin-herbert</category>
+            <category domain="foxnews.com/taxonomy">fox-news/person/derek-carr</category>
+            <category domain="foxnews.com/taxonomy">fox-news/person/josh-jacobs</category>
+            <category domain="foxnews.com/taxonomy">fox-news/person/darren-waller</category>
+            <category domain="foxnews.com/taxonomy">fox-news/person/marcus-mariota</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/sports</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Justin Herbert ties rookie passing TD mark, Chargers pick up first AFC West win since 2018</title>
+      <description>The Los Angeles Chargers needed overtime to get it done, but the team picked up its first win against an AFC West opponent since 2018 with Thursday night’s victory over the Las Vegas Raiders.</description>
+                  <dc:creator>Ryan Gaydos</dc:creator>
+                         <pubDate>Fri, 18 Dec 2020 04:58:26 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Ryan Gaydos</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/media/hannity-breathless-hysteria-swalwell-chinese-spy</guid>
+      <link>https://www.foxnews.com/media/hannity-breathless-hysteria-swalwell-chinese-spy</link>
+                  <media:group>
+        <media:content url="https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9dcd5e63-d82a-41c0-8ed8-cea5471aaa41/1d666130-e958-477c-802b-98dfdf258b37/1280x720/match/image.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/image.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/image.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">0e149ae4-e7a5-541d-a038-24782ae9479d</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/media/fox-news-flash</category>
+            <category domain="foxnews.com/taxonomy">fox-news/person/eric-swalwell</category>
+            <category domain="foxnews.com/taxonomy">fox-news/shows/hannity</category>
+            <category domain="foxnews.com/taxonomy">fox-news/media</category>
+            <category domain="foxnews.com/taxonomy">fox-news/world/world-regions/china</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/media</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Hannity: Where is the media's 'breathless hysteria' over Swalwell entanglement with suspected Chinese spy?</title>
+      <description>After spending four years accusing the Trump administration of collusion in foreign election interference, the mainstream media appear to have changed their tune, given their lackluster coverage of Rep. Eric Swalwell, D-Calif., and his ties to an alleged Chinese spy, Sean Hannity said Thursday.</description>
+                  <dc:creator>Yael Halon</dc:creator>
+                         <pubDate>Fri, 18 Dec 2020 04:48:28 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Yael Halon</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/media/laura-ingraham-teachers-unions-left-wing-loafers</guid>
+      <link>https://www.foxnews.com/media/laura-ingraham-teachers-unions-left-wing-loafers</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/12/image-2020-12-17T224859.384.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/image-2020-12-17T224859.384.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/image-2020-12-17T224859.384.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">6ba57d6f-1c40-584c-8d73-70f948c48eb5</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/us/education/teachers</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us/economy/labor-unions</category>
+            <category domain="foxnews.com/taxonomy">fox-news/media/fox-news-flash</category>
+            <category domain="foxnews.com/taxonomy">fox-news/person/joe-biden</category>
+            <category domain="foxnews.com/taxonomy">fox-news/politics/socialism</category>
+            <category domain="foxnews.com/taxonomy">fox-news/shows/ingraham-angle</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/media</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Ingraham: 'Left-wing loafers' of teachers' unions 'killing the kids' with insistence on school closures</title>
+      <description>Teachers' unions are anxious for President-elect Joe Biden to take office so they can further consolidate their power, Laura Ingraham told viewers Thursday.</description>
+                  <dc:creator>Charles Creitz</dc:creator>
+                         <pubDate>Fri, 18 Dec 2020 04:32:53 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Charles Creitz</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/entertainment/ricky-schroder-says-he-plans-inauguration-day-visit-to-dc-to-rally-for-trump-or-protest-biden</guid>
+      <link>https://www.foxnews.com/entertainment/ricky-schroder-says-he-plans-inauguration-day-visit-to-dc-to-rally-for-trump-or-protest-biden</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2019/05/ContentBroker_contentid-6932e9b958164474a54555f533b79023.jpeg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/ContentBroker_contentid-6932e9b958164474a54555f533b79023.jpeg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/ContentBroker_contentid-6932e9b958164474a54555f533b79023.jpeg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">34f0e0dd-6554-5770-9de0-32a6c6917264</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/entertainment/celebrity-news</category>
+            <category domain="foxnews.com/taxonomy">fox-news/entertainment/tv</category>
+            <category domain="foxnews.com/taxonomy">fox-news/person/joe-biden</category>
+            <category domain="foxnews.com/taxonomy">fox-news/person/donald-trump</category>
+            <category domain="foxnews.com/taxonomy">fox-news/politics/elections/voter-fraud-concerns</category>
+            <category domain="foxnews.com/taxonomy">fox-news/politics/judiciary/supreme-court</category>
+            <category domain="foxnews.com/taxonomy">fox-news/politics/2020-presidential-election</category>
+            <category domain="foxnews.com/taxonomy">fox-news/politics/elections</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us/washington-dc</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/entertainment</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Ricky Schroder says he plans Inauguration Day visit to DC – to rally for Trump or protest Biden</title>
+      <description>Actor Ricky Schroder, a supporter of President Trump, said he plans to be in Washington, D.C., on Jan. 20 – either to rally in support of Trump or to protest the inauguration of Democrat Joe Biden.</description>
+                  <dc:creator>Dom Calicchio</dc:creator>
+                         <pubDate>Fri, 18 Dec 2020 04:24:58 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Dom Calicchio</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/sports/sun-belt-cancels-championship-game-coronavirus-coastal-carolina</guid>
+      <link>https://www.foxnews.com/sports/sun-belt-cancels-championship-game-coronavirus-coastal-carolina</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/11/Grayson-McCall2.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/Grayson-McCall2.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/Grayson-McCall2.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">1ebb07b3-22b0-541e-8843-9e352eeaae9e</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/sports/ncaa-fb</category>
+            <category domain="foxnews.com/taxonomy">fox-news/sports/ncaa</category>
+            <category domain="foxnews.com/taxonomy">fox-news/sports/ncaa/coastal-carolina-chanticleers</category>
+            <category domain="foxnews.com/taxonomy">fox-news/sports/ncaa/louisiana-ragin-cajuns</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/sports</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Sun Belt Conference cancels championship game over coronavirus with Coastal Carolina</title>
+      <description>The 2020 Sun Belt Conference title game between No. 9 Coastal Carolina will play No. 17 Louisiana was canceled Thursday night – two days before the matchup – because of the coronavirus.</description>
+                  <dc:creator>Ryan Gaydos</dc:creator>
+                         <pubDate>Fri, 18 Dec 2020 03:57:44 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Ryan Gaydos</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/opinion/tucker-carlson-coronavirus-vaccine-big-tech-censorship</guid>
+      <link>https://www.foxnews.com/opinion/tucker-carlson-coronavirus-vaccine-big-tech-censorship</link>
+                  <media:group>
+        <media:content url="https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/16ec9c63-60c7-425b-99d3-9a11e2c72d31/9dfe41ed-9d39-460e-8483-db4c3914d290/1280x720/match/image.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/image.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/image.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">b28fbb0b-41c5-5a93-8632-bbda1fc8707c</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/shows/tucker-carlson-tonight</category>
+            <category domain="foxnews.com/taxonomy">fox-news/shows/tucker-carlson-tonight/transcript/tuckers-monologue</category>
+            <category domain="foxnews.com/taxonomy">fox-news/health/infectious-disease/coronavirus</category>
+            <category domain="foxnews.com/taxonomy">fox-news/opinion</category>
+            <category domain="foxnews.com/taxonomy">fox-news/topic/fox-news-flash</category>
+            <category domain="foxnews.com/taxonomy">fox-news/media</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/opinion</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Tucker Carlson: Public confidence in the coronavirus vaccine won't be achieved by Big Tech censorship</title>
+      <description>The rollout of the coronavirus vaccine has been accompanied by the kind of corporate image campaign you typically associate with high-end consumer products.</description>
+                  <dc:creator>Tucker Carlson</dc:creator>
+                         <pubDate>Fri, 18 Dec 2020 03:39:50 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Tucker Carlson</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/sports/seahawks-dk-metcalf-calvin-johnson</guid>
+      <link>https://www.foxnews.com/sports/seahawks-dk-metcalf-calvin-johnson</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/12/DK-Metcalf2.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/DK-Metcalf2.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/DK-Metcalf2.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">5d50713a-e4f8-54c4-bdb1-bce6d27241b9</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/sports/nfl/seattle-seahawks</category>
+            <category domain="foxnews.com/taxonomy">fox-news/person/dk-metcalf</category>
+            <category domain="foxnews.com/taxonomy">fox-news/sports/nfl</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/sports</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Seahawks' DK Metcalf hates the comparisons to Calvin Johnson: 'I'm trying to pave my own way'</title>
+      <description>Seattle Seahawks second-year superstar DK Metcalf has transformed into one of the best young wide receivers in the NFL.</description>
+                  <dc:creator>Daniel Canova</dc:creator>
+                         <pubDate>Fri, 18 Dec 2020 03:28:16 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Daniel Canova</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/sports/no-5-kansas-wins-30th-straight-league-opener-at-texas-tech</guid>
+      <link>https://www.foxnews.com/sports/no-5-kansas-wins-30th-straight-league-opener-at-texas-tech</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/12/DaJuan-Harris.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/DaJuan-Harris.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/DaJuan-Harris.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">7cc6345a-3f71-536c-92f6-8c5ea10fb857</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/sports/ncaa-bk</category>
+            <category domain="foxnews.com/taxonomy">fox-news/sports/ncaa</category>
+            <category domain="foxnews.com/taxonomy">fox-news/sports/ncaa/kansas-jayhawks</category>
+            <category domain="foxnews.com/taxonomy">fox-news/sports/ncaa/texas-tech-red-raiders</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/sports</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>No. 5 Kansas wins 30th straight league opener at Texas Tech</title>
+      <description>Ochai Agbaji made the go-ahead layup with 13 seconds left and finished with 23 points as No. 5 Kansas beat No. 14 Texas Tech 58-57 on Thursday night, giving the Jayhawks a win in their conference opener for the 30th season in a row.</description>
+                   <pubDate>Fri, 18 Dec 2020 03:25:33 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Associated Press</category>
+                              <category domain="foxnews.com/dateline" />
+                                  </item>
+      </channel>
+</rss>

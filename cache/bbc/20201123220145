@@ -1,0 +1,369 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet title="XSL_formatting" type="text/xsl" href="/shared/bsp/xsl/rss/nolsol.xsl"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News - Home]]></title>
+        <description><![CDATA[BBC News - Home]]></description>
+        <link>https://www.bbc.co.uk/news/</link>
+        <image>
+            <url>https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News - Home</title>
+            <link>https://www.bbc.co.uk/news/</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Mon, 23 Nov 2020 21:52:27 GMT</lastBuildDate>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Covid-19: PM sets out 'tougher' post-lockdown tiers for England]]></title>
+            <description><![CDATA[England will return to a regional approach from 2 December but the tiers will be "tougher", the PM says.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-55048990</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-55048990</guid>
+            <pubDate>Mon, 23 Nov 2020 20:01:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid-19: Oxford University vaccine is highly effective]]></title>
+            <description><![CDATA[The vaccine is cheaper than other options and easier to distribute around the world.]]></description>
+            <link>https://www.bbc.co.uk/news/health-55040635</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-55040635</guid>
+            <pubDate>Mon, 23 Nov 2020 20:09:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Fans to be allowed at outdoor sports in England]]></title>
+            <description><![CDATA[Up to 4,000 fans will be allowed at outdoor events in the lowest-risk areas when the four-week national lockdown in England ends.]]></description>
+            <link>https://www.bbc.co.uk/sport/55010011</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/55010011</guid>
+            <pubDate>Mon, 23 Nov 2020 20:56:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[British Airways' big sell-off: Champagne flutes and trolleys]]></title>
+            <description><![CDATA[The airline is selling thousands of items, including memorabilia from its retired 747 aircraft.]]></description>
+            <link>https://www.bbc.co.uk/news/business-55043907</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-55043907</guid>
+            <pubDate>Mon, 23 Nov 2020 14:49:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid in Scotland: Relaxing of rules 'not expected' at Hogmanay]]></title>
+            <description><![CDATA[Nicola Sturgeon says there could be a "careful" easing at Christmas - but does not expect a relaxation at new year.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-55040576</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-55040576</guid>
+            <pubDate>Mon, 23 Nov 2020 18:44:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Chinese spacecraft sets off on Moon sample quest]]></title>
+            <description><![CDATA[The robotic Chang'e-5 mission aims to return the first lunar rocks to Earth in more than 40 years.]]></description>
+            <link>https://www.bbc.co.uk/news/science-environment-55049547</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-55049547</guid>
+            <pubDate>Mon, 23 Nov 2020 21:14:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Two Covid tests for students in England before quick Christmas exit]]></title>
+            <description><![CDATA[For Christmas break, students will leave university within 24 hours of two negative Covid tests.]]></description>
+            <link>https://www.bbc.co.uk/news/education-55047597</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/education-55047597</guid>
+            <pubDate>Mon, 23 Nov 2020 16:58:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Grenfell Tower: Cladding firm 'stretched the truth' on fire safety]]></title>
+            <description><![CDATA[Kingspan fire-tested its cladding in 2005, but changed the formulation the next year, an ex-employee says.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-55052380</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-55052380</guid>
+            <pubDate>Mon, 23 Nov 2020 21:18:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Biden cabinet: Inner circle get key posts as John Kerry named climate envoy]]></title>
+            <description><![CDATA[The former secretary of state is among the names announced for key roles in the new US administration.]]></description>
+            <link>https://www.bbc.co.uk/news/election-us-2020-55046714</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/election-us-2020-55046714</guid>
+            <pubDate>Mon, 23 Nov 2020 20:42:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Labour chief whip demands apology from Jeremy Corbyn]]></title>
+            <description><![CDATA[Nick Brown says the ex-Labour leader's response to an anti-Semitism report caused "pain".]]></description>
+            <link>https://www.bbc.co.uk/news/uk-politics-55051850</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-55051850</guid>
+            <pubDate>Mon, 23 Nov 2020 21:51:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The moment a dog was rescued from an alligator's jaws]]></title>
+            <description><![CDATA[Gunner was saved by his owner, and thankfully only suffered a small wound.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-55043171</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-55043171</guid>
+            <pubDate>Mon, 23 Nov 2020 13:26:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Cornwall cooker deaths: 'Serious failings' by Beko]]></title>
+            <description><![CDATA[A coroner has concluded five people died accidently while using defective gas cookers.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-cornwall-55042565</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-cornwall-55042565</guid>
+            <pubDate>Mon, 23 Nov 2020 14:21:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Snapchat Spotlight to pay users $1m a day for viral hits]]></title>
+            <description><![CDATA[Its new Spotlight feature will use an algorithm to recommend "the most engaging" posts to a user.]]></description>
+            <link>https://www.bbc.co.uk/news/technology-55044179</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-55044179</guid>
+            <pubDate>Mon, 23 Nov 2020 17:00:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Banksy: Bike from hula-hooping girl 'removed for safekeeping']]></title>
+            <description><![CDATA[The bike vanished from its position outside a beauty parlour in Nottingham over the weekend.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-nottinghamshire-55042525</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-nottinghamshire-55042525</guid>
+            <pubDate>Mon, 23 Nov 2020 15:27:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Cheers and tears as families reunite in Sydney]]></title>
+            <description><![CDATA[Flights between New South Wales and Victoria reopened for the first time since July.]]></description>
+            <link>https://www.bbc.co.uk/news/world-australia-55040686</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-australia-55040686</guid>
+            <pubDate>Mon, 23 Nov 2020 09:37:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid risk: 3 people, 3 very different Covid risks. What's yours?]]></title>
+            <description><![CDATA[A question everyone's asking: what's my Covid risk? Here's how to find out.]]></description>
+            <link>https://www.bbc.co.uk/news/health-54251632</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-54251632</guid>
+            <pubDate>Mon, 23 Nov 2020 00:11:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Shamima Begum: Justice and the jihadi bride]]></title>
+            <description><![CDATA[Why this case - which returns to court today - is bigger than the fate of one teenage runaway.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-55034542</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-55034542</guid>
+            <pubDate>Mon, 23 Nov 2020 00:02:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Narwhal tusk hero a year on from London Bridge attack]]></title>
+            <description><![CDATA[It's almost a year since Darryn Frost helped to stop a man who was on the rampage, stabbing people.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-55022920</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-55022920</guid>
+            <pubDate>Mon, 23 Nov 2020 11:01:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[OED Word of the Year expanded for 'unprecedented' 2020]]></title>
+            <description><![CDATA[This year saw 'hundreds of significant new words' rather than just one, Oxford Dictionaries say.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-55016543</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-55016543</guid>
+            <pubDate>Mon, 23 Nov 2020 01:58:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[John Boyega stars in Steve McQueen's latest Small Axe film: Red, White and Blue]]></title>
+            <description><![CDATA[Life imitates art for John Boyega as he plays a police officer fighting racism, in the same year he took centre stage at the Black Lives Matters protest.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-55018976</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-55018976</guid>
+            <pubDate>Mon, 23 Nov 2020 00:03:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Lea Volpe: 'Why are you calling me inspirational?']]></title>
+            <description><![CDATA[Paraclimbing medalist Leanora Volpe doesn't like to be defined solely as a disabled athlete.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-55022921</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-55022921</guid>
+            <pubDate>Mon, 23 Nov 2020 00:01:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid in North Dakota: One day inside a rural US hospital’s fight]]></title>
+            <description><![CDATA[Staff at a 14-bed hospital in North Dakota describe their fight to keep friends' family members alive.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-55024447</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-55024447</guid>
+            <pubDate>Mon, 23 Nov 2020 00:10:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Oxford vaccine: How did they make it so quickly?]]></title>
+            <description><![CDATA[Good fortune and scientific brilliance were behind the Covid-19 vaccine being developed so quickly.]]></description>
+            <link>https://www.bbc.co.uk/news/health-55041371</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-55041371</guid>
+            <pubDate>Mon, 23 Nov 2020 10:59:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Prof Sarah Gilbert: The woman who designed the Oxford vaccine]]></title>
+            <description><![CDATA[Prof Sarah Gilbert got to work quickly on a coronavirus vaccine in January after decades of research.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-55043551</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-55043551</guid>
+            <pubDate>Mon, 23 Nov 2020 17:38:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid rules: What's the evidence for pub restrictions and curfews?]]></title>
+            <description><![CDATA[A number of new rules have been introduced for pubs and restaurants, but why?]]></description>
+            <link>https://www.bbc.co.uk/news/54293460</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/54293460</guid>
+            <pubDate>Mon, 23 Nov 2020 19:29:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The assassination of a ‘Brave Journalist of Afghanistan’]]></title>
+            <description><![CDATA[Aliyas Dayee, a "voice for the voiceless" in Helmand, was killed by a bomb earlier this month.]]></description>
+            <link>https://www.bbc.co.uk/news/55021074</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/55021074</guid>
+            <pubDate>Mon, 23 Nov 2020 01:24:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Life after al-Shabab: Driving a school bus instead of an armed pickup truck]]></title>
+            <description><![CDATA[The Somali government retrains defectors from the al-Shabab militant group as barbers, drivers, mechanics and tailors.]]></description>
+            <link>https://www.bbc.co.uk/news/stories-55016792</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/stories-55016792</guid>
+            <pubDate>Mon, 23 Nov 2020 00:59:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Fur industry faces uncertain future due to Covid]]></title>
+            <description><![CDATA[Denmark's mass mink cull after a coronavirus outbreak at farms leaves the industry in the spotlight.]]></description>
+            <link>https://www.bbc.co.uk/news/business-55017666</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-55017666</guid>
+            <pubDate>Mon, 23 Nov 2020 00:15:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The deep roots of Trump’s 'voter fraud' strategy]]></title>
+            <description><![CDATA[The groundwork for the president's unsubstantiated claims was laid months ago.]]></description>
+            <link>https://www.bbc.co.uk/news/blogs-trending-55009950</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/blogs-trending-55009950</guid>
+            <pubDate>Mon, 23 Nov 2020 01:00:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Conjoined twins: 'We always knew we were different']]></title>
+            <description><![CDATA[They made headlines when surgeons separated them - now Sanchia and Eman Mowatt are at university.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-birmingham-54841555</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-birmingham-54841555</guid>
+            <pubDate>Mon, 23 Nov 2020 01:22:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How will the Spending Review affect you?]]></title>
+            <description><![CDATA[The chancellor will announce his public service spending plans in uniquely difficult circumstances.]]></description>
+            <link>https://www.bbc.co.uk/news/business-49549350</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-49549350</guid>
+            <pubDate>Sun, 22 Nov 2020 22:32:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Michael McIntyre: 'I'm used to viewers being cynical']]></title>
+            <description><![CDATA[The comedian says many viewers don't believe the features on his Big Show are genuine.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-54910569</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-54910569</guid>
+            <pubDate>Mon, 23 Nov 2020 01:31:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The film crews being directed from a continent away]]></title>
+            <description><![CDATA[The pandemic has led to a big rise in remote filming, with directors miles away from the set.]]></description>
+            <link>https://www.bbc.co.uk/news/business-54986376</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-54986376</guid>
+            <pubDate>Mon, 23 Nov 2020 00:08:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Indonesian meteorite which didn't sell for $1.8m]]></title>
+            <description><![CDATA[You saw the headlines of a $1.8m meteorite? Here's the real story and it's just as fascinating.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-55013725</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-55013725</guid>
+            <pubDate>Sun, 22 Nov 2020 00:56:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Sea Eagles prop Titmuss dies aged 20]]></title>
+            <description><![CDATA[Manly Warringah Sea Eagles player Keith Titmuss dies at the age of 20 after falling ill following a training session.]]></description>
+            <link>https://www.bbc.co.uk/sport/rugby-league/55041048</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/rugby-league/55041048</guid>
+            <pubDate>Mon, 23 Nov 2020 09:38:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Burnley beat Palace to claim first league win of season]]></title>
+            <description><![CDATA[Burnley move out of the Premier League relegation zone after beating Crystal Palace at Turf Moor for their first win of the season.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/54955460</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/54955460</guid>
+            <pubDate>Mon, 23 Nov 2020 21:41:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[England's Cowan-Dickie and Watson return to squad]]></title>
+            <description><![CDATA[England regulars Luke Cowan-Dickie and Anthony Watson are back in the squad and in contention to face Wales.]]></description>
+            <link>https://www.bbc.co.uk/sport/rugby-union/55048325</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/rugby-union/55048325</guid>
+            <pubDate>Mon, 23 Nov 2020 15:45:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['I don't need to be told a million times about it' - Hogg brushes off 'schoolboy error']]></title>
+            <description><![CDATA[Scotland captain Stuart Hogg describes his wayward kick in the last minute of the defeat by France as a "schoolboy error" but praises the team's efforts.]]></description>
+            <link>https://www.bbc.co.uk/sport/rugby-union/55038412</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/rugby-union/55038412</guid>
+            <pubDate>Mon, 23 Nov 2020 13:59:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Match of the Day 2: Liverpool 'game-changer' Diogo Jota's 'incredible' display in Reds win]]></title>
+            <description><![CDATA[Match of the Day 2 pundits Danny Murphy and Micah Richards outline the importance of new Liverpool signing Diogo Jota's role in the side after another "incredible" performance.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/football/55039150</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/football/55039150</guid>
+            <pubDate>Mon, 23 Nov 2020 00:04:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[NFL: Adam Thielen, Patrick Mahomes & Derrick Henry in plays of the week 11]]></title>
+            <description><![CDATA[Adam Thielen makes a brilliant one-handed catch and features along side Patrick Mahomes and Derrick Henry in NFL plays of week 11.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/american-football/55045175</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/american-football/55045175</guid>
+            <pubDate>Mon, 23 Nov 2020 12:49:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid: The new lockdown rules for England, Wales, Scotland and Northern Ireland]]></title>
+            <description><![CDATA[England will move to a tougher version of tiered coronavirus restrictions when lockdown ends next week.]]></description>
+            <link>https://www.bbc.co.uk/news/explainers-52530518</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-52530518</guid>
+            <pubDate>Mon, 23 Nov 2020 18:03:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid: Can I choose which vaccine I get? And other questions]]></title>
+            <description><![CDATA[We answer some of your questions about the Oxford vaccine.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-china-51176409</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-china-51176409</guid>
+            <pubDate>Mon, 23 Nov 2020 12:39:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid vaccine update: When will one be ready?]]></title>
+            <description><![CDATA[Hopes are rising that an effective vaccine against Covid-19 will be available soon.]]></description>
+            <link>https://www.bbc.co.uk/news/health-51665497</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-51665497</guid>
+            <pubDate>Mon, 23 Nov 2020 08:24:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid-19 in the UK: How many coronavirus cases are there in your area?]]></title>
+            <description><![CDATA[Explore the data on coronavirus in the UK and find out how many cases there are in your area.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-51768274</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-51768274</guid>
+            <pubDate>Mon, 23 Nov 2020 18:21:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why the Oxford vaccine matters]]></title>
+            <description><![CDATA[Why news on this vaccine is particularly important for people living in the UK.]]></description>
+            <link>https://www.bbc.co.uk/news/explainers-55044811</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-55044811</guid>
+            <pubDate>Mon, 23 Nov 2020 13:54:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid: What is mass testing and how does it work?]]></title>
+            <description><![CDATA[Liverpool has the UK's first mass Covid testing pilot, with other high-risk areas to follow.]]></description>
+            <link>https://www.bbc.co.uk/news/explainers-54872039</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-54872039</guid>
+            <pubDate>Mon, 23 Nov 2020 12:14:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus: How to be happier while working from home]]></title>
+            <description><![CDATA[Tips on happier ways to work from home in the Covid-19 pandemic and beyond.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-54886125</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-54886125</guid>
+            <pubDate>Tue, 17 Nov 2020 00:35:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid: What does my boss have to do to keep me safe?]]></title>
+            <description><![CDATA[With Boris Johnson self-isolating after a meeting, what do employers have to do to keep their staff safe?]]></description>
+            <link>https://www.bbc.co.uk/news/business-52567567</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-52567567</guid>
+            <pubDate>Wed, 18 Nov 2020 10:17:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus: How does Covid-19 test-and-trace work?]]></title>
+            <description><![CDATA[The scheme told Dido Harding she had to self-isolate, a week after her husband was also told to isolate.]]></description>
+            <link>https://www.bbc.co.uk/news/explainers-52442754</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-52442754</guid>
+            <pubDate>Wed, 18 Nov 2020 11:13:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid symptoms: What are they and how do I protect myself?]]></title>
+            <description><![CDATA[A new cough, fever and change in smell or taste are the key symptoms that mean you may have coronavirus.]]></description>
+            <link>https://www.bbc.co.uk/news/health-51048366</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-51048366</guid>
+            <pubDate>Fri, 25 Sep 2020 10:29:46 GMT</pubDate>
+        </item>
+    </channel>
+</rss>

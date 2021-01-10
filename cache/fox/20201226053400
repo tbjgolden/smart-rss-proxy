@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" media="screen" href="/~d/styles/rss2full.xsl"?><?xml-stylesheet type="text/css" media="screen" href="http://feeds.foxnews.com/~d/styles/itemcontent.css"?><rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+                    <title>FOX News</title>
+    <link>http://www.foxnews.com/</link>
+    <description><![CDATA[FOXNews.com - Breaking news and video. Latest Current News: U.S., World, Entertainment, Health, Business, Technology, Politics, Sports.]]></description>
+        <image>
+    	<url>http://tools.foxnews.com/sites/tools.foxnews.com/files/images/fox-news-logo.png</url>
+    	<title>FOX News</title>
+    	<link>http://www.foxnews.com/</link>
+    </image>
+            <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feeds.foxnews.com/foxnews/latest" /><feedburner:info xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" uri="foxnews/latest" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /><item>
+                  <guid isPermaLink="true">https://www.foxnews.com/us/arkansas-family-members-found-dead-in-christmas-tragedy-authorities</guid>
+      <link>https://www.foxnews.com/us/arkansas-family-members-found-dead-in-christmas-tragedy-authorities</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/12/policelights.png" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/policelights.png" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/policelights.png" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">23b29dce-ea9d-5b8e-81c9-cb23ad861bfb</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/us/us-regions/midwest/arkansas</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us/crime/homicide</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/us</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Arkansas family members found dead in Christmas tragedy: authorities</title>
+      <description>As many as five victims – believed to be family members – were found dead around 5 p.m. Friday in Atkins, Ark., authorities announced.</description>
+                  <dc:creator>Dom Calicchio</dc:creator>
+                         <pubDate>Sat, 26 Dec 2020 04:24:08 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Dom Calicchio</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/us/joe-bidens-niece-caroline-gets-no-jail-time-after-dui-guilty-plea</guid>
+      <link>https://www.foxnews.com/us/joe-bidens-niece-caroline-gets-no-jail-time-after-dui-guilty-plea</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/12/caro222.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/caro222.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/caro222.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">77a576c3-b314-5bc4-9f6c-6790ab01a9c0</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/person/joe-biden</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us/us-regions/northeast/pennsylvania</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us/crime</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/us</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Joe Biden’s niece Caroline gets no jail time after DUI guilty plea</title>
+      <description>Joe Biden’s niece Caroline Biden pleaded guilty to DUI on Dec. 3 — and was sentenced to 20 days to six months of “confinement,” Pennsylvania court records said.</description>
+                   <pubDate>Sat, 26 Dec 2020 03:51:28 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">New York Post</category>
+                              <category domain="foxnews.com/dateline" />
+                                  </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/sports/49ers-george-kittle-will-play-this-week-vs-cardinals</guid>
+      <link>https://www.foxnews.com/sports/49ers-george-kittle-will-play-this-week-vs-cardinals</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/01/George-Kittle7.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/George-Kittle7.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/George-Kittle7.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">d33f1402-8c45-534c-95f6-03b86a504adf</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/sports/nfl/san-francisco-49ers</category>
+            <category domain="foxnews.com/taxonomy">fox-news/sports/nfl</category>
+            <category domain="foxnews.com/taxonomy">fox-news/sports</category>
+            <category domain="foxnews.com/taxonomy">fox-news/person/george-kittle</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/sports</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>George Kittle will return for 49ers this week vs. Cardinals</title>
+      <description>The San Francisco 49ers won’t return to the playoffs in 2020, but they will have one of their best players back in action against the Arizona Cardinals on Saturday.</description>
+                  <dc:creator>Daniel Canova</dc:creator>
+                         <pubDate>Sat, 26 Dec 2020 02:07:32 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Daniel Canova</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/us/los-angeles-pilot-finally-captures-elusive-jetpack-man-on-video</guid>
+      <link>https://www.foxnews.com/us/los-angeles-pilot-finally-captures-elusive-jetpack-man-on-video</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/12/1.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/1.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/1.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">289c0aab-89b6-5797-8252-834d72eda21f</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/odd-news</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us/los-angeles</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us/us-regions/west/california</category>
+            <category domain="foxnews.com/taxonomy">fox-news/science/air-and-space</category>
+            <category domain="foxnews.com/taxonomy">fox-news/travel/general/airports</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/us</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Los Angeles pilot finally captures elusive 'jetpack man' on video</title>
+      <description>Los Angeles’ unidentified flying man has finally been caught on video – soaring 3,000 feet above Palos Verdes near Catalina Island with a jetpack.</description>
+                  <dc:creator>Michael Ruiz</dc:creator>
+                         <pubDate>Sat, 26 Dec 2020 01:59:52 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Michael Ruiz</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/sports/saints-alvin-kamara-ties-all-time-nfl-record-with-6-rushing-tds-in-win-vs-vikings</guid>
+      <link>https://www.foxnews.com/sports/saints-alvin-kamara-ties-all-time-nfl-record-with-6-rushing-tds-in-win-vs-vikings</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/12/AP20361006156157.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/AP20361006156157.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/AP20361006156157.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">523728cd-29b2-5fb7-a347-48cd38555053</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/sports/nfl</category>
+            <category domain="foxnews.com/taxonomy">fox-news/sports/nfl/new-orleans-saints</category>
+            <category domain="foxnews.com/taxonomy">fox-news/sports/nfl/minnesota-vikings</category>
+            <category domain="foxnews.com/taxonomy">fox-news/person/alvin-kamara</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/sports</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Saints' Alvin Kamara ties all-time NFL record with 6 rushing TDs in win over Vikings</title>
+      <description>Have a day, Alvin Kamara.</description>
+                  <dc:creator>Daniel Canova</dc:creator>
+                         <pubDate>Sat, 26 Dec 2020 01:48:33 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Daniel Canova</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/sports/irving-scores-37-leads-nets-to-123-95-win-over-celtics</guid>
+      <link>https://www.foxnews.com/sports/irving-scores-37-leads-nets-to-123-95-win-over-celtics</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/12/AP20360804675990.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/AP20360804675990.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/AP20360804675990.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">e23b510c-6b53-5481-b0cd-9e22ca0b1ea4</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/sports/nba</category>
+            <category domain="foxnews.com/taxonomy">fox-news/sports/nba/brooklyn-nets</category>
+            <category domain="foxnews.com/taxonomy">fox-news/sports/nba/boston-celtics</category>
+            <category domain="foxnews.com/taxonomy">fox-news/sports</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/sports</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Irving scores 37, leads Nets to 123-95 win over Celtics</title>
+      <description>Kyrie Irving scored 37 points with eight assists in his return to Boston and Kevin Durant added 29 for Brooklyn on Friday to lead the Nets to a 123-95 victory over the Celtics.</description>
+                   <pubDate>Sat, 26 Dec 2020 01:10:47 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Associated Press</category>
+                              <category domain="foxnews.com/dateline" />
+                                  </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/us/former-nypd-arson-detective-nashville-blast-target-unknown-but-could-have-been-cops</guid>
+      <link>https://www.foxnews.com/us/former-nypd-arson-detective-nashville-blast-target-unknown-but-could-have-been-cops</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/12/AP20360593667982.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/AP20360593667982.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/AP20360593667982.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">50452058-be1f-5169-a6bc-12b8ddb16217</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/us/nashville</category>
+            <category domain="foxnews.com/taxonomy">fox-news/media/fox-news-flash</category>
+            <category domain="foxnews.com/taxonomy">fox-news/shows/americas-news-hq</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us/crime</category>
+            <category domain="foxnews.com/taxonomy">fox-news/politics/executive/law</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us/crime/police-and-law-enforcement</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us/terror/bombings</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/us</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Former NYPD arson detective: Nashville blast target unknown but could have been cops</title>
+      <description>A retired NYPD detective who was part of an arson and explosions task force said Friday that while it is yet unclear what the intended target of Friday's explosion in Nashville was, he would not rule out the first responders and law enforcement.</description>
+                  <dc:creator>Charles Creitz</dc:creator>
+                         <pubDate>Sat, 26 Dec 2020 00:49:06 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Charles Creitz</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/politics/michigan-gov-gretchen-whitmer-relieved-at-not-being-picked-as-bidens-vp</guid>
+      <link>https://www.foxnews.com/politics/michigan-gov-gretchen-whitmer-relieved-at-not-being-picked-as-bidens-vp</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/12/Gretchen-Whitmer-AP-e1608902899685.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/Gretchen-Whitmer-AP-e1608902899685.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/Gretchen-Whitmer-AP-e1608902899685.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">81af9111-c5ab-5ee5-9f38-d5f711dc02c8</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/newsedge/politics</category>
+            <category domain="foxnews.com/taxonomy">fox-news/person/joe-biden</category>
+            <category domain="foxnews.com/taxonomy">fox-news/politics/2020-presidential-election</category>
+            <category domain="foxnews.com/taxonomy">fox-news/politics/house-of-representatives/democrats</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/politics</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Michigan Gov. Gretchen Whitmer relieved at not being picked as Biden’s VP</title>
+      <description>Michigan Gov. Gretchen Whitmer said she would have accepted an offer to serve as Joe Biden’s running mate — but admitted to relief at not being picked.</description>
+                   <pubDate>Sat, 26 Dec 2020 00:26:39 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                              <category domain="foxnews.com/dateline" />
+                                  </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/sports/santa-claus-julio-jones-show-up-on-falcons-injury-report</guid>
+      <link>https://www.foxnews.com/sports/santa-claus-julio-jones-show-up-on-falcons-injury-report</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/10/Julio-Jones-Matt-Ryan.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/Julio-Jones-Matt-Ryan.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/Julio-Jones-Matt-Ryan.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">aff2fd05-31db-5425-9c3b-6b421c050899</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/sports/nfl/atlanta-falcons</category>
+            <category domain="foxnews.com/taxonomy">fox-news/sports/nfl</category>
+            <category domain="foxnews.com/taxonomy">fox-news/person/julio-jones</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/sports</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Santa Claus, Julio Jones show up on Falcons injury report</title>
+      <description>Santa Claus showed up on the Atlanta Falcons’ injury report on Friday.</description>
+                  <dc:creator>Daniel Canova</dc:creator>
+                         <pubDate>Sat, 26 Dec 2020 00:17:34 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Daniel Canova</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/us/cali-covid-surge-lockdowns</guid>
+      <link>https://www.foxnews.com/us/cali-covid-surge-lockdowns</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/12/AP20351841201426.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/AP20351841201426.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/AP20351841201426.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">37f63a46-2fed-58b3-af5e-39d11d16d9c9</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/us/us-regions/west/california</category>
+            <category domain="foxnews.com/taxonomy">fox-news/health/infectious-disease/coronavirus</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/us</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>State with one of the strictest lockdowns in the country has the most COVID cases</title>
+      <description>California is experiencing a surge in COVID-19 cases despite unprecedented lockdowns and restrictions aimed at curbing the spreading of the coronavirus. </description>
+                  <dc:creator>Louis Casiano</dc:creator>
+                         <pubDate>Sat, 26 Dec 2020 00:15:01 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Louis Casiano</category>
+                            </item>
+      </channel>
+</rss>

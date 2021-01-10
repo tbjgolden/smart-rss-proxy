@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet title="XSL_formatting" type="text/xsl" href="/shared/bsp/xsl/rss/nolsol.xsl"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News - Home]]></title>
+        <description><![CDATA[BBC News - Home]]></description>
+        <link>https://www.bbc.co.uk/news/</link>
+        <image>
+            <url>https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News - Home</title>
+            <link>https://www.bbc.co.uk/news/</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Sun, 20 Sep 2020 11:24:08 GMT</lastBuildDate>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Hancock: Follow Covid rules or they will get tougher]]></title>
+            <description><![CDATA[The warning comes as people in England who refuse an order to self-isolate could be fined up to £10,000.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-54221953</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-54221953</guid>
+            <pubDate>Sun, 20 Sep 2020 11:17:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus: PM should apologise for testing 'collapse' - Starmer]]></title>
+            <description><![CDATA[The Labour leader tells the BBC testing problems make further Covid-19 restrictions "more likely".]]></description>
+            <link>https://www.bbc.co.uk/news/uk-politics-54225281</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-54225281</guid>
+            <pubDate>Sun, 20 Sep 2020 10:56:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ruth Bader Ginsburg death: Trump to nominate woman to fill Supreme Court seat]]></title>
+            <description><![CDATA[The US president says he will announce his nominee to replace Ruth Bader Ginsburg next week.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-54216710</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-54216710</guid>
+            <pubDate>Sun, 20 Sep 2020 01:06:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Butlin's: 1,000 jobs at risk when furlough ends]]></title>
+            <description><![CDATA[The holiday camp firm expects workers to take paid or unpaid leave once the government scheme ends.]]></description>
+            <link>https://www.bbc.co.uk/news/business-54223861</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-54223861</guid>
+            <pubDate>Sun, 20 Sep 2020 07:08:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Battle of Britain: Westminster Abbey service marking 80th anniversary]]></title>
+            <description><![CDATA[The event to remember those who died is "reduced in stature but not in spirit", organisers say.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-54222321</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-54222321</guid>
+            <pubDate>Sun, 20 Sep 2020 10:20:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Gore-Tex: Inventor of waterproof fabric Robert Gore dies aged 83]]></title>
+            <description><![CDATA[Robert W. Gore's invention has been used in space suits, guitar springs and waterproof jackets.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-54224405</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-54224405</guid>
+            <pubDate>Sun, 20 Sep 2020 09:54:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Australia coronavirus cases 'set to be lowest in months']]></title>
+            <description><![CDATA[Hopes are rising after the badly-hit state of Victoria reports just 14 new infections in 24 hours.]]></description>
+            <link>https://www.bbc.co.uk/news/world-australia-54223977</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-australia-54223977</guid>
+            <pubDate>Sun, 20 Sep 2020 08:37:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Singapore rolls out Covid tracing tokens]]></title>
+            <description><![CDATA[Thousands of devices are being distributed to vulnerable groups such as the elderly.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-54206824</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-54206824</guid>
+            <pubDate>Sat, 19 Sep 2020 23:01:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[TikTok: Trump says Oracle deal for video app 'has my blessing']]></title>
+            <description><![CDATA[The president says the bid by Oracle and Walmart would protect the data of TikTok users in the US.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-54221897</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-54221897</guid>
+            <pubDate>Sun, 20 Sep 2020 06:44:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[British Airways accused of snubbing refund request]]></title>
+            <description><![CDATA[A passenger is told she had accepted vouchers but BA's website did not list them as an option.]]></description>
+            <link>https://www.bbc.co.uk/news/business-54160376</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-54160376</guid>
+            <pubDate>Sat, 19 Sep 2020 23:29:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Scottish medieval coin 'lost' and found in Norfolk declared treasure]]></title>
+            <description><![CDATA[The coin, bearing the head of a Scottish king and turned into jewellery, was found in a field.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-norfolk-54118509</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-norfolk-54118509</guid>
+            <pubDate>Sat, 19 Sep 2020 22:59:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How the oil industry made us doubt climate change]]></title>
+            <description><![CDATA[Energy companies stand accused of trying to downplay their contribution to global warming.]]></description>
+            <link>https://www.bbc.co.uk/news/stories-53640382</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/stories-53640382</guid>
+            <pubDate>Sat, 19 Sep 2020 23:16:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Your pictures on the theme of 'night vision']]></title>
+            <description><![CDATA[A selection of pictures from our readers on the theme of "night vision".]]></description>
+            <link>https://www.bbc.co.uk/news/in-pictures-54188930</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/in-pictures-54188930</guid>
+            <pubDate>Sat, 19 Sep 2020 23:48:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Newspaper headlines: £10,000 fine 'for leaving house' and 'new Covid clampdown']]></title>
+            <description><![CDATA[The PM introducing a new legal duty to stay at home if you have to self-isolate dominates the front pages.]]></description>
+            <link>https://www.bbc.co.uk/news/blogs-the-papers-54221862</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/blogs-the-papers-54221862</guid>
+            <pubDate>Sun, 20 Sep 2020 04:15:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A cold, flu or coronavirus - which one do I have?]]></title>
+            <description><![CDATA[A blocked or runny nose, a sore throat and a cough are common, especially in the winter. But how do you know if you have coronavirus?]]></description>
+            <link>https://www.bbc.co.uk/news/health-54182329</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-54182329</guid>
+            <pubDate>Wed, 16 Sep 2020 23:04:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Emmy Awards 2020: Stars prepare to dial in for virtual ceremony]]></title>
+            <description><![CDATA[Nominated actors will have someone waiting outside their home to hand over an award if they win.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-53696863</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-53696863</guid>
+            <pubDate>Sat, 19 Sep 2020 23:30:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus: Church bells ring out again after Covid-19]]></title>
+            <description><![CDATA[Campanologists have been celebrating the return of church bell ringing.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-nottinghamshire-54191120</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-nottinghamshire-54191120</guid>
+            <pubDate>Sun, 20 Sep 2020 00:38:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The film within a film that tries to save lives]]></title>
+            <description><![CDATA[I Made This For You is a film about a group of friends trying to stop someone from taking their own life.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-54210758</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-54210758</guid>
+            <pubDate>Sat, 19 Sep 2020 23:03:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[‘Our foster child asked us to adopt him – by drawing himself on to a family photo’]]></title>
+            <description><![CDATA[George was neglected by his parents, then an adoption went wrong. There was only one family that he felt loved by.]]></description>
+            <link>https://www.bbc.co.uk/news/stories-54071599</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/stories-54071599</guid>
+            <pubDate>Sat, 19 Sep 2020 23:24:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Indian queens who modelled for the world's first vaccine]]></title>
+            <description><![CDATA[The mystery surrounding a 19th Century portrait and its role in one of the first immunisation campaigns.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-india-53944723</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-india-53944723</guid>
+            <pubDate>Sat, 19 Sep 2020 23:34:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The National Trust homes where colonial links are 'umbilical']]></title>
+            <description><![CDATA[Up to a third of the National Trust's 300 UK houses have links to colonialism, a project found.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-leicestershire-54018340</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-leicestershire-54018340</guid>
+            <pubDate>Sun, 20 Sep 2020 00:12:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['I still spend so much time on the kids - that needs to change']]></title>
+            <description><![CDATA[Sarah Dahia from Australia takes us through her week during the coronavirus pandemic.]]></description>
+            <link>https://www.bbc.co.uk/news/business-54104381</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-54104381</guid>
+            <pubDate>Sat, 19 Sep 2020 23:34:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Janusz Walus: Why far-right Polish football fans idolise a murderer in South Africa]]></title>
+            <description><![CDATA[Janusz Walus killed anti-apartheid leader Chris Hani in 1993, sparking fears of a racial civil war.]]></description>
+            <link>https://www.bbc.co.uk/news/world-africa-54055822</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-54055822</guid>
+            <pubDate>Sat, 19 Sep 2020 23:36:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ruth Bader Ginsburg in pictures and her own words]]></title>
+            <description><![CDATA[A look back at some of the justice's greatest quotes on gender equality, law, and being remembered.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-54218139</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-54218139</guid>
+            <pubDate>Sat, 19 Sep 2020 16:28:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[New coronavirus rules 'inevitable': The view near No 10]]></title>
+            <description><![CDATA[People enjoying the sun yards from No 10 say there's a feeling of resignation about new virus measures.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-54220065</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-54220065</guid>
+            <pubDate>Sat, 19 Sep 2020 16:57:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A bleak start for Man Utd - and tough early questions for Woodward]]></title>
+            <description><![CDATA[Manchester United's first game of the season did little to instil confidence that this will be a year of progress, writes Simon Stone.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/54221832</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/54221832</guid>
+            <pubDate>Sat, 19 Sep 2020 22:18:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Gareth Bale: Tottenham re-sign Real Madrid forward - watch some of his best Spurs goals]]></title>
+            <description><![CDATA[Watch some of the best goals Gareth Bale scored for Tottenham Hotspur after they re-sign the Real Madrid and Wales forward on a season-long loan.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/football/54189633</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/football/54189633</guid>
+            <pubDate>Sat, 19 Sep 2020 17:29:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Where will new signing Jota fit in among Liverpool's attacking superstars?]]></title>
+            <description><![CDATA[Where will Diogo Jota fit into a Liverpool side that possesses one of the best attacks in football? BBC Sport takes a look.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/54217890</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/54217890</guid>
+            <pubDate>Sun, 20 Sep 2020 05:20:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[US Open: Rory McIlroy features in US Open third round best shots]]></title>
+            <description><![CDATA[Watch some of the best shots from day three of the US Open including a lovely chip from Rory McIlroy on the 17th hole at Winged Foot, New York.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/golf/54222244</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/golf/54222244</guid>
+            <pubDate>Sat, 19 Sep 2020 23:13:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid rules: Which areas are under new coronavirus restrictions?]]></title>
+            <description><![CDATA[Parts of north-west England, West Yorkshire and the Midlands are now facing extra restrictions.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-52934822</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-52934822</guid>
+            <pubDate>Sat, 19 Sep 2020 10:46:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid: What can I expect when I go to university this year?]]></title>
+            <description><![CDATA[Many things will be different this year, so what it will be like for students across the UK?]]></description>
+            <link>https://www.bbc.co.uk/news/explainers-54195756</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-54195756</guid>
+            <pubDate>Fri, 18 Sep 2020 16:40:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus: What are social distancing and self-isolation rules?]]></title>
+            <description><![CDATA[Coronavirus cases are increasing, so what are the rules on social distancing?]]></description>
+            <link>https://www.bbc.co.uk/news/uk-51506729</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-51506729</guid>
+            <pubDate>Tue, 15 Sep 2020 16:21:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus bubbles: How do they work and who is in yours?]]></title>
+            <description><![CDATA[Some people in England, Northern Ireland and Scotland can form "support bubbles".]]></description>
+            <link>https://www.bbc.co.uk/news/health-52637354</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-52637354</guid>
+            <pubDate>Tue, 08 Sep 2020 21:44:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus: Do people still have to shield?]]></title>
+            <description><![CDATA[As restrictions lift, you might feel anxious about how to stay safe. Here's what experts advise.]]></description>
+            <link>https://www.bbc.co.uk/news/health-51997151</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-51997151</guid>
+            <pubDate>Tue, 18 Aug 2020 13:50:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Being a fresher during coronavirus]]></title>
+            <description><![CDATA[First year students describe their first impressions of university life, with Covid restrictions in place.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-54165870</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-54165870</guid>
+            <pubDate>Wed, 16 Sep 2020 23:11:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Will Emily be allowed to keep her baby?]]></title>
+            <description><![CDATA[All Emily's previous children have been taken into care. Social services now have to make a decision on her 10th.]]></description>
+            <link>https://www.bbc.co.uk/news/stories-54117562</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/stories-54117562</guid>
+            <pubDate>Sat, 12 Sep 2020 00:32:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus: The women who started businesses in lockdown]]></title>
+            <description><![CDATA[Young entrepreneurs explain how they changed tack during the pandemic and started their own firms.]]></description>
+            <link>https://www.bbc.co.uk/news/business-54062717</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-54062717</guid>
+            <pubDate>Mon, 14 Sep 2020 23:01:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['I was paralysed but a year on I'm running a mountain marathon']]></title>
+            <description><![CDATA[Twelve months ago Carole Fortune, 56, suffered a stroke as she got out of bed, leaving half her body paralysed.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-54162009</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-54162009</guid>
+            <pubDate>Wed, 16 Sep 2020 01:05:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus: I got a job after 280 rejections]]></title>
+            <description><![CDATA[After being made redundant in lockdown, Hannah tells Radio 1 Newsbeat about her job hunting journey]]></description>
+            <link>https://www.bbc.co.uk/news/newsbeat-54164417</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/newsbeat-54164417</guid>
+            <pubDate>Tue, 15 Sep 2020 11:58:25 GMT</pubDate>
+        </item>
+    </channel>
+</rss>

@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet title="XSL_formatting" type="text/xsl" href="/shared/bsp/xsl/rss/nolsol.xsl"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News - World]]></title>
+        <description><![CDATA[BBC News - World]]></description>
+        <link>https://www.bbc.co.uk/news/</link>
+        <image>
+            <url>https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News - World</title>
+            <link>https://www.bbc.co.uk/news/</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Sat, 10 Oct 2020 13:41:56 GMT</lastBuildDate>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA[White House hosted Covid 'superspreader' event, says Dr Fauci]]></title>
+            <description><![CDATA[The top US virus expert blames a lack of masks and no social distancing for an outbreak of cases.]]></description>
+            <link>https://www.bbc.co.uk/news/election-us-2020-54487154</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/election-us-2020-54487154</guid>
+            <pubDate>Sat, 10 Oct 2020 06:26:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Nagorno-Karabakh: Armenia and Azerbaijan shaky ceasefire in force]]></title>
+            <description><![CDATA[However, the two sides accused each other of fresh attacks less than an hour after the truce began.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-54488386</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-54488386</guid>
+            <pubDate>Sat, 10 Oct 2020 13:41:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Michigan Gov Gretchen Whitmer was 'moved around' as FBI tracked militia 'plot']]></title>
+            <description><![CDATA[A group of anti-lockdown activists allegedly planned to abduct Michigan Governor Gretchen Whitmer.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-54482846</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-54482846</guid>
+            <pubDate>Sat, 10 Oct 2020 02:34:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Khabarovsk: Police in Russia's far east break up anti-Kremlin protests]]></title>
+            <description><![CDATA[The far eastern city of Khabarovsk has seen months of protests after a popular governor was detained.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-54492220</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-54492220</guid>
+            <pubDate>Sat, 10 Oct 2020 12:26:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Hurricane Delta makes landfall in storm-battered Louisiana]]></title>
+            <description><![CDATA[The state is still recovering from the damage caused by another storm, Hurricane Laura, in August.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-54489432</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-54489432</guid>
+            <pubDate>Sat, 10 Oct 2020 04:10:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Gazans struggle with pandemic and blockade]]></title>
+            <description><![CDATA[Citizens in the overcrowded Palestinian territory are struggling to deal with the pandemic amid an ongoing blockade by Israel and Egypt.]]></description>
+            <link>https://www.bbc.co.uk/news/world-middle-east-54488261</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-middle-east-54488261</guid>
+            <pubDate>Fri, 09 Oct 2020 23:04:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[US election 2020: Texas judge blocks postal voting restrictions]]></title>
+            <description><![CDATA[The governor of Texas wanted to limit the number of absentee ballot drop-off points in each county.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-54475466</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-54475466</guid>
+            <pubDate>Sat, 10 Oct 2020 07:43:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus: Spain imposes state of emergency on Madrid]]></title>
+            <description><![CDATA[The order follows a court decision to lift a partial lockdown on the capital and nine nearby cities.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-54478320</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-54478320</guid>
+            <pubDate>Fri, 09 Oct 2020 20:05:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mali hostages: Swiss woman killed last month]]></title>
+            <description><![CDATA[Sophie Pétronin, one of four hostages released this week, alerted French officials to the killing.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-54488190</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-54488190</guid>
+            <pubDate>Fri, 09 Oct 2020 22:41:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Lebanon explosion: Deadly fuel tank blast rocks Beirut]]></title>
+            <description><![CDATA[The blast in a busy area of Lebanon's capital shook residents on edge after August's huge explosion.]]></description>
+            <link>https://www.bbc.co.uk/news/world-middle-east-54486402</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-middle-east-54486402</guid>
+            <pubDate>Fri, 09 Oct 2020 21:25:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Blake Jenner takes 'full responsibility' for abuse]]></title>
+            <description><![CDATA[The former Glee star says he hurt a former partner "emotionally, mentally and yes, physically".]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-54474954</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-54474954</guid>
+            <pubDate>Fri, 09 Oct 2020 15:45:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Berlin Liebig 34 squat: German police evict dozens]]></title>
+            <description><![CDATA[Officers clear a rare building still housing anarchists after decades of gentrification in the city.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-54483943</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-54483943</guid>
+            <pubDate>Fri, 09 Oct 2020 15:51:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Signs Saudis are edging towards historic Israel peace]]></title>
+            <description><![CDATA[A hard-hitting interview by a leading Saudi figure heightens speculation of a diplomatic earthquake.]]></description>
+            <link>https://www.bbc.co.uk/news/world-middle-east-54437222</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-middle-east-54437222</guid>
+            <pubDate>Fri, 09 Oct 2020 23:18:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ferraris and frustration: Two faces of South Africa's corruption battle]]></title>
+            <description><![CDATA[Two images emerged this week offering starkly contradictory perspectives on the struggle against graft.]]></description>
+            <link>https://www.bbc.co.uk/news/world-africa-54480257</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-54480257</guid>
+            <pubDate>Fri, 09 Oct 2020 23:45:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[US election 2020: 'QAnon might affect how my friends vote']]></title>
+            <description><![CDATA[Millions of Americans are tuning into an entirely different election conversation.]]></description>
+            <link>https://www.bbc.co.uk/news/blogs-trending-54440973</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/blogs-trending-54440973</guid>
+            <pubDate>Fri, 09 Oct 2020 23:51:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Hathras case: A woman repeatedly reported rape. Why are police denying it?]]></title>
+            <description><![CDATA[A young Indian woman repeatedly said she was raped, but authorities insist there was no sexual assault.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-india-54444939</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-india-54444939</guid>
+            <pubDate>Sat, 10 Oct 2020 00:08:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Week in pictures: 3 - 12 October 2020]]></title>
+            <description><![CDATA[A selection of striking images taken around the world this week.]]></description>
+            <link>https://www.bbc.co.uk/news/in-pictures-54476220</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/in-pictures-54476220</guid>
+            <pubDate>Fri, 09 Oct 2020 23:44:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why Covid could remove barriers for women in the car industry]]></title>
+            <description><![CDATA[Bentley's Astrid Fontaine explains why Covid could remove barriers for women in the car industry.]]></description>
+            <link>https://www.bbc.co.uk/news/business-54479745</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-54479745</guid>
+            <pubDate>Fri, 09 Oct 2020 21:04:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Hurricane Delta makes landfall in Louisiana]]></title>
+            <description><![CDATA[The US state is still recovering from the damage caused by a previous hurricane in August.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-54491825</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-54491825</guid>
+            <pubDate>Sat, 10 Oct 2020 09:34:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Glass ceilings and black holes: How history was made in the 2020 science Nobels]]></title>
+            <description><![CDATA[What this year's science Nobel Prizes showed us about the darkest mysteries of the Universe.]]></description>
+            <link>https://www.bbc.co.uk/news/science-environment-54486120</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-54486120</guid>
+            <pubDate>Fri, 09 Oct 2020 23:04:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Hong Kong protesters facing prison after being shot by police]]></title>
+            <description><![CDATA[Hong Kong has seen more than 1,000 underage protesters arrested in mass anti-government protests.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-54470548</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-54470548</guid>
+            <pubDate>Fri, 09 Oct 2020 08:35:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Facebook deleting QAnon pages - But what is it?]]></title>
+            <description><![CDATA[This week Facebook announced it would be deleting all pages and accounts connected to the QAnon conspiracy theory.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-54456455</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-54456455</guid>
+            <pubDate>Thu, 08 Oct 2020 23:13:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Gretchen Whitmer: 'Hate groups heard Trump's words as rallying cry']]></title>
+            <description><![CDATA[Michigan Governor Gretchen Whitmer calls out the president as she reacts to the alleged plot to kidnap her.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-54471047</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-54471047</guid>
+            <pubDate>Thu, 08 Oct 2020 20:45:52 GMT</pubDate>
+        </item>
+    </channel>
+</rss>

@@ -1,0 +1,411 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet title="XSL_formatting" type="text/xsl" href="/shared/bsp/xsl/rss/nolsol.xsl"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News - Home]]></title>
+        <description><![CDATA[BBC News - Home]]></description>
+        <link>https://www.bbc.co.uk/news/</link>
+        <image>
+            <url>https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News - Home</title>
+            <link>https://www.bbc.co.uk/news/</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Tue, 06 Oct 2020 18:20:33 GMT</lastBuildDate>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Boris Johnson: PM lays out vision of post-Covid UK]]></title>
+            <description><![CDATA[The prime minister says he wants to build a "new Jerusalem" but warns the UK cannot return to "normal".]]></description>
+            <link>https://www.bbc.co.uk/news/uk-politics-54435175</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-54435175</guid>
+            <pubDate>Tue, 06 Oct 2020 15:19:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Trump Covid post deleted by Facebook and hidden by Twitter]]></title>
+            <description><![CDATA[Twitter hid an identical post saying virus was less lethal than the flu season in most populations.]]></description>
+            <link>https://www.bbc.co.uk/news/technology-54440662</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-54440662</guid>
+            <pubDate>Tue, 06 Oct 2020 17:36:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid hospital cases jump 25% in a day in England]]></title>
+            <description><![CDATA[There were 478 people admitted to hospital on Sunday - the largest daily figure since early June.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-54441133</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-54441133</guid>
+            <pubDate>Tue, 06 Oct 2020 18:19:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Church of England failures 'allowed child sexual abusers to hide']]></title>
+            <description><![CDATA[The Church describes its "shame" over the failings detailed in a "shocking" report into sexual abuse.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-54433295</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-54433295</guid>
+            <pubDate>Tue, 06 Oct 2020 16:50:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus: PM sets out post-pandemic plan, and Scotland mulls further restrictions]]></title>
+            <description><![CDATA[Five things you need to know about the coronavirus pandemic this Tuesday evening.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-54438263</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-54438263</guid>
+            <pubDate>Tue, 06 Oct 2020 16:39:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Brentford deaths: Boy, 3, and two adults die in home]]></title>
+            <description><![CDATA[The child, a woman in her 30s and a man in his 40s are found by officers in Brentford, west London.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-london-54427223</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-london-54427223</guid>
+            <pubDate>Tue, 06 Oct 2020 14:00:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Son 'angry' at being moved away from mum at dad's funeral]]></title>
+            <description><![CDATA[Craig Bicknell just wanted to comfort his "lost mother" at his dad's funeral in Milton Keynes.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-beds-bucks-herts-54431900</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-beds-bucks-herts-54431900</guid>
+            <pubDate>Tue, 06 Oct 2020 13:59:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Being black at Cambridge University]]></title>
+            <description><![CDATA[The BBC has followed three black students during their first year at the UK’s University of Cambridge.]]></description>
+            <link>https://www.bbc.co.uk/news/education-54437262</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/education-54437262</guid>
+            <pubDate>Tue, 06 Oct 2020 16:03:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus: 'Rule of six' doesn't make sense, say rebel Tory MPs]]></title>
+            <description><![CDATA[The government wins a vote to keep the restriction in England despite rebels clashing with a minister.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-politics-54436571</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-54436571</guid>
+            <pubDate>Tue, 06 Oct 2020 18:08:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid in Scotland: Nicola Sturgeon 'not proposing return to full lockdown']]></title>
+            <description><![CDATA[The first minister will announce new restrictions on Wednesday - but says it will not be a return to full lockdown.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-54434561</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-54434561</guid>
+            <pubDate>Tue, 06 Oct 2020 12:13:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Dominic Raab does not rule out Winter Olympics boycott over Uighur Muslims]]></title>
+            <description><![CDATA[The foreign secretary says his "instinct is to separate sport from diplomacy" but it "might not be possible".]]></description>
+            <link>https://www.bbc.co.uk/news/uk-politics-54441143</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-54441143</guid>
+            <pubDate>Tue, 06 Oct 2020 16:35:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[PE teacher sets over-50s high jump record]]></title>
+            <description><![CDATA[Julia Machin, who was also a junior champion as a teenager, broke the previous record by 5cm.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-sussex-54377705</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-sussex-54377705</guid>
+            <pubDate>Tue, 06 Oct 2020 12:48:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['Drive-in wedding' in Chelmsford bypasses Covid restrictions]]></title>
+            <description><![CDATA[People watched Roma Popat and Vinal Patel tie the knot on big screens in a Covid-compliant ceremony.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-essex-54435275</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-essex-54435275</guid>
+            <pubDate>Tue, 06 Oct 2020 13:28:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Four Covid rules broken by Trump and the White House]]></title>
+            <description><![CDATA[How did so many of President Trump's top team become infected with coronavirus?]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-54442687</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-54442687</guid>
+            <pubDate>Tue, 06 Oct 2020 18:03:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Hundreds of musicians protest outside Parliament]]></title>
+            <description><![CDATA[A 400-strong ensemble play together to highlight the plight of the music industry.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-54437872</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-54437872</guid>
+            <pubDate>Tue, 06 Oct 2020 16:28:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Rihanna apologises for Islamic verse at Fenty lingerie fashion show]]></title>
+            <description><![CDATA[The singer says playing a song which included holy Muslim text was an "honest yet careless mistake".]]></description>
+            <link>https://www.bbc.co.uk/news/newsbeat-54441163</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/newsbeat-54441163</guid>
+            <pubDate>Tue, 06 Oct 2020 17:03:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[After Colston toppled: Is Bristol united or divided?]]></title>
+            <description><![CDATA[Two people who gave opposing speeches on the plinth of a toppled slave trader's statue come together.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-bristol-54425185</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-bristol-54425185</guid>
+            <pubDate>Mon, 05 Oct 2020 23:00:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[HMS Queen Elizabeth: Images win Royal Navy photographic award]]></title>
+            <description><![CDATA[Winning images capture the lives of Royal Navy sailors and Royal Marines around the globe.]]></description>
+            <link>https://www.bbc.co.uk/news/in-pictures-54420134</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/in-pictures-54420134</guid>
+            <pubDate>Tue, 06 Oct 2020 11:33:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Gunnersaurus: Mesut Ozil offers to pay wage of Arsenal mascot]]></title>
+            <description><![CDATA[Arsenal midfielder Mesut Ozil offers to pay the salary of Jerry Quy, the man who plays the role of club mascot Gunnersaurus.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/54440357</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/54440357</guid>
+            <pubDate>Tue, 06 Oct 2020 15:22:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Children persuade Comic Relief to make Red Nose Day plastic free]]></title>
+            <description><![CDATA[Schoolchildren persuade Comic Relief to switch to a natural alternative for Red Nose Day 2021.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-54431830</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-54431830</guid>
+            <pubDate>Tue, 06 Oct 2020 08:19:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No James Bond - so which films are still being released at cinemas?]]></title>
+            <description><![CDATA[There's No Time To Die this year now, yet there is still time to catch these other 2020 titles.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-54416977</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-54416977</guid>
+            <pubDate>Mon, 05 Oct 2020 21:51:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[US election: Do you need Jesus to win the White House?]]></title>
+            <description><![CDATA[White evangelicals helped Trump win but a different type of Christian could tip the result this time.]]></description>
+            <link>https://www.bbc.co.uk/news/election-us-2020-54423496</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/election-us-2020-54423496</guid>
+            <pubDate>Tue, 06 Oct 2020 02:00:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Measles in DR Congo: By air, boat and foot to deliver the vaccine]]></title>
+            <description><![CDATA[The health workers going to great lengths to deliver vital supplies in the fight against measles in DR Congo.]]></description>
+            <link>https://www.bbc.co.uk/news/world-africa-54322962</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-54322962</guid>
+            <pubDate>Mon, 05 Oct 2020 23:49:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[All the confirmed moves on transfer deadline day]]></title>
+            <description><![CDATA[Check out all the significant signings and departures on transfer deadline day and for October 2020 so far.]]></description>
+            <link>https://www.bbc.co.uk/sport/54375967</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/54375967</guid>
+            <pubDate>Mon, 05 Oct 2020 19:57:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['App thought I'd catch Covid through neighbour's floor']]></title>
+            <description><![CDATA[The Protect Scotland app alerted a man to self isolate after his phone connected him to his upstairs neighbours.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-54418278</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-54418278</guid>
+            <pubDate>Mon, 05 Oct 2020 18:07:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Karting World Championships: Luca Corberi throws bumper at opponent during race]]></title>
+            <description><![CDATA[Watch as karter Luca Corberi throws his bumper at opponent Paolo Ippolito in anger after crashing in Karting World Championships KZ Final.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/motorsport/54421361</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/motorsport/54421361</guid>
+            <pubDate>Mon, 05 Oct 2020 12:44:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Cineworld: 'My job doesn't feel like work']]></title>
+            <description><![CDATA[With the chain set to temporarily shut its doors and Odeon cutting back too, how do the staff feel?]]></description>
+            <link>https://www.bbc.co.uk/news/newsbeat-54423908</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/newsbeat-54423908</guid>
+            <pubDate>Mon, 05 Oct 2020 16:25:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Sali Hughes: I met the woman who trolled me online]]></title>
+            <description><![CDATA[A journalist and broadcaster describes her experience of being targeted on a "trashing" site.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-54421632</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-54421632</guid>
+            <pubDate>Tue, 06 Oct 2020 00:14:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Sir Roger Penrose: The man who proved black holes weren't 'impossible']]></title>
+            <description><![CDATA[The UK scientist confessed to being a bit slow in class, but went on to win the Physics Nobel.]]></description>
+            <link>https://www.bbc.co.uk/news/science-environment-54439150</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-54439150</guid>
+            <pubDate>Tue, 06 Oct 2020 14:37:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['Long Covid': Why are some people not recovering?]]></title>
+            <description><![CDATA[Why is coronavirus leaving some people with long-term health problems including fatigue?]]></description>
+            <link>https://www.bbc.co.uk/news/health-54296223</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-54296223</guid>
+            <pubDate>Mon, 05 Oct 2020 23:20:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Premier League: Is absence of fans behind the goal rush?]]></title>
+            <description><![CDATA[BBC Sport looks at the data and the opinions to see if no fans at games is the reason for this season's glut of goals.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/54433028</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/54433028</guid>
+            <pubDate>Tue, 06 Oct 2020 17:20:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid: Train passengers left out of pocket by local lockdowns]]></title>
+            <description><![CDATA[Customers are angry at being unable to get refunds for tickets they can't use because of Covid rules.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-54375476</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-54375476</guid>
+            <pubDate>Tue, 06 Oct 2020 00:27:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus: How to tell which countries are coping best with Covid]]></title>
+            <description><![CDATA[Comparing even the simplest data can be complex as we try to measure how our governments are doing.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-54391482</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-54391482</guid>
+            <pubDate>Mon, 05 Oct 2020 23:33:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The robot shop worker controlled by a faraway human]]></title>
+            <description><![CDATA[In Japan one company is hoping that shop workers will be replaced by robots controlled remotely.]]></description>
+            <link>https://www.bbc.co.uk/news/business-54232563</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-54232563</guid>
+            <pubDate>Mon, 05 Oct 2020 23:06:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Perez Hilton: I never needed to be so cruel]]></title>
+            <description><![CDATA[The blogger explains why he stopped outing gay celebrities and changed the tone of his website.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-53662800</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-53662800</guid>
+            <pubDate>Mon, 05 Oct 2020 23:54:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Youth jail turns to therapy rather than steel doors]]></title>
+            <description><![CDATA["Secure schools" will try to cut youth reoffending with neuroscience and education - not prison cells.]]></description>
+            <link>https://www.bbc.co.uk/news/education-54425742</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/education-54425742</guid>
+            <pubDate>Mon, 05 Oct 2020 23:51:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Alcoholism in the time of coronavirus]]></title>
+            <description><![CDATA[Three people share their stories of dealing with alcoholism during and after lockdown.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-essex-53684700</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-essex-53684700</guid>
+            <pubDate>Mon, 05 Oct 2020 23:41:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Can Boris Johnson's levelling-up mission survive Covid?]]></title>
+            <description><![CDATA[Will the Conservatives' big plan to address regional inequalities in England weather the pandemic?]]></description>
+            <link>https://www.bbc.co.uk/news/uk-politics-54421117</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-54421117</guid>
+            <pubDate>Mon, 05 Oct 2020 21:30:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Excel: Why using Microsoft's tool caused Covid-19 results to be lost]]></title>
+            <description><![CDATA[The decision to use a spreadsheet format that dates back to the 1980s has proved to be unwise.]]></description>
+            <link>https://www.bbc.co.uk/news/technology-54423988</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-54423988</guid>
+            <pubDate>Mon, 05 Oct 2020 18:06:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid: Will Margaret Ferrier remain an MP after breaking rules?]]></title>
+            <description><![CDATA[The MP, who broke coronavirus self-isolation rules, has been suspended from the SNP.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-54424360</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-54424360</guid>
+            <pubDate>Mon, 05 Oct 2020 16:34:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Who had the best deadline day and who was left short? Transfer window winners and losers]]></title>
+            <description><![CDATA[After spending £1.2bn, which Premier League clubs had the best summer in the transfer market? And who was left short? Phil McNulty has his say.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/54426720</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/54426720</guid>
+            <pubDate>Tue, 06 Oct 2020 05:04:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[French Open women's doubles match investigated over alleged match-fixing]]></title>
+            <description><![CDATA[An investigation begins into alleged match-fixing in a French Open women's doubles first-round match, the Paris prosecutor's office confirms.]]></description>
+            <link>https://www.bbc.co.uk/sport/tennis/54435481</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/tennis/54435481</guid>
+            <pubDate>Tue, 06 Oct 2020 16:17:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Luca Corberi: Italian karter who threw bumper at rival quits the sport]]></title>
+            <description><![CDATA[The Italian kart racer who threw a bumper at a rival on the track says he has quit the sport "for life".]]></description>
+            <link>https://www.bbc.co.uk/sport/motorsport/54438395</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/motorsport/54438395</guid>
+            <pubDate>Tue, 06 Oct 2020 15:04:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Hughton appointed Nottingham Forest boss after Lamouchi sacked]]></title>
+            <description><![CDATA[Championship club Nottingham Forest appoint Chris Hughton as their new manager after sacking Sabri Lamouchi.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/54219290</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/54219290</guid>
+            <pubDate>Tue, 06 Oct 2020 17:51:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Edinson Cavani: New Manchester United forward's five World Cup goals]]></title>
+            <description><![CDATA[Re-live Edinson Cavani's five World Cup goals for Uruguay after Manchester United sign the former Paris St-Germain striker on a free transfer.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/football/54435155</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/football/54435155</guid>
+            <pubDate>Tue, 06 Oct 2020 10:32:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[England: Dominic Calvert-Lewin says he never stopped believing]]></title>
+            <description><![CDATA[Everton forward Dominic Calvert-Lewin says he "never stopped believing" after being called up to the England squad.]]></description>
+            <link>https://www.bbc.co.uk/sport/av/football/54442135</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/av/football/54442135</guid>
+            <pubDate>Tue, 06 Oct 2020 17:31:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Local lockdown rules: Check Covid restrictions in your area]]></title>
+            <description><![CDATA[Use our search tool to find out about coronavirus rules and restrictions where you live.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-54373904</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-54373904</guid>
+            <pubDate>Tue, 06 Oct 2020 16:01:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid: How many cases might contact tracers have missed?]]></title>
+            <description><![CDATA[Close contacts of the positive cases could have been unknowingly spreading the infection for days.]]></description>
+            <link>https://www.bbc.co.uk/news/health-54418603</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-54418603</guid>
+            <pubDate>Mon, 05 Oct 2020 15:38:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How many cases are there in your area?]]></title>
+            <description><![CDATA[Explore the data on coronavirus in the UK and find out how many cases there are in your area.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-51768274</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-51768274</guid>
+            <pubDate>Tue, 06 Oct 2020 16:32:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus: What are the rules for face masks or face coverings?]]></title>
+            <description><![CDATA[People around the UK must now wear face coverings in many public places, but what are the rules?]]></description>
+            <link>https://www.bbc.co.uk/news/health-51205344</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-51205344</guid>
+            <pubDate>Wed, 30 Sep 2020 15:08:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus: How does Covid-19 test-and-trace work?]]></title>
+            <description><![CDATA[People who have been in close contact with someone found to have Covid-19 are being traced.]]></description>
+            <link>https://www.bbc.co.uk/news/explainers-52442754</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-52442754</guid>
+            <pubDate>Thu, 01 Oct 2020 15:01:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What is redundancy, who can be made redundant and what are my rights?]]></title>
+            <description><![CDATA[As thousands of job losses owing to coronavirus are announced, here is a guide to your financial entitlements.]]></description>
+            <link>https://www.bbc.co.uk/news/business-53501506</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-53501506</guid>
+            <pubDate>Tue, 11 Aug 2020 07:55:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Europe lockdown: New coronavirus rules country-by-country]]></title>
+            <description><![CDATA[What are European countries doing to control new coronavirus outbreaks?]]></description>
+            <link>https://www.bbc.co.uk/news/explainers-53640249</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-53640249</guid>
+            <pubDate>Mon, 05 Oct 2020 09:22:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus: How are pubs keeping customers safe?]]></title>
+            <description><![CDATA[Pubs and restaurants are still open, but the rules in England have changed.]]></description>
+            <link>https://www.bbc.co.uk/news/business-52977388</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-52977388</guid>
+            <pubDate>Tue, 29 Sep 2020 13:30:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid symptoms: What are they and how do I protect myself?]]></title>
+            <description><![CDATA[A new cough, fever and change in smell or taste are the key symptoms that mean you may have coronavirus.]]></description>
+            <link>https://www.bbc.co.uk/news/health-51048366</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-51048366</guid>
+            <pubDate>Fri, 25 Sep 2020 10:29:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus: How do I find a new job and which sectors are hiring?]]></title>
+            <description><![CDATA[Jobseekers are having a tough time at the moment but support is available.]]></description>
+            <link>https://www.bbc.co.uk/news/explainers-53685650</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-53685650</guid>
+            <pubDate>Mon, 14 Sep 2020 16:21:22 GMT</pubDate>
+        </item>
+    </channel>
+</rss>

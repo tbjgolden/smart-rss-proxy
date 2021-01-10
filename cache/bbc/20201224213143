@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet title="XSL_formatting" type="text/xsl" href="/shared/bsp/xsl/rss/nolsol.xsl"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News - Home]]></title>
+        <description><![CDATA[BBC News - Home]]></description>
+        <link>https://www.bbc.co.uk/news/</link>
+        <image>
+            <url>https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News - Home</title>
+            <link>https://www.bbc.co.uk/news/</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Thu, 24 Dec 2020 20:09:07 GMT</lastBuildDate>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Brexit: Boris Johnson hails free trade deal with EU]]></title>
+            <description><![CDATA[The deal between the UK and EU ends months of arguments over business rules and fishing rights.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-politics-55435930</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-55435930</guid>
+            <pubDate>Thu, 24 Dec 2020 20:02:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid: Sharp rises in infection levels in England, says ONS]]></title>
+            <description><![CDATA[London now has the highest percentage of people testing positive in the UK, ONS figures suggest.]]></description>
+            <link>https://www.bbc.co.uk/news/health-55436598</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-55436598</guid>
+            <pubDate>Thu, 24 Dec 2020 18:11:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Brexit deal: How did we get here?]]></title>
+            <description><![CDATA[A look back at the UK's negotiations to leave the European Union - from vote to deal.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-55437430</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-55437430</guid>
+            <pubDate>Thu, 24 Dec 2020 16:50:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Brexit: Firms warn 'clock is ticking' to keep goods moving]]></title>
+            <description><![CDATA[Businesses give a relieved welcome to the Brexit trade deal, but warn there is more work to be done.]]></description>
+            <link>https://www.bbc.co.uk/news/business-55441237</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-55441237</guid>
+            <pubDate>Thu, 24 Dec 2020 17:03:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Kent lorry chaos: Truckers warned of Christmas in their cabs]]></title>
+            <description><![CDATA[Transport Secretary Grant Shapps says it could take days to clear the backlog of lorries in Kent.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-kent-55434966</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-kent-55434966</guid>
+            <pubDate>Thu, 24 Dec 2020 19:18:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[UK flooding: Billing Aquadrome park in Northampton evacuated]]></title>
+            <description><![CDATA[Occupants of about 500 caravans at Billing Aquadrome in Northampton are urged to seek shelter.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-northamptonshire-55440971</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-northamptonshire-55440971</guid>
+            <pubDate>Thu, 24 Dec 2020 18:51:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The celebrity hairdresser with a secret of his own]]></title>
+            <description><![CDATA[John Harding was a hairdresser to the stars - but there was a reason he rarely answered the phone.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-55378113</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-55378113</guid>
+            <pubDate>Thu, 24 Dec 2020 01:21:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Chrissy Teigen 'sad she will never be pregnant again']]></title>
+            <description><![CDATA[The US model lost the baby she was expecting with husband John Legend earlier this year.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-55435120</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-55435120</guid>
+            <pubDate>Thu, 24 Dec 2020 09:48:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Customers furious as E.On takes payments too early]]></title>
+            <description><![CDATA[About 1.5 million customers are hit as direct debits are taken on Christmas Eve owing to an IT error.]]></description>
+            <link>https://www.bbc.co.uk/news/business-55439490</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-55439490</guid>
+            <pubDate>Thu, 24 Dec 2020 13:17:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Norfolk flooding: 'Christmas miracle' as couple rescued in flash floods]]></title>
+            <description><![CDATA[A couple are rescued by fire crews from a car submerged by flash floods in Norfolk.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-norfolk-55440300</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-norfolk-55440300</guid>
+            <pubDate>Thu, 24 Dec 2020 16:58:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Withernsea: Whales stranded on beach die]]></title>
+            <description><![CDATA[A marine expert says the loss of 10 young males found on the East Yorkshire coast is "catastrophic".]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-humber-55436369</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-humber-55436369</guid>
+            <pubDate>Thu, 24 Dec 2020 18:10:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[BBC receives 266 complaints over Vicar of Dibley]]></title>
+            <description><![CDATA[The sitcom included a scene which referenced the Black Lives Matter movement.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-55440861</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-55440861</guid>
+            <pubDate>Thu, 24 Dec 2020 18:01:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Schools 'may need to close to control new variant']]></title>
+            <description><![CDATA[Variant spreads 56% faster and may need tougher measures to control, a study suggests.]]></description>
+            <link>https://www.bbc.co.uk/news/health-55437283</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-55437283</guid>
+            <pubDate>Thu, 24 Dec 2020 12:06:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Kay Purcell of Emmerdale and Tracy Beaker Returns dies at 57]]></title>
+            <description><![CDATA[The actress also appeared in Coronation Street, So Awkward and Waterloo Road.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-55439894</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-55439894</guid>
+            <pubDate>Thu, 24 Dec 2020 16:13:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Brexit trade deal: What were the big themes in the talks?]]></title>
+            <description><![CDATA[Analysis of how the Brexit trade deal will change relations between the UK and the EU for good]]></description>
+            <link>https://www.bbc.co.uk/news/55402088</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/55402088</guid>
+            <pubDate>Thu, 24 Dec 2020 20:01:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Brexit trade deal: What does it mean for fishing?]]></title>
+            <description><![CDATA[Fishing was one of the sticking points of the UK-EU trade negotiations but now a deal has been reached how will fishermen be affected?]]></description>
+            <link>https://www.bbc.co.uk/news/46401558</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/46401558</guid>
+            <pubDate>Thu, 24 Dec 2020 19:31:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Brexit deal: What we know so far]]></title>
+            <description><![CDATA[These are the most important aspects of the UK-EU deal and how it could affect our day-to-day lives.]]></description>
+            <link>https://www.bbc.co.uk/news/explainers-55180293</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-55180293</guid>
+            <pubDate>Thu, 24 Dec 2020 20:06:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Brexit: What will happen to pet passports after transition ends?]]></title>
+            <description><![CDATA[Will you still be able to take your pet to the EU after Brexit transition ends?]]></description>
+            <link>https://www.bbc.co.uk/news/uk-41969672</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-41969672</guid>
+            <pubDate>Thu, 24 Dec 2020 17:33:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Brexit: What you need to know about the UK leaving the EU]]></title>
+            <description><![CDATA[The UK and EU have reached a post-Brexit deal at the 11th hour]]></description>
+            <link>https://www.bbc.co.uk/news/uk-politics-32810887</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-32810887</guid>
+            <pubDate>Thu, 24 Dec 2020 18:11:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Brexit: How do voters now feel about it?]]></title>
+            <description><![CDATA[It may have reached its final stage but UK voters are as divided as ever, says Sir John Curtice.]]></description>
+            <link>https://www.bbc.co.uk/news/explainers-55416939</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-55416939</guid>
+            <pubDate>Thu, 24 Dec 2020 15:10:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Brexit: How to prepare for changes in 2021]]></title>
+            <description><![CDATA[Here are some of the things you can do to get prepared for the Brexit changes.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-55317422</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-55317422</guid>
+            <pubDate>Sun, 20 Dec 2020 00:53:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Brexit: Will the borders be ready?]]></title>
+            <description><![CDATA[With less than two weeks until the end of transition, we look at the challenges to come at British borders.]]></description>
+            <link>https://www.bbc.co.uk/news/55134903</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/55134903</guid>
+            <pubDate>Tue, 22 Dec 2020 19:25:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Brexit: Seven things changing in January and others that remain unresolved]]></title>
+            <description><![CDATA[The UK's future relationship with the EU remains uncertain - but some things will be different in 2021.]]></description>
+            <link>https://www.bbc.co.uk/news/explainers-54195827</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-54195827</guid>
+            <pubDate>Wed, 16 Dec 2020 15:37:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Brexit: Can I live, work or study in the EU after 1 January?]]></title>
+            <description><![CDATA[The start of 2021 means big changes for anyone wishing to spend time in the European Union.]]></description>
+            <link>https://www.bbc.co.uk/news/explainers-55129355</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-55129355</guid>
+            <pubDate>Thu, 24 Dec 2020 15:38:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Travel after Brexit: How will it affect my holidays to the EU?]]></title>
+            <description><![CDATA[A simple guide to how leaving the EU will affect travel to Europe.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-46627083</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-46627083</guid>
+            <pubDate>Thu, 17 Dec 2020 15:34:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Brexit: What trade deals has the UK done so far?]]></title>
+            <description><![CDATA[Time to secure a UK-EU trade deal is running out]]></description>
+            <link>https://www.bbc.co.uk/news/uk-47213842</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-47213842</guid>
+            <pubDate>Tue, 22 Dec 2020 18:03:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[PA photographers pick their top shots of 2020]]></title>
+            <description><![CDATA[Press Association photographers reflect on their best images from the past year.]]></description>
+            <link>https://www.bbc.co.uk/news/in-pictures-55426142</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/in-pictures-55426142</guid>
+            <pubDate>Thu, 24 Dec 2020 09:56:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The 101-year-old veteran with thousands of Christmas cards]]></title>
+            <description><![CDATA[John received mail from around the world after speaking about the loss of his wife on BBC Breakfast.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-55437423</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-55437423</guid>
+            <pubDate>Thu, 24 Dec 2020 11:05:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Banjo Paterson: 120-year-old chocolate found in Australian poet's belongings]]></title>
+            <description><![CDATA[Remarkably well-preserved chocolate - found in Australia - gives a fascinating glimpse into history.]]></description>
+            <link>https://www.bbc.co.uk/news/world-australia-55421008</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-australia-55421008</guid>
+            <pubDate>Wed, 23 Dec 2020 16:45:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid: Santa Claus explains how to keep safe at Christmas]]></title>
+            <description><![CDATA[Father Christmas explains how to have a Covid secure Christmas]]></description>
+            <link>https://www.bbc.co.uk/news/uk-54994584</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-54994584</guid>
+            <pubDate>Wed, 23 Dec 2020 12:20:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Games of 2020: The Press X To Continue awards]]></title>
+            <description><![CDATA[BBC Sounds podcast Press X To Continue chooses its best and worst of gaming in 2020.]]></description>
+            <link>https://www.bbc.co.uk/news/newsbeat-55424398</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/newsbeat-55424398</guid>
+            <pubDate>Thu, 24 Dec 2020 01:10:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Joanna Lumley: 'Christmas will be different, but please don't worry']]></title>
+            <description><![CDATA[Absolutely Fabulous star Joanna Lumley on a star-studded festive reading to support the arts industry.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-55435875</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-55435875</guid>
+            <pubDate>Thu, 24 Dec 2020 09:51:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Dickens Museum: A Christmas Carol performance goes online]]></title>
+            <description><![CDATA[Charles Dickens's London home will host a special performance of A Christmas Carol.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-55368139</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-55368139</guid>
+            <pubDate>Thu, 24 Dec 2020 00:07:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Muslim-Canadian's 'first Christmas' goes viral]]></title>
+            <description><![CDATA[As a Christmas first-timer, Mohammad Hussain shared his unique perspective on the holiday on Twitter.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-55429776</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-55429776</guid>
+            <pubDate>Wed, 23 Dec 2020 18:48:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Stella Tennant: Model's life and career in pictures]]></title>
+            <description><![CDATA[Tennant was one of the most familiar faces on catwalks around the world from the 1990s.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-55424190</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-55424190</guid>
+            <pubDate>Wed, 23 Dec 2020 17:02:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Hawaiian shirts and gravy: Christmas tributes for loved ones lost to Covid]]></title>
+            <description><![CDATA[Nine people reveal how they plan to remember the loved ones they lost to Covid-19.]]></description>
+            <link>https://www.bbc.co.uk/news/in-pictures-55435267</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/in-pictures-55435267</guid>
+            <pubDate>Thu, 24 Dec 2020 07:18:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus: Fresh air 'forgotten weapon' in fight]]></title>
+            <description><![CDATA[Experts are increasingly worried that the virus can accumulate in stuffy rooms.]]></description>
+            <link>https://www.bbc.co.uk/news/health-55435914</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-55435914</guid>
+            <pubDate>Thu, 24 Dec 2020 09:38:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Five families, five very unusual Christmases]]></title>
+            <description><![CDATA[Families in five countries explain how their plans have changed and how they're staying upbeat.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-55336095</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-55336095</guid>
+            <pubDate>Thu, 24 Dec 2020 01:17:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Oscars 2021: What can we expect for the ceremony?]]></title>
+            <description><![CDATA[The film industry is hoping it will be high-profile rather than low-key after such a tough year.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-55395169</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-55395169</guid>
+            <pubDate>Thu, 24 Dec 2020 00:59:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus mutes Christmas celebrations in Bethlehem]]></title>
+            <description><![CDATA[Celebrations will look very different in Jesus' birthplace this year as virus keeps visitors at bay.]]></description>
+            <link>https://www.bbc.co.uk/news/world-middle-east-55408841</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-middle-east-55408841</guid>
+            <pubDate>Thu, 24 Dec 2020 08:10:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['My first Christmas in my own place']]></title>
+            <description><![CDATA[How Christmas feels when you are in your own home for the first time.]]></description>
+            <link>https://www.bbc.co.uk/news/newsbeat-55277329</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/newsbeat-55277329</guid>
+            <pubDate>Thu, 24 Dec 2020 08:05:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Universal Credit: 'It is embarrassing having to rely on family again']]></title>
+            <description><![CDATA[People on Universal Credit say they worry about the end of a £20-a-week boost to the benefit.]]></description>
+            <link>https://www.bbc.co.uk/news/business-55415873</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-55415873</guid>
+            <pubDate>Thu, 24 Dec 2020 07:45:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid-19: Kindness spreads Christmas cheer across the UK]]></title>
+            <description><![CDATA[Many people have received good deeds from others to help them through the festive period this year.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-55415243</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-55415243</guid>
+            <pubDate>Tue, 22 Dec 2020 18:25:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[DeepMind's AI agent MuZero could turbocharge YouTube]]></title>
+            <description><![CDATA[The successor to AlphaGo is being used to create a more efficient type of video compression.]]></description>
+            <link>https://www.bbc.co.uk/news/technology-55403473</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-55403473</guid>
+            <pubDate>Wed, 23 Dec 2020 16:00:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['Covid my excuse for not seeing relatives at Christmas']]></title>
+            <description><![CDATA[While some will be sad about being cut off from family by the pandemic, others are glad to use it as an excuse.]]></description>
+            <link>https://www.bbc.co.uk/news/stories-55319055</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/stories-55319055</guid>
+            <pubDate>Wed, 23 Dec 2020 14:24:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Klopp dismisses suggestions Salah is unhappy at Liverpool]]></title>
+            <description><![CDATA[Liverpool manager Jurgen Klopp plays down speculation forward Mohamed Salah is unhappy at the club.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/55439261</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/55439261</guid>
+            <pubDate>Thu, 24 Dec 2020 14:59:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Former Spurs manager Pochettino 'main contender' for PSG job after Tuchel sacking]]></title>
+            <description><![CDATA[Former Tottenham manager Mauricio Pochettino is the main contender to take over at Paris St-Germain after Thomas Tuchel's sacking.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/55436136</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/55436136</guid>
+            <pubDate>Thu, 24 Dec 2020 13:25:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['Leicester v Man Utd is the big one' - Lawro's Premier League predictions v Rick Astley]]></title>
+            <description><![CDATA[Mark Lawrenson takes on singer and Manchester United fan Rick Astley to make predictions for the festive Premier League fixtures.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/55371882</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/55371882</guid>
+            <pubDate>Thu, 24 Dec 2020 15:59:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[League One Sunderland agree new year takeover by 22-year-old Louis-Dreyfus]]></title>
+            <description><![CDATA[An agreement is reached for Kyril Louis-Dreyfus to buy Stewart Donald's controlling interest in Sunderland.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/55441731</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/55441731</guid>
+            <pubDate>Thu, 24 Dec 2020 16:15:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ex-F1 boss Williams discharged from hospital ]]></title>
+            <description><![CDATA[Sir Frank Williams is released from hospital and is "on the mend at home", the Williams F1 team says.]]></description>
+            <link>https://www.bbc.co.uk/sport/formula1/55442364</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/formula1/55442364</guid>
+            <pubDate>Thu, 24 Dec 2020 17:12:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Scotland women head coach Kerr steps down ]]></title>
+            <description><![CDATA[Scotland head coach Shelley Kerr steps down from her role with the national side, the Scottish FA confirms.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/55437131</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/55437131</guid>
+            <pubDate>Thu, 24 Dec 2020 10:54:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['This is Paine's Test team now' - how Australia's captain grew into the role of undisputed leader]]></title>
+            <description><![CDATA[As Australia prepare for their Boxing Day Test against India, we look at how Tim Paine has grown into an undisputed leader of their Test team.]]></description>
+            <link>https://www.bbc.co.uk/sport/cricket/55423845</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/cricket/55423845</guid>
+            <pubDate>Thu, 24 Dec 2020 13:51:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid: What are the new tiers and lockdown rules in England, Scotland, Wales and Northern Ireland?]]></title>
+            <description><![CDATA[Coronavirus restrictions for socialising, travel and hospitality vary around the UK.]]></description>
+            <link>https://www.bbc.co.uk/news/explainers-52530518</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-52530518</guid>
+            <pubDate>Wed, 23 Dec 2020 15:32:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Can you see your family at Christmas?]]></title>
+            <description><![CDATA[Plans for Christmas bubbles in the UK have been scaled back - so who can you see over the festive period?]]></description>
+            <link>https://www.bbc.co.uk/news/explainers-55056375</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-55056375</guid>
+            <pubDate>Wed, 23 Dec 2020 16:41:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Lockdown rules: What Covid tier is your area in and what are the restrictions?]]></title>
+            <description><![CDATA[Use our search tool to find out about coronavirus rules and restrictions where you live.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-54373904</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-54373904</guid>
+            <pubDate>Wed, 23 Dec 2020 17:33:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid: How to keep the virus at bay this Christmas]]></title>
+            <description><![CDATA[Christmas could be a dangerous time to contract the virus - so what precautions can you take?]]></description>
+            <link>https://www.bbc.co.uk/news/explainers-55017034</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-55017034</guid>
+            <pubDate>Mon, 21 Dec 2020 11:03:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Twelve ways Covid has changed life in the UK]]></title>
+            <description><![CDATA[From cancelled operations to benefit claim rises, how has the pandemic impacted peoples' lives?]]></description>
+            <link>https://www.bbc.co.uk/news/uk-55214991</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-55214991</guid>
+            <pubDate>Tue, 15 Dec 2020 13:44:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid: How does mass testing work?]]></title>
+            <description><![CDATA[Mass testing is being used to find out if people have Covid - whether of not they have symptoms.]]></description>
+            <link>https://www.bbc.co.uk/news/explainers-54872039</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-54872039</guid>
+            <pubDate>Wed, 23 Dec 2020 15:54:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid: What are the quarantine rules when arriving in the UK?]]></title>
+            <description><![CDATA[Travellers arriving from almost all other countries must self-isolate on entry to the UK.]]></description>
+            <link>https://www.bbc.co.uk/news/explainers-52544307</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-52544307</guid>
+            <pubDate>Thu, 24 Dec 2020 08:09:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid: How are European countries tackling the pandemic?]]></title>
+            <description><![CDATA[What restrictions are being put in place in Europe to control new coronavirus outbreaks?]]></description>
+            <link>https://www.bbc.co.uk/news/explainers-53640249</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-53640249</guid>
+            <pubDate>Mon, 21 Dec 2020 17:35:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid: Which countries can you now travel to from the UK?]]></title>
+            <description><![CDATA[Countries around the world have reopened borders to travellers from the UK. But requirements remain in place.]]></description>
+            <link>https://www.bbc.co.uk/news/explainers-53221896</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-53221896</guid>
+            <pubDate>Thu, 24 Dec 2020 11:06:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[When will the Oxford/AstraZeneca vaccine be approved?]]></title>
+            <description><![CDATA[A second coronavirus vaccine - from Oxford University/AstraZeneca - is being considered for use.]]></description>
+            <link>https://www.bbc.co.uk/news/health-55302595</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-55302595</guid>
+            <pubDate>Tue, 15 Dec 2020 15:04:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid symptoms: What are they and how do I protect myself?]]></title>
+            <description><![CDATA[A new cough, fever and change in smell or taste are the key symptoms that mean you may have coronavirus.]]></description>
+            <link>https://www.bbc.co.uk/news/health-51048366</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-51048366</guid>
+            <pubDate>Fri, 25 Sep 2020 10:29:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How can you keep safe at Christmas?]]></title>
+            <description><![CDATA[Good ventilation could be key to avoiding coronavirus this winter as people spend more time indoors.]]></description>
+            <link>https://www.bbc.co.uk/news/explainers-53917432</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-53917432</guid>
+            <pubDate>Fri, 13 Nov 2020 12:32:34 GMT</pubDate>
+        </item>
+    </channel>
+</rss>

@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" media="screen" href="/~d/styles/rss2full.xsl"?><?xml-stylesheet type="text/css" media="screen" href="http://feeds.foxnews.com/~d/styles/itemcontent.css"?><rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+                    <title>FOX News</title>
+    <link>http://www.foxnews.com/</link>
+    <description><![CDATA[FOXNews.com - Breaking news and video. Latest Current News: U.S., World, Entertainment, Health, Business, Technology, Politics, Sports.]]></description>
+        <image>
+    	<url>http://tools.foxnews.com/sites/tools.foxnews.com/files/images/fox-news-logo.png</url>
+    	<title>FOX News</title>
+    	<link>http://www.foxnews.com/</link>
+    </image>
+            <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feeds.foxnews.com/foxnews/latest" /><feedburner:info xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" uri="foxnews/latest" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /><item>
+                  <guid isPermaLink="true">https://www.foxnews.com/entertainment/jeopardy-ken-jennings-james-holzhauer-mourn-alex-trebek</guid>
+      <link>https://www.foxnews.com/entertainment/jeopardy-ken-jennings-james-holzhauer-mourn-alex-trebek</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/11/Trebek.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/Trebek.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/Trebek.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">a79731e5-38f3-51db-812d-e83699eb6b5f</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/shows/jeopardy</category>
+            <category domain="foxnews.com/taxonomy">fox-news/person/alex-trebek</category>
+            <category domain="foxnews.com/taxonomy">fox-news/entertainment/tv</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/entertainment</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>‘Jeopardy!’ contestants Ken Jennings, James Holzhauer mourn Alex Trebek's death</title>
+      <description>Two of “Jeopardy!” biggest stars have shared tributes about Alex Trebek after news of the beloved host’s death became public.</description>
+                  <dc:creator>Cortney Moore</dc:creator>
+                         <pubDate>Mon, 09 Nov 2020 05:03:55 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Cortney Moore</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/politics/seattle-man-fatally-shot-near-biden-celebration-rally-report</guid>
+      <link>https://www.foxnews.com/politics/seattle-man-fatally-shot-near-biden-celebration-rally-report</link>
+                  <media:group>
+        <media:content url="https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2a36d319-5cf6-4614-ab40-4c26c8a48a85/e9cf0b4b-0a4c-43e4-81d3-b15cb5f18961/1280x720/match/image.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/image.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/image.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">6efa2b78-bab7-52e7-8eb1-145f4e2cfb3d</category>
+                  <category domain="foxnews.com/taxonomy">fox-business/fox-business-politics</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us/seattle</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/politics</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Seattle man fatally shot near Biden celebration rally: report</title>
+      <description />
+                  <dc:creator>Edmund DeMarche</dc:creator>
+                         <pubDate>Mon, 09 Nov 2020 05:02:57 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Edmund DeMarche</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/us/this-day-in-history-nov-9</guid>
+      <link>https://www.foxnews.com/us/this-day-in-history-nov-9</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/11/PersecutionAP.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/PersecutionAP.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/PersecutionAP.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">a4218c61-b6c5-5c4f-b3b4-0f84f2e37816</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/us/this-day-in-history</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/us</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>This Day in History: Nov. 9</title>
+      <description>Nazis loot and burn synagogues as well as Jewish-owned stores and houses in Germany and Austria in a deliberate persecution that would become known as “Kristallnacht.”</description>
+                  <dc:creator>Bryan Robinson</dc:creator>
+                         <pubDate>Mon, 09 Nov 2020 05:00:21 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Bryan Robinson</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/politics/live-updates-election-legal-fights-after-biden-victory</guid>
+      <link>https://www.foxnews.com/politics/live-updates-election-legal-fights-after-biden-victory</link>
+                  <media:group>
+        <media:content url="https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4cb3c427-e2dd-4e89-8b70-c65820bfcf82/9a2421f7-c8d1-4e3a-98f0-4dc455f9d172/1280x720/match/image.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/image.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/image.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">f8d3ac96-18c8-587a-9786-56aff2e997cb</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/news-events/live-coverage</category>
+            <category domain="foxnews.com/taxonomy">fox-news/person/donald-trump</category>
+            <category domain="foxnews.com/taxonomy">fox-news/politics/2020-presidential-election</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/politics</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Live Updates: Election legal fights after Biden victory</title>
+      <description>President Trump is planning to bring back his large-scale rallies which will focus on his “ongoing litigation” as he challenges the results of last week’s election.</description>
+                   <pubDate>Mon, 09 Nov 2020 04:58:43 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                              <category domain="foxnews.com/dateline" />
+                                  </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/politics/live-updates-bipartisan-urges-trump-administration-to-begin-post-election-transition-process</guid>
+      <link>https://www.foxnews.com/politics/live-updates-bipartisan-urges-trump-administration-to-begin-post-election-transition-process</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/11/TrumpBidenSplitElectionNight.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/TrumpBidenSplitElectionNight.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/TrumpBidenSplitElectionNight.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">40e8b163-a59b-5ea9-9562-33e6a61c6258</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/news-events/live-coverage</category>
+            <category domain="foxnews.com/taxonomy">fox-news/politics/2020-presidential-election</category>
+            <category domain="foxnews.com/taxonomy">fox-news/person/donald-trump</category>
+            <category domain="foxnews.com/taxonomy">fox-news/person/joe-biden</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/politics</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Live Updates: Bipartisan group urges Trump administration to begin post-election transition process</title>
+      <description>The Center for Presidential Transition advisory board is urging the Trump administration to move forward “to immediately begin the post-election transition process.”</description>
+                   <pubDate>Mon, 09 Nov 2020 04:58:25 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                              <category domain="foxnews.com/dateline" />
+                                  </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/sports/nfl-week-9-2020-recap-scores-standings</guid>
+      <link>https://www.foxnews.com/sports/nfl-week-9-2020-recap-scores-standings</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/11/Dalvin-Cook.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/Dalvin-Cook.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/Dalvin-Cook.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">5e84ec42-0257-50ca-ae99-0de50793ec45</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/sports/nfl</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/sports</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>NFL Week 9 recap, scores and standings</title>
+      <description>The NFL season is coming toward the home stretch with nine weeks nearly in the books.</description>
+                  <dc:creator>Ryan Gaydos</dc:creator>
+                         <pubDate>Mon, 09 Nov 2020 04:18:41 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Ryan Gaydos</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/sports/saints-buccaneers-week-9-2020-recap</guid>
+      <link>https://www.foxnews.com/sports/saints-buccaneers-week-9-2020-recap</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/11/TreQuan-Smith.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/TreQuan-Smith.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/TreQuan-Smith.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">264eae42-afa3-5ab3-b022-e354ad038fee</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/sports/nfl</category>
+            <category domain="foxnews.com/taxonomy">fox-news/sports/nfl/tampa-bay-buccaneers</category>
+            <category domain="foxnews.com/taxonomy">fox-news/sports/nfl/new-orleans-saints</category>
+            <category domain="foxnews.com/taxonomy">fox-news/person/tom-brady</category>
+            <category domain="foxnews.com/taxonomy">fox-news/person/drew-brees</category>
+            <category domain="foxnews.com/taxonomy">fox-news/person/alvin-kamara</category>
+            <category domain="foxnews.com/taxonomy">fox-news/person/antonio-brown</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/sports</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Saints embarrass Buccaneers on the road, sit on top of NFC South</title>
+      <description>Drew Brees and the New Orleans Saints came out swinging against the Tampa Bay Buccaneers and put on an onslaught in the first half with 31 points.</description>
+                  <dc:creator>Ryan Gaydos</dc:creator>
+                         <pubDate>Mon, 09 Nov 2020 04:15:10 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Ryan Gaydos</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/us/chicago-violence-5-dead-32-shot-amid-bloody-weekend</guid>
+      <link>https://www.foxnews.com/us/chicago-violence-5-dead-32-shot-amid-bloody-weekend</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/11/0d379007-5a25cf8d-download.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/0d379007-5a25cf8d-download.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/0d379007-5a25cf8d-download.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">e2a0acc0-0dc9-58ea-852d-534315e91de9</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/us/chicago</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us/crime/chicagos-crime-wave</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us/us-regions/midwest/illinois</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us/crime</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us/crime/homicide</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/us</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Chicago violence: 5 dead, 32 shot amid bloody weekend</title>
+      <description>Chicago authorities on Sunday said that five people have been killed and 32 people were shot amid another violent weekend in the city, according to reports. </description>
+                  <dc:creator>David Aaro</dc:creator>
+                         <pubDate>Mon, 09 Nov 2020 04:11:47 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">David Aaro</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/entertainment/norm-crosby-king-of-malatropes-dead-at-93-from-heart-failure</guid>
+      <link>https://www.foxnews.com/entertainment/norm-crosby-king-of-malatropes-dead-at-93-from-heart-failure</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/11/norm-cropped-1056p.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/norm-cropped-1056p.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/norm-cropped-1056p.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">a4147257-dd04-5883-aad8-4f51212866fc</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/entertainment/events/departed</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/entertainment</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Norm Crosby, king of malatropes, dead at 93 from heart failure</title>
+      <description>Norm Crosby, the deadpan mangler of the English language who thrived in the 1960s, ’70s and ’80s as a television, nightclub and casino comedian, has died. He was 93.</description>
+                   <pubDate>Mon, 09 Nov 2020 04:09:38 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Associated Press</category>
+                              <category domain="foxnews.com/dateline" />
+                                  </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/politics/nyc-health-commissioner-cheers-biden-celebrations-coronavirus-second-wave</guid>
+      <link>https://www.foxnews.com/politics/nyc-health-commissioner-cheers-biden-celebrations-coronavirus-second-wave</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/11/3ce16fc4-AP20313127941406.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/3ce16fc4-AP20313127941406.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/3ce16fc4-AP20313127941406.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">d1f3844f-1bcd-5990-9556-3faef68dd89f</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/us/us-regions/northeast/new-york</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us/new-york-city</category>
+            <category domain="foxnews.com/taxonomy">fox-news/health/infectious-disease/coronavirus</category>
+            <category domain="foxnews.com/taxonomy">fox-news/person/joe-biden</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/politics</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>NYC health commissioner cheers Biden celebrations, day later brings down hammer on New York</title>
+      <description>New York City Health Committee Chair Mark D. Levine on Saturday cheered a large crowd of New Yorkers celebrating Joe Biden’s presidential victory but a day later warned that the city was in the midst of a “2nd wave” with cases and hospitalizations piling up.</description>
+                  <dc:creator>Bradford Betz</dc:creator>
+                         <pubDate>Mon, 09 Nov 2020 03:08:12 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Bradford Betz</category>
+                            </item>
+      </channel>
+</rss>

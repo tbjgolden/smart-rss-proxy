@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet title="XSL_formatting" type="text/xsl" href="/shared/bsp/xsl/rss/nolsol.xsl"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News - Home]]></title>
+        <description><![CDATA[BBC News - Home]]></description>
+        <link>https://www.bbc.co.uk/news/</link>
+        <image>
+            <url>https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News - Home</title>
+            <link>https://www.bbc.co.uk/news/</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Wed, 16 Dec 2020 06:27:31 GMT</lastBuildDate>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Covid: Relaxation of UK Christmas rules 'unlikely to change']]></title>
+            <description><![CDATA[Tougher guidance about the dangers of mixing is set to be issued after a meeting of the four nations.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-55327709</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-55327709</guid>
+            <pubDate>Wed, 16 Dec 2020 04:39:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid-19: Germany introduces new restrictions amid rise in cases]]></title>
+            <description><![CDATA[The country closes schools and non-essential businesses in an attempt to curb the virus.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-55324422</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-55324422</guid>
+            <pubDate>Wed, 16 Dec 2020 05:37:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mitch McConnell: Top Trump ally breaks silence to congratulate Biden]]></title>
+            <description><![CDATA[Weeks after the election, Senate Majority Leader Mitch McConnell congratulates the president-elect.]]></description>
+            <link>https://www.bbc.co.uk/news/election-us-2020-55323407</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/election-us-2020-55323407</guid>
+            <pubDate>Wed, 16 Dec 2020 00:56:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Housing: Formula for locating new homes revised after Tory backlash]]></title>
+            <description><![CDATA[Urban developments in the Midlands and north of England will now be prioritised in government U-turn.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-politics-55322993</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-55322993</guid>
+            <pubDate>Wed, 16 Dec 2020 00:00:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Rail fares to rise more than expected next year]]></title>
+            <description><![CDATA[January's planned rise is delayed until March - when prices will increase by an inflation-busting 2.6%.]]></description>
+            <link>https://www.bbc.co.uk/news/business-55323345</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-55323345</guid>
+            <pubDate>Wed, 16 Dec 2020 00:04:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Great Pyramid: Lost Egyptian artefact found in Aberdeen cigar box]]></title>
+            <description><![CDATA[The 5,000-year-old piece of wood, originally found in the Great Pyramid in 1872, is said to be "hugely significant".]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-north-east-orkney-shetland-55315623</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-north-east-orkney-shetland-55315623</guid>
+            <pubDate>Wed, 16 Dec 2020 00:42:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Gay conversion therapy: Hundreds of religious leaders call for ban]]></title>
+            <description><![CDATA[More than 370 leaders from the world's major faiths join a call to stop "harmful practices".]]></description>
+            <link>https://www.bbc.co.uk/news/uk-55326461</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-55326461</guid>
+            <pubDate>Wed, 16 Dec 2020 03:53:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid: First care home residents in Wales get vaccine]]></title>
+            <description><![CDATA[A care home pilot for the Covid jab will begin later ahead of a possible rollout before Christmas.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-wales-55325511</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-wales-55325511</guid>
+            <pubDate>Wed, 16 Dec 2020 00:02:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Post-Grenfell cladding inspections find other fire risks]]></title>
+            <description><![CDATA[Hundreds of tower blocks have been discovered with faulty fire prevention measures, the BBC finds.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-55318525</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-55318525</guid>
+            <pubDate>Wed, 16 Dec 2020 01:08:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[MacKenzie Scott gives away $4.2bn in four months]]></title>
+            <description><![CDATA[The ex-wife of Amazon founder Jeff Bezos has been focusing on women, people of colour and food banks.]]></description>
+            <link>https://www.bbc.co.uk/news/business-55313522</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-55313522</guid>
+            <pubDate>Wed, 16 Dec 2020 02:58:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ethiopia's Tigray crisis: About 2.3 million children cut off from aid, UN says]]></title>
+            <description><![CDATA[The UN urges access to the region where Ethiopian government forces have been battling local fighters.]]></description>
+            <link>https://www.bbc.co.uk/news/world-africa-55327559</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-55327559</guid>
+            <pubDate>Tue, 15 Dec 2020 23:34:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Facebook to move all UK users onto US agreements]]></title>
+            <description><![CDATA[The move could allow the social media giant to avoid strict EU privacy laws being introduced.]]></description>
+            <link>https://www.bbc.co.uk/news/business-55328376</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-55328376</guid>
+            <pubDate>Wed, 16 Dec 2020 04:12:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Prince Harry and Meghan sign Spotify podcast deal]]></title>
+            <description><![CDATA[In a trailer, the couple promise "different perspectives" and interviews with "amazing people".]]></description>
+            <link>https://www.bbc.co.uk/news/uk-55327171</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-55327171</guid>
+            <pubDate>Wed, 16 Dec 2020 00:37:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Papers: 'Carry on Christmas' as PM refuses to scrap rules]]></title>
+            <description><![CDATA[The front pages focus on whether plans to ease restrictions over Christmas could be scrapped or cut.]]></description>
+            <link>https://www.bbc.co.uk/news/blogs-the-papers-55327154</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/blogs-the-papers-55327154</guid>
+            <pubDate>Wed, 16 Dec 2020 05:21:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What are the Christmas Covid rules?]]></title>
+            <description><![CDATA[Laura Foster explains who you can see and how to stay safe.]]></description>
+            <link>https://www.bbc.co.uk/news/health-55327204</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-55327204</guid>
+            <pubDate>Wed, 16 Dec 2020 00:07:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Prato: The Italian town turning rags into new clothes]]></title>
+            <description><![CDATA[A small Italian town has built its fortune on transforming the world's old scraps into new clothes.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-55267992</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-55267992</guid>
+            <pubDate>Wed, 16 Dec 2020 00:00:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Kangaroos can 'communicate' with humans, study finds]]></title>
+            <description><![CDATA[Their behaviour challenges a notion that such abilities come only from domestication, a study finds.]]></description>
+            <link>https://www.bbc.co.uk/news/world-australia-55312356</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-australia-55312356</guid>
+            <pubDate>Wed, 16 Dec 2020 00:12:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Our Lives: 'We don't have to be shooting each other']]></title>
+            <description><![CDATA[The BBC's Fergal Keane returns to Northern Ireland to see how one community is dealing with the legacy of the Troubles.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-55267995</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-55267995</guid>
+            <pubDate>Wed, 16 Dec 2020 00:05:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Beirut explosion: The architect rebuilding families' homes for free]]></title>
+            <description><![CDATA[Joe Salloum and his team are bringing hope, and homes, back to people who live in the poorest areas of Beirut.]]></description>
+            <link>https://www.bbc.co.uk/news/world-middle-east-55267993</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-middle-east-55267993</guid>
+            <pubDate>Wed, 16 Dec 2020 00:25:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid: Twelve charts on how Covid changed our lives]]></title>
+            <description><![CDATA[From cancelled operations to benefit claim rises, how has the pandemic impacted peoples' lives?]]></description>
+            <link>https://www.bbc.co.uk/news/uk-55214991</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-55214991</guid>
+            <pubDate>Tue, 15 Dec 2020 13:44:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Vaccine doctors on TikTok: 'Come for the fun, stay for the science']]></title>
+            <description><![CDATA[Meet the doctors working on vaccines and providing information about the jabs on TikTok.]]></description>
+            <link>https://www.bbc.co.uk/news/newsbeat-55249405</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/newsbeat-55249405</guid>
+            <pubDate>Wed, 16 Dec 2020 00:56:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Archers tackles the 'hidden' connection between disability and modern slavery]]></title>
+            <description><![CDATA[As The Archers reveal three characters kept as slaves have a learning or mental health disability, how widespread is the problem in the UK?]]></description>
+            <link>https://www.bbc.co.uk/news/disability-55259019</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/disability-55259019</guid>
+            <pubDate>Wed, 16 Dec 2020 01:13:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Glastonbury 2021: Emily Eavis says 'we're doing everything we can']]></title>
+            <description><![CDATA[But "we're a long way from being able to say we're confident 2021 will go ahead," Emily Eavis says.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-55315202</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-55315202</guid>
+            <pubDate>Wed, 16 Dec 2020 01:15:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['Fear is the only thing that stops you. I had to give it a try']]></title>
+            <description><![CDATA[Three stories of people working in retail who set up new businesses during Covid-19.]]></description>
+            <link>https://www.bbc.co.uk/news/business-55215879</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-55215879</guid>
+            <pubDate>Wed, 16 Dec 2020 00:08:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Germany starts Christmas lockdown amid Covid surge]]></title>
+            <description><![CDATA[New restrictions come into force limiting festivities to the smallest of family gatherings.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-55316596</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-55316596</guid>
+            <pubDate>Wed, 16 Dec 2020 00:01:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[French culture takes centre stage in Covid protest]]></title>
+            <description><![CDATA[Actors, musicians and theatre directors gather to criticise the decision not to reopen culture venues.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-55314653</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-55314653</guid>
+            <pubDate>Wed, 16 Dec 2020 00:03:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['Tier 3 has ruined our dream restaurant opening']]></title>
+            <description><![CDATA[With sit-down dining now off the menu in much of England, restaurant owners say they're facing a difficult Christmas.]]></description>
+            <link>https://www.bbc.co.uk/news/business-55317754</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-55317754</guid>
+            <pubDate>Wed, 16 Dec 2020 00:04:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Historic England: Shipwreck and Selfridges on 2020 protected list]]></title>
+            <description><![CDATA[Historic England has added 423 sites to its National Heritage List in 2020.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-england-55310369</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-england-55310369</guid>
+            <pubDate>Wed, 16 Dec 2020 01:00:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['You have to win these games' - Guardiola frustrated as Man City held by West Brom]]></title>
+            <description><![CDATA[Manchester City boss Pep Guardiola says "you have to win games like this" after his side are held by struggling West Brom on a frustrating night.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/55225713</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/55225713</guid>
+            <pubDate>Tue, 15 Dec 2020 23:32:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Slaven Bilic: West Brom boss could be sacked on Wednesday]]></title>
+            <description><![CDATA[West Brom manager Slaven Bilic could be sacked as early as Wednesday, despite the Baggies' draw with Manchester City.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/55327461</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/55327461</guid>
+            <pubDate>Tue, 15 Dec 2020 23:43:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Wolverhampton Wanderers 2-1 Chelsea: Pedro Neto scores late winner for Wolves]]></title>
+            <description><![CDATA[Frank Lampard says his Chelsea side may be suffering from fatigue after Wolves came from behind to beat the Blues.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/55225714</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/football/55225714</guid>
+            <pubDate>Tue, 15 Dec 2020 21:46:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Antetokounmpo signs richest deal in NBA history]]></title>
+            <description><![CDATA[Milwaukee Bucks star Giannis Antetokounmpo signs a contract extension worth a reported $228.2m (£170.1m) - the richest in NBA history.]]></description>
+            <link>https://www.bbc.co.uk/sport/basketball/55325552</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/basketball/55325552</guid>
+            <pubDate>Tue, 15 Dec 2020 20:34:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Former F1 team boss Williams 'stable' in hospital]]></title>
+            <description><![CDATA[Sir Frank Williams, who built the Williams team into one of the most successful in Formula 1, is in a stable condition after going into hospital.]]></description>
+            <link>https://www.bbc.co.uk/sport/formula1/55325530</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/formula1/55325530</guid>
+            <pubDate>Tue, 15 Dec 2020 18:09:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['I sat in a dark room crying' - World Cup winner Merchant on effects of concussions]]></title>
+            <description><![CDATA[World Cup winner Kat Merchant wants better care for retired players, saying she has "lower cognitive capacity" following numerous concussions.]]></description>
+            <link>https://www.bbc.co.uk/sport/rugby-union/55306949</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/rugby-union/55306949</guid>
+            <pubDate>Wed, 16 Dec 2020 06:16:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Wright wins World Championship opener in Grinch-inspired outfit]]></title>
+            <description><![CDATA[Peter Wright opens his PDC World Championship defence in trademark style as he defeats Steve West with a look inspired by the Grinch.]]></description>
+            <link>https://www.bbc.co.uk/sport/darts/55327281</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/sport/darts/55327281</guid>
+            <pubDate>Tue, 15 Dec 2020 23:14:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid: What are the new tiers and lockdown rules in England, Scotland, Wales and Northern Ireland?]]></title>
+            <description><![CDATA[Coronavirus restrictions for socialising, travel and hospitality vary around the UK.]]></description>
+            <link>https://www.bbc.co.uk/news/explainers-52530518</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-52530518</guid>
+            <pubDate>Tue, 15 Dec 2020 15:55:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Lockdown rules: What Covid tier is your area in and what are the restrictions?]]></title>
+            <description><![CDATA[Use our search tool to find out about coronavirus rules and restrictions where you live.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-54373904</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-54373904</guid>
+            <pubDate>Tue, 15 Dec 2020 15:51:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid: Can I see my partner at Christmas? And other questions]]></title>
+            <description><![CDATA[We answer some of your questions about Christmas bubbles and the latest tier changes]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-china-51176409</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-china-51176409</guid>
+            <pubDate>Tue, 15 Dec 2020 17:18:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid: How are European countries tackling the pandemic?]]></title>
+            <description><![CDATA[What restrictions are being put in place in Europe to control new coronavirus outbreaks?]]></description>
+            <link>https://www.bbc.co.uk/news/explainers-53640249</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-53640249</guid>
+            <pubDate>Tue, 15 Dec 2020 18:14:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[When will the Oxford/AstraZeneca vaccine be approved?]]></title>
+            <description><![CDATA[A second coronavirus vaccine - from Oxford University/AstraZeneca - is being considered for use.]]></description>
+            <link>https://www.bbc.co.uk/news/health-55302595</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-55302595</guid>
+            <pubDate>Tue, 15 Dec 2020 15:04:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Christmas Covid rules: Who are you allowed to see?]]></title>
+            <description><![CDATA[Restrictions will be eased, but health experts have urged people to think carefully about mixing.]]></description>
+            <link>https://www.bbc.co.uk/news/explainers-55056375</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-55056375</guid>
+            <pubDate>Tue, 15 Dec 2020 11:40:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid: What are the quarantine rules when arriving in the UK?]]></title>
+            <description><![CDATA[Travellers arriving from almost all other countries must self-isolate on entry to the UK.]]></description>
+            <link>https://www.bbc.co.uk/news/explainers-52544307</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-52544307</guid>
+            <pubDate>Mon, 14 Dec 2020 17:01:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid: Will schools close early for Christmas?]]></title>
+            <description><![CDATA[Schools are adopting measures to reduce the spread of coronavirus and keep pupils safe.]]></description>
+            <link>https://www.bbc.co.uk/news/education-51643556</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/education-51643556</guid>
+            <pubDate>Tue, 15 Dec 2020 11:57:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid vaccine: How will the UK jab millions of people?]]></title>
+            <description><![CDATA[The logistics of delivering the biggest vaccination programme the country has ever seen.]]></description>
+            <link>https://www.bbc.co.uk/news/health-55274833</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-55274833</guid>
+            <pubDate>Sat, 12 Dec 2020 01:13:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Covid: Can I go on furlough and how much will I be paid?]]></title>
+            <description><![CDATA[More people are now eligible for furlough, with the scheme extended until March 2021.]]></description>
+            <link>https://www.bbc.co.uk/news/explainers-52135342</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-52135342</guid>
+            <pubDate>Mon, 14 Dec 2020 17:30:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How many coronavirus cases are there in my area?]]></title>
+            <description><![CDATA[Explore the data on coronavirus in the UK and find out how many cases there are in your area.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-51768274</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-51768274</guid>
+            <pubDate>Tue, 15 Dec 2020 17:31:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Travel after Brexit: How will it affect my holidays to the EU?]]></title>
+            <description><![CDATA[A simple guide to how leaving the EU will affect travel to Europe.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-46627083</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-46627083</guid>
+            <pubDate>Tue, 15 Dec 2020 11:49:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Brexit: Seven things changing in January and others that remain unresolved]]></title>
+            <description><![CDATA[The UK's future relationship with the EU remains uncertain - but some things will be different in 2021.]]></description>
+            <link>https://www.bbc.co.uk/news/explainers-54195827</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-54195827</guid>
+            <pubDate>Tue, 15 Dec 2020 12:22:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Brexit: What you need to know about the UK leaving the EU]]></title>
+            <description><![CDATA[Time is running out for the UK and EU to strike a deal - what is happening now?]]></description>
+            <link>https://www.bbc.co.uk/news/uk-politics-32810887</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-32810887</guid>
+            <pubDate>Mon, 14 Dec 2020 16:42:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Brexit: What would no deal mean?]]></title>
+            <description><![CDATA[What will it mean if there is no deal between the UK and EU by the end of the year?]]></description>
+            <link>https://www.bbc.co.uk/news/uk-politics-48511379</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-48511379</guid>
+            <pubDate>Sun, 13 Dec 2020 19:10:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Brexit: What would no deal mean for Ireland’s economy?]]></title>
+            <description><![CDATA[The Irish government has been clear that it would face significant damage if there was no agreement.]]></description>
+            <link>https://www.bbc.co.uk/news/business-49130447</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-49130447</guid>
+            <pubDate>Sun, 13 Dec 2020 10:55:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Brexit trade deal: What do WTO rules or an Australia-style relationship mean?]]></title>
+            <description><![CDATA[If the UK leaves the EU without a trade deal it will have to trade on WTO terms.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-45112872</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-45112872</guid>
+            <pubDate>Sun, 13 Dec 2020 18:49:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Brexit: What are the UK and EU doing to prepare for no deal?]]></title>
+            <description><![CDATA[With no deal looking increasingly likely, how have both sides been getting ready?]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-46064836</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-46064836</guid>
+            <pubDate>Sun, 13 Dec 2020 16:08:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Brexit: What will happen to pet passports after transition ends?]]></title>
+            <description><![CDATA[Will you still be able to take your pet to the EU after Brexit transition ends?]]></description>
+            <link>https://www.bbc.co.uk/news/uk-41969672</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-41969672</guid>
+            <pubDate>Tue, 15 Dec 2020 11:37:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Where do the UK's main political parties stand on Brexit now?]]></title>
+            <description><![CDATA[With pressure mounting on securing a trade deal for post-Brexit Britain, we look at MPs' positions.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-politics-55177496</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-politics-55177496</guid>
+            <pubDate>Fri, 11 Dec 2020 13:13:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Brexit: Will you still be able to take your pet to Europe? And other questions]]></title>
+            <description><![CDATA[We answer some of your questions about Brexit.]]></description>
+            <link>https://www.bbc.co.uk/news/explainers-55261711</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-55261711</guid>
+            <pubDate>Mon, 14 Dec 2020 13:01:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Pound falls on the prospect of a no-deal Brexit]]></title>
+            <description><![CDATA[Prime Minister Boris Johnson said it is 'very, very likely' the UK will not secure terms with the EU.]]></description>
+            <link>https://www.bbc.co.uk/news/business-55271580</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-55271580</guid>
+            <pubDate>Fri, 11 Dec 2020 15:02:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Brexit: 12 key words you need to know]]></title>
+            <description><![CDATA[From free trade agreement to no deal, find out what the key terms mean.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-43470987</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-43470987</guid>
+            <pubDate>Fri, 11 Dec 2020 17:48:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Could Brexit make my food more expensive?]]></title>
+            <description><![CDATA[The UK is negotiating a new trade deal with the EU - how might the result affect food prices?]]></description>
+            <link>https://www.bbc.co.uk/news/business-55222125</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-55222125</guid>
+            <pubDate>Mon, 14 Dec 2020 18:22:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Brexit: What trade deals has the UK done so far?]]></title>
+            <description><![CDATA[Securing a UK-EU trade deal is a top priority in the weeks ahead.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-47213842</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-47213842</guid>
+            <pubDate>Tue, 15 Dec 2020 15:54:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Brexit trade deal: What are the sticking points?]]></title>
+            <description><![CDATA[The negotiating teams have been working "day and night" - what are the remaining issues still to be agreed?]]></description>
+            <link>https://www.bbc.co.uk/news/52937766</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/52937766</guid>
+            <pubDate>Sun, 13 Dec 2020 14:29:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Brexit: What will happen in Northern Ireland?]]></title>
+            <description><![CDATA[Why is Northern Ireland different, and how will things change after 1 January 2021?]]></description>
+            <link>https://www.bbc.co.uk/news/explainers-53724381</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/explainers-53724381</guid>
+            <pubDate>Wed, 09 Dec 2020 17:31:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Fishing: Why is fishing important in Brexit trade talks?]]></title>
+            <description><![CDATA[Fishing remains one of the biggest arguments in the UK's trade negotiations with the EU.]]></description>
+            <link>https://www.bbc.co.uk/news/46401558</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/46401558</guid>
+            <pubDate>Sat, 05 Dec 2020 21:46:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[‘I was in prison at 20 - and a music executive by 28’]]></title>
+            <description><![CDATA[As he faced jail, the life Niyah Smith had once dreamed of looked impossible. But then came a chance to turn his fortunes around.]]></description>
+            <link>https://www.bbc.co.uk/news/stories-55151982</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/stories-55151982</guid>
+            <pubDate>Sun, 13 Dec 2020 00:03:51 GMT</pubDate>
+        </item>
+    </channel>
+</rss>

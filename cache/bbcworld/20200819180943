@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet title="XSL_formatting" type="text/xsl" href="/shared/bsp/xsl/rss/nolsol.xsl"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News - World]]></title>
+        <description><![CDATA[BBC News - World]]></description>
+        <link>https://www.bbc.co.uk/news/</link>
+        <image>
+            <url>https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News - World</title>
+            <link>https://www.bbc.co.uk/news/</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Wed, 19 Aug 2020 18:08:12 GMT</lastBuildDate>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Belarus unrest: Lukashenko steps up efforts to reassert control]]></title>
+            <description><![CDATA[After 10 days of protests, Alexander Lukashenko says he has given orders to end the unrest in Minsk.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-53831663</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-53831663</guid>
+            <pubDate>Wed, 19 Aug 2020 16:03:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Berlin motorway crashes probed as terror attack]]></title>
+            <description><![CDATA[A man rams three motorbikes in what prosecutors say was an "Islamist-motivated" attack.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-53832113</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-53832113</guid>
+            <pubDate>Wed, 19 Aug 2020 12:52:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Dozens of migrants die in shipwreck off Libya - UN]]></title>
+            <description><![CDATA[The UN reports the deaths of at least 45 people in the largest shipwreck off Libya's coast this year.]]></description>
+            <link>https://www.bbc.co.uk/news/world-africa-53842742</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-53842742</guid>
+            <pubDate>Wed, 19 Aug 2020 18:07:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[US Election 2020: Biden is crowned as Democratic nominee]]></title>
+            <description><![CDATA[Elder statesmen Bill Clinton, Colin Powell and John Kerry line up to endorse Mr Biden.]]></description>
+            <link>https://www.bbc.co.uk/news/election-us-2020-53830373</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/election-us-2020-53830373</guid>
+            <pubDate>Wed, 19 Aug 2020 13:47:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Walkies could become the law for German dog owners]]></title>
+            <description><![CDATA[Taking your dog for twice daily walks, for a total of an hour, could become compulsory from next year.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-53839286</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-53839286</guid>
+            <pubDate>Wed, 19 Aug 2020 17:13:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[California fires: Bay Area hit by blazes forcing thousands to evacuate]]></title>
+            <description><![CDATA[Rescuers went door-to-door overnight near Sacramento as San Francisco is blanketed by smoke.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-53840437</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-53840437</guid>
+            <pubDate>Wed, 19 Aug 2020 16:15:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus vaccine: Australia rules out mandatory immunisations]]></title>
+            <description><![CDATA[Visitors may be required to be immunised if a mass vaccination programme goes ahead.]]></description>
+            <link>https://www.bbc.co.uk/news/world-australia-53840086</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-australia-53840086</guid>
+            <pubDate>Wed, 19 Aug 2020 15:49:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Britney Spears asks court to remove dad's control over personal life]]></title>
+            <description><![CDATA[The singer's father Jamie has acted as her legal conservator for 12 years.]]></description>
+            <link>https://www.bbc.co.uk/news/entertainment-arts-53831916</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/entertainment-arts-53831916</guid>
+            <pubDate>Wed, 19 Aug 2020 11:06:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mali coup: Military promises elections after ousting president]]></title>
+            <description><![CDATA[President Keïta announced his resignation on Tuesday after being detained by soldiers.]]></description>
+            <link>https://www.bbc.co.uk/news/world-africa-53833925</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-53833925</guid>
+            <pubDate>Wed, 19 Aug 2020 15:58:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus: Lebanon to impose lockdown as cases spike after explosion]]></title>
+            <description><![CDATA[Hospitals are already struggling to treat those injured by the explosion in Beirut two weeks ago.]]></description>
+            <link>https://www.bbc.co.uk/news/world-middle-east-53833273</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-middle-east-53833273</guid>
+            <pubDate>Wed, 19 Aug 2020 11:13:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Germany train incident: Eritrean on trial for boy's Frankfurt death]]></title>
+            <description><![CDATA[An eight-year-old boy was killed in the attack at Frankfurt's main railway station last July.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-53833863</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-53833863</guid>
+            <pubDate>Wed, 19 Aug 2020 11:00:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mauritius oil spill: Satellite images show removal operation]]></title>
+            <description><![CDATA[Satellite images capture tug boats trying to remove the broken vessel, which spilled tonnes of oil.]]></description>
+            <link>https://www.bbc.co.uk/news/world-africa-53831687</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-53831687</guid>
+            <pubDate>Wed, 19 Aug 2020 10:00:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Jill Biden: From teacher to possible US first lady]]></title>
+            <description><![CDATA[Here's a look at what we know about the wife of Democratic presidential candidate Joe Biden.]]></description>
+            <link>https://www.bbc.co.uk/news/election-us-2020-53833061</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/election-us-2020-53833061</guid>
+            <pubDate>Wed, 19 Aug 2020 11:18:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Kamala Harris speech: Women who paved way for first black female VP hopeful]]></title>
+            <description><![CDATA[The women who paved the way for Kamala Harris' historic run reflect on their own pioneering candidacies.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-53809195</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-53809195</guid>
+            <pubDate>Tue, 18 Aug 2020 21:30:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Death Valley: What life is like in the 'hottest place on Earth']]></title>
+            <description><![CDATA[The Death Valley just saw one of the highest temperatures ever recorded on Earth - 130F (54.4C)]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-53825593</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-53825593</guid>
+            <pubDate>Tue, 18 Aug 2020 23:12:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Belarus on the brink: What now?]]></title>
+            <description><![CDATA[After 26 years under President Lukashenko people in Belarus are demanding change.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-53822060</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-53822060</guid>
+            <pubDate>Wed, 19 Aug 2020 01:39:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mpape Crushed Rock: Nigerians flock to new Abuja beauty spot]]></title>
+            <description><![CDATA[Nigeria's Mpape Crushed Rock is an unlikely tourist sensation for fun-seekers near the capital, Abuja.]]></description>
+            <link>https://www.bbc.co.uk/news/world-africa-53806880</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-53806880</guid>
+            <pubDate>Tue, 18 Aug 2020 23:18:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Can Harry Potter magic tourists back to Japan?]]></title>
+            <description><![CDATA[Film studio Warner Bros hopes its new tourist attraction based on the boy wizard will be ready for 2023.]]></description>
+            <link>https://www.bbc.co.uk/news/business-53830843</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-53830843</guid>
+            <pubDate>Wed, 19 Aug 2020 03:25:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Beirut blast: Born without a father]]></title>
+            <description><![CDATA[Two weeks after the explosion that shattered Beirut, we meet families whose lives changed forever.]]></description>
+            <link>https://www.bbc.co.uk/news/world-middle-east-53823275</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-middle-east-53823275</guid>
+            <pubDate>Tue, 18 Aug 2020 23:37:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[US election 2020: What young Democrats think of Joe Biden]]></title>
+            <description><![CDATA[He's half a century older than them, but it's his moderate politics that worries these young voters.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-53774680</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-53774680</guid>
+            <pubDate>Tue, 18 Aug 2020 18:31:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mali president and PM arrested by mutinying soldiers in apparent coup attempt]]></title>
+            <description><![CDATA[President Ibrahim Boubacar Keïta and Prime Minister Boubou Cissé are detained in an apparent coup attempt.]]></description>
+            <link>https://www.bbc.co.uk/news/world-africa-53830099</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-53830099</guid>
+            <pubDate>Tue, 18 Aug 2020 22:53:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ocean-sieving expedition reveals huge amounts of microplastic in the Atlantic]]></title>
+            <description><![CDATA[The expedition found that as much as 21 million tonnes of plastic fragments are suspended in the ocean.]]></description>
+            <link>https://www.bbc.co.uk/news/science-environment-53827997</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-53827997</guid>
+            <pubDate>Tue, 18 Aug 2020 23:02:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How a hologram can show a patient’s heart during surgery]]></title>
+            <description><![CDATA[A hologram that shows a patient’s heart in real-time during surgery could help improve accuracy when treating arrhythmias.]]></description>
+            <link>https://www.bbc.co.uk/news/health-53826045</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/health-53826045</guid>
+            <pubDate>Tue, 18 Aug 2020 23:02:49 GMT</pubDate>
+        </item>
+    </channel>
+</rss>

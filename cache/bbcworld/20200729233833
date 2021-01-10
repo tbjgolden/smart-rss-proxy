@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet title="XSL_formatting" type="text/xsl" href="/shared/bsp/xsl/rss/nolsol.xsl"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News - World]]></title>
+        <description><![CDATA[BBC News - World]]></description>
+        <link>https://www.bbc.co.uk/news/</link>
+        <image>
+            <url>https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News - World</title>
+            <link>https://www.bbc.co.uk/news/</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Wed, 29 Jul 2020 23:26:21 GMT</lastBuildDate>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Portland protests: Federal forces ready for phased pull-out]]></title>
+            <description><![CDATA[Oregon's governor calls the officers "an occupying force", but the president says they saved the city.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-53589275</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-53589275</guid>
+            <pubDate>Wed, 29 Jul 2020 22:34:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[US to withdraw 12,000 troops from Germany in 'strategic' move]]></title>
+            <description><![CDATA[President Trump says the move is a response to Berlin's failure to meet targets on defence spending.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-53589245</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-53589245</guid>
+            <pubDate>Wed, 29 Jul 2020 22:26:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Apple, Amazon, Facebook, Google face claims of 'harmful' power]]></title>
+            <description><![CDATA[US lawmakers are considering tougher regulation of the firms, which critics say are too powerful.]]></description>
+            <link>https://www.bbc.co.uk/news/business-53583941</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-53583941</guid>
+            <pubDate>Wed, 29 Jul 2020 21:44:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus: Trump’s signals 'not helpful', says Fauci]]></title>
+            <description><![CDATA[The top US disease researcher was speaking after the president shared a video making unproven claims.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-53587527</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-53587527</guid>
+            <pubDate>Wed, 29 Jul 2020 19:10:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Hong Kong students arrested under national security law]]></title>
+            <description><![CDATA[Those arrested include Tony Chung, the ex-leader of a group that called for Hong Kong independence.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-china-53585747</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-china-53585747</guid>
+            <pubDate>Wed, 29 Jul 2020 16:38:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mexico Supreme Court rejects state's bid to decriminalise abortion]]></title>
+            <description><![CDATA[Were it upheld the ruling would have decriminalised abortion in Veracruz state.]]></description>
+            <link>https://www.bbc.co.uk/news/world-latin-america-53584575</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-latin-america-53584575</guid>
+            <pubDate>Wed, 29 Jul 2020 20:58:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Louie Gohmert: Mask-shunning lawmaker catches Covid-19]]></title>
+            <description><![CDATA[Louie Gohmert, a Republican, questioned whether his mask was to blame for infecting him.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-53588843</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-53588843</guid>
+            <pubDate>Wed, 29 Jul 2020 20:50:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Rafale: India gets new jets amid border tension with China]]></title>
+            <description><![CDATA[The French Rafale jets will boost India's air power, but they can't be deployed right away.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-india-53573878</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-india-53573878</guid>
+            <pubDate>Wed, 29 Jul 2020 09:50:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus: Scaled back Hajj pilgrimage begins in Saudi Arabia]]></title>
+            <description><![CDATA[Only a small number of Muslims living in Saudi Arabia are able to make the Hajj this year.]]></description>
+            <link>https://www.bbc.co.uk/news/world-middle-east-53571886</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-middle-east-53571886</guid>
+            <pubDate>Wed, 29 Jul 2020 11:38:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus: Seven Zimbabwe babies stillborn in one night at hospital]]></title>
+            <description><![CDATA[Only one baby was born alive as urgent treatment was delayed over Covid-19-related staffing issues.]]></description>
+            <link>https://www.bbc.co.uk/news/world-africa-53580559</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-53580559</guid>
+            <pubDate>Wed, 29 Jul 2020 11:36:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Pakistan blasphemy: Gunman shoots accused dead in court]]></title>
+            <description><![CDATA[The victim was in court in the Pakistani city of Peshawar to face charges of claiming to be a prophet.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-53582578</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-53582578</guid>
+            <pubDate>Wed, 29 Jul 2020 14:59:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[New York City police accused of 'kidnapping' protester]]></title>
+            <description><![CDATA[The footage of a protester being snatched off the street was shared widely on social media.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-53584104</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-53584104</guid>
+            <pubDate>Wed, 29 Jul 2020 18:57:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Stella Immanuel - the doctor behind unproven coronavirus cure claim]]></title>
+            <description><![CDATA[Stella Immanuel has caught the US president's attention for claiming hydroxychloroquine cures Covid-19.]]></description>
+            <link>https://www.bbc.co.uk/news/world-africa-53579773</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-53579773</guid>
+            <pubDate>Wed, 29 Jul 2020 16:47:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Spain quarantine rules: The businesses fearing for their futures]]></title>
+            <description><![CDATA[Spain's struggling tourist businesses say the UK's new quarantine rules may drive them off the edge.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-53570874</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-53570874</guid>
+            <pubDate>Tue, 28 Jul 2020 23:50:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Pre-colonial communities’ history of gender fluidity]]></title>
+            <description><![CDATA[The BBC spoke to three people from cultures that have a long history of gender fluidity.]]></description>
+            <link>https://www.bbc.co.uk/news/world-53573764</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-53573764</guid>
+            <pubDate>Tue, 28 Jul 2020 23:01:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Saudi Hajj coronavirus curbs mean 'no work, no salary, nothing']]></title>
+            <description><![CDATA[Covid-19 has hit the annual Hajj and with no international pilgrims, many firms both in Saudi and abroad are suffering.]]></description>
+            <link>https://www.bbc.co.uk/news/business-53532941</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-53532941</guid>
+            <pubDate>Tue, 28 Jul 2020 23:12:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Should police be first to respond in a mental-health crisis?]]></title>
+            <description><![CDATA[Why cities in the US and Canada are eyeing removing police from front-line mental-health response.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-53239773</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-53239773</guid>
+            <pubDate>Tue, 28 Jul 2020 23:08:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus in Pakistan: Doctor's video diary of fight against pandemic]]></title>
+            <description><![CDATA[A doctor in one of Pakistan’s busiest hospitals has kept a video diary of the country’s struggle with coronavirus.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-53559251</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-53559251</guid>
+            <pubDate>Wed, 29 Jul 2020 23:13:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus: Ibiza boss reacts to UK quarantine regulations]]></title>
+            <description><![CDATA[O Beach Ibiza boss, Tony Truman, based on the island for 20 years, explains how the new rules are impacting plans.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-53586254</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-53586254</guid>
+            <pubDate>Wed, 29 Jul 2020 21:06:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus: Scaled back Hajj pilgrimage begins]]></title>
+            <description><![CDATA[Muslims are beginning a scaled back annual Hajj pilgrimage in Saudi Arabia.]]></description>
+            <link>https://www.bbc.co.uk/news/world-middle-east-53577690</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-middle-east-53577690</guid>
+            <pubDate>Wed, 29 Jul 2020 12:30:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Hajj 2020: 'It would have been my solace']]></title>
+            <description><![CDATA[In the past year, Anisa lost her mother, her job and her house and had hoped Hajj would help her find solace.]]></description>
+            <link>https://www.bbc.co.uk/news/world-africa-53573949</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-53573949</guid>
+            <pubDate>Wed, 29 Jul 2020 06:27:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Coronavirus: 'We’re still waiting at home for them to come back']]></title>
+            <description><![CDATA[Latinos represent 18% of the total US population but more than a third of Covid-19 cases.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-53521886</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-53521886</guid>
+            <pubDate>Mon, 27 Jul 2020 20:14:40 GMT</pubDate>
+        </item>
+    </channel>
+</rss>

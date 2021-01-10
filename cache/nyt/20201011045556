@@ -1,0 +1,962 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:nyt="http://www.nytimes.com/namespaces/rss/2.0" version="2.0">
+  <channel>
+    <title>NYT &gt; Top Stories</title>
+    <link>https://www.nytimes.com</link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml" rel="self" type="application/rss+xml"></atom:link>
+    <description></description>
+    <language>en-us</language>
+    <copyright>Copyright 2020 The New York Times Company</copyright>
+    <lastBuildDate>Sun, 11 Oct 2020 05:00:43 +0000</lastBuildDate>
+    <pubDate>Sun, 11 Oct 2020 05:00:43 +0000</pubDate>
+    <image>
+      <title>NYT &gt; Top Stories</title>
+      <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
+      <link>https://www.nytimes.com</link>
+    </image>
+    <item>
+      <title>7 Key Findings About Trump’s Reinvented Swamp</title>
+      <link>https://www.nytimes.com/2020/10/10/us/trump-hotels-resorts-takeaways.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/10/10/us/trump-hotels-resorts-takeaways.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/10/10/us/trump-hotels-resorts-takeaways.html" rel="standout"></atom:link>
+      <description>The president built a system of favor-seeking at his hotels and resorts that is unrivaled in modern American politics.</description>
+      <dc:creator>The New York Times</dc:creator>
+      <pubDate>Sat, 10 Oct 2020 17:49:36 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Trump Tax Returns</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Conflicts of Interest</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Lobbying and Lobbyists</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Trump Organization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Mar-a-Lago (Palm Beach, Fla)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Trump International Hotel (Washington, DC)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/10/09/multimedia/00Trump-Properties-Takeaways-1/merlin_174780936_ccca7746-459e-4804-9e24-4fa8c12aaf5b-moth.jpg" width="151"></media:content>
+      <media:credit>Pool photo by Oliver Contreras/EPA, via Shutterstock</media:credit>
+      <media:description>The Trump hotel in Washington has been a destination for lobbyists, foreign politicians, religious groups and Fox personalities.</media:description>
+    </item>
+    <item>
+      <title>Trump’s Doctor Says He’s No Longer Contagious but Offers Few Details</title>
+      <link>https://www.nytimes.com/live/2020/10/10/world/covid-coronavirus</link>
+      <guid isPermaLink="true">https://www.nytimes.com/live/2020/10/10/world/covid-coronavirus</guid>
+      <atom:link href="https://www.nytimes.com/live/2020/10/10/world/covid-coronavirus" rel="standout"></atom:link>
+      <description>President Trump’s doctor said in a memo that he was no longer “a transmission risk to others,” ahead of a campaign event Monday. Here’s the latest.</description>
+      <dc:creator>The New York Times</dc:creator>
+      <pubDate>Sun, 11 Oct 2020 04:01:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>Trump Makes First Public Appearance Since Leaving Walter Reed</title>
+      <link>https://www.nytimes.com/2020/10/10/us/politics/trump-white-house-coronavirus.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/10/10/us/politics/trump-white-house-coronavirus.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/10/10/us/politics/trump-white-house-coronavirus.html" rel="standout"></atom:link>
+      <description>The president continued to play down the threat of the virus, but the event that the White House had previewed as a huge “peaceful protest for law and order” was uncharacteristically brief.</description>
+      <dc:creator>Annie Karni and Maggie Haberman</dc:creator>
+      <pubDate>Sun, 11 Oct 2020 01:48:07 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">White House Coronavirus Outbreak (2020)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2020</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Reed, Walter, National Military Medical Center</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Atlas, Scott W</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kushner, Jared</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/10/10/us/politics/10dc-Trump-1/merlin_178324659_eccde836-a847-404f-af50-8ac2d3b766c7-moth.jpg" width="151"></media:content>
+      <media:credit>Doug Mills/The New York Times</media:credit>
+      <media:description>President Trump on Saturday. White House officials said the president would speak for 30 minutes, but he kept his remarks to just 18 minutes in total.</media:description>
+    </item>
+    <item>
+      <title>Turning Power of State Against Rivals, Trump Seeks Power of Authoritarians</title>
+      <link>https://www.nytimes.com/2020/10/10/us/politics/trump-barr-pompeo.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/10/10/us/politics/trump-barr-pompeo.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/10/10/us/politics/trump-barr-pompeo.html" rel="standout"></atom:link>
+      <description>President Trump took a step even Richard M. Nixon avoided in his most desperate days: openly ordering direct, immediate government action against specific opponents, timed to serve his re-election campaign.</description>
+      <dc:creator>David E. Sanger</dc:creator>
+      <pubDate>Sun, 11 Oct 2020 00:03:23 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2020</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Classified Information and State Secrets</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Justice Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">State Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/10/10/us/politics/10dc-prexy-2/10dc-prexy-2-moth.jpg" width="151"></media:content>
+      <media:credit>Pool photo by Charly Triballeau</media:credit>
+      <media:description>Secretary of State Mike Pompeo was ordered by President Trump to declassify thousands of Hillary Clinton’s emails.</media:description>
+    </item>
+    <item>
+      <title>QAnon Is Thriving in Germany. The Extreme Right Is Delighted.</title>
+      <link>https://www.nytimes.com/2020/10/11/world/europe/qanon-is-thriving-in-germany-the-extreme-right-is-delighted.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/10/11/world/europe/qanon-is-thriving-in-germany-the-extreme-right-is-delighted.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/10/11/world/europe/qanon-is-thriving-in-germany-the-extreme-right-is-delighted.html" rel="standout"></atom:link>
+      <description>As the U.S. conspiracy theory goes global, it has found fertile ground in the putsch fantasies and anti-Semitic tropes long popular on Germany’s far-right fringe. Counterterrorism officials worry.</description>
+      <dc:creator>Katrin Bennhold</dc:creator>
+      <pubDate>Sun, 11 Oct 2020 04:01:09 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">QAnon</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fringe Groups and Movements</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Conspiracy Theories</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Right-Wing Extremism and Alt-Right</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Neo Nazi Groups</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Anti-Semitism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Germany</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/10/11/world/11qanon-germany-print/00qanon-germany1-moth.jpg" width="151"></media:content>
+      <media:credit>Lena Mucha for The New York Times</media:credit>
+      <media:description>QAnon supporters joined other protesters marching in D&amp;uuml;sseldorf, Germany, against coronavirus measures last month.</media:description>
+    </item>
+    <item>
+      <title>‘If No Tourists Come, I Have No Business’: New York’s Tourism Crisis</title>
+      <link>https://www.nytimes.com/2020/10/09/travel/nyc-tourism-travel-restrictions.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/10/09/travel/nyc-tourism-travel-restrictions.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/10/09/travel/nyc-tourism-travel-restrictions.html" rel="standout"></atom:link>
+      <description>International arrivals to New York are down as much as 93 percent, and the people and businesses of the city’s tourism industry are on the brink.</description>
+      <dc:creator>Ceylan Yeginsu and Derek M. Norman</dc:creator>
+      <pubDate>Fri, 09 Oct 2020 17:47:29 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Travel and Vacations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Travel Warnings</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Shutdowns (Institutional)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus Reopenings</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Restaurants</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Layoffs and Job Reductions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Broadway League</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Grand Central Terminal (Manhattan, NY)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Kennedy International Airport (Queens, NY)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Mark Hotel (Manhattan, NY, Hotel)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">NYC &amp; CO</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Taxi and Limousine Commission</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United States Travel Assn</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/10/09/travel/09nyc-tourism6/merlin_178163214_a5adb287-1959-4b37-bd77-21b1b9f3e683-moth.jpg" width="151"></media:content>
+      <media:credit>Karsten Moran for The New York Times</media:credit>
+      <media:description>Socially distanced tables have been set up in Father Duffy Square, at the northern end of Times Square, but few people are lingering. </media:description>
+    </item>
+    <item>
+      <title>Extra Pounds May Raise Risk of Severe Covid-19</title>
+      <link>https://www.nytimes.com/2020/10/10/health/coronavirus-obesity-weight.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/10/10/health/coronavirus-obesity-weight.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/10/10/health/coronavirus-obesity-weight.html" rel="standout"></atom:link>
+      <description>Even people who aren’t obese may be more likely to become seriously ill when infected with the coronavirus, the C.D.C. said.</description>
+      <dc:creator>Roni Caryn Rabin</dc:creator>
+      <pubDate>Sat, 10 Oct 2020 23:24:10 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Weight</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Obesity</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Diet and Nutrition</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fat Tissue</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Diabetes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Disease Rates</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Centers for Disease Control and Prevention</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">International Journal of Obesity</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-science</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/10/10/science/10VIRUS-OVERWEIGHT01/10VIRUS-OVERWEIGHT01-moth.jpg" width="151"></media:content>
+      <media:credit>Brittainy Newman for The New York Times</media:credit>
+      <media:description>By the new calculus, more than two-thirds of Americans may be at risk of severe Covid-19 if infected with the coronavirus. Exercise may be protective.</media:description>
+    </item>
+    <item>
+      <title>At the French Open, Players Look to the Tao of Rafael Nadal</title>
+      <link>https://www.nytimes.com/2020/10/11/sports/tennis/french-open-rafael-nadal.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/10/11/sports/tennis/french-open-rafael-nadal.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/10/11/sports/tennis/french-open-rafael-nadal.html" rel="standout"></atom:link>
+      <description>For many of the players, Nadal has given the most cleareyed view of a tournament held during a pandemic and a career chasing Grand Slam titles.</description>
+      <dc:creator>Karen Crouse</dc:creator>
+      <pubDate>Sun, 11 Oct 2020 04:01:08 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Tennis</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">French Open (Tennis)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Nadal, Rafael</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/10/11/sports/11french-tao-of-rafa/11french-tao-of-rafa-moth.jpg" width="151"></media:content>
+      <media:credit>Anne-Christine Poujoulat/Agence France-Presse — Getty Images</media:credit>
+      <media:description>When Rafael Nadal speaks at the French Open, the players perk up more than they do for their other peers.</media:description>
+    </item>
+    <item>
+      <title>It’s Djokovic-Nadal Yet Again. But This French Open Duel Is Not Like the Others.</title>
+      <link>https://www.nytimes.com/2020/10/10/sports/tennis/french-open-mens-final-nadal-djokovic.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/10/10/sports/tennis/french-open-mens-final-nadal-djokovic.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/10/10/sports/tennis/french-open-mens-final-nadal-djokovic.html" rel="standout"></atom:link>
+      <description>Rafael Nadal has been essentially unstoppable on clay. Novak Djokovic, though, could be that stopper.</description>
+      <dc:creator>Christopher Clarey</dc:creator>
+      <pubDate>Sat, 10 Oct 2020 22:33:08 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Tennis</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">French Open (Tennis)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Djokovic, Novak</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Nadal, Rafael</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/10/10/sports/10french-ontennis01/10french-ontennis01-moth.jpg" width="151"></media:content>
+      <media:credit>Edgar Su/Reuters</media:credit>
+      <media:description>Rafael Nadal, left, and Novak Djokovic last played in January, at the ATP Cup in Australia. Djokovic won that duel, and the French Open final on Sunday will be their 56th head-to-head matchup.</media:description>
+    </item>
+    <item>
+      <title>Can Joe Biden Win Pennsylvania&#39;s Working Class?</title>
+      <link>https://www.nytimes.com/2020/10/09/podcasts/the-daily/biden-trump-pennsylvania-swing-voters.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/10/09/podcasts/the-daily/biden-trump-pennsylvania-swing-voters.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/10/09/podcasts/the-daily/biden-trump-pennsylvania-swing-voters.html" rel="standout"></atom:link>
+      <description>Formerly Democratic counties in the state swung decisively toward Donald Trump in 2016. Can Joe Biden claw back some of the working-class white vote?</description>
+      <pubDate>Fri, 09 Oct 2020 14:38:28 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2020</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Pennsylvania</category>
+    </item>
+    <item>
+      <title>Subscribe to the Modern Love Podcast</title>
+      <link>https://www.nytimes.com/2020/10/07/style/modern-love-podcast-trailer.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/10/07/style/modern-love-podcast-trailer.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/10/07/style/modern-love-podcast-trailer.html" rel="standout"></atom:link>
+      <description>Love will sound a little different this season.</description>
+      <pubDate>Fri, 09 Oct 2020 10:05:35 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Modern Love (Times Column)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Podcasts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Love (Emotion)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Quarantines</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">New York Times</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/10/06/us/00ModLove-Podcast-Promo-Art/00ModLove-Podcast-Promo-Art-moth.png" width="151"></media:content>
+      <media:credit>Brian Rea</media:credit>
+    </item>
+    <item>
+      <title>Killer Mike Says He Has a Choice to Make</title>
+      <link>https://www.nytimes.com/2020/10/08/opinion/sway-kara-swisher-killer-mike.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/10/08/opinion/sway-kara-swisher-killer-mike.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/10/08/opinion/sway-kara-swisher-killer-mike.html" rel="standout"></atom:link>
+      <description>The rapper and activist on transforming fear into power.</description>
+      <pubDate>Thu, 08 Oct 2020 13:31:03 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Black People</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Killer Mike</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">George Floyd Protests (2020)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Atlanta (Ga)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Run the Jewels (Music Group)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Banking and Financial Institutions</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/10/08/opinion/08sway-mike-image/08sway-mike-image-moth.png" width="151"></media:content>
+      <media:credit>Paras Griffin/Getty Images</media:credit>
+    </item>
+    <item>
+      <title>Manic Panic on the Potomac</title>
+      <link>https://www.nytimes.com/2020/10/10/opinion/trump-mitch-mcconnell-coronavirus.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/10/10/opinion/trump-mitch-mcconnell-coronavirus.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/10/10/opinion/trump-mitch-mcconnell-coronavirus.html" rel="standout"></atom:link>
+      <description>Will Mitch ditch the Donald?</description>
+      <dc:creator>Maureen Dowd</dc:creator>
+      <pubDate>Sat, 10 Oct 2020 15:00:05 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus Aid, Relief, and Economic Security Act (2020)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">McConnell, Mitch</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2020</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/10/10/opinion/10Dowd1/10Dowd1-moth.jpg" width="151"></media:content>
+      <media:credit>Anna Moneymaker for The New York Times</media:credit>
+    </item>
+    <item>
+      <title>Trump Has Called His Supporters ‘Disgusting.’ Do They Care?</title>
+      <link>https://www.nytimes.com/2020/10/10/sunday-review/trump-supporters.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/10/10/sunday-review/trump-supporters.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/10/10/sunday-review/trump-supporters.html" rel="standout"></atom:link>
+      <description>“The people Trump despises most love him the most,” Howard Stern has said. But that may be beginning to change.</description>
+      <dc:creator>Mark Leibovich</dc:creator>
+      <pubDate>Sat, 10 Oct 2020 15:25:06 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2020</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Voting and Voters</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/10/11/opinion/10Leibovich_editorial/10Leibovich_editorial-moth.jpg" width="151"></media:content>
+      <media:credit>Scott Olson/Getty Images</media:credit>
+      <media:description>Donald Trump signing autographs at a campaign rally in Iowa in October 2015. He later called some of his supporters a &amp;ldquo;little bit sad.&amp;rdquo;</media:description>
+    </item>
+    <item>
+      <title>Who’s the Tax Cheat: The Lady in Jail or the Man in the White House?</title>
+      <link>https://www.nytimes.com/2020/10/10/opinion/sunday/trump-taxes.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/10/10/opinion/sunday/trump-taxes.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/10/10/opinion/sunday/trump-taxes.html" rel="standout"></atom:link>
+      <description>Donald Trump knows that taxes are for the poor.</description>
+      <dc:creator>Nicholas Kristof</dc:creator>
+      <pubDate>Sat, 10 Oct 2020 18:30:06 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Federal Taxes (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Tax Credits, Deductions and Exemptions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Income Tax</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cheating</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Tax Evasion</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">High Net Worth Individuals</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Internal Revenue Service</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Humphreys County (Miss)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/10/11/opinion/sunday/11Kristof-Promo/11Kristof-Promo-moth.jpg" width="151"></media:content>
+      <media:credit>Rose M. Prouser/CNN, via Reuters and Pool Photo by Kathleen O&#39;Rourke</media:credit>
+    </item>
+    <item>
+      <title>There Will Be No Trump Coup</title>
+      <link>https://www.nytimes.com/2020/10/10/opinion/sunday/trump-election-authoritarianism.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/10/10/opinion/sunday/trump-election-authoritarianism.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/10/10/opinion/sunday/trump-election-authoritarianism.html" rel="standout"></atom:link>
+      <description>A final pre-election case for understanding the president as a noisy weakling, not a budding autocrat.</description>
+      <dc:creator>Ross Douthat</dc:creator>
+      <pubDate>Sun, 11 Oct 2020 02:30:16 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2020</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Liberalism (US Politics)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/10/11/opinion/10Douthat/10Douthat-moth-v2.jpg" width="151"></media:content>
+      <media:credit>Oliver Contreras for The New York Times</media:credit>
+    </item>
+    <item>
+      <title>What We Can Learn From the Rise and Fall of ‘Political Blackness’</title>
+      <link>https://www.nytimes.com/2020/10/07/opinion/political-blackness-race.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/10/07/opinion/political-blackness-race.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/10/07/opinion/political-blackness-race.html" rel="standout"></atom:link>
+      <description>Before “people of color” and BIPOC, Britain had its own inclusive concept for nonwhite people.</description>
+      <dc:creator>Kwame Anthony Appiah</dc:creator>
+      <pubDate>Thu, 08 Oct 2020 05:21:00 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Black People</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Race and Ethnicity</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Minorities</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/10/07/opinion/07Appiah1/07Appiah1-moth.jpg" width="151"></media:content>
+      <media:credit>Justin Tallis/Agence France-Presse &amp;mdash; Getty Images</media:credit>
+      <media:description>Mayor Sadiq Khan of London is of Pakistani heritage. Is he also Black? Such questions remain controversial in Britain, as they do in the United States.</media:description>
+    </item>
+    <item>
+      <title>Trump’s Overhaul of Immigration Is Worse Than You Think</title>
+      <link>https://www.nytimes.com/2020/10/10/opinion/sunday/trump-immigration-child-separations.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/10/10/opinion/sunday/trump-immigration-child-separations.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/10/10/opinion/sunday/trump-immigration-child-separations.html" rel="standout"></atom:link>
+      <description>This administration has attacked every aspect of the immigration system — and it won’t be easy to undo.</description>
+      <dc:creator>The Editorial Board</dc:creator>
+      <pubDate>Sat, 10 Oct 2020 18:30:08 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration and Emigration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Illegal Immigration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Family Separation Policy (US Immigration)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Asylum, Right of</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Border Barriers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2016</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Refugees and Displaced Persons</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Dream Act (Development, Relief and Education for Minors Act)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Foreign Workers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deferred Action for Childhood Arrivals</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Executive Orders and Memorandums</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Green Cards (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Frey, William H</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Miller, Stephen (1985- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sessions, Jefferson B III</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/10/11/opinion/1010immigration_editorial/1010immigration-moth-v2.jpg" width="151"></media:content>
+      <media:credit>Eric Gay/Associated Press</media:credit>
+      <media:description>The South Texas Family Residential Center on Aug. 23, 2019, in Dilley, Tex.</media:description>
+    </item>
+    <item>
+      <title>The Plot Against Gretchen Whitmer Shows the Danger of Private Militias</title>
+      <link>https://www.nytimes.com/2020/10/08/opinion/militias-gretchen-whitmer.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/10/08/opinion/militias-gretchen-whitmer.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/10/08/opinion/militias-gretchen-whitmer.html" rel="standout"></atom:link>
+      <description>These groups have no constitutional right to exist.</description>
+      <dc:creator>Mary B. McCord</dc:creator>
+      <pubDate>Sat, 10 Oct 2020 09:55:56 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Second Amendment (US Constitution)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Kidnapping and Hostages</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Whitmer, Gretchen</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Michigan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">States (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vigilantes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Right-Wing Extremism and Alt-Right</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/10/12/opinion/08McCord5/08McCord5-moth.jpg" width="151"></media:content>
+      <media:credit>Bryan Woolston/Reuters</media:credit>
+      <media:description>A gathering in Louisville, Ky., in September.</media:description>
+    </item>
+    <item>
+      <title>The Private Sector Can’t Pay for Everything</title>
+      <link>https://www.nytimes.com/2020/10/09/sunday-review/stimulus-congress-layoffs.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/10/09/sunday-review/stimulus-congress-layoffs.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/10/09/sunday-review/stimulus-congress-layoffs.html" rel="standout"></atom:link>
+      <description>With stimulus delayed amid waffling by President Trump, employers have been left to fend for themselves. The results have been troubling.</description>
+      <dc:creator>Noam Scheiber</dc:creator>
+      <pubDate>Sat, 10 Oct 2020 17:58:21 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Tests (Medical)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Layoffs and Job Reductions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/10/11/opinion/sunday/08scheiber/08scheiber-moth.jpg" width="151"></media:content>
+      <media:credit>Juanjo Gasull</media:credit>
+    </item>
+    <item>
+      <title>Everything I Know About Elite America I Learned From ‘Fresh Prince’ and ‘West Wing’</title>
+      <link>https://www.nytimes.com/2020/10/10/opinion/television-culture.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/10/10/opinion/television-culture.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/10/10/opinion/television-culture.html" rel="standout"></atom:link>
+      <description>Television taught me how to move between social classes — but at what cost?</description>
+      <dc:creator>Rob Henderson</dc:creator>
+      <pubDate>Sat, 10 Oct 2020 15:00:21 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Colleges and Universities</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Television</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Mad Men (TV Program)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">The West Wing (TV Program)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Will &amp; Grace (TV Program)</category>
+    </item>
+    <item>
+      <title>It’s a Hellscape Out There. Try a Galette.</title>
+      <link>https://www.nytimes.com/2020/10/10/opinion/galette-pastry-pandemic.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/10/10/opinion/galette-pastry-pandemic.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/10/10/opinion/galette-pastry-pandemic.html" rel="standout"></atom:link>
+      <description>They’re messy. They’re forgiving. They’re the pastry form we need in 2020.</description>
+      <dc:creator>Tamar Adler</dc:creator>
+      <pubDate>Sat, 10 Oct 2020 15:00:06 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cooking and Cookbooks</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Bakeries and Baked Products</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pies</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/10/12/opinion/12adler-inyt/10adler-moth.jpg" width="151"></media:content>
+      <media:credit>David Huang</media:credit>
+    </item>
+    <item>
+      <title>5 Minutes That Will Make You Love Baroque Music</title>
+      <link>https://www.nytimes.com/2020/10/07/arts/music/five-minutes-classical-music-baroque.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/10/07/arts/music/five-minutes-classical-music-baroque.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/10/07/arts/music/five-minutes-classical-music-baroque.html" rel="standout"></atom:link>
+      <description>Listen to spirited, sublime works by Bach, Handel, Purcell and others.</description>
+      <pubDate>Wed, 07 Oct 2020 10:05:05 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Classical Music</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bach, Johann Sebastian</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Handel, George Frederick</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Scarlatti, Domenico</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Royer, Joseph-Nicolas-Panrace</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Purcell, Henry (1659-95)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Monteverdi, Claudio</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lully, Jean-Baptiste</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rameau, Jean-Philippe</category>
+    </item>
+    <item>
+      <title>Please Let Me Terrify Some Kids on Halloween</title>
+      <link>https://www.nytimes.com/2020/10/01/parenting/halloween-kids.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/10/01/parenting/halloween-kids.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/10/01/parenting/halloween-kids.html" rel="standout"></atom:link>
+      <description>A socially distanced dad hopes that frightening children isn’t a thing of the past.</description>
+      <dc:creator>Erik Vance</dc:creator>
+      <pubDate>Thu, 01 Oct 2020 18:48:30 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Halloween</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Parenting</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Costumes</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/09/30/multimedia/1parenting-scare/1parenting-scare-moth.jpg" width="151"></media:content>
+      <media:credit>Byron Eggenschwiler</media:credit>
+    </item>
+    <item>
+      <title>Modern Science Didn’t Appear Until the 17th Century. What Took So Long?</title>
+      <link>https://www.nytimes.com/2020/10/07/books/review-knowledge-machine-irrationality-created-modern-science-michael-strevens.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/10/07/books/review-knowledge-machine-irrationality-created-modern-science-michael-strevens.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/10/07/books/review-knowledge-machine-irrationality-created-modern-science-michael-strevens.html" rel="standout"></atom:link>
+      <description>In “The Knowledge Machine,” the philosopher Michael Strevens says that there is something fundamentally irrational and even “inhuman” about the scientific method.</description>
+      <dc:creator>Jennifer Szalai</dc:creator>
+      <pubDate>Wed, 07 Oct 2020 15:23:54 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Books and Literature</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Science and Technology</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">The Knowledge Machine: How Irrationality Created Modern Science (Book)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Strevens, Michael</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Philosophy</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/10/08/books/07BOOKSTREVENS1/07BOOKSTREVENS1-moth.png" width="151"></media:content>
+      <media:credit>.</media:credit>
+    </item>
+    <item>
+      <title>Fatal Shooting in Denver Amid Dueling Protests, Police Say</title>
+      <link>https://www.nytimes.com/2020/10/10/us/Denver-shooting-protest.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/10/10/us/Denver-shooting-protest.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/10/10/us/Denver-shooting-protest.html" rel="standout"></atom:link>
+      <description>The shooting happened as opposing rallies by far-right and far-left activists were ending. A television news station reported that a private security guard it had hired was being detained by the police.</description>
+      <dc:creator>Bryan Pietsch and Concepción de León</dc:creator>
+      <pubDate>Sun, 11 Oct 2020 03:18:01 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Murders, Attempted Murders and Homicides</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Denver (Colo)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Denver Communists</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Patriot Muster</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Antifa Movement (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Black Lives Matter Movement</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/10/10/multimedia/10-denver-shooting-1/10-denver-shooting-1-moth.jpg" width="151"></media:content>
+      <media:credit>Helen H. Richardson/The Denver Post, via Associated Press</media:credit>
+      <media:description>An unidentified man spraying Mace or a similar substance just before he was shot, as opposing rallies were winding down in Denver on Saturday.</media:description>
+    </item>
+    <item>
+      <title>Senate Republicans Denounce White House’s Offer for Coronavirus Relief</title>
+      <link>https://www.nytimes.com/2020/10/10/us/politics/senate-republicans-white-house-coronavirus-relief.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/10/10/us/politics/senate-republicans-white-house-coronavirus-relief.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/10/10/us/politics/senate-republicans-white-house-coronavirus-relief.html" rel="standout"></atom:link>
+      <description>Even as Democrats held out for more concessions over funding and provisions, it was the deep divisions among Republicans that were standing in the way.</description>
+      <dc:creator>Emily Cochrane</dc:creator>
+      <pubDate>Sun, 11 Oct 2020 02:28:54 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Pelosi, Nancy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Meadows, Mark R (1959- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mnuchin, Steven T</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Treasury Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/10/10/us/politics/10dc-virus-cong-2/merlin_177478404_a46b545f-fcf8-48a7-aa62-d095ba51decf-moth.jpg" width="151"></media:content>
+      <media:credit>Anna Moneymaker for The New York Times</media:credit>
+      <media:description>Senator Marsha Blackburn of Tennessee, a Republican, warned that accepting a bill with Speaker Nancy Pelosi’s support would amount to a “death knell” for the party’s ambitions to retain its majority in the Senate.</media:description>
+    </item>
+    <item>
+      <title>Indian Police Accuse Popular TV Station of Ratings Fraud</title>
+      <link>https://www.nytimes.com/2020/10/09/world/asia/india-republic-tv-ratings.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/10/09/world/asia/india-republic-tv-ratings.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/10/09/world/asia/india-republic-tv-ratings.html" rel="standout"></atom:link>
+      <description>Republic TV has torn down critics and bolstered the Indian government. Now it is under a criminal investigation.</description>
+      <dc:creator>Jeffrey Gettleman, Hari Kumar and Shalini Venugopal Bhagat</dc:creator>
+      <pubDate>Fri, 09 Oct 2020 14:51:39 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Goswami, Arnab</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">ARG Outlier Media Pvt Ltd (Republic TV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ratings (Audience Measurement)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">News and News Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Television</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Bribery and Kickbacks</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">India</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Freedom of the Press</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Modi, Narendra</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/10/09/world/09india-media01/09india-media01-moth.jpg" width="151"></media:content>
+      <media:credit>Satish Bate/Hindustan Times, via Getty Images</media:credit>
+      <media:description>Republic TV’s lead anchor, Arnab Goswami, in Mumbai in June. The station is accused of paying poor people to tune in.</media:description>
+    </item>
+    <item>
+      <title>Hurricane Delta Brings Floods and Destruction to an Already Battered Louisiana</title>
+      <link>https://www.nytimes.com/2020/10/10/us/hurricane-delta-damage.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/10/10/us/hurricane-delta-damage.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/10/10/us/hurricane-delta-damage.html" rel="standout"></atom:link>
+      <description>The storm made landfall some 20 miles from where Laura touched down a few weeks ago, intensifying the devastation the state has experienced during a brutal hurricane season.</description>
+      <dc:creator>Rick Rojas and Giulia McDonnell Nieto del Rio</dc:creator>
+      <pubDate>Sun, 11 Oct 2020 00:16:53 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hurricanes and Tropical Storms</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hurricane Laura (2020)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Floods</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Louisiana</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Lafayette (La)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Lake Charles (La)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Baton Rouge (La)</category>
+      <category domain="">Hurricane Delta</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/10/10/us/10delta16/10delta16-moth.jpg" width="151"></media:content>
+      <media:credit>Octavio Jones for The New York Times</media:credit>
+      <media:description>Hurricane Delta left another layer of damage in coastal Louisiana, where the storm made landfall only six weeks after Hurricane Laura devastated the state.</media:description>
+    </item>
+    <item>
+      <title>Guantánamo Bay Navy Base Raises Health Alert and Closes Facilities</title>
+      <link>https://www.nytimes.com/2020/10/10/us/politics/guantanamo-bay-health-alert.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/10/10/us/politics/guantanamo-bay-health-alert.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/10/10/us/politics/guantanamo-bay-health-alert.html" rel="standout"></atom:link>
+      <description>Residents received little information about the source of the health scare that halted activities at the outpost in Cuba.</description>
+      <dc:creator>Carol Rosenberg</dc:creator>
+      <pubDate>Sat, 10 Oct 2020 23:41:27 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Shutdowns (Institutional)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United States Navy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">International Committee of the Red Cross</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Detainees</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Military Tribunals</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Guantanamo Bay Naval Base (Cuba)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/10/10/us/politics/10gitmo-sub1/10gitmo-sub1-moth.jpg" width="151"></media:content>
+      <media:credit>Doug Mills/The New York Times</media:credit>
+      <media:description>The commissary complex at the naval base in 2019.</media:description>
+    </item>
+    <item>
+      <title>In Belarus, Women Led the Protests and Shattered Stereotypes</title>
+      <link>https://www.nytimes.com/2020/10/11/world/europe/in-belarus-women-led-the-protests-and-shattered-stereotypes.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/10/11/world/europe/in-belarus-women-led-the-protests-and-shattered-stereotypes.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/10/11/world/europe/in-belarus-women-led-the-protests-and-shattered-stereotypes.html" rel="standout"></atom:link>
+      <description>The women who organized the political campaign and the subsequent protests against President Aleksandr G. Lukashenko may ultimately be defeated. But society may never be the same.</description>
+      <dc:creator>Ivan Nechepurenko</dc:creator>
+      <pubDate>Sun, 11 Oct 2020 04:01:09 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Women and Girls</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Men and Boys</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Alexievich, Svetlana</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Tikhanovskaya, Svetlana</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kolesnikova, Maria</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lukashenko, Aleksandr G</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Minsk (Belarus)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">World War II (1939-45)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/10/07/world/00belarus-women6/00belarus-women6-moth.jpg" width="151"></media:content>
+      <media:credit>EPA, via Shutterstock</media:credit>
+      <media:description>Belarusian women protesting in Minsk last month. </media:description>
+    </item>
+    <item>
+      <title>A Famed Horror Director Mines Japan’s Real-Life Atrocities</title>
+      <link>https://www.nytimes.com/2020/10/10/world/asia/kiyoshi-kurosawa-wife-of-a-spy.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/10/10/world/asia/kiyoshi-kurosawa-wife-of-a-spy.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/10/10/world/asia/kiyoshi-kurosawa-wife-of-a-spy.html" rel="standout"></atom:link>
+      <description>Kiyoshi Kurosawa’s latest movie, which recently won him the award for best director at the Venice Film Festival, is a thriller animated by the ghosts of Japan’s ghastly wartime experiments.</description>
+      <dc:creator>Ben Dooley</dc:creator>
+      <pubDate>Sat, 10 Oct 2020 09:00:12 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Movies</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Biological and Chemical Warfare</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">World War II (1939-45)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Venice International Film Festival</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Culture (Arts)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Unit 731 (Japanese Imperial Army)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kurosawa, Kiyoshi</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Japan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/10/09/business/00japan-director-1/00japan-director-1-moth.jpg" width="151"></media:content>
+      <media:credit>Hiroko Masuike/The New York Times</media:credit>
+      <media:description>The director Kiyoshi Kurosawa in Tokyo last month.</media:description>
+    </item>
+    <item>
+      <title>Chevron’s Purchase Could Unlock Israel’s Natural Gas Bonanza</title>
+      <link>https://www.nytimes.com/2020/10/09/business/eastern-mediterranean-natural-gas-chevron.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/10/09/business/eastern-mediterranean-natural-gas-chevron.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/10/09/business/eastern-mediterranean-natural-gas-chevron.html" rel="standout"></atom:link>
+      <description>The oil giant’s takeover of Noble Energy gives it a foothold in an emerging energy hot spot: the eastern Mediterranean Sea.</description>
+      <dc:creator>Stanley Reed</dc:creator>
+      <pubDate>Fri, 09 Oct 2020 09:00:24 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mergers, Acquisitions and Divestitures</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Natural Gas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Chevron Corporation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Noble Energy Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Delek Drilling LP</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mediterranean Sea</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Turkey</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Wirth, Michael K</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/10/10/business/00EASTMEDGAS1-print/00EASTMEDGAS-4-moth-v3.jpg" width="151"></media:content>
+      <media:credit>Tamir Kalifa for The New York Times</media:credit>
+      <media:description>A Noble Energy drilling platform under construction last year off northern Israel. Noble, recently acquired by Chevron, has a big natural gas business in Israel.</media:description>
+    </item>
+    <item>
+      <title>Wig-Looking Poisonous Caterpillars Can Inflict Pain, Officials Warn</title>
+      <link>https://www.nytimes.com/2020/10/10/us/puss-caterpillar-virginia-warning.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/10/10/us/puss-caterpillar-virginia-warning.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/10/10/us/puss-caterpillar-virginia-warning.html" rel="standout"></atom:link>
+      <description>Contact with a puss caterpillar can cause a painful reaction as well as a rash, fever, muscle cramps or swollen glands, experts caution.</description>
+      <dc:creator>Christina Morales</dc:creator>
+      <pubDate>Sat, 10 Oct 2020 22:57:02 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Insects</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Caterpillars</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Forests and Forestry</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Virginia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Puss Caterpillar</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pain</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/10/10/multimedia/10xp-caterpillar-image1-sub/merlin_178332648_7274286d-d61d-4c70-bd9a-f972ccdaa956-moth.jpg" width="151"></media:content>
+      <media:credit>Donald W. Hall/University of Florida</media:credit>
+      <media:description>The puss caterpillar, which has hairs attached to a poisonous gland, is one of several stinging caterpillars in the country.</media:description>
+    </item>
+    <item>
+      <title>Laurie Santos on Keeping Covid-19 Self-Care From Being Selfish</title>
+      <link>https://www.nytimes.com/2020/10/07/health/laurie-santos-covid-happiness.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/10/07/health/laurie-santos-covid-happiness.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/10/07/health/laurie-santos-covid-happiness.html" rel="standout"></atom:link>
+      <description>The expert in positive psychology has a few simple ideas for sustaining mental well-being as Covid-19 continues.</description>
+      <dc:creator>Hope Reese</dc:creator>
+      <pubDate>Wed, 07 Oct 2020 17:25:59 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Santos, Laurie R (1975- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Happiness</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Anxiety and Stress</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Videophones and Videoconferencing</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-science</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-health</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Psychology and Psychologists</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/10/13/science/07SCI-CONVERSATION-SANTOS01/07SCI-CONVERSATION-SANTOS01-moth.jpg" width="151"></media:content>
+      <media:credit>Monica Jorge for The New York Times</media:credit>
+      <media:description>Laurie Santos talks with students after a session of her class at Yale in 2018.</media:description>
+    </item>
+    <item>
+      <title>How We Exercise During a Pandemic</title>
+      <link>https://www.nytimes.com/2020/10/07/at-home/newsletter.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/10/07/at-home/newsletter.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/10/07/at-home/newsletter.html" rel="standout"></atom:link>
+      <description>It’s one way of residing in a body.</description>
+      <dc:creator>Melissa Kirsch</dc:creator>
+      <pubDate>Fri, 09 Oct 2020 14:21:51 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Quarantine (Life and Culture)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/10/04/multimedia/04-ah-cover-sub/04-ah-cover-sub-moth.jpg" width="151"></media:content>
+      <media:credit>Igor Bastidas</media:credit>
+    </item>
+    <item>
+      <title>How to Identify the Different Symptoms of the Flu and Covid-19</title>
+      <link>https://www.nytimes.com/2020/10/03/at-home/coronavirus-flu-symptoms.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/10/03/at-home/coronavirus-flu-symptoms.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/10/03/at-home/coronavirus-flu-symptoms.html" rel="standout"></atom:link>
+      <description>With fears of a “twindemic” in the United States this fall, here’s a guide to understanding what’s making you feel terrible.</description>
+      <dc:creator>Donald G. McNeil Jr.</dc:creator>
+      <pubDate>Tue, 06 Oct 2020 16:33:49 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Quarantine (Life and Culture)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus Risks and Safety Concerns</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Service</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Influenza</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Tests (Medical)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Colds</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Masks</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fever</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vaccination and Immunization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Doctors</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Centers for Disease Control and Prevention</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/10/04/multimedia/04-ah-symptoms/04-ah-symptoms-moth.jpg" width="151"></media:content>
+      <media:credit>Luci Gutiérrez</media:credit>
+    </item>
+    <item>
+      <title>How to Tell a Great Bedtime Story</title>
+      <link>https://www.nytimes.com/2020/10/08/parenting/bedtime-stories-for-kids.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/10/08/parenting/bedtime-stories-for-kids.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/10/08/parenting/bedtime-stories-for-kids.html" rel="standout"></atom:link>
+      <description>Remember the three Ps: pitch, pacing and pausing.</description>
+      <dc:creator>Paul L. Underwood</dc:creator>
+      <pubDate>Thu, 08 Oct 2020 09:00:10 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Children and Childhood</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Service</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Voice and Speech</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Parenting</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">WBUR</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Aesop&#39;s Fables (Book)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/09/24/multimedia/24Art-of-Storytelling/24Art-of-Storytelling-moth.jpg" width="151"></media:content>
+      <media:credit>Min Heo</media:credit>
+    </item>
+    <item>
+      <title>What if Local and Diverse Is Better Than Networked and Global?</title>
+      <link>https://www.nytimes.com/2020/10/09/world/australia/norberg-hodge-local-organic-australia.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/10/09/world/australia/norberg-hodge-local-organic-australia.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/10/09/world/australia/norberg-hodge-local-organic-australia.html" rel="standout"></atom:link>
+      <description>Helena Norberg-Hodge has been arguing for localism since the 1970s, but the pandemic is making the Australian activist-scholar’s ideas more relevant than ever.</description>
+      <dc:creator>Damien Cave</dc:creator>
+      <pubDate>Fri, 09 Oct 2020 23:24:23 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Norberg-Hodge, Helena</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Local Futures (Nonprofit)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Local Food</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Organic Foods and Products</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sustainable Living</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Agriculture and Farming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Quarantine (Life and Culture)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Australia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Byron Bay (Australia)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ladakh (India)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Gross Domestic Product</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/10/09/world/09norberg-hodge1/merlin_175734120_76cb6859-5344-4a6b-b0b9-a77150682007-moth.jpg" width="151"></media:content>
+      <media:credit>Natalie Grono for The New York Times</media:credit>
+      <media:description>Helena Norberg-Hodge, center, at the Mullumbimby farmers’ market in August in New South Wales, Australia, which she helped to start.</media:description>
+    </item>
+    <item>
+      <title>Blood, Passion and Captivity: Gentileschi’s Life Is in Her Paintings</title>
+      <link>https://www.nytimes.com/2020/10/05/arts/artemisia-gentileschi-national-gallery.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/10/05/arts/artemisia-gentileschi-national-gallery.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/10/05/arts/artemisia-gentileschi-national-gallery.html" rel="standout"></atom:link>
+      <description>A new blockbuster exhibition at the National Gallery in London shows the artist’s defiant strength, forged in the trials she endured.</description>
+      <dc:creator>Eleanor Nairne</dc:creator>
+      <pubDate>Mon, 05 Oct 2020 16:52:50 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Gentileschi, Artemisia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Women and Girls</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Art</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Gallery (London)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/10/05/arts/05artemisia3/merlin_178074909_3c8b93ab-9c29-4f2d-a4af-4329c2d0bc0e-moth.jpg" width="151"></media:content>
+      <media:credit>Museo e Real Bosco di Capodimonte, Napoli</media:credit>
+      <media:description>Gentileschi’s “Judith Beheading Holofernes,” from about 1613, is an example of the fashion at the time for depictions of strong biblical women.</media:description>
+    </item>
+    <item>
+      <title>Emerging Directors, Re-emerging Horrors</title>
+      <link>https://www.nytimes.com/2020/10/06/movies/welcome-to-the-blumhouse-directors.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/10/06/movies/welcome-to-the-blumhouse-directors.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/10/06/movies/welcome-to-the-blumhouse-directors.html" rel="standout"></atom:link>
+      <description>Underrepresented filmmakers contributed to “Welcome to the Blumhouse,” a horror anthology streaming on Amazon. Here’s your cheat sheet on each film.</description>
+      <dc:creator>Lena Wilson</dc:creator>
+      <pubDate>Fri, 09 Oct 2020 23:06:49 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Movies</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sud, Veena</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Black Box (Movie)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">The Lie (Movie)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Evil Eye (Movie)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Nocturne (Movie)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Quirke, Zu</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Osei-Kuffour, Emmanuel Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Dassani, Rajeev</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Dassani, Elan</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/10/06/arts/06blumhouse-profiles-lead/06blumhouse-profiles-lead-moth.jpg" width="151"></media:content>
+      <media:credit>Photographs via Amazon Studios</media:credit>
+      <media:description>Clockwise from top left: Scenes from “Evil Eye,” “Black Box,” “Nocturne” and “The Lie.”</media:description>
+    </item>
+    <item>
+      <title>‘Time’ Review: What We Really Mean When We Say Mass Incarceration</title>
+      <link>https://www.nytimes.com/2020/10/08/movies/time-review.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/10/08/movies/time-review.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/10/08/movies/time-review.html" rel="standout"></atom:link>
+      <description>In Garrett Bradley’s moving documentary, a woman fights for her family and justice as a husband and father’s absence reverberates.</description>
+      <dc:creator>Lisa Kennedy</dc:creator>
+      <pubDate>Fri, 09 Oct 2020 20:52:33 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Documentary Films and Programs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bradley, Garrett</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Time (Movie)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prisons and Prisoners</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Black People</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Louisiana</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Criminal Justice</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sentences (Criminal)</category>
+    </item>
+    <item>
+      <title>From Kafka to Kushner, Touring the 20th Century’s Jewish Canon</title>
+      <link>https://www.nytimes.com/2020/10/06/books/review/the-blessing-and-the-curse-adam-kirsch.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/10/06/books/review/the-blessing-and-the-curse-adam-kirsch.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/10/06/books/review/the-blessing-and-the-curse-adam-kirsch.html" rel="standout"></atom:link>
+      <description>In “The Blessing and the Curse,” the critic Adam Kirsch offers a literary survey covering the last 100 years of Jewish history.</description>
+      <dc:creator>Josh Lambert</dc:creator>
+      <pubDate>Tue, 06 Oct 2020 09:00:09 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Books and Literature</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Jews and Judaism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Writing and Writers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kirsch, Adam</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">The Blessing and the Curse: The Jewish People and Their Books in the Twentieth Century (Book)</category>
+    </item>
+    <item>
+      <title>Trump’s Covid Treatments Were Tested in Cells Derived From Fetal Tissue</title>
+      <link>https://www.nytimes.com/2020/10/08/health/trump-covid-fetal-tissue.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/10/08/health/trump-covid-fetal-tissue.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/10/08/health/trump-covid-fetal-tissue.html" rel="standout"></atom:link>
+      <description>The “cell lines” used to develop monoclonal antibodies, as well as remdesivir and vaccines, began with fetal tissue decades ago.</description>
+      <dc:creator>Apoorva Mandavilli and Nathalia Holt</dc:creator>
+      <pubDate>Fri, 09 Oct 2020 16:53:03 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">White House Coronavirus Outbreak (2020)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fetal Tissue</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Regeneron Pharmaceuticals Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Antibodies</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drugs (Pharmaceuticals)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Abortion</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vaccination and Immunization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-science</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/10/08/science/08VIRUS-FETAL01/08VIRUS-FETAL01-moth.jpg" width="151"></media:content>
+      <media:credit>Juan Mabromata/Agence France-Presse — Getty Images</media:credit>
+      <media:description>A microscopic view of 293T cells derived from embryonic kidneys, which several companies are using to develop Covid-19 therapies.</media:description>
+    </item>
+    <item>
+      <title>After a Hospital Stay for Covid, Patients May Face Months of Rehabilitation</title>
+      <link>https://www.nytimes.com/2020/10/08/well/live/covid-19-hospital-rehabilitation.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/10/08/well/live/covid-19-hospital-rehabilitation.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/10/08/well/live/covid-19-hospital-rehabilitation.html" rel="standout"></atom:link>
+      <description>Many patients who were critically ill with Covid-19 face arduous recoveries, often requiring extensive physical rehabilitation.</description>
+      <dc:creator>Anahad O’Connor</dc:creator>
+      <pubDate>Thu, 08 Oct 2020 14:52:19 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Anxiety and Stress</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ventilators (Medical)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Psychology and Psychologists</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Therapy and Rehabilitation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mental Health and Disorders</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hospitals</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Physical Therapy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Lungs</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/10/13/science/00SCI-COVIDREHAB01/00SCI-COVIDREHAB01-moth-v2.jpg" width="151"></media:content>
+      <media:credit>Taylor Glascock for The New York Times</media:credit>
+      <media:description>Allen Washington was an active, busy executive before contracting Covid-19 this summer. After weeks in the hospital, he now faces extensive physical and occupational therapy.</media:description>
+    </item>
+    <item>
+      <title>What’s Green, Soggy and Fights Climate Change?</title>
+      <link>https://www.nytimes.com/2020/10/09/climate/peat-climate-change.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/10/09/climate/peat-climate-change.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/10/09/climate/peat-climate-change.html" rel="standout"></atom:link>
+      <description>You might be surprised: Protecting peat bogs could help the world avert the worst effects of global warming, a new study has found.</description>
+      <dc:creator>Henry Fountain</dc:creator>
+      <pubDate>Fri, 09 Oct 2020 10:00:08 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Peat</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Greenhouse Gas Emissions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Carbon Dioxide</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Environmental Research Letters (Journal)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wetlands</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/10/09/science/09CLI-PEAT01/09CLI-PEAT01-moth.jpg" width="151"></media:content>
+      <media:credit>Sem Van Der Wal/EPA, via Shutterstock</media:credit>
+      <media:description>Forest and peatland that burned in a wildfire in the Netherlands in April. </media:description>
+    </item>
+    <item>
+      <title>North Korean Diplomat, Missing Since 2018, Is in Seoul, Lawmaker Says</title>
+      <link>https://www.nytimes.com/2020/10/06/world/asia/defector-north-korea.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/10/06/world/asia/defector-north-korea.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/10/06/world/asia/defector-north-korea.html" rel="standout"></atom:link>
+      <description>Jo Song-gil was the North’s acting ambassador to Rome when he vanished, raising the possibility that he had become the highest-ranking official to defect to the South since 1997.</description>
+      <dc:creator>Choe Sang-Hun</dc:creator>
+      <pubDate>Wed, 07 Oct 2020 08:17:16 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defectors (Political)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Diplomatic Service, Embassies and Consulates</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Thae Yong-ho</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Korea</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">North Korea</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/10/07/world/07korea01/07korea01-moth.jpg" width="151"></media:content>
+      <media:credit>Aldo-Cietto/Farra di Soligo Parish, via Associated Press</media:credit>
+      <media:description>Jo Song-gil, second from right, in Italy in 2018. He was North Korea’s acting ambassador to Rome when he and his wife disappeared that year.</media:description>
+    </item>
+    <item>
+      <title>Why Doctors Aren’t So Sure Trump Is Feeling Better From Covid-19</title>
+      <link>https://www.nytimes.com/2020/10/06/health/trump-virus-doctors.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/10/06/health/trump-virus-doctors.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/10/06/health/trump-virus-doctors.html" rel="standout"></atom:link>
+      <description>Mr. Trump’s physician has given an incomplete, upbeat picture of his health. Medical experts warn that the president is entering a pivotal, unpredictable phase.</description>
+      <dc:creator>Katie Thomas</dc:creator>
+      <pubDate>Wed, 07 Oct 2020 02:20:04 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">White House Coronavirus Outbreak (2020)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Dexamethasone (Drug)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rumors and Misinformation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oxygen</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Lungs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Doctors</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Conley, Sean Patrick</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-healthcare</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/10/06/science/06VIRUS-HEALTH-TRUMP01/06VIRUS-HEALTH-TRUMP01-moth-v2.jpg" width="151"></media:content>
+      <media:credit>Anna Moneymaker for The New York Times</media:credit>
+      <media:description>President Trump returned to the White House after leaving the hospital on Monday. A lack of details about his treatment for Covid-19 has left an incomplete picture of his health.</media:description>
+    </item>
+    <item>
+      <title>Israel’s Coronavirus Lockdown Fuels Protests, Violence and Confusion</title>
+      <link>https://www.nytimes.com/2020/10/05/world/middleeast/israel-coronavirus-lockdown.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2020/10/05/world/middleeast/israel-coronavirus-lockdown.html</guid>
+      <atom:link href="https://www.nytimes.com/2020/10/05/world/middleeast/israel-coronavirus-lockdown.html" rel="standout"></atom:link>
+      <description>Last month, the country became the first to reimpose nationwide measures. But the decision has led to chaotic scenes and criticism of how its fragile coalition is handling the crisis.</description>
+      <dc:creator>Isabel Kershner</dc:creator>
+      <pubDate>Mon, 05 Oct 2020 13:43:41 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Netanyahu, Benjamin</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Gantz, Benny</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Jews and Judaism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sukkot (Jewish Holiday)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/10/05/world/05israel1/merlin_178002507_2f5e2b4c-5235-43e6-8756-cf6ab971e59e-moth.jpg" width="151"></media:content>
+      <media:credit>Jack Guez/Agence France-Presse — Getty Images</media:credit>
+      <media:description>A protester being detained during a demonstration against Prime Minister Benjamin Netanyahu in Tel Aviv on Saturday.</media:description>
+    </item>
+    <item>
+      <title>Spelling Bee</title>
+      <link>https://www.nytimes.com/puzzles/spelling-bee</link>
+      <guid isPermaLink="true">https://www.nytimes.com/puzzles/spelling-bee</guid>
+      <atom:link href="https://www.nytimes.com/puzzles/spelling-bee" rel="standout"></atom:link>
+      <description>Puzzle throughout the day to see how many words you can find.</description>
+      <dc:creator>The New York Times</dc:creator>
+      <pubDate>Mon, 21 Sep 2020 14:50:44 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/03/23/crosswords/spelling-bee-logo-nytgames-hi-res/spelling-bee-logo-nytgames-hi-res-moth-v2.png" width="151"></media:content>
+      <media:credit>The New York Times</media:credit>
+    </item>
+    <item>
+      <title>The Crossword, the Mini and More</title>
+      <link>https://www.nytimes.com/crosswords</link>
+      <guid isPermaLink="true">https://www.nytimes.com/crosswords</guid>
+      <atom:link href="https://www.nytimes.com/crosswords" rel="standout"></atom:link>
+      <description>Solve the daily puzzle edited by Will Shortz, or try out other games like the Mini and Letter Boxed.</description>
+      <dc:creator>The New York Times</dc:creator>
+      <pubDate>Mon, 21 Sep 2020 14:50:44 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/03/23/crosswords/crossword-logo-nytgames-hires/crossword-logo-nytgames-hires-moth-v2.png" width="151"></media:content>
+      <media:credit>The New York Times</media:credit>
+    </item>
+    <item>
+      <title>Tiles</title>
+      <link>https://www.nytimes.com/puzzles/tiles</link>
+      <guid isPermaLink="true">https://www.nytimes.com/puzzles/tiles</guid>
+      <atom:link href="https://www.nytimes.com/puzzles/tiles" rel="standout"></atom:link>
+      <description>Our soothing matching game may help you de-stress.</description>
+      <dc:creator>The New York Times</dc:creator>
+      <pubDate>Mon, 21 Sep 2020 14:50:44 +0000</pubDate>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/03/23/crosswords/tiles-logo-nytgames-hi-res/tiles-logo-nytgames-hi-res-moth-v2.png" width="151"></media:content>
+      <media:credit>The New York Times</media:credit>
+    </item>
+  </channel>
+</rss>

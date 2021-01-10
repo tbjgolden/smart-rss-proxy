@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" media="screen" href="/~d/styles/rss2full.xsl"?><?xml-stylesheet type="text/css" media="screen" href="http://feeds.foxnews.com/~d/styles/itemcontent.css"?><rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+                    <title>FOX News</title>
+    <link>http://www.foxnews.com/</link>
+    <description><![CDATA[FOXNews.com - Breaking news and video. Latest Current News: U.S., World, Entertainment, Health, Business, Technology, Politics, Sports.]]></description>
+        <image>
+    	<url>http://tools.foxnews.com/sites/tools.foxnews.com/files/images/fox-news-logo.png</url>
+    	<title>FOX News</title>
+    	<link>http://www.foxnews.com/</link>
+    </image>
+            <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feeds.foxnews.com/foxnews/latest" /><feedburner:info xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" uri="foxnews/latest" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /><item>
+                  <guid isPermaLink="true">https://www.foxnews.com/world/india-4-million-coronavirus-cases</guid>
+      <link>https://www.foxnews.com/world/india-4-million-coronavirus-cases</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/08/AP20243292488659.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/AP20243292488659.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/AP20243292488659.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">3fdfdf91-0208-5f5c-8576-4863aadc4f64</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/health/infectious-disease/coronavirus</category>
+            <category domain="foxnews.com/taxonomy">fox-news/world/world-regions/india</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/world</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>India surpasses 4 million coronavirus cases</title>
+      <description>India has jumped to the third most heavily infected country in the world as the nation surpassed 4 million confirmed cases of coronavirus Saturday.</description>
+                  <dc:creator>Caitlin McFall</dc:creator>
+                         <pubDate>Sat, 05 Sep 2020 23:50:11 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Caitlin McFall</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/lifestyle/rescue-dog-animal-shelter-birthday-party-photo-shoot</guid>
+      <link>https://www.foxnews.com/lifestyle/rescue-dog-animal-shelter-birthday-party-photo-shoot</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2018/09/istock-639358554.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/istock-639358554.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/istock-639358554.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">ea05b172-8997-5403-b7f0-5c5e76d7fa79</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/lifestyle/pets</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us/us-regions/southeast/georgia</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/lifestyle</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Animal shelter throws rescue dog an epic birthday party complete with adorable photo shoot</title>
+      <description>A dog named Brownie celebrated his one-year anniversary at the Gwinnett Animal Shelter.</description>
+                  <dc:creator>Ann Schmidt</dc:creator>
+                         <pubDate>Sat, 05 Sep 2020 23:40:53 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Ann Schmidt</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/sports/kentucky-derby-results</guid>
+      <link>https://www.foxnews.com/sports/kentucky-derby-results</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/09/Churchill-Downs.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/Churchill-Downs.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/Churchill-Downs.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">75250c11-4ea8-57c1-93a0-91a7c0c358c8</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/sports/horse-racing</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/sports</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Authentic wins the Kentucky Derby at Churchill Downs</title>
+      <description>Tiz the Law was the favorite to win the 146th running of the Derby. He drew the No. 17 post at the event and will look to become the first horse to ever win from the post.</description>
+                  <dc:creator>Morgan Phillips</dc:creator>
+                         <pubDate>Sat, 05 Sep 2020 23:10:48 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Morgan Phillips</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/us/man-fires-bass-pro-shops-alabama</guid>
+      <link>https://www.foxnews.com/us/man-fires-bass-pro-shops-alabama</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/09/POLICETAPE-NEWSLETTER-xx.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/POLICETAPE-NEWSLETTER-xx.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/POLICETAPE-NEWSLETTER-xx.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">111c38c6-625e-5c3a-9637-6bb80f96b94f</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/us/us-regions/southeast/alabama</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us/crime/police-and-law-enforcement</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/us</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Man at Alabama Bass Pro Shops store reportedly fires 50 rounds</title>
+      <description>A person opened fire on a Bass Pro Shops in Spanish Fort, Alabama Saturday afternoon. </description>
+                  <dc:creator>Paul Best</dc:creator>
+                         <pubDate>Sat, 05 Sep 2020 22:57:51 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Paul Best</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/politics/devos-plan-coronavirus-relief-private-schools-illegal</guid>
+      <link>https://www.foxnews.com/politics/devos-plan-coronavirus-relief-private-schools-illegal</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/05/Betsy-Devos-AP.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/Betsy-Devos-AP.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/Betsy-Devos-AP.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">95005d4f-c509-5d42-b992-0c5ae6deba94</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/us/education</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us/education/dept-of-education</category>
+            <category domain="foxnews.com/taxonomy">fox-news/health/infectious-disease/coronavirus</category>
+            <category domain="foxnews.com/taxonomy">fox-news/politics/judiciary/federal-courts</category>
+            <category domain="foxnews.com/taxonomy">fox-news/person/donald-trump</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/politics</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Judge rules DeVos plan to give more coronavirus relief to private schools is illegal</title>
+      <description>A Washington D.C. federal judge Friday tossed out Education Secretary Betsy DeVos's policy that would have funneled millions of more coronavirus relief dollars to private schools in a ruling that will have a nationwide impact.</description>
+                  <dc:creator>Marisa Schultz</dc:creator>
+                         <pubDate>Sat, 05 Sep 2020 22:51:56 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Marisa Schultz</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/politics/grand-jury-daniel-prude-case</guid>
+      <link>https://www.foxnews.com/politics/grand-jury-daniel-prude-case</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/09/AP20247553608928.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/AP20247553608928.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/AP20247553608928.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">ca8dcb7b-deb4-57e5-8ff5-98b17ad912c1</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/us/us-protests</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us/crime/police-and-law-enforcement</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us/us-regions/northeast/new-york</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/politics</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Grand jury empaneled in Daniel Prude investigation</title>
+      <description>New York Attorney General Letitia James will empanel a grand jury in her investigation into the death Daniel Prude in Rochester, she announced Saturday.</description>
+                  <dc:creator>Morgan Phillips</dc:creator>
+                         <pubDate>Sat, 05 Sep 2020 22:27:49 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Morgan Phillips</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/politics/kamala-harris-covid-19-vaccine-election-donald-trump</guid>
+      <link>https://www.foxnews.com/politics/kamala-harris-covid-19-vaccine-election-donald-trump</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/07/coronavirus-vaccine-AP.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/coronavirus-vaccine-AP.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/coronavirus-vaccine-AP.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">0363cbbe-a291-5265-9fc3-a6113b76512e</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/health/infectious-disease/coronavirus</category>
+            <category domain="foxnews.com/taxonomy">fox-news/person/anthony-fauci</category>
+            <category domain="foxnews.com/taxonomy">fox-news/person/donald-trump</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/politics</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Kamala Harris a COVID-19 vaccine before election: 'I would not trust Donald Trump'</title>
+      <description>Democratic Vice Presidential nominee Kamala Harris, said that she would not trust President Trump’s word on the effectiveness of a coronavirus vaccine, in an interview with CNN Saturday.</description>
+                  <dc:creator>Caitlin McFall</dc:creator>
+                         <pubDate>Sat, 05 Sep 2020 22:13:23 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Caitlin McFall</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/us/photos-details-breonna-taylor-shot</guid>
+      <link>https://www.foxnews.com/us/photos-details-breonna-taylor-shot</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/06/Breonna-Taylor-2.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/Breonna-Taylor-2.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/Breonna-Taylor-2.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">f7d0290d-9be0-5469-970a-80f835798cef</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/us/us-protests</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us/crime/police-and-law-enforcement</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us/us-regions/southeast/kentucky</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/us</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>New details emerge from night Breonna Taylor was shot after review of over 1,200 crime scene photos</title>
+      <description>The attorney representing the Taylor family described the scene as 'the very definition of wanton conduct.'</description>
+                  <dc:creator>Peter Aitken</dc:creator>
+                         <pubDate>Sat, 05 Sep 2020 21:45:14 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Peter Aitken</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/us/coronavirus-wisconsin-university-quarantines-fraternities-sororities</guid>
+      <link>https://www.foxnews.com/us/coronavirus-wisconsin-university-quarantines-fraternities-sororities</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2018/09/0127-wisconsin.jpg" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/0127-wisconsin.jpg" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/0127-wisconsin.jpg" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">95dbed0b-cdab-5a27-85c6-bad3062a8dce</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/health/infectious-disease/coronavirus</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us/school-reopening-plans</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us/us-regions/midwest/wisconsin</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us/us-regions/northeast/connecticut</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us/boston</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/us</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>Wisconsin university quarantines students from 9 fraternities and sororities, as latest school grapples with coronavirus threat from parties</title>
+      <description>Students have continued to party and keep frat culture alive during the pandemic.</description>
+                  <dc:creator>Peter Aitken</dc:creator>
+                         <pubDate>Sat, 05 Sep 2020 21:05:55 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Peter Aitken</category>
+                            </item>
+        <item>
+                  <guid isPermaLink="true">https://www.foxnews.com/us/california-wildfire-oak-glen-evacuated</guid>
+      <link>https://www.foxnews.com/us/california-wildfire-oak-glen-evacuated</link>
+                  <media:group>
+        <media:content url="https://static.foxnews.com/foxnews.com/content/uploads/2020/04/Untitled-2.png" medium="image" isDefault="true" />
+        <media:content url="http://a57.foxnews.com60/60/Untitled-2.png" medium="image" width="60" height="60" />
+      </media:group>
+      <media:thumbnail url="http://a57.foxnews.com60/60/Untitled-2.png" width="60" height="60" />
+            <category domain="foxnews.com/metadata/dc.identifier">f0e24cb1-a4c6-5ac4-bc8f-919ac4ad890a</category>
+                  <category domain="foxnews.com/taxonomy">fox-news/us/disasters/wildfire</category>
+            <category domain="foxnews.com/taxonomy">fox-news/us/us-regions/west/california</category>
+                        <category domain="foxnews.com/metadata/prism.channel">fnc</category>
+                        <category domain="foxnews.com/section-path">fnc/us</category>
+                  <category domain="foxnews.com/content-type">article</category>
+      <title>California firefighters battle wildfire; Oak Glen ordered evacuated</title>
+      <description>A small Southern California town was under an evacuation order Saturday as firefighters battled a rapidly spreading wildfire.</description>
+                  <dc:creator>Robert Gearty</dc:creator>
+                         <pubDate>Sat, 05 Sep 2020 20:44:14 GMT</pubDate>
+                        <category domain="foxnews.com/metadata/dc.source">Fox News</category>
+                                    <category domain="foxnews.com/metadata/dc.creator">Robert Gearty</category>
+                            </item>
+      </channel>
+</rss>
