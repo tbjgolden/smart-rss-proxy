@@ -1,4 +1,4 @@
-# Smart RSS Proxy / Media Bias Detection
+# Project: Fix The News
 
 ### Motivation
 
@@ -9,6 +9,7 @@ On hovering, it would allow me to view any matched keywords, an estimated toxici
 and a button to allow me to see it anyway.
 
 One of the main issues with that approach is that it relied on manually passing in the things to filter out.
+Alternatively, manually patching already bad news requires seeing it at least once.
 
 This project is an alternative approach - one that relies on using Wikipedia as a "balancer" - a way to determine
 how often words 'should' appear in content, and compare that with articles from a particular source.
@@ -72,3 +73,5 @@ The results from the latest analysis are included in this repo:
 > (the dictionary includes proper nouns)
 
 [A description of this word frequency process is here.](https://tom.bio/blog/reading-every-word-on-wikipedia-using-node-js)
+
+---

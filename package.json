@@ -5,6 +5,7 @@
   "license": "MIT",
   "dependencies": {
     "dumpster-dive": "^5.4.0",
+    "node-fetch": "^2.6.1",
     "redis": "^3.0.2",
     "rss-parser": "^3.10.0",
     "wordlist-english": "^1.2.1",
